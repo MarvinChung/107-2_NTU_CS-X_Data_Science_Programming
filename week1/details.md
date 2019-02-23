@@ -23,7 +23,7 @@ possible_name[:10]
 ```
 ![Imgur](https://i.imgur.com/hKkAZRQ.png)
 
-pros: using jieba POS tagging getting more precision people name.
+pros: using jieba POS tagging getting more precise people name.
 
 cons: some names are lost
 
