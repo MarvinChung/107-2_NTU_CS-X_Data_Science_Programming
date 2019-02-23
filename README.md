@@ -15,7 +15,7 @@ possible_name[:10]
 ```
 output:
 
-![](https://i.imgur.com/YCDWmYC.png =40%x60%)
+![Imgur Image](https://i.imgur.com/YCDWmYC.png =40%x60%)
 
 modify to 
 ```
@@ -29,7 +29,7 @@ for word, cts in candidate_name:
             possible_name.append((word, cts))
 possible_name[:10]
 ```
-![](https://i.imgur.com/hKkAZRQ.png =40%x60%)
+![Imgur Image](https://i.imgur.com/hKkAZRQ.png =40%x60%)
 
 pros: using jieba POS tagging getting more precision people name.
 cons: some names are lost
