@@ -2,7 +2,7 @@
 My name is Chi Ming Chung.
 # week 1
 
-1.modification codes in
+1. modification codes in
 https://github.com/MarvinChung/Political-News-Analysis 
 by forking from 
 https://github.com/MiccWan/Political-News-Analysis
