@@ -2,9 +2,9 @@
 My name is Chi Ming Chung.
 # week 1
 
-1. modification codes in
+1. Modification codes in
 https://github.com/MarvinChung/Political-News-Analysis 
 by forking from 
 https://github.com/MiccWan/Political-News-Analysis
 
-2. adding new features by using jieba POS tagging for getting more precise people name.
+2. Adding new features by using jieba POS tagging for getting more precise people name.
