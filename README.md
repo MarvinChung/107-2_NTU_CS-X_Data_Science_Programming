@@ -6,30 +6,4 @@ https://github.com/MarvinChung/Political-News-Analysis
 by forking from 
 https://github.com/MiccWan/Political-News-Analysis
 
-new features:
-```
-# old code
-# 可能人名
-possible_name = first_n_words(cutted_dict, 1000, 3, 3)
-possible_name[:10]
-```
-output:
-
-![Imgur](https://i.imgur.com/YCDWmYC.png)
-
-modify to 
-```
-# 可能人名
-possible_name = []
-candidate_name = first_n_words(cutted_dict, 1000, 3, 3)
-import jieba.posseg as psg
-for word, cts in candidate_name:
-    for x in psg.cut(word):
-        if(x.flag == 'nrfg' or x.flag == 'nr'):
-            possible_name.append((word, cts))
-possible_name[:10]
-```
-![Imgur](https://i.imgur.com/hKkAZRQ.png)
-
-pros: using jieba POS tagging getting more precision people name.
-cons: some names are lost
+1. adding new features by using jieba POS tagging for getting more precise people name.
