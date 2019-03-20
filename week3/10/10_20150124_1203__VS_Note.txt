@@ -1,0 +1,50 @@
+
+# HCC s/p OP, PMCT,TACE, recurrent
+# HBV-related liver cirrhosis (e-) on cash ETV
+# CKD stage 3B
+# HTN
+# Af with RVR
+# Susp. colon microperforation
+
+pre-RFA TAE was done on 2015-01-12
+CT-guided RFA was done on 2015-01-14
+
+Intubation with repsirator was done in the morning because of desaturation.
+
+2015/01/24 11:35 Pain score:0
+2015/01/24 11:50 T:35.2 P:100 R:22
+2015/01/24 11:50 BP:129/76
+2015/01/24 11:50 SpO2:100%(？000 0000L,) (under respirator)
+
+2015/01/24
+LacticAcid:7.45 mmol/L
+BUN:30.1 mg/dL
+CRE:1.8 mg/dL
+Na:143 mmol/L
+K:4.1 mmol/L
+T-BIL:1.34 mg/dL
+AST:55 U/L
+CK:440 U/L
+CK-MB:35 U/L
+%CKMB:8.0 %
+Troponin I:0.087 ng/mL
+ALT:53 U/L
+PT:17.4 sec
+PTT:30.3 sec
+PT INR:1.63
+PH:7.289 *
+PCO2:37.3 mmHg
+PO2:33.2 mmHg
+HCO3:18.1 mmol/L
+BaseExcess:-8.8 mmol/L
+WBC:19.24 K/μL
+HB:10.8 g/dL
+PLT:284 K/μL
+
+A: Sepsis is still ongoing. Antibiotics is upgraded to Meropenem Trihydrate
+(Mepem 250 mg/vial). He will be transferred to ICU.
+
+P:
+1. arrange chest + abdominal CT if hemodynamics could be stabilized
+(原本已排訂next W1 2015-01-26做CT)
+2. continue antibiotics

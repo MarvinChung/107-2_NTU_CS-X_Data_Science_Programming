@@ -1,0 +1,12 @@
+
+HCC with Rt PVT; LC with EV/GV bleeding
+s/p HAIC for 45 cycles; C45D1: 2014-12-30
+Tc99m-MAA scan: lung/liver ratio: 38.3 %
+Tumor progression with lung and multiple LN mets
+Melena: PES: EV, F3Cb with RCS; GU, A2ulcers
+mFOLFOX C1D6
+Grade 2 myelosuppression
+
+1. Hold clexane
+2. Component tx, let Hb>10, PLT>80K
+3. Give PPI

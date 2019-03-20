@@ -1,0 +1,74 @@
+
+Brief Summary of this week
+This week, high spiking fever up to 40'C was noted since 4/2, with
+deteriorated respiratory pattern. Due to agitation, we titrated Fentanyl,
+Anxicam and added Nimbex use. After consulting Infection specialist, we
+kept Avelox and shifted Ceftazidime to Maxipime for better coverage of
+E.coli. Targocid was also added for right neck CVC use. On 4/2, we removed
+CVC for no indication. However, Af with RVR(up to 180 bpm) was noted on 4/3
+night. After IV Herbesser and amiodarone infusion use, the HR decreased but
+the BP also dropped. Levophed and Pitressin were added for low BP. Next
+day, Pitressin was tapered off with Levophed 5cc/hr. Amiodarone IF was
+again given due to increased HR up to 160 bpm.
+About persistent fever and high ventilator demand, Infection specialist
+favored influenza A-related. Thus, we kept current antibiotics use until
+further evidence.
+  We had informed the family the poor prognosis. CVVH might be indicated if
+decreased U/O and further metabolic acidosis.
+
+
+Assessment
+Avelox 3/27-
+Maxipime 4/2- for better coverage of E.coli
+Targocid 4/2-  → DC it if no evidence of MRSA bacteremia
+
+Ceftazidime 3/31-4/2, Tamiflu 3/25~4/1, Unasyn 3/26, Zithromax 3/26
+prone position 3/27~3/30
+
+<Current ventilator setting>
+PCV  IP14 PEEP 10, RR 16, FiO2 85% -> Tv 400, SPO2 90-95%
+
+Afib with RVR to 150-200 after CVC placement
+s/p amiodarone 150mg, herbesser 20mg,HR decrease to 150-60
+      Mg: 0.83 -> MgSO4 16 mEq, K: 3.8 -> KCl: 20mEq
+      cardiac enzyme: WNL
+on amiodarone contineous infusion
+
+3/27
+PCR: influenza A; keep prone position due to high O2 demand
+supine: FiO2 90% SaO2 108 PF ratio 120
+prone: FiO2 70% SaO2 79.6 PF ratio 113
+procalcitonin 1.792
+Free T4 1.3, hsTSH  0.080
+Influenza A+B PCR:Influenza A RNA ; positive, influenza B RNA (-)Chlamydiae
+Antigen: negLegionella Urinary Ag: negMycoplasma Pneumoniae IgM positive
+3/28 still fever
+FiO2 tapered to 60% under prone position
+PF 142.6 this morning
+3/29  fever curve improved, CXR: bil consolidation but less
+         P/F ratio 176 when prone and 150 when supine
+3/30 PaO2 70 FiO2 35% after supine for 4 hours => no more prone
+        poor digestion, no stool passage for 4 days, despite lactulose
+enema
+       suspected heavy sedative related, DC nimbex, taper fentanyl and
+anxicam.
+       low grade fever-> repeatseptic w/u
+3/31 still constipation for 1 week => lactulose PO + R
+CRP decreased to 6.5 ; poor digestion, suspect constipation related
+4/1 try erythromycin for poor digestion
+4/2 Ceftazidime was shifted to Maxipime, add Targocid for right neck CVC
+use  → remove CVC
+4/3 Af with RVR → IV Herbesse, IF amiodarone → HR dropped with CO2
+retention(possible Nimbex-related) →  Levophed+Pitressin use → Off
+Pitressin on 4/4
+4/4 Af with RVR again noted, up to 160 → IF amiodarone was given
+
+
+Plan
+1. Keep Avelox, Maxipime and DC Targocid for no MRSA evidence
+2. Hold ventilator weaning; monitor daily PF ratio
+    Conduct prone position if Afib with RVR subsides
+3. Keep amiodarone infusion and asprin for Afib. Keep K~4.0, Mg~1.0.
+4. Watch out U/O → if deteriorated renal function, consider CVVH(consent
+was being signed)
+5. Inform the family the poor prognosis

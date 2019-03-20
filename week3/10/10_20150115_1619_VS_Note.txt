@@ -1,0 +1,20 @@
+
+# HCC s/p OP, PMCT,TACE, recurrent
+# HBV-related liver cirrhosis (e-) on cash ETV
+# CKD stage 3B
+# HTN
+
+pre-RFA TAE was done on 2015-01-12
+CT-guided RFA was done on 2015-01-14
+
+2015/01/15
+CRE:1.5 mg/dL
+T-BIL:3.40 mg/dL
+AST:1193 U/L
+ALT:911 U/L
+
+A: HCC post RFA with hepatic injury.
+
+P:
+1. keep close monitonring
+2. follow up liver function test 2 days later

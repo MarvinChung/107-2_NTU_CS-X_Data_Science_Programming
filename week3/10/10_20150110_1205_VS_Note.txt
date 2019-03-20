@@ -1,0 +1,8 @@
+
+# HCC s/p OP, PMCT,TACE, recurrent
+# HBV-related liver cirrhosis (e-) on cash ETV
+# CKD stage 3B
+
+He is admitted because of recurrent HCC
+
+plan: consult Radiologist Dr.梁博欽 for CT-guided RFA

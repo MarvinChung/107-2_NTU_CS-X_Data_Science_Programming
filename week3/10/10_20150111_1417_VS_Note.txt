@@ -1,0 +1,26 @@
+
+# HCC s/p OP, PMCT,TACE, recurrent
+# HBV-related liver cirrhosis (e-) on cash ETV
+# CKD stage 3B
+
+2015/01/11 10:48 Pain score:0
+2015/01/11 13:36 BP:166/95
+2015/01/11 13:37 T:36.4 P:69 R:18
+
+2015/01/10
+BUN:28.1 mg/dL
+CRE:1.9 mg/dL
+Na:135 mmol/L
+K:4.1 mmol/L
+T-BIL:0.64 mg/dL
+AST:69 U/L
+GGT:122 U/L
+ALB:4.2 g/dL
+ALT:59 U/L
+ALP:100 U/L
+PT:10.6 sec
+WBC:5.46 K/μL
+HB:11.7 g/dL
+PLT:209 K/μL
+
+plan: consult Radiologist Dr.梁博欽 for CT-guided RFA

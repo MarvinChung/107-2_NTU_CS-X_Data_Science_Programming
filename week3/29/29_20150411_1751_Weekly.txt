@@ -1,0 +1,82 @@
+
+Brief Summary of this week
+This week, intermittent desaturation was noted. Followed CXR showed right
+side penumothorax. Chest tube was inserted on 4/6, and saturation resumed
+stable and iNO was tapered of on 4/8. However, AfRVR with exaggerated
+fluctuated BP was noted. Amiodarone and Levophed were all given
+intermittently for HR and BP. CV VS何奕倫 suggested adding Clonidine 0.5#
+BID to control refractory AfRVR. However, poor digestion persisted. AfRVR
+recurred as long as body temperature started to increase. On 4/9, we
+arranged C+A+P CT for lung condition and also survey if there was other
+infection focus. It showed bilateral lung GGOs. Viral pneumonitis was
+favored. Thus, we kept Maxipime use only.
+    Followed CXR showed right lung well expansion. Thus, we tried clamp the
+chest tube on 4/10. However, desaturation was noted again. We opened the
+chest tube and much air bubbles emerged.
+    Keep medications to make the patient totally sedative to comply the
+ventilator settings(low PEEP and high frequency). Watch out for CO2
+retention and monitor chest tube function. Beware of left side pneumothorax
+if desaturation.
+
+Assessment
+Maxipime 4/2-  D10
+
+Ceftazidime 3/31-4/2, Tamiflu 3/25~4/1, Unasyn 3/26, Zithromax 3/26,
+Targocid 4/2-4/4 , Avelox 3/27-4/8
+prone position 3/27~3/30
+
+<Current ventilator setting>
+PCV  IP24 PEEP 6, RR 37, FiO2 55% -> Tv 365, MV 12.7, SPO2 98%, RR: 37
+
+chest CT: no pneumothorax, well chest tube position
+CO2 retension=> deep sedation, titrate up ventilator setting, inform family
+the possibility of pneumothorax
+NJ placement was done
+
+3/27
+PCR: influenza A; keep prone position due to high O2 demand
+supine: FiO2 90% SaO2 108 PF ratio 120
+prone: FiO2 70% SaO2 79.6 PF ratio 113
+procalcitonin 1.792
+Free T4 1.3, hsTSH  0.080
+Influenza A+B PCR:Influenza A RNA ; positive, influenza B RNA (-)Chlamydiae
+Antigen: negLegionella Urinary Ag: negMycoplasma Pneumoniae IgM positive
+3/28 still fever
+FiO2 tapered to 60% under prone position
+PF 142.6 this morning
+3/29  fever curve improved, CXR: bil consolidation but less
+         P/F ratio 176 when prone and 150 when supine
+3/30 PaO2 70 FiO2 35% after supine for 4 hours => no more prone
+        poor digestion, no stool passage for 4 days, despite lactulose
+enema
+       suspected heavy sedative related, DC nimbex, taper fentanyl and
+anxicam.
+       low grade fever-> repeatseptic w/u
+3/31 still constipation for 1 week => lactulose PO + R
+CRP decreased to 6.5 ; poor digestion, suspect constipation related
+4/1 try erythromycin for poor digestion
+4/2 Ceftazidime was shifted to Maxipime, add Targocid for right neck CVC
+use  → remove CVC
+4/4 PF<200, prone was hold due to Af with RVR
+4/7 Infection specialist 王振泰: favored viral pneumonitis, abx adjustment
+is not necessary; consider shifting to Colistin if needed
+4/8  VS何奕倫: suggest adding Clonidine 0.5# BID for refractory Af RVR
+4/9 C+A+P CT: 1) Bilateral lung ground glass opacities, interlobular septal
+thickening and consolidation. Etiology could be atypical infection.
+2) Aortic aneurysm 3) Abnormal air in the liver, suspected pneumobilia
+4/10  Clamp chest tube, and desaturation happens → open the chest tube and
+much air bubbles emerged
+          Still paroxysmal Af with RVR → high BP → amiodarone → BP dropped
+→ Levophed → Af RVR again
+          CV何奕惀: suggest taper amiodarone (taper rate) dosage if
+unreliable digestion of clonidine; OR, give digoxin 0.25 amp QD and f/u
+digoxin level on day 3
+
+Plan
+1. Keep cefepime use
+2. Keep chest tube with low-pressure system drainage
+3. Give 0.25 amp QD and f/u digoxin level on day 3 (4/13)
+4. Keep low PEEP and high frequency due to CO2 retension
+    Shift NJ diet to high fat diet
+    Consider ECMO if refractory hypercapnia
+5. Keep low-dose Levophed (2-5 cc/hr)

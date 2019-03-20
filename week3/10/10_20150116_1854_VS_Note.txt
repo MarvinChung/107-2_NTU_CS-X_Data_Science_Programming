@@ -1,0 +1,48 @@
+
+# HCC s/p OP, PMCT,TACE, recurrent
+# HBV-related liver cirrhosis (e-) on cash ETV
+# CKD stage 3B
+# HTN
+
+pre-RFA TAE was done on 2015-01-12
+CT-guided RFA was done on 2015-01-14
+
+severe abdominal pain developed today
+
+2015/01/16 18:40 T:37.5 P:113 R:25
+2015/01/16 18:40 BP:117/81
+2015/01/16 18:40 Pain score:3
+2015/01/16 18:40 SpO2:97%(？000 0000L,)
+
+2015/01/16
+ALT:1011 U/L
+BUN:32.5 mg/dL
+CRE:1.7 mg/dL
+Na:136 mmol/L
+K:3.9 mmol/L
+Cl:105 mmol/L
+T-BIL:2.64 mg/dL
+Ca:2.11 mmol/L
+AST:509 U/L
+CK:243 U/L
+CK-MB:20 U/L
+%CKMB:8.2 %
+Troponin I:0.091 ng/mL
+ALB:3.7 g/dL
+Ammonia N:21 μmol/L
+LacticAcid:3.40 mmol/L
+WBC:19.53 K/μL
+HB:14.0 g/dL
+PLT:107 K/μL
+PH:7.408 *
+PCO2:27.8 mmHg
+PO2:36.2 mmHg
+HCO3:17.7 mmol/L
+BaseExcess:-7.2 mmol/L
+
+A: Bedside echo did not find significant change. However, liver abscess or
+organ perforation should be ruled out. CT is indicated.
+
+P:
+1. arrange urgent chest+abdominal CT
+2. Do blood culture and give antibitoics

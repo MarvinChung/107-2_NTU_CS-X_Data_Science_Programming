@@ -1,0 +1,61 @@
+
+<Diagnosis>
+61F with
+1.Urinary tract infection, resolved
+2.Pathological fracture, right subtronchanteric fracture, S/P ORIF
+3.Right breast cancer, s/p  breast conserving surgery plus sentinel lymph
+node biopsy on 2008/06/24. Axillary node clearance plus Port-A catheter
+implantation on 2008/07/30. Adjuvant chemotherapy with the CE90F regimen.
+chemotherapy for 6 cycles and radiotherapy for 30 cycles between
+2008~2009. whole body FDG on 2011/05/13 showed multiple bone metastases at
+left ribs, L3 & L5 vertebrae, and right ischial bone.
+
+
+<Treatment course>
+After admission, fever and dyspnea were noted. Aspiration pneumoia was
+noted and levofloxacin 500mg QD was applied on 2/7. Fever subsided soon.
+However, fever developed again on 2/15 and urinalysis showed pyuria and
+bacteriuria. Dysuria was also noted. Cefixime 200mg Q12H was admiinistered
+on 2/17. Urinalysis(2/26) disclosed no pyuria and no bacteriuria. No fever
+was noted. Antibiotics was hold on 2/26. The patient woudl be discharged if
+there is no fever after antibiotics hold for 48 hours.
+
+<Current medication>
+起日:01/27  栓 Voren Supp 12.5 mg/pill  1 pill  R  Q8HPRN
+起日:01/30  Gaster D 20 mg/tab  1 tab  LZ  BID
+起日:02/03  Combivent UDV Inh Soln 2.5 mL/amp  1 amp  IH  Q8HPRN
+起日:02/05  PARAMOL 500 mg/tab  1 tab  PO  Q4HPRN
+起日:02/07  栓 Bisacodyl Supp 10 mg/pill  2 pill  R  QDPRN
+起日:02/09  Actein Effervescent Tablet 600 mg/tab  1 tab  PO  BID
+起日:02/12  針 Haldol Inj 5 mg/1 mL /amp  2.5 mg  SC  Q4HPRN
+起日:02/12  (管4) 5 Dormicum 5 mg/1 mL /amp  2.5 mg  SC  Q4HPRN
+起日:02/15  (管4) Imovane 7.5 mg/tab  1 tab  PO  HS
+起日:02/15  SeroQuel 25 mg/tab  1 tab  PO  HS
+起日:02/16  Bethanechol 25 mg/tab  1 tab  PO  TIDAC
+起日:02/18  Primperan Inj 10 mg/2 mL /amp  10 mg  SC  Q6HPRN
+起日:02/19  (管1) 液(瓶裝) Morphine Sulfate Oral Soln 2 mg/1 mL 120 mL/btl
+3 mL  PO  Q6H
+起日:02/19  Lasix 40 mg/tab  1 tab  PO  QD
+
+
+
+<Problem>
+No fever
+Consciousness clear, able to conduct verbal communication.
+weak voice
+complained pain in right hip, sometimes also left hip
+No dysuria
+Extremities tremor, improved
+
+
+<Assessment>
+2015/02/26 12:58 BP:117/56
+2015/02/26 12:58 T:36.6 P:107 R:18
+2015/02/26 08:46 Pain score:0
+
+<Plan>
+1.Hold antibiotics
+2.Try clear water with caution
+3.Prepare for discharge
+4.Remove NG tube
+5.Pursue the result of urine culture and urinalysis

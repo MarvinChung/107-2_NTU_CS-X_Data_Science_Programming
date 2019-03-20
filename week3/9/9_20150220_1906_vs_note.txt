@@ -1,0 +1,16 @@
+
+61 y/o female patient
+right breast cancer with multiple bone metastatsis, s/p surgical treatment
+for right femur fracture
+condition stable, is trying clear water intake,
+no reported discomfort, no acute distress
+A:
+2015/02/20 18:37 SpO2:97%(？000 00002L,Cannula)
+2015/02/20 18:37 Pain score:0
+2015/02/20 18:37 BP:132/63
+2015/02/20 18:36 T:37.3 P:109 R:16
+P:
+continue to try clear water
+will DC NG if oral intake shows no problems
+continue on cefspan 2# q12h
+supportive care

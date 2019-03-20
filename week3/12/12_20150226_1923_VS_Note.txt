@@ -1,0 +1,19 @@
+
+terminally cancer patient sent to ER by family hours after family claimbed
+sputum impaction in trachea.
+accidentally resussitated and had tracheostomy and ICU admission. patient
+extubated and admitted to hospice ward for hospice care.
+A:
+2015/02/26 04:08 T:35.1 P:61 R:4
+2015/02/26 04:08 BP:64/45
+2015/02/26 08:58 BP:67/40
+2015/02/26 08:58 T:34.9 P:63 R:5
+2015/02/26 08:59 Pain score:0
+2015/02/26 08:59 SpO2:85%(？000 0000L,)
+2015/02/26 12:51 T:34.8 P:59 R:4
+2015/02/26 12:52 BP:67/41
+2015/02/26 18:56 T:34.9 P:63 R:3
+slow respiratory rate, regular heart beat, no acute distress.
+P:
+supportive care
+family members at bedside.

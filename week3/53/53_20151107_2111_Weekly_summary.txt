@@ -1,0 +1,75 @@
+[Diagnosis]
+1. Coronary artery disease, 3-vessel-disease, with out-of-hospital cardiac arrest, status post ECMO support, status post percutaneous occlusive balloon angioplasty with stenting to right coronary artery and percutaneous occlusive balloon angioplasty to left circumflex artery (2015/10/30)
+2. Seizure, suspect hypoxic ischemic encephalopathy and hypoperfusion related
+3. LV thrombus
+4. Diabetes mellitus (2015/10/26, HbA1c: 7.7)
+5. Dyslipidemia
+6. Nephrotic syndrome, etiology to be determined
+7. UGI bleeding
+
+2015/11/07 13:00 T:36.4 P:82 R:24
+2015/11/07 13:00 BP:116/43
+2015/11/07 13:00 SpO2:95%(%,L,)
+2015/11/07 13:00 I/O:564.1/1011(-446.9)(24hr)
+
+E3VtM6, may response to question by nodding
+BP lower after CAG yesterday
+
+dopamine 8.02/kg/min(0.802mcg/Kg/min X 10ml/hr)
+Levophed 0.016/Kg/min(0.016mcg/Kg/min X 1ml/hr)
+ECMO flow: 2.0L/min, FiO2: 80%
+IABP support:1:1
+
+[Treatment course of this week]
+We kept tapering inotropic agent. CAG was done with ECMO and IABP suppport on 2015/11/5. However, POBAS failed due to difficult approach. Lung edema was noted after CAG and we kept CAVH.
+
+[Current Mv setting]
+PCV IP 16, RR: 12, PEEP: 10, FiO2: 80%
+--> VT: 250, rate: 12,  SpO2: 100%
+
+[Antibiotics course]
+Vancomycin:10/31-
+Ceftazidime:10/31-
+Ceftriaxone:10/29-10/31
+
+[Physical examination]
+Under deep sedation. E3M4Vt
+Pupil 2/2mm, LR trace/trace under fentanyl
+MP at least 3+ symmetrically
+Babinski sign: plantar/plantar
+DTR: symmetric
+Corneal reflex +/+
+Doll eye sign: not presented but under sedation
+HEENT: conjunctiva: not pale
+Chest: no wheezing   
+Heart: IRHB (HR~80-110)
+Abdomen: mild distened, normoactive bowel sound
+Extremities: bilateral limbs edema 
+
+[Important study findings]
+10/26   T-CHO:330, TG: 351, LDL: 213, HDL:34, HbA1C: 7.7
+10/26   Serum alb: 1.6. Spot urine: proteinuria 3+, 
+        Urine TPCR: 14.01, 
+        urine electrophoresis: no Bence-jones protein
+        C3/C4: 140/28.9, RA<9.19, ANA: 1:40(-), ANCA: neg
+10/29   CT-brain: 
+        confluent hypodensity around bil periventricular
+        region, no ICH
+10/29   CT-chest: 
+        diffuse hypodense change at endocardium of LV wall
+        and papillary muscles. 
+        hypodense lesion at the apex (SE7 IM177), 
+        suggestive of a LV thrombus**  
+        bilateral pleural effusion, more on right side.  
+10/29   CT-A+P: No definite intra-abdominal lesion.
+10/29   14:54  Cardiac echo (during ECMO implant)
+        LVEDD/ESD:46/40, LVEF:25.1%, LA/RV: 36/18
+        RWMA over akinetic over anterior and lateral, apex
+        mild-mod AR, mod-severe MR, mild TR
+10/29   CAG/PCI
+        LM: patent
+        LAD: proximal total occlusion
+        LCX: proximal to distal multiple lesions, up to 90%
+             stenosis, with collaterals to LAD  
+        RCA: proximal to distal diffuse stenosis, up to 90%,
+             with collaterals to LAD

@@ -1,0 +1,211 @@
+
+2015/03/03 19:43 | |
+|主訴(Chief Complaint)                                            |
+|Informant:patient Sudden collapse this morning                   |
+|病史(Brief History)                                              |
+|This 73-year-old man, who was a heavy smoker(1PPD for            |
+|40~50years), had the histories of 1. Chronic obstructive         |
+|pulmonary disease, Gold category D (FEV1 24.8%, FEV1/FVC 52% in  |
+|2011/2/18), 2. Benign prostatic hypertrophy with urine retention |
+|status post Foley insertion since 2014/5. He had been admitted to|
+|our hospital in 2011/01, 2012/5, 2012/6,2014/7, and 2014/12 for  |
+|COPD with AE. He had been admitted to a ICU in one local hospital|
+|in 2015 january, and his condition improved after BiPAP use. He  |
+|received regular follow up in our Chest and Uro OPD. His baseline|
+|ADLs was mostly independent but was under home O2 use. His family|
+|found that his sputum amount increased in recent one week, and he|
+|was more somnolent recently. At about 6:50, 2015/3/3, sudden     |
+|collapse in the toilet was noted by family(his family heard his  |
+|step toward the toilet and the sound of falling, and found him   |
+|lie on the toilet). When the EMT arrived, cardiac arrest was     |
+|noted. CPCR was initiated (non-shockable rhythm) since 6:51 but  |
+|ROSC was not achieved before arriving ER. CPCR was continued, and|
+|ROSC was achieved at 7:23. The initial gas data showed profound  |
+|acidosis(PH 7.07, PCO2 108.8, PO2 5.6, HCO3 32.2), with mild     |
+|hyperkalemia(K 5.9mmol/L). U/A also showed pyruia, so Foley's    |
+|catheter was changed. The EKG after ROSC showed supraventricular |
+|tachycardia with RBBB pattern. Tazocin was given as empiric      |
+|antibiotic. His hemodynamic condition improved gradually.        |
+|Vasopressor was tapered gradually and then discontinued. Seizure |
+|was noted later and Brain CT showed no significant ICH. Depakine |
+|was given. His family signed DNR permit and requested no more    |
+|chest compression or cardioversion later. After initial          |
+|management, he was admitted to our ICU for further management.   |
+|Family History: No related family history was reported Medication|
+|Allergy:No 病人自述 2014/07/22 Medication ADR:unknown Allergy to |
+|Medical Device and Materials:No 病人自述 2014/07/22 Current      |
+|Medication: NTUH: Phyllocontin Continus 225 mg/tab 1 tab BID PO  |
+|28 days Berotec N MA 100 mcg/1 puff 200 puff/btl 1 puff PRN IH 28|
+|days Meptin 25 mcg/tab 1 tab BID PO 28 days 250 Seretide Evohaler|
+|120 doses/box 2 puff BID IH 28 days Mucosolvan 30 mg/tab 1 tab   |
+|TID PO 28 days HARNALIDGE D 0.2 mg/tab 2 tab HS LZ 28 days       |
+|Avodart Soft Cap 0.5 mg/cap 1 cap HS PO 28 days Other: 中草藥:   |
+|Denied 保健食品: Denied Past Medical History: As listed above    |
+|Hospitalization: 入院日期:2014_12_01 出院日期:2014_12_10         |
+|診斷:Chronic obstructive pulmonary disease 入院日期:2014_07_22   |
+|出院日期:2014_07_29 診斷:Chronic obstructive pulmonary disease   |
+|入院日期:2014_05_29 出院日期:2014_06_16 診斷:Cellulitis Past     |
+|Surgical History: Denied Travel History:Denied                   |
+|社會心理相關評估(Psychosocial Assessment)                        |
+|Social Economic and Personal History 教育程度:小學 職業:退休     |
+|宗教信仰:道教 婚姻狀態:已婚 使用語言:國語 台語 客家語            |
+|口述血型:不清楚，RH:不清楚，輸血反應: 抽煙:有，煙齡:45年，1包/天 |
+|喝酒:沒有 檳榔:沒有 物質濫用:沒有 Psychological History and      |
+|Evaluation 意識狀態:昏迷 認知功能:無法評估 精神情緒狀態:無法評估 |
+|安全問題:有 其他 預防跌倒 睡眠形態:異常 無法評估 Nutritional     |
+|Screen 攝食情形: 排便狀態:異常 排便異常狀態:滲便 BMI:22.98 Fall  |
+|Risk Assessment 總分:13 (>=3分進行不倒翁計畫，請開預防跌倒醫囑)  |
+|系統性回顧(Review of System)                                     |
+|General/Constitutional: Fever(-), weight change(-), general      |
+|weakness(-) Head/Neck: Headaches(-), dizziness(-), vertigo(-),   |
+|lightheadedness(-), injury(-) Vision(good), double vision(-),    |
+|strabismus(-), ocular pain(-) Otalgia(-), otorrhea(-), hearing   |
+|impairment(-), tinnitus(-) Epistaxis(-), congestion(-),          |
+|discharge(-) Caries(-), dentures(-), gum bleeding(-), sore       |
+|throat(-), oral ulcer(-) Neck stiffness(-), neck pain(-),        |
+|tenderness(-), masses(-) Cardiovascular: Chest tightness/pain(-),|
+|palpitations(-), syncope(-), dyspnea on exertion(-),             |
+|orthopnea(-), paroxysmal nocturnal dyspnea(-), edema(-),         |
+|cyanosis(-), claudication(-), varicosities(-) Respiratory: Chest |
+|pain(-), shortness of breath(-), cough(-), hemoptysis(-),        |
+|wheezing(-), night sweats(-) Gastrointestinal: Appetite(good),   |
+|dysphagia(-), abdominal pain(-), flatulence(-), heartburn(-),    |
+|nausea(-), vomiting(-), hematemesis(-), jaundice(-),             |
+|constipation(-), diarrhea(-), stools [normal], recent changes in |
+|bowel habits(-) Genitourinary: Flank pain(-), hematuria(-),      |
+|urgency(-), frequency(-), dysuria(-), nocturia(-), polyuria(-),  |
+|oliguria(-), retention(-), incontinence(-) Hematologic/Endocrine |
+|Bleeding tendency(-), previous transfusions and reactions(-),    |
+|lymph node enlargement or tenderness(-) Thirsty(-),              |
+|polydipsia(-), polyuria(-), hormone therapy(-), growth and       |
+|development(normal) Goiter(-), Intolerance to heat or cold(-)    |
+|Musculoskeletal/Nervous: Pain(-), swelling(-), redness or heat of|
+|muscles or joints(-), limitation of motion(-), muscular          |
+|weakness(-), atrophy(-), cramps(-) Numbness(-), paresis/plegia(-)|
+|Skin/Breast: Rash(-), itching(-), pigmentation(-), changes in    |
+|hair growth or loss(-), nail changes(-) Breast lumps(-),         |
+|tenderness(-), swelling(-), nipple discharge(-)                  |
+|身體檢查(Physical Examination)                                   |
+|BH:155 cm BW:55.2 kg T:36.6 P:66 R:18 BP:125/69 mmHg Pain:0      |
+|Neurological Examination: Consciousness: comatous, E1M1Vt Muscle |
+|power: flaccid Gait: unable to perform Head-Eye-ENT Conjunctiva: |
+|not pale, sclera: anicteric Neck Jugular vein engorgement(-),    |
+|thyroid goiter(-), meningismus: Kernig sign(-), Brudzinski       |
+|sign(-), carotid bruit(-) Chest Vocal fremitus and expansion:    |
+|symmetric, percussion: resonant Crackles(-), wheezes(-),         |
+|rhonchi(-), stridor(-) Decreased left breath sounds Heart Point  |
+|of maximal impulse: left MCL/5th intercostal space, LV lift(-),  |
+|RV heave(-) Increased cardiac size by percussion(-), heart beat: |
+|regular, adventitious sounds(-), murmurs(-) Abdomen Flat & soft, |
+|Bowel sound: normoactive, tenderness(-), rebound tenderness(-),  |
+|psoas sign(-), obturator sign(-) Liver and spleen: impalpable,   |
+|shifting dullness(-), hepatojugular reflux(-) Skin Wound(-),     |
+|hyperpigmentation(-), petechiae(-), purpura(-), ecchymosis(-),   |
+|telangiectasia(-), rash(-) Lymphadenopathy(-)                    |
+|檢驗紀錄(Laboratory Report)                                      |
+|*********檢驗室:BK*********** 群組:Yes antibody scr een(New Lis) |
+|time/item (*) 1040303 [0748] Negative 群組:Blood Type ABO Typing |
+|RH Typing time/item (*) (*) 1040303 [0748] O Positive            |
+|*********檢驗室:YM*********** 群組: Free Ca(急重症自 Hb(急重症自 |
+|行檢驗) Hct(急重症自行檢驗) K+(急重症自行檢驗) Na(急重症自行檢驗)|
+|行檢驗) time/item (mmol/L) (g/dL) (%) (mmol/L) (mmol/L) 1040303  |
+|[0749] 1.32 13.6 41 4.12 139.2 1040303 [1012] 1.27 15.0 45 4.02  |
+|140.8 1040303 [1416] 1.22 14.9 45 3.94 139.8 Suger(急重症自行檢  |
+|LacticAcid(急 驗) 重症自行檢驗) time/item (mg/dL) (mmol/L)       |
+|1040303 [0749] 188 8.3 1040303 [1012] 78 3.0 1040303 [1416] 88   |
+|1.8 群組:Yes pH pCO2 pO2 HCO3 BaseExcess time/item () (mmHg)     |
+|(mmHg) (mmol/L) (mmol/L) 1040303 [0749] 6.961 131.2 89.9 29.8    |
+|-2.3 1040303 [1012] 7.268 64.7 47.4 29.9 2.7 1040303 [1416] 7.376|
+|48.1 43.6 28.5 3.0 SO2 time/item (%) 1040303 [0749] 87.9 1040303 |
+|[1012] 75.4 1040303 [1416] 77.5 *********檢驗室:B3***********    |
+|B3-1040303-3074534 SPUTUM (EXPECTORATED) Gram's(GS)#1: Many PMNs |
+|( >25 /LPF ) Gram's(GS)#2: Moderate epithelial cells ( 10-25 /LPF|
+|) Gram's(GS)#3: Gram (-) rods 3+ Gram's(GS)#4: Gram (+) cocci 3+ |
+|*********檢驗室:RL*********** 群組:STAIN Gram's(GS)#1            |
+|Gram's(GS)#2 Gram's(GS)#3 Gram's(GS)#4 Gram's(GS)#5 time/item (*)|
+|(*) (*) (*) (*) 1040303 [1439] Many PMNs(>= Moderate epi         |
+|G(-)Bacilli G(+)cocci 1+ G(+)Bacilli 25/LPF) thelial cell 1+ 3+  |
+|s(10-25/LPF) 群組: Mucus(S) time/item (*) 1040303 [0821] -       |
+|群組:SEDIMENT RBC(S) WBC(S) EpithCell(S) Cast(S) Crystal(S)      |
+|time/item (/HPF) (/HPF) (/HPF) (/LPF) (*) 1040303 [0821] >100    |
+|>100 2-5 - - Others(S) Bacteria time/item (*) (*) 1040303 [0821] |
+|- 4+ 群組:MULTISTIX Sp. Gr.(C) pH(C) Protein(C) Glu.(C)          |
+|Ketones(C) time/item (*) (*) (mg/dL) (mg/dL) (*) 1040303 [0821]  |
+|1.013 6.5 300 ( 3+ ) - - O.B.(C) Urobil.(C) Bil.(C) Nitrite(C)   |
+|WBC(C) time/item (mg/dL) (mg/dL) (mg/dL) (*) (*) 1040303 [0821]  |
+|3+ ≦1.5 - - 3+ Color Turbidity time/item (*) (*) 1040303 [0821]  |
+|Light Orange 2+ 群組:Biochemistry BUN CRE Na K Ammonia N         |
+|time/item (mg/dL) (mg/dL) (mmol/L) (mmol/L) (μmol/L) 1040303     |
+|[0727] 1.1 143 5.9 59 1040303 [0735] 23.6 ! ! ! Ca Mg LacticAcid |
+|CK CK-MB time/item (mmol/L) (mmol/L) (mmol/L) (U/L) (U/L) 1040303|
+|[0727] 2.30 1.11 7.86 88 46 1040303 [0735] ! ! %CKMB Troponin I  |
+|time/item (%) (ng/mL) 1040303 [0727] 52.3 0.079 1040303 [0735]   |
+|uncounted ! 群組:Yes pro-BNP time/item (pg/mL) 1040303 [0727]    |
+|10300 1040303 [0735] ! 群組:General BioChemistry ALT time/item   |
+|(U/L) 1040303 [0727] 19 1040303 [0735] ! 群組:STOOL Occult Blood |
+|Stool WBC time/item (*) (/HPF) 1040303 [1009] 1+ Not Found       |
+|群組:Coagulation PT PTT PT INR time/item (sec) (sec) () 1040303  |
+|[0727] 11.6 35.7 1.08 群組:WBC Classification Blast Promyl.      |
+|Myelo. Meta Band time/item (%) (%) (%) (%) (%) 1040303 [0727] 0.0|
+|0.0 0.0 0.0 0.0 Seg Eos. Baso. Mono. Lym. time/item (%) (%) (%)  |
+|(%) (%) 1040303 [0727] 50.9 0.6 0.2 6.1 42.2 Aty.Lym. PlasmaCell |
+|Normobl. PS time/item (%) (%) () () 1040303 [0727] 0.0 0.0 0 -   |
+|群組:CBC+PLT WBC RBC HB HCT MCV time/item (K/μL) (M/μL) (g/dL)   |
+|(%) (fL) 1040303 [0727] 8.39 4.28 13.9 45.7 106.8 MCH MCHC PLT   |
+|RDW-CV PS time/item (pg) (g/dL) (K/μL) (%) () 1040303 [0727] 32.5|
+|30.4 138 14.4 - *********檢驗室:PO*********** 群組: Sugar(One to |
+|uch) time/item (*) 1040303 [0726] 405 1040303 [1623] 172         |
+|檢查紀錄(Examination Report)                                     |
+|Nil                                                              |
+|影像報告(Imaging Report)                                         |
+|Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師:|
+|葉建德 影像時間: 2015/03/03 08:11 (32001CYM) 發報告時間:         |
+|2015/03/03 10:05 cardiomegaly. ill-defined opacities in bilateral|
+|lungs. bilateral costophrenic angle blunting. placement of an    |
+|endotracheal tube and a central venous line. CT Without          |
+|Contrast-Brain 醫令: CT Without Contrast-Brain 報告醫師: 李崇維  |
+|影像時間: 2015/03/03 08:35 (33070B0M) 發報告時間: 2015/03/03     |
+|08:52 CT scan of the brain without contrast enhancement shows: 1.|
+|Left frontal scalp hematoma. 2. Mild ill-defined low-density     |
+|change at periventricular white matter. 3. Slightly prominent    |
+|sulci and fissures. 4. No large area of abnormal attenuation. 5. |
+|No definite acute intracranial hemorrhage. 6. No definite focal  |
+|lesion in the cranial vault. 7. Retention cysts in maxillary     |
+|sinuses.                                                         |
+|病理報告(Pathology Report)                                       |
+|Nil                                                              |
+|臆斷(Tentative Diagnosis)                                        |
+|1. Out of hospital cardiac arrest, cause to be determined, status|
+|post cardio-pulmonary-cerebral resuscitation with return of      |
+|spontaneous circulation 2. Pneumonia with hypercapnic respiratory|
+|failure status post endotracheal intubation and mechanical       |
+|ventilation (2015/3/3-) 3. Chronic obstructive pulmonary disease,|
+|Gold category D (FEV1 24.8%, FEV1/FVC 52% in 2011/2/18) 4.       |
+|Seizure, suspected hypoxic ischemic encephalopathy related 5.    |
+|Benign prostatic hypertrophy with urine retention status post    |
+|Foley’s catheter insertion since 2014/5                          |
+|醫療需求與治療計畫(Medical Needs and Care Plan)                  |
+|* OHCA S: Sudden collapse in the toilet Not witted CPCR for 26   |
+|minutes in total Comatous status later Muscle twich and seizure  |
+|like activity O: Initial vital signs: BP/HR not measurable Lab:  |
+|PH 7.07, PCO2 108.8, PO2 5.6, HCO3 32.2), with mild              |
+|hyperkalemia(K 5.9mmol/L CXR: Bilateral lung hazziness Brain CT: |
+|No ICH A: 1. Out of hospital cardiac arrest, cause to be         |
+|determined, status post cardio-pulmonary-cerebral resuscitation  |
+|with return of spontaneous circulation 2. Pneumonia P: 1. Family |
+|requested DNR 2. Tazocin as empiric antibiotic 3. Monitor        |
+|clinical condition and organ function Treatment Goal: Stabilized |
+|general condition, SBP>90                                        |
+|出院規劃(Discharge Planning)                                     |
+|Will discuss with family about further disposition After his     |
+|prognosis is more defined 管路留置狀況:有 靜脈管路留置(含Hickman |
+|/ Port-A)：有 右頸 雙腔導管留置：無 鼻胃管留置：有 16Fr.         |
+|氣管管路留置：有 氣管內管 7.5mm 胃造廔口：無 尿管留置：有 16Fr.  |
+|膀胱造廔：無 傷口引流管：無 其他導管： 日常生活功能分數：0       |
+|預期出院後居住場所：與家人同住 預期出院後主要照顧者：自己 女兒   |
+|出院規劃收案篩檢：高危病患 帶有管路 功能量表未滿60分             |
+|醫師姓名                                                         |
+|李佩玲 主治醫師                                                  |
+
+
+g

@@ -1,0 +1,34 @@
+
+61M,
+1. CAD, 3VD, complicated with inferior STEMI, Killip class IV, with IHCA,
+s/p CPCR with ROSC(11 minutes), s/p primary PCI with stent to RCA
+2. Acute liver injury, suspect shock related
+3. UGI bleeding, source?
+4. Hypertension
+5. Type 2 diabetes mellitus
+6. Internal carotid artery stenosis (laterality unknown)
+
+Hypothermic therapy started 2/21
+Stopped due to acute GI bleeding (fresh blood from NG)
+
+profound shock under Levophed + dopamine, shock liver, Cre 1.6 under CVVH
+
+CT: hydrocephalus, hypodensity at cerebellum and brain stem
+EEG: diffuse cortical dysfunction
+
+ABP: 104/42mmHg, HR: 98, sinus with VPC, SpO2: 100%
+E1VTM1, pupil dilated
+family preferred withdrawl of life support system
+
+polyuria 2000ml, central DI, response to DDAVP
+hyperNa 160 ->158 -> 150
+BW 65.6kg
+
+Plan:
+1. Discontinue DAPT due to acute GI bleeding, consider add back plavix if
+bleeding subsided
+2. Component therapy, keep Hb>10, PPI use for ulcer prophylaxis
+3. Explain to family (DNR 不電不壓) and inform grave prognosis
+4. Taper dopamine and levophed
+5. hold CVVH, if acidosis, SLEDD
+6. add DDAVP PRN for central DI if UOP > 3000

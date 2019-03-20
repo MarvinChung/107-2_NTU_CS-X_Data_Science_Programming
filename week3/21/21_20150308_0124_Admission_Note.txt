@@ -1,0 +1,201 @@
+
+2015/03/08 01:24 | |
+|主訴(Chief Complaint)                                            |
+|Informant:patient's wife, daughter, and medical records          |
+|Consciousness disturbance at 16:40 on 2015/03/05                 |
+|病史(Brief History)                                              |
+|[Present Illness] This 59-year-old man with past medical history |
+|of: 1. CAD, 1-V-D, s/p POBAS to left circumflex artery           |
+|(LCx)(2014/01/16) 2. Hypertension 3. Diabetes mellitus, type 2 4.|
+|Chronic kidney disease (CKD), stage IV 5. Normocytic anemia,     |
+|suspect CKD related 6. Hyperuricemia 7. Old pulmonary            |
+|tuberculosis (2012/04) status post complete treatment was        |
+|originally ADL independent. This time, he has had progressive    |
+|dyspnea on exertion with bilateral lower extremities edema with  |
+|erythematous change for 2 weeks. Productive cough with           |
+|non-purulent sputum was noted about 1 week ago, but the patient  |
+|was afebrile. His wife also noted that his lethargy and          |
+|sleepiness in the recent 3 days. The patient was found non-awaken|
+|after he going to sleep for 10~20 minutes. 119 was called, and   |
+|apnea and pulseless were noted by the EMTs. CPCR was started at  |
+|16:47 and the patient was sent to FEMH ED immediately. On        |
+|arriving their ED, initial EKG waveform was PEA. Fluid challenge |
+|with normal saline, epinephrine totally 3 amp, sodium bicarbonate|
+|4 amp, and calcium gluconate 1 amp were given during the         |
+|resuscitation. ROSC was noted at 17:18. Breathing sound showed   |
+|diffuse stridor and wheezing over bilateral lungs. Bilateral legs|
+|pitting edema with erythematous change were also noted. Lab data |
+|showed leukocytosis, combined respiratory and metobolic acidosis,|
+|impaired renal function, and hyperkalemia. CXR showed            |
+|cardiomegaly with bilateral increased infiltration and pleural   |
+|effusion. Brain CT on 3/5 revealed no ICH nor large ischemic     |
+|stroke, but the GCS remained E2M1Vt after ROSC. Influenza A rapid|
+|test was positive, so the physicians reported to the CDC and gave|
+|Tamiflu to the patient. Ceftriaxone and moxifloxacin were also   |
+|given empirically on 3/5 for suspected secondary CAP after septic|
+|work-up. Moxifloxacin was shifted to azithromycin due to QTc     |
+|prolongation. Intermittent suspicious focal seizure attacks      |
+|presenting as mouth angle twitching were noted on 3/6, so        |
+|Depakine and Anxicam were given. EGD was done for the suspicion  |
+|of stress ulcer bleeding, which revealed DU and GERD grade D.    |
+|Removal of foreign body (tooth) in the esophagus was done.       |
+|Echocardiography showed LV global hypokinesia with poor LVEF     |
+|(37%). cardiologists at FEMH thought ACS was not so likely.      |
+|Dermatologists were consulted for bilateral calves swelling with |
+|erythematous change, and daibetic dermopathy with cellulitis were|
+|impressed. The patient remained in coma status (GCS: E1M1Vt)     |
+|after stopping anxicam infusion due to the resolution of seizure |
+|attack on 3/7. On the request of the families, the patient was   |
+|transferred to our hospital for further care. Personal and Past  |
+|History 1. CAD risk factors: Age: (+) male > 45, Over weight(+): |
+|BMI: 30.7, Hypertension (+), Hyperlipidemia(-), Current          |
+|smoker(-), DM (+), Family history (-). 2. Family History: Father:|
+|Heart disease. Mother: DM. Medication Allergy:No 親屬描述        |
+|2015/03/07 No 病人自述 2014/01/15 No 親屬描述 2012/04/25         |
+|Medication ADR:unknown Allergy to Medical Device and Materials:No|
+|親屬描述 2015/03/07 No 病人自述 2014/01/15 UnClear 親屬描述      |
+|2012/04/25 Current Medication: NTUH:Lasix 40 mg/tab 1 tab QDPRN  |
+|PO 28 days Dilatrend 25 mg/tab 1 tab BID PO 28 days Bokey EM cap |
+|100 mg/cap 1 cap QD PO 28 days Ginkgocentrate F.C. 40 mg/tab 1   |
+|tab BID PO 28 days Other: 中草藥: nil 保健食品: nil Past Medical |
+|History: Hospitalization:入院日期:2014_01_15 出院日期:2014_01_17 |
+|診斷:Chronic renal failure Past Surgical History: nil Travel     |
+|History: nil Contact and cluster history: nil                    |
+|社會心理相關評估(Psychosocial Assessment)                        |
+|Social Economic and Personal History 教育程度:國中 職業:無       |
+|宗教信仰:無 婚姻狀態:已婚 使用語言:國語 台語 口述血型:AB，RH:RH+ |
+|，輸血反應:沒輸過血 抽煙:沒有 喝酒:沒有 檳榔:沒有 物質濫用:沒有  |
+|Psychological History and Evaluation 意識狀態:昏迷 認知功能:無法 |
+|評估 精神情緒狀態:無法評估 安全問題:有 其他 防跌 睡眠形態:異常   |
+|其他 coma Nutritional Screen 攝食情形:普通，攝食50-74% 排便狀態: |
+|異常 排便異常狀態:腹瀉 失禁 BMI:30.7 Fall Risk Assessment 總分:12|
+|(>=3分進行不倒翁計畫，請開預防跌倒醫囑)                          |
+|系統性回顧(Review of System)                                     |
+|1.Systemic: weight loss(-), easy-fatigability(-), night          |
+|sweats(-), fever(-), drowsy (-) 2.Skin: petechiae(-),            |
+|purpurae(-), skin rash(-), itching(-), 3.HEENT: headache(-),     |
+|dizziness(-), blurred vision(-), strabismus(-), ocular pain(-),  |
+|otalgia(-), otorrhea(-), hearing impairment(-), tinnitus(-),     |
+|vertigo(-), nasal stuffiness(-), nasal discharge(-),             |
+|epistaxis(-), gum bleeding(-), sore throat(-),oral ulcer(-)      |
+|4.Cardiovascular: exertional chest tightness(+), nocturnal       |
+|dyspnea(-), orthopnea(-) syncope(-), palpitation(-), intermittent|
+|claudication(-) 5.Respiratory: dyspnea(-), cough(-), chest       |
+|pain(-), hemoptysis(-), productive cough (-), pleuritic chest    |
+|pain(-) 6.Gastrointestinal: anorexia(-), nausea(-), vomiting(-), |
+|dysphagia(-), heartburn(-), acid regurgitation(-), abdominal     |
+|fullness(-), hunger pain(-) , constipation(-), diarrhea(-),      |
+|melena(-), change of bowel habit(-), small caliber of stool(-),  |
+|tenesmus(-), flatulence(-) 7.Urogenital: flank pain(-),          |
+|hematuria(-), urinary frequency(-), urgency(-), dysuria (-),     |
+|hesitancy(-), small stream of urine(-), nocturia(-), polyuria(-),|
+|oliguria (-) 8.Musculoskeletal: bone pain(-), arthralgia(-),     |
+|myalgia(-), weakness(+): bilateral hands, back pain(-)           |
+|9.Metabolic: heat intolerance(-), cold intolerance(-), thirsty(-)|
+|10.Nervous: numbness (-), paresis/plegia (-)                     |
+|身體檢查(Physical Examination)                                   |
+|BH:159.1 cm BW:77.7 kg T:35.4 P:59 R:25 BP:113/49 mmHg Pain:0    |
+|Neurological Examination: . Consciousness: coma . Muscle power:  |
+|Couldn't evaluate . Gait: Couldn't evaluate Head-Eye-ENT Pupils: |
+|2.5/2.5 cm, L/R: +/+ Left frontal region errosion Sclera:        |
+|anicteric, Conjunctiva: pale Neck Jugular vein engorgement(-)    |
+|Thyroid goiter(-) Meningismus: Kernig sign(-); Brudzinski sign(-)|
+|Carotid bruit(-) Chest Thoracic cage contour: grossly normal and |
+|symmetric Vocal fremitus and expansion: symmetric Percussion:    |
+|resonant Coarse crackles(-), wheezes(+): diffuse bilaterally,    |
+|rhonchi(-), stridor(+): diffuse bilaterally Heart Heart beat:    |
+|regular Adventitious sounds(-) Murmurs(-) Abdomen flat & soft    |
+|Superficial vein engorgement(-) Protruded umbilicus(-) Bowel     |
+|sound:normoactive Tenderness(-) Rebound tenderness(-) Liver and  |
+|spleen: impalpable Extremity: edema(+) over bilateral lower      |
+|extremities Skin Abnormal pigmentation(-) Petechiae(-) Purpura(-)|
+|Ecchymoses(-) Tenlagiectasia(-) Rash(+): bilateral calves        |
+|Plaque(-) Wound(-) Ulceration(-) Crust(-) Lymphadenopathy(-)     |
+|檢驗紀錄(Laboratory Report)                                      |
+|*********檢驗室:RL*********** 群組:CBC+PLT WBC RBC HB HCT MCV    |
+|time/item (K/μL) (M/μL) (g/dL) (%) (fL) 1040307 [1800] 12.97 2.99|
+|8.8 26.2 87.6 MCH MCHC PLT RDW-CV PS time/item (pg) (g/dL) (K/μL)|
+|(%) () 1040307 [1800] 29.4 33.6 151 13.1 - 群組:WBC              |
+|Classification Blast Promyl. Myelo. Meta Band time/item (%) (%)  |
+|(%) (%) (%) 1040307 [1800] 0.0 0.0 0.0 0.0 0.0 Seg Eos. Baso.    |
+|Mono. Lym. time/item (%) (%) (%) (%) (%) 1040307 [1800] 90.9 0.1 |
+|0.1 3.9 5.0 Aty.Lym. PlasmaCell Normobl. PS time/item (%) (%) () |
+|() 1040307 [1800] 0.0 0.0 0 - 群組:Biochemistry CRE Na K Ammonia |
+|N T-BIL time/item (mg/dL) (mmol/L) (mmol/L) (μmol/L) (mg/dL)     |
+|1040307 [1800] 3.6 144 3.1 20 0.36 Ca Mg AST LacticAcid CK       |
+|time/item (mmol/L) (mmol/L) (U/L) (mmol/L) (U/L) 1040307 [1800]  |
+|1.68 0.56 41 2.37 78 CK-MB %CKMB Troponin I time/item (U/L) (%)  |
+|(ng/mL) 1040307 [1800] 76 97.4 0.139 群組:General BioChemistry   |
+|ALB ALT time/item (g/dL) (U/L) 1040307 [1800] 2.3 70             |
+|群組:Coagulation PT PTT PT INR time/item (sec) (sec) () 1040307  |
+|[1800] 18.2 33.2 1.70 群組:Yes C-Reactive P rotein time/item     |
+|(mg/dL) 1040307 [1800] 18.92 *********檢驗室:YM*********** 群組: |
+|Free Ca(急重症自 Hb(急重症自行檢驗) Hct(急重症自行檢驗)          |
+|K+(急重症自行檢驗) Na(急重症自行檢驗) 行檢驗) time/item (mmol/L) |
+|(g/dL) (%) (mmol/L) (mmol/L) 1040307 [1738] 1.15 9.0 27 3.19     |
+|144.3 Suger(急重症自行檢 LacticAcid(急 驗) 重症自行檢驗)         |
+|time/item (mg/dL) (mmol/L) 1040307 [1738] 204 2.3 群組:Yes pH    |
+|pCO2 pO2 HCO3 BaseExcess time/item () (mmHg) (mmHg) (mmol/L)     |
+|(mmol/L) 1040307 [1738] 7.401 28.3 108.2 17.7 -7.3 SO2 time/item |
+|(%) 1040307 [1738] 98.3 *********檢驗室:PO*********** 群組:      |
+|Sugar(One to uch) time/item (*) 1040307 [1743] 188               |
+|檢查紀錄(Examination Report)                                     |
+|Nil                                                              |
+|影像報告(Imaging Report)                                         |
+|Pending                                                          |
+|病理報告(Pathology Report)                                       |
+|Nil                                                              |
+|臆斷(Tentative Diagnosis)                                        |
+|1. Out-of-hospital cardiac arrest, status post cardiopulmonary   |
+|resuscitation for 31 minutes, with return of spontaneous         |
+|circulation 2. Acute respiratory failure, status post            |
+|endotracheal intubation with mechanical support (2015/03/05-) 3. |
+|Influenza A, with suspicious secondary community-acquired        |
+|pneumonia 4. Congestive heart failure with pulmonary edema 5.    |
+|Hypoxic-ischemic encephalopathy, out-of-hospital cardiac arrest  |
+|related 6. Focal seizure, suspect hypoxic-ischemic encephalopathy|
+|related 7. Acute kidney injury, AKIN stage I 8. Coronary artery  |
+|disease, one-vessel-disease, status post percutaneous occlusive  |
+|balloon angioplasty with stenting to left circumflex artery      |
+|(2014/01/16) 9. Chronic kidney disease, stage IV 10. Diabetes    |
+|mellitus, type 2 11. Hypertensive cardiovascular disease 12.     |
+|Duodenal ulcers, bulb to duodenal 2nd portion 13. Reflux         |
+|esophagitis, Los Angeles classification grade D 14. Cellulitis,  |
+|bilateral lower legs 15. Old pulmonary tuberculosis, status post |
+|complete treatment in 2012                                       |
+|醫療需求與治療計畫(Medical Needs and Care Plan)                  |
+|# Out-of-hospital cardiac arrest, status post cardiopulmonary    |
+|resuscitation for 31 minutes, with return of spontaneous         |
+|circulation # Hypoxic-ischemic encephalopathy, out-of-hospital   |
+|cardiac arrest related # Acute respiratory failure, status post  |
+|endotracheal intubation with mechanical support (2015/03/05-) #  |
+|Influenza A, with suspicious secondary community-acquired        |
+|pneumonia # Congestive heart failure with pulmonary edema # Focal|
+|seizure, suspect hypoxic-ischemic encephalopathy related # Acute |
+|kidney injury, AKIN stage I # Cellulitis, bilateral lower legs S:|
+|comatous consciousness progressive dyspnea on exertion with      |
+|bilateral lower extremities edema with erythematous change for 2 |
+|weeks Productive cough (+) OHCA for about 30 mins O: Vital signs:|
+|T:35.4 P:59 R:25; BP:113/49 mmHg Lab data: Hb: 8.8, WBC: 12.97K, |
+|seg: 90.9%, PLT: 151K, CRP: 18.92 Alb: 2.3, AST/ALT: 41/70       |
+|CK/CK-MB/Tro-I: 78/76/0.139 Cre: 3.6, Na/K: 144/3.1, Ca/Mg:      |
+|2.02/0.56 Lactic acid: 2.37, Ammonia: 20 PT INR: 1.70, PT/PTT:   |
+|18.2/33.2 CXR: diifuse increased infiltration at bilateral lungs |
+|EKG: sinus bradycardia, TWI at V1~V4 Brain CT at FEMH: no ICH nor|
+|large ischemic stroke, r/o hypoxic-ischemic encephalopathy A: 1. |
+|Pursue image at FEMH 2. Keep ceftriaxone, azithromycin, and      |
+|Tamiflu and pursue culture results 3. Add diuretics and monitor  |
+|I/O 4. Monitor consciousness and neurological functions, may     |
+|follow up brain image and arrange EEG 5. Arrange cardiac echo to |
+|evaluate heart function, may consider CAG to preserve or restore |
+|remnent cardiac function Treatment Goal: SBP > 100 mmHg SpO2 >   |
+|94% Stop deterioration of heart, lung, and kidney function       |
+|出院規劃(Discharge Planning)                                     |
+|管路留置狀況:有 靜脈管路留置(含Hickman / Port-A)：有             |
+|雙腔導管留置：無 鼻胃管留置：有 16Fr. 氣管管路留置：有 氣管內管  |
+|7.5mm 胃造廔口：無 尿管留置：有 膀胱造廔：無 傷口引流管：無 其他 |
+|導管： 日常生活功能分數：0 預期出院後居住場所：與家人同住 預期出 |
+|院後主要照顧者：配偶 女兒 出院規劃收案篩檢：高危病患 單位自訂條件|
+|醫師姓名                                                         |
+|洪啟盛 主治醫師                                                  |
+

@@ -1,0 +1,185 @@
+
+2014/12/23 15:00 | |
+|主訴(Chief Complaint)                                            |
+|Informant:patient Left calf pain for 2 weeks                     |
+|病史(Brief History)                                              |
+|The 85-year-old man has the following medical conditions: 1.     |
+|End-stage renal disease on hemodialysis W246 2. Peripheral artery|
+|disease of bilateral lower extremities, status post percutaneous |
+|transluminal angioplasty to right popliteal artery and right     |
+|peroneal artery 3. Atrial flutter status post radio-frequency    |
+|catheter ablation in 2012 4. Atrial fibrillation, not on         |
+|anticoagulants due to GI bleeding 5. Sinus node dysfunction with |
+|tachy-brady syndrome and cardiogenic shock, status post pacemaker|
+|implantation 6. Gastric ulcer, A1 7. Old cerebrovascular accident|
+|with minimal left hemiparesis 8. Coronary artery disease by      |
+|Thallium scan He suffered from intermittent chest tightness for 2|
+|years. Atrial flutter was noted in 2012 and was treated with     |
+|RFCA. Claudication was also noted and he received PTA to right   |
+|popliteal artery and right peroneal artery. He noticed chest     |
+|tightness in 2013 and Thallium scan showed mild to moderate      |
+|stress-induced ischemia at apex, septum and apical to mid lateral|
+|walls. They decided to receive conservative treatment first. A   |
+|UCG in 2014/09/12 showed 4-chamber dilatation, LVEF 51.8%, MR    |
+|moderate to severe. In 2014/10, palpitation and dizziness        |
+|developed during HD. It turned out to be Af SVR and he was       |
+|transferred to ER on 2014/10/21. The condition was further       |
+|complicated by GI bleeding and occasional tachycardia. He was    |
+|admitted on 2014/10/22. He received PTA to AVF by CVS doctor, PTA|
+|to right popliteal artery and right peroneal artery, EGD for     |
+|hematemesis (turned out to be A1 gastric ulcer) and ETT+MV       |
+|(2014/11/05-08) for respiratory failure. He was discharged on    |
+|2014/11/12 and remained relatively stable at home. Two weeks     |
+|before this admission (on about 2014/12/10), his left calf became|
+|erythematous and tender. He visited plastic surgeon who suggested|
+|oral Augmentin followed by admission. He received 1 week         |
+|(12/15-21) of Augmentin treatment, followed by cefmetazole one   |
+|dose on 12/20 after HD. However, the left calf erythema          |
+|persisted. Of noted, the left leg was much more edematous (rated |
+|as 4+) than the right one for about 1 month. Under the impression|
+|of cellulitis, r/o PAOD and/or DVT related, he was admitted for  |
+|iv antibiotics and probable revascularization. Current           |
+|medication: CV: Cozaar (50) 0.5# qd, Betaloc (100) 0.5# qd,      |
+|Cordarone (200) 1# qd Plavix (75) 1# qd 對aspirin無法耐受,       |
+|Pantoloc (40) 1# qd Psychi: Seroquel (25) 1# hs Canat, vit B.C,  |
+|folate Family History:nil Medication Allergy:No 病人自述         |
+|2014/10/27 Medication ADR:unknown Allergy to Medical Device and  |
+|Materials:No 病人自述 2014/10/27 中草藥:nil 保健食品:nil Past    |
+|Medical History:as above Hospitalization:入院日期:2014_10_22     |
+|出院日期:2014_11_14 診斷:Chest pain Past Surgical                |
+|History:2014_10_28 left forearm AVF PTA Travel History:nil       |
+|社會心理相關評估(Psychosocial Assessment)                        |
+|Social Economic and Personal History 教育程度:專科 職業:退休     |
+|宗教信仰:基督教 婚姻狀態:已婚 使用語言:國語 台語 日語 英語       |
+|口述血型:A，RH:不清楚，輸血反應:無 抽煙:沒有 喝酒:沒有 檳榔:沒有 |
+|物質濫用:沒有 Fall Risk Assessment 總分:5 (>=3分進行不倒翁計畫， |
+|請開預防跌倒醫囑)                                                |
+|系統性回顧(Review of System)                                     |
+|General/Constitutional: Fever(-), weight change(-), general      |
+|weakness(-) Head/Neck: Headaches(-), dizziness(-), vertigo(-),   |
+|lightheadedness(-), injury(-) Vision(good), double vision(-),    |
+|strabismus(-), ocular pain(-) Otalgia(-), otorrhea(-), hearing   |
+|impairment(-), tinnitus(-) Epistaxis(-), congestion(-),          |
+|discharge(-) Caries(-), dentures(-), gum bleeding(-), sore       |
+|throat(-), oral ulcer(-) Neck stiffness(-), neck pain(-),        |
+|tenderness(-), masses(-) Cardiovascular: Chest tightness/pain(-),|
+|palpitations(-), syncope(-), dyspnea on exertion(+),             |
+|orthopnea(-), paroxysmal nocturnal dyspnea(-), edema(+, left     |
+|leg), cyanosis(-), claudication(-), varicosities(-) Respiratory: |
+|Chest pain(-), shortness of breath(+), cough(-), hemoptysis(-),  |
+|wheezing(-), night sweats(-) Gastrointestinal: Appetite(good),   |
+|dysphagia(-), abdominal pain(-), flatulence(-), heartburn(-),    |
+|nausea(-), vomiting(-), hematemesis(-), jaundice(-),             |
+|constipation(-), diarrhea(-), stools [normal], recent changes in |
+|bowel habits(-) Genitourinary: Flank pain(-), hematuria(-),      |
+|urgency(-), frequency(-), dysuria(-), nocturia(-), polyuria(-),  |
+|oliguria(-), retention(-), incontinence(-) Hematologic/Endocrine |
+|Bleeding tendency(-), previous transfusions and reactions(-),    |
+|lymph node enlargement or tenderness(-) Thirsty(-),              |
+|polydipsia(-), polyuria(-), hormone therapy(-), growth and       |
+|development(normal) Goiter(-), Intolerance to heat or cold(-)    |
+|Musculoskeletal/Nervous: Pain(+, bilateral leg), swelling(-),    |
+|redness or heat of muscles or joints(-), limitation of motion(-),|
+|muscular weakness(-), atrophy(-), cramps(-) Numbness(-),         |
+|paresis/plegia(-) Skin/Breast: Rash(-), itching(-),              |
+|pigmentation(-), changes in hair growth or loss(-), nail         |
+|changes(-) Breast lumps(-), tenderness(-), swelling(-), nipple   |
+|discharge(-)                                                     |
+|身體檢查(Physical Examination)                                   |
+|BH:175 cm BW:66.1 kg Consciousness: clear and oriented Muscle    |
+|power: intact Gait: normal Head-Eye-ENT Conjunctiva: not pale,   |
+|sclera: anicteric Neck Jugular vein engorgement(-), thyroid      |
+|goiter(-), meningismus: Kernig sign(-), Brudzinski sign(-),      |
+|carotid bruit(-) Chest Vocal fremitus and expansion: symmetric,  |
+|percussion: resonant Crackles(-), wheezes(+/-, bilateral loud    |
+|bronchial sounds), rhonchi(-), stridor(-) Heart Point of maximal |
+|impulse: left MCL/5th intercostal space, LV lift(-), RV heave(-) |
+|Increased cardiac size by percussion(-), heart beat: regular,    |
+|adventitious sounds(-), murmurs(3+ over LLSB to apex radiates to |
+|lateral) Abdomen Flat & soft, Bowel sound: normoactive,          |
+|tenderness(-), rebound tenderness(-), psoas sign(-), obturator   |
+|sign(-) Liver and spleen: impalpable, shifting dullness(-),      |
+|hepatojugular reflux(-) Skin Wound(+, dry wound in left calf and |
+|right big toe, please see the attached image),                   |
+|hyperpigmentation(-), petechiae(-), purpura(-), ecchymosis(-),   |
+|telangiectasia(-), rash(-) Lymphadenopathy(-)                    |
+|檢驗紀錄(Laboratory Report)                                      |
+|*********檢驗室:SA*********** 群組:Yes S.T.S. (VDRL /RPR Test)   |
+|time/item (*) 1031209 [1421] Non-Reactive                        |
+|*********檢驗室:SF*********** 群組:Yes Anti-HBs Anti-HCV Ab HBsAg|
+|time/item (mIU/mL) (*) (IU/mL) 1031209 [1421] Positive(97.       |
+|Negative Negative(0.0 48) 1) 群組:Hormones iPTH time/item (pg/mL)|
+|1031209 [1421] 325 *********檢驗室:VH*********** 群組: HIV Ag/Ab |
+|Co mbo -for scr eening test time/item (*) 1031209 [1421] Negative|
+|*********檢驗室:HE*********** 群組:CBC+PLT WBC RBC HB HCT MCV    |
+|time/item (k/μL) (M/μL) (g/dL) (%) (fL) 1031209 [1421] 6.01 3.61 |
+|11.4 34.5 95.6 MCH MCHC PLT RDW-CV Retic. time/item (pg) (g/dL)  |
+|(k/μL) (%) (%) 1031209 [1421] 31.6 33.0 165 19.4 1.21 PS         |
+|Retic.No. IRF time/item () (10^4/μL) (%) 1031209 [1421] - 4.37   |
+|11.1 （僅供參考） *********檢驗室:BC*********** 群組:General     |
+|BioChemistry Alb AST ALT ALP BUN 1 time/item (g/dL) (U/L) (U/L)  |
+|(U/L) (mg/dL) 1031209 [1421] 3.0 28 40 141 47.3 1031209 [1746]   |
+|1031211 [1346] BUN 2 (洗後) BUN 3 CRE UA Na time/item (mg/dL)    |
+|(mg/dL) (mg/dL) (mg/dL) (mmol/L) 1031209 [1421] 6.9 5.0 142      |
+|1031209 [1746] 12.5 1031211 [1346] 43.3 K Cl Ca P Mg time/item   |
+|(mmol/L) (mmol/L) (mmol/L) (mg/dL) (mmol/L) 1031209 [1421] 3.5   |
+|104 2.27 3.9 0.69 1031209 [1746] 1031211 [1346] TG T-CHO LDL-C   |
+|HDL-C CRP time/item (mg/dL) (mg/dL) (mg/dL) (mg/dL) (mg/dL)      |
+|1031209 [1421] 92 117 45 41 0.99 1031209 [1746] 1031211 [1346]   |
+|群組:DM GLU AC time/item (mg/dL) 1031209 [1421] 96 群組:Anemia BC|
+|Profile Ferritin Iron TIBC time/item (ng/mL) (μg/dL) (μg/dL)     |
+|1031209 [1421] 845 33 173 *********檢驗室:RL***********          |
+|群組:Blood pH/Gas PH PCO2 PO2 HCO3 BaseExcess time/item (*)      |
+|(mmHg) (mmHg) (mmol/L) (mmol/L) 1031125 [1324] 7.422 29.2 139.7  |
+|19.2 -5.5 群組:CBC+PLT WBC RBC HB HCT MCV time/item (K/μL) (M/μL)|
+|(g/dL) (%) (fL) 1031125 [1324] 7.74 3.29 10.4 31.2 94.8 MCH MCHC |
+|PLT RDW-CV PS time/item (pg) (g/dL) (K/μL) (%) () 1031125 [1324] |
+|31.6 33.3 119 20.9 - 群組:Biochemistry Na K Ca time/item (mmol/L)|
+|(mmol/L) (mmol/L) 1031125 [1324] 140 3.5 2.23 群組:WBC           |
+|Classification Blast Promyl. Myelo. Meta Band time/item (%) (%)  |
+|(%) (%) (%) 1031125 [1324] 0.0 0.0 0.0 0.0 0.0 Seg Eos. Baso.    |
+|Mono. Lym. time/item (%) (%) (%) (%) (%) 1031125 [1324] 82.1 0.1 |
+|0.1 5.6 12.1 Aty.Lym. PlasmaCell Normobl. PS time/item (%) (%) ()|
+|() 1031125 [1324] 0.0 0.0 0 -                                    |
+|檢查紀錄(Examination Report)                                     |
+|nil                                                              |
+|影像報告(Imaging Report)                                         |
+|Chest : PA View (Standing) 醫令: Chest : PA View (Standing) 報告 |
+|醫師: 王甄 影像時間: 2014/11/25 17:33 (32001CXM) 發報告時間:     |
+|2014/11/29 18:40 cardiomegaly. tortuous aorta. aortic wall       |
+|calcification. pacemaker insertion. haziness at left lower lung. |
+|left pleural effusion. increased interstitial infiltrations at   |
+|bilateral lungs. Chest : AP View (Supine) 醫令: Chest : AP View  |
+|(Supine) 報告醫師: 陳世杰 影像時間: 2014/10/25 10:38 (32001CYM)  |
+|發報告時間: 2014/12/21 12:42 status post pacemaker implantation, |
+|others, stationary in compare to previous the nearest one similar|
+|study, suggest correlated with clinical manifestation.           |
+|病理報告(Pathology Report)                                       |
+|095/04/13 S0609397 Stomach,endoscopic biopsy,chronic active      |
+|gastritis                                                        |
+|臆斷(Tentative Diagnosis)                                        |
+|1. Cellulitis, left leg 2. End-stage renal disease on            |
+|hemodialysis 3. Peripheral artery disease of bilateral lower     |
+|extremities, status post percutaneous transluminal angioplasty to|
+|right popliteal artery and right peroneal artery, with gangrene  |
+|formation in the right big toe 4. Atrial flutter status post     |
+|radio-frequency catheter ablation in 2012 5. Atrial fibrillation |
+|6. Sinus node dysfunction with tachy-brady syndrome and          |
+|cardiogenic shock, status post pacemaker implantation 7. Gastric |
+|ulcer 8. Old cerebrovascular accident with minimal left          |
+|hemiparesis 9. Suspected coronary artery disease                 |
+|醫療需求與治療計畫(Medical Needs and Care Plan)                  |
+|*Cellulitis *PAD s/p right PTA *ESRD on HD Empirical Augmentin   |
+|Arrange HD Evaluation of PAD: ABI, TBI, vascular duplex PTA later|
+|(probably on W4) Consider anticoagulant if GI condition stable   |
+|Treatment Goal: erythema <3cm in 1 week                          |
+|出院規劃(Discharge Planning)                                     |
+|管路留置狀況:無 日常生活功能分數：80                             |
+|預期出院後居住場所：與家人同住 預期出院後主要照顧者：自己 配偶   |
+|出院規劃收案篩檢：一般病患                                       |
+|主治醫師評論(VS Comments)                                        |
+|I agree with the assessment of the resident. The admission note  |
+|is well written.                                                 |
+|醫師姓名                                                         |
+|王怡智 主治醫師                                                  |
+

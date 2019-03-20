@@ -1,0 +1,92 @@
+
+The 66-year-old had current problems:
+1. Septic shock, with metabolic acidosis, lactic acidosis, resolving
+2. GI bleeding from NG, resulting in hyperammonemia and encephalopathy
+3. Hypercalcemia, caused?
+4. Atrial fibrillation, presistent, status post Digoxin 0.125mg
+loading
+
+[History]
+1. Coronary artery disease, 3-vessle disease, s/p:
+   CABG in 2004/01
+   NSTEMI in 2011/01, 2014/10
+   CPR with IABP support in 2014/10-11
+2. mitral regurgitation, Carpentier's IIIb, (restriction of PML)
+3. End stage kidney disease, status post left AVF creation on 2011/01/02,
+under regular hemodialysis QW1,3,5.
+4. diabetic mellitus, with proliferative diabetic retinopathy with
+fibrovascular proliferation and vitreous hemorrhage, status post
+intravitrious(IVIA) and cryotherapy(OU);
+5. previous ischemic stroke, with sequela of left hemiplagia in 2007;
+6. hypertension
+
+-Inactive problem-
+1. peripheral occlusive arterial disease; severe stenosis at left popliteal
+aretry and right anterior tibial artery;
+2. pseudophakia(OS), cataract(OD);
+3. hyperlipidemia;
+4. nephrolithiasis, status post ESBL
+
+[Brief history]
+    He was admitted to our ward due to decompensated heart failure. While
+arrival, blood pressure was around 75-80mmHg. Dopamine support started as a
+continuous infusion rate of 5mcg/kg/min. Cardiac sonography showed dilated
+LA, dilated LV, severe MR, and reduced LV systolic function(LVEF 35.8%).
+Lab data showed no metabolic acidosis and normal serum level of lactic
+acid. There was no electrolyte imbalance. His family had reported abdomen
+distension with constipation for 2 days. Supraclavicular CVC insertion was
+performed.
+
+ 07/03 Growning-> place to ward preparing room
+ 07/04 05:00 seizure-like, unresponsiveness-> recover
+    bradycardia noted to 30bpm
+  For abdominal pain-> KUB: bowel gas, stool impaction
+    No free air in decubitus view
+  Lab: metabolic acidosis with lactic acid elevation
+  -> impression: Septic shock with metabolic acidosis
+       09:00 ward: Apnea, PEA-> CPR for 6 min
+       Coffee-ground substance from NG
+  -> Transferred to 5CVI
+
+[On service accessment]
+  1. Regular heart beats, mild systolic murmur
+  2. No basal lung crackles
+  3. No pitting edema
+-lab
+2015/07/04 LacticAcid:2.2 mmol/L
+2015/07/04 LacticAcid:3.72 mmol/L
+2015/07/03 LacticAcid:6.4 mmol/L
+2015/07/03 LacticAcid:6.8 mmol/L
+2015/07/03 LacticAcid:12.6 mmol/L
+2015/07/03 LacticAcid:18.47 mmol/L
+2015/07/03 LacticAcid:16.9 mmol/L
+2015/07/03 LacticAcid:12.5 mmol/L
+2015/07/03 LacticAcid:10.58 mmol/L
+
+2015/07/04 Ammonia N:57 μmol/L
+ (resolving)
+2015/07/03 Ammonia N:117 μmol/L, encephalopathy
+ (GI bleeding, shock liver?)
+2015/07/03 Ammonia N:51 μmol/L
+2015/07/02 Ammonia N:39 μmol/L
+
+2015/07/04 Ca:2.61 mmol/L->progressive hypercalcemia
+2015/07/03 Ca:2.41 mmol/L-> hypercalcemia (Alb:3.0)
+
+2015/07/03 Troponin I:1.85 ng/mL
+
+-CXR: cardiomegaly, no lung infiltration
+
+Ventilator setting:
+ mode: AC/PC
+ FiO2: 35%
+ IP: 18
+ PEEP: 6
+
+Plan:
+ 1. Add UF with CVVH for iHD patient under shock status
+ 2. Rolikam for HCO3 supplement-> DC due to HCO3 normalized
+ 3. Dopamin 800mg/250ml run 7.3ml/hr, 5ug/kg/min-> keep
+ 4. Keep Tazocin as CVVH dosage->keep
+ 5. Purseu culture data
+ 6. Monitor calcium level, check sputum AFS, iPTH.

@@ -1,0 +1,7 @@
+
+FiO2 40%
+no intropics
+cons 2T
+no involuntary movement after transfer to our ICU
+=>
+arrange EEG

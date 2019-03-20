@@ -1,0 +1,9 @@
+
+2015/03/22 16:56 SpO2:99%(40%,L,VCR)
+2015/03/22 16:56 T:36.8 P:60 R:12
+2015/03/22 16:55 BP:98/48
+
+Complete Ceftazidine course for UTI
+Taper steroid
+titrate DDAVP according to U/O
+supportive care

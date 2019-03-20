@@ -1,0 +1,72 @@
+
+Brief Summary of this week
+In this week, this patient recieved craniotomy for tumor excision on
+2015/08/17. After the surgery, she was sent to SICU for further care. Her
+GCS score was E1VTM5 on 08/18. Therefore, follow-up MRI was done and the
+results showed: Multiple brain tumors, post-op, with residual tumors
+bilaterally. Bradycardia was noted at 5PM on 8/19. NE showed: pupil size
+R/L=4/4.5 with slow reflex. 3% NaCl was given and her reflex improved at
+10PM.
+However, her GCS score downdraded to M4 on 8/21.If her condition still
+getting worse, we may arrange brain CT or MRI to survey whether she has
+severe hydrocephalus, hemorrahge or other mass effects.
+
+
+Assessment
+[Treatment Course]
+8/17 Craniotomy for tumor excision
+8/18 Still M5, f/u MRI, try extubation
+8/19 Bradycardia was noted in the afternoon. GCS:E1M4VT
+8/21 slow M4
+
+[Lab data]
+
+2015/08/22
+RBC:3.20 M/μL
+HB:9.7 g/dL
+HCT:29.2 %
+MCV:91.3 fL
+MCH:30.3 pg
+MCHC:33.2 g/dL
+PLT:141 K/μL
+RDW-CV:12.9 %
+PS:-
+WBC:9.48 K/μL
+
+2015/08/22
+PH:7.447 *
+PCO2:29.2 mmHg
+PO2:138.3 mmHg
+HCO3:20.4 mmol/L
+BaseExcess:-3.9 mmol/L
+
+2015/08/22
+CRE:0.4 mg/dL
+Na:135 mmol/L
+K:3.2 mmol/L
+Mg:0.87 mmol/L
+
+[Image]
+
+2015/08/18 MRI With/Without Contrast--Brain (V1)
+MRI of the brain without and with i.v. Gd chelate enhancement shows: 1.
+Craniotomies at bilateral frontal regions. Parenchymal defect in right
+posterior frontal lobe to external capsule; another defect in left middle
+frontal lobe. Mild hemorrhage in the cavities. 2. Small ill-defined
+enhancing areas posterior to right frontal cavity and also medioinferior to
+the cavity, suggestive of residual tumors. 3. Ill-defined hyperintensities
+on T2WI in left medial frontal and left upper anterior frontal, stationary
+as compared with pre-op study. 4. Mild midline shift to left. 5.
+Hyperintensities on FLAIR images in sulci, suggestive of mild subarachnoid
+hemorrhage.
+Multiple brain tumors, post-op, with residual tumors bilaterally.
+
+
+Plan
+1. Post-OP care
+2. Post-OP pain control
+3. Prophylaxis abx
+4. Check vital signs regularly
+5. Keep SBP<140mmHg on postop day 1, then Keep SBP<160mmHg since day 2
+6. Record daily drainage amount
+7. Check CVP level, Keep CVP level 8-10mmHg

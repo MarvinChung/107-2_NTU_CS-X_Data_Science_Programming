@@ -1,0 +1,87 @@
+
+Brief Summary of this week
+After admission, empirical antibiotic Rocephin were prescribed but shifted
+to Tazocin due to fever. Also blood culture yielded one set of MRcons,
+Targocid was transiently prescribed due to fever initially. Antibiotic was
+changed to Tatumcef for sputum culture yieldedSphingomonas paucimobilis.
+  On 1/12 hemodialysis was started for anuria with fluid overload. There
+were poor neurologic response and no spontaneous respiration. Also poor
+lung compliance was noted.
+EEG was arranged on 1/15 and revealed no discernible cortical activities,
+compatible with hypoxic encephalopathy. Withdrawl life support will be
+discussed with family.
+
+Assessment
+S/P CPCR with ROSC, day+9
+Rocephin (1/9~10)
+Tazocin 1/10~1/15
+Targocid 1/11~1/17
+Tatumcef 1/15~
+
+E1VtM1, without pupil light refelx, (4mm/4mm)
+
+Ventilator: PC/AV --> VC, Vt: 300ml, PEEP 6, FiO2 50%, RR 20
+=> MV ~5 SpO2: 95-100%
+
+2015/01/15 腦波檢查報告
+EEG diagnosis: Abnormal EEG; isoeletric tracing
+EEG interpretation: This EEG reveals no discernible cortical activities.
+These findings are compatible with hypoxic encephalopathy.
+
+Hold hemodialysis and levophed for withdrawl
+
+[Lab]
+2015/01/16
+CRE:2.7 mg/dL, BUN:32.1 mg/dL
+Na:135 mmol/L, K:3.6 mmol/L
+
+WBC:4.98 K/μL, HB:8.7 g/dL, PLT:90 K/μL
+
+pH:7.388
+pCO2:39.8 mmHg
+pO2:83.6 mmHg
+HCO3:24.2 mmol/L
+BaseExcess:-1.1 mmol/L
+SO2:96.1 %
+
+[Important image report]
+2015/01/09 CT of head without contrast enhancement shows: susp. diffuse
+ischemic change; brain atrophy; ventriculomegaly.
+
+2015/01/15 腦波檢查報告
+EEG diagnosis: Abnormal EEG; isoeletric tracing
+EEG interpretation: This EEG reveals no discernible cortical activities.
+These findings are compatible with hypoxic encephalopathy.
+
+[Important family decision]
+DNR (不電不壓)
+女兒表示, 若腦波結果不好, 同意在給予適當鎮定止痛藥下,
+以減量呼吸器的方式撤除維生設備
+
+[Treatment course]
+1/17 1/17 DC Targocid due to another blood culture: negative.
+     1/15 EEG report: no discernible cortical activities. These findings
+are compatible with hypoxic encephalopathy
+
+1/15 Arrange EEG, shift Tazocin to Tatumcef for Sphingomonas paucimobilis
+1/14 No spontaneous respiration, poor lung compliance. Informed the
+ventilation dependent status. Discuss with the withdrawl symptoms
+1/14  night, family asked about further examination, such as EEG, to
+support more evidence about brain damage. (they agreed with self-paid EEG)
+      FiO2: 60% => 50%, SpO2: 95, no drive to breathe
+1/13  FiO2 70% --> 60%,
+1/13 night, keep on dialysis
+1/12  FiO2 55%--> 70%  Anuria with fluid overload, start hemodialysis
+1/11  E1VeM1, Hypoactive bowel sound, bilateral lung wheezing
+keep on Tazocin use for coverage of nosocomial infection
+      high dose of Furosemide for anuria
+      Titrate Levophed to 6mcg/min use
+      Prepare for dialysis tomorrow if anuria persists
+1/10 DNR (不電不壓), PCV: IP: 20, PEEP: 6, FiO2: 50% --> MV: ~11-12, SpO2:
+99-100%, decreased urine output
+
+Plan
+1. Keep ceftazidime for sputum Sphingomonas paucimobilis.
+   Discontinued Targocid for blood culture yielded MR-Staphylococcus
+haemolyticus, for another culture result negtive
+2. Inform the EEG result to her family, prepare withdrwal life support.

@@ -1,0 +1,170 @@
+
+2015/02/18 15:13 | |
+|主訴(Chief Complaint)                                            |
+|Informant:medical record Elevated liver function on 2015/2/16    |
+|病史(Brief History)                                              |
+|Present illness: This is a 71 year old man with underlying       |
+|diseases of 1. Pulmonary tuberculosis under anti-TB drugs        |
+|complicated with abnormal liver function 2. Hepatitis B 3.       |
+|Hypertension under medication 4. Type 2 DM 5. CAD, three vessels |
+|disease, s/p stent insertion x3, s/p CABG in Oct. 2011, 6.       |
+|Ventricular tachycardia s/p ICD implantation in Nov. 2011 7.     |
+|Bilateral knee osteoarthritis 8. Hypertension, regular followed  |
+|up at P. 林俊立' outpatient department, and as prescribed. He was|
+|diagnosed as having pulmonary tuberculosis in 2014/11, was       |
+|treated with Pyrazinamide(2014/11/06~2014/12/22),                |
+|Ethambutol(2014/11/06~) and Rifinah(2014/11/06~), and regular    |
+|followed up at VS. 王鶴健' outpatient department. He tolerated   |
+|the anti-TB agents well. Synorid orally was administered on 2/5. |
+|Two days later, skin rash over the trunk associated with itching |
+|intolerable, and generalized malaise, loss of appetite and nausea|
+|occurred, Synorid was withdrawn on 2/7. Besides, elevated liver  |
+|function (Bil-T 15.65mg/dL, Bil-D 9.76 mg/dL, AST　56 U/L, ALT   |
+|352 U/L) was noted by OPD follow-up on 2015/02/16, and Ethambutol|
+|and Rifinah was discontinued on 2/16. According to his daughter, |
+|fusion skin rash extended to generalized area 2 days perior to   |
+|this admission. He was hospitalized for abnormal liver function  |
+|management. Family History: no DM, no hypertension, no history of|
+|malignancy in his family. Medication Allergy:Synorid 100 mg/tab  |
+|2015/02/18(skin rash) Medication ADR: HLA-B*5801 was             |
+|postive(2014/11/11), Synorid 100 mg/tab 2015/02/18(skin rash)    |
+|Allergy to Medical Device and Materials:No 病人自述 2014/11/03   |
+|Current Medication: NTUH: Lasix 40 mg/tab 1 tab BID PO 6.25      |
+|DILATREND 6.25 mg/tab 0.5 tab BID PO Aldactone 25 mg/tab 0.5 tab |
+|QDPC ADALAT OROS 30 mg/tab 1 tab BID PO Bokey EM cap 100 mg/cap 1|
+|cap QD PO 警 NovoMIX FlexPen 300 U/3 mL /pen 22 U BID SC Galvus  |
+|50 mg/tab 1 tab QD PO Other: Kascoal Tablets 40mg 1 tab TID/AC   |
+|Primperan 5 mg/tab 1 tab TID AC 中草藥:nil 保健食品:nil Past     |
+|Medical History: Hospitalization: 1. L-spine HIVD, s/p operation |
+|25 years ago 2. Coronary artery disease, three-vessel-disease,   |
+|status post percutaneous occlusive balloon angiopasty with       |
+|re-stenosis, s/p coranary artery bypass grafting on 2010-10-07   |
+|3.ventricular tachycardia, s/p ICD implantation on 2010-11-29,   |
+|s/p removal and CRT-D implantation, complicated with hematoma    |
+|status post debridement on 2011/08/05 4. 入院日期:2014_11_03     |
+|出院日期:2014_11_14 診斷:Pulmonary tuberculosis Past Surgical    |
+|History: 1.L-spine HIVD, s/p operation 25 years ago 2.Coronary   |
+|artery disease, three-vessel-disease, status post percutaneous   |
+|occlusive balloon angiopasty with re-stenosis, status post       |
+|coranary artery bypass grafting on 2010-10-07 3.ventricular      |
+|tachycardia, status post ICD implantation on 2010-11-29 ; status |
+|post removal and CRT-D implantation, complicated with hematoma on|
+|2011/08/05 Travel History: nil                                   |
+|社會心理相關評估(Psychosocial Assessment)                        |
+|Psychological History and Evaluation 意識狀態:警醒 認知功能:正常 |
+|精神情緒狀態:異常 焦慮 安全問題:有 其他 fall down 睡眠形態:正常  |
+|Nutritional Screen 攝食情形:優，攝取完整 排便狀態:正常 BMI:26.92 |
+|系統性回顧(Review of System)                                     |
+|1.Systemic: weight loss(-), easy-fatigability(+, for two weeks), |
+|night sweats(-) 2.Skin: petechiae(-), purpurae(-), skin rash(+,  |
+|generalized since 2/7), itching(+, generalized), 3.HEENT:        |
+|headache(-),dizziness(-), blurred vision(-), strabismus(-),      |
+|ocular pain(-), otalgia(-), otorrhea(-), hearing impairment(+,   |
+|right ear), tinnitus(-), vertigo(-), nasal stuffiness(-), nasal  |
+|discharge(-), epistaxis(-), gum bleeding(-), sore throat(-),oral |
+|ulcer(-) 4.Cardiovascular: exertional chest tightness(-),        |
+|nocturnal dyspnea(-), orthopnea(-) syncope(-), palpitation(-),   |
+|intermittent claudication(-) 5.Respiratory: dyspnea(-), cough(-),|
+|chest pain(-), hemoptysis(-), productive cough (-), pleuritic    |
+|chest pain(-) 6.Gastrointestinal: anorexia(+, for two weeks),    |
+|nausea(+, for two weeks), vomiting(-), dysphagia(-),             |
+|heartburn(-), acid regurgitation(-), abdominal fullness(-),      |
+|hunger pain(-) midnight pain(-), constipation(-), diarrhea(-),   |
+|melena(-), change of bowel habit(-), small caliber of stool(-),  |
+|tenesmus(-), flatulence(-) 7.Urogenital: flank pain(-),          |
+|hematuria(-), urinary frequency(-), urgency(-), dysuria (-),     |
+|hesitancy(-), small stream of urine(-), impotence(-),            |
+|nocturia(-), polyuria(-), oliguria (-) 8.Musculoskeletal: bone   |
+|pain(-), bilateral knee arthralgia(+), myalgia(-), weakness(+,   |
+|bilateral lower limbs), back pain(-) 9.Metabolic: heat           |
+|intolerance(-), cold intolerance(-), thirsty(-) 10.Nervous:      |
+|numbness (-) bilateral leg, paresis/plegia (-)                   |
+|身體檢查(Physical Examination)                                   |
+|BH:156.1 cm BW:65.6 kg T:36.8 P:91 R:20 BP:188/85 mmHg Pain: 0   |
+|Neurological Examination: . Consciousness: clear . Muscle power: |
+|full, symmetrical . Gait: steady Head-Eye-ENT grossly normal,    |
+|conjunctiva: pale, sclera: icterus Pupil: isocoric, 3mm/ 3mm     |
+|Light reflex: L/R: +/+, EOM: full and free Neck Jugular vein     |
+|engorgement(-), no palpable lymph node Thyroid goiter(-)         |
+|Meningismus: Kernig sign(-); Brudzinski sign(-) Carotid bruit(-) |
+|Chest Thoracic cage contour: symmetric Vocal fremitus and        |
+|expansion: symmetric Percussion: resonant Breathing sound: clear |
+|Crackles(-) wheezes(-)rhonchi(-) stridor(-) Heart Heart beat:    |
+|ir-regular Murmurs(-) LV lift(-) RV heave(-) Increased cardiac   |
+|size by percussion(-) Adventitious sounds (-) Abdomen ovoid &    |
+|soft Superficial vein engorgement(-) Protruded umbilicus(-) Bowel|
+|sound: Normoactive Tenderness(-), rebound tenderness(-) Liver and|
+|spleen: palpable Murphy's sign(-) Extremities Freely movable,    |
+|pulses symmetric and intact Pitting edema(3+) bilateral dorsum of|
+|foot to legs Back Knocking pain(+)mild over left flank Skin      |
+|Abnormal pigmentation(-) Petechiae(-) Purpura(-) Ecchymoses(-)   |
+|Telangiectasia(-) Rash(+) over generalized, Plaque(-)            |
+|Lymphadenopathy(-)                                               |
+|檢驗紀錄(Laboratory Report)                                      |
+|*********檢驗室:RL*********** 群組:CBC+PLT WBC RBC HB HCT MCV    |
+|time/item (K/μL) (M/μL) (g/dL) (%) (fL) 1040218 [1209] 6.55 4.41 |
+|13.5 38.5 87.3 MCH MCHC PLT RDW-CV PS time/item (pg) (g/dL)      |
+|(K/μL) (%) () 1040218 [1209] 30.6 35.1 109 16.6 - 群組:WBC       |
+|Classification Blast Promyl. Myelo. Meta Band time/item (%) (%)  |
+|(%) (%) (%) 1040218 [1209] 0.0 0.0 0.0 0.0 0.0 Seg Eos. Baso.    |
+|Mono. Lym. time/item (%) (%) (%) (%) (%) 1040218 [1209] 65.9 3.1 |
+|0.3 13.6 17.1 Aty.Lym. PlasmaCell Normobl. PS time/item (%) (%)  |
+|() () 1040218 [1209] 0.0 0.0 0 僅供參考 群組:General BioChemistry|
+|GGT TP ALB ALT ALP time/item (U/L) (g/dL) (g/dL) (U/L) (U/L)     |
+|1040218 [1209] 108 5.5 3.1 354 204 群組:Biochemistry BUN CRE Na K|
+|Cl time/item (mg/dL) (mg/dL) (mmol/L) (mmol/L) (mmol/L) 1040218  |
+|[1209] 45.0 2.3 131 5.1 101 T-BIL Ca Mg AST time/item (mg/dL)    |
+|(mmol/L) (mmol/L) (U/L) 1040218 [1209] 16.22 2.10 0.89 521       |
+|群組:Coagulation PT PTT PT INR time/item (sec) (sec) () 1040218  |
+|[1209] 21.1 47.7 1.98 *********檢驗室:OP*********** 群組:SEDIMENT|
+|RBC (S) WBC (S) Epith (S) Cast (S) Crystal (S) time/item (/HPF)  |
+|(/HPF) (/HPF) (/LPF) (*) 1040218 [1144] 10-20 0-2 0-2 - -        |
+|Bacteria Mucus(S) Others (S) time/item (*) (*) (*) 1040218 [1144]|
+|+ - - 群組:MULTISTIX Sp. Gr.(C) pH Protein(C) Glu.(C) Ketone body|
+|(U) time/item (*) (*) (mg/dL) (mg/dL) (*) 1040218 [1144] 1.022   |
+|5.5 50 ( 1+ ) 30 ( +/- ) - O.B.(C) Urobil.(C) Bil.(C) Nitrite(C) |
+|WBC esterase (U) time/item (mg/dL) (mg/dL) (mg/dL) (*) (*)       |
+|1040218 [1144] 2+ 2.0 2+ - - Color Turbidity time/item (*) (*)   |
+|1040218 [1144] Dark Yellow + *********檢驗室:BC***********       |
+|群組:General BioChemistry D-BIL T-BIL AST ALT time/item (mg/dL)  |
+|(mg/dL) (U/L) (U/L) 1040216 [1628] 9.76 15.65 560 325            |
+|檢查紀錄(Examination Report)                                     |
+|EKG on 2015/2/28: sinus rhythm, rate 86 bpm with occasional VPC  |
+|影像報告(Imaging Report)                                         |
+|Chest PA View on 2015/02/18: Pending                             |
+|病理報告(Pathology Report)                                       |
+|S1443969 Lung,upper lobe, left,CT-guided biopsy,granulomatous    |
+|inflammation                                                     |
+|臆斷(Tentative Diagnosis)                                        |
+|1. Abnormal liver function, anti-TB agents induced 2. Pulmonary  |
+|tuberculosis, under anti-TB agents since 2014/11/6~2015/2/16 3.  |
+|Hepatitis B 4. Coronary artery disease status post plain old     |
+|balloon angioplasty with stenting and coronary artery bypass     |
+|graft surgery 5. Ventricular Tachycardia status post automatic   |
+|implantable cardiac defibrillator 6. Type 2 Diabetes Mellitus 7. |
+|Chronic kidney disease, stage III 8. Gastroesophageal reflux     |
+|disease (GERD) 9. Hypertension                                   |
+|醫療需求與治療計畫(Medical Needs and Care Plan)                  |
+|* Abnormal liver function, anti-TB agents induced S: Generalized |
+|malaise and weakness slight nausea, and loss of appetite O:      |
+|群組:General BioChemistry 1040218 [1209] GGT TP ALB ALT ALP T-bil|
+|AST (U/L) (g/dL) (g/dL) (U/L) (U/L) (mg/dL) (U/L) 108 5.5 3.1 354|
+|204 16.22 521 PT PTT PT INR time/item (sec) (sec) () 1040218     |
+|[1209] 21.1 47.7 1.98 beside abdominal echo: mild railroad track |
+|sign in IHD A: 1. Avoid the hepatotoxic drugs 2. Arrange formal  |
+|abdominal echo 3. Close monitor the signs/symptoms of liver      |
+|decompensation 4. Consult dematologist for drug eruptions        |
+|management and treatment 5. Keep symptomatic treatment 6. Follow |
+|up liver function and PT/PTT on 2/20 Treatment Goal: decrease    |
+|liver function during hospitalization                            |
+|出院規劃(Discharge Planning)                                     |
+|管路留置狀況:有 靜脈管路留置(含Hickman / Port-A)：有 右手 雙腔導 |
+|管留置：無 鼻胃管留置：無 氣管管路留置：無 胃造廔口：無 尿管留置 |
+|：無 膀胱造廔：無 傷口引流管：無 其他導管： 日常生活功能分數：100|
+|預期出院後居住場所：與家人同住 預期出院後主要照顧者：自己 女兒   |
+|出院規劃收案篩檢：一般病患                                       |
+|主治醫師評論(VS Comments)                                        |
+|I agree with the assessment of the resident.                     |
+|醫師姓名                                                         |
+|何肇基 主治醫師                                                  |
+

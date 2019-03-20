@@ -1,0 +1,11 @@
+
+HCC with Rt PVT; LC with EV/GV bleeding
+s/p HAIC for 45 cycles; C45D1: 2014-12-30
+Tc99m-MAA scan: lung/liver ratio: 38.3 %
+Tumor progression with lung and multiple LN mets
+Melena: PES: EV, F3Cb with RCS; GU, A2ulcers
+mFOLFOX C1D14
+Physically: shifting dullness (+)
+
+1. C2D1 mFOLFOX on 2/11 if WBC>4,000; PLT>75K, Cre<1.5(當天早上在抽急CBC,
+Cre, Bil)

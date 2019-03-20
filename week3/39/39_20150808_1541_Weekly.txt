@@ -1,0 +1,76 @@
+
+Brief Summary of this week
+After admission, one fever episode occurred on 2015/8/6. Since nosocomial
+infection could not be ruled out, we added Tazocin for infection control.
+However, blood culture showed fungemia thus we checked MIC level and
+administrated Diflucan. She kept afebrile since 8/7.
+
+Assessment
+<Antibiotic history>
+Tazocin 8/6~
+Diflucan 8/7- D1
+
+Tazocin 7/3-7/6
+Imipenem 7/6-7/22
+Daptomycin 7/16-7/29
+Cravit 7/16-8/03
+Cefmetazole 8/03-8/04
+
+Arousable consciousness, delirium
+RHB
+bilateral mild crackles, decreased left side
+Abdomen: soft, mild distended, normoactive bowel sound, no guarding
+
+<Culture data>
+7/28 S/C Stenotrophomonas maltophilia (Levofloxacin R)
+7/23 B/C A-line: no growth
+7/20 B/C A-line: no growth
+7/16 B/C Enterococcus faecium (VRE)
+7/16 B/C CVP Enterococcus faecium
+7/14 B/C CVP Enterococcus faecium (VRE)
+7/13 B/C A-line Enterococcus faecium (VRE)
+7/13 S/C Stenotrophomonas maltophilia (Levofloxacin S)
+7/03 B/C PB Staphylococcus hominis ssp hominis
+
+<Ventilator setting>
+SIMV+PS: RR 1>8, PS 12, PEEP 5, FiO2 35%, Ti 1, IP 16
+->MV 10, TV 500, RR 17
+
+<Important intervention>
+7/03 TAE: with gelfoam fine particles in the LGA
+7/29 ND insertion for feeding
+
+<Important study findings>
+7/10 CXR: Left pleural effusion
+7/03 PES: Gastric ulcer, A1,Forrest III,upper body (not be likely the
+bleeder)
+7/03 TAE: Angiography showed hyperemic patch and a tiny pseudoaneurysm of
+the stomach supplied by LGA
+7/03 CTA: active bleeding in stomach
+7/07 PES: Susp. post-TAE gastopathy, r/o stomach perforation
+7/07 A+P CT: GI bleeding with gastric hematoma status post TAE
+Infarct, lateral segment of liver and spleen.
+7/21 PES: Gastric ulcers, fundus and upper body, suspected post-TAE related
+Gastric tumor, AW, upper body, r/o pseudoaneurysm
+
+8/5
+Discuss with his family about tracheostomy but they hescitated; they chose
+to try weaning first and consider tracheostomy if the weaning fails
+
+8/7
+No bloody or tarry stool, no coffee ground from NG
+Tolerate ND feeding, 45ml/hr --> try 50ml/hr on 8/7
+Consult ophthalmologist and GI fellow for endophthalmitis and liver abscess
+
+8/8
+Ophthalmalogist: No obvious signs of endothalmitis
+GI specialist: no obvious liver abscess
+fair activity and consicuosness level
+
+
+Plan
+1. Keep Tazocin and diflucan. Pending final pathogen and fungus MIC
+2. Increased milk ND feeding to 50ml/hr since 8/7.
+3. Keep NG drainage, shift PPI to oral form
+4. Slow down weaning due to fever and fungemia
+

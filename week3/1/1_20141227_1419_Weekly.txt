@@ -1,0 +1,128 @@
+
+Brief Summary of this week
+After admission, CVVH was started on 11/25 for severe lactic acidosis.
+Maxpime and metronidazole were given for Enterobacter bacteremia and
+suspected left psoas muscle pyomyositis. His consciousness gradually became
+clear and vasopressor was tapered.
+   Radiologist was consulted on 11/26 for psoas abscess, while CT-guided
+drainage was not feasible. CVVH was discontinued on 11/27 morning for
+improved acidosis. Large amount of tarry stool was noted, and component
+therapy was given. B/C (11/24 specimen) yielded Enterobacter aerogenes, and
+S/C (11/24 specimen) yielded P. aeruginosa and Proteus mirabilis. So
+Maxipime was not changed. Recurrent fever was noted on 11/27 evening, and
+workup was repeated. SLED was started on 11/28 for fluid overload. NG
+feeding with D5W was started on 11/29. Furosemide continuous infusion was
+started on 11/29 for oliguria. However, poor response with fluid overload
+still persisted. Cash albumin was given. CVVH was also started since 11/30,
+but AK clots were noted frequently, so the CVVH was discontinued on 12/1,
+and shifted back to SLED.
+   Low grade fever with consciousness drowsy occurred again on 12/3. Under
+the susepct of infection poor control, abdominal CT was arranged on 12/4
+and it showed enlarged L't psoas muscle abscess size with suspect multiple
+L't renal abscess. Antibiotic as upgraded to Tygacil and Fortum. We also
+consulted radiologist again and pigtail was placed on 12/4. The blood
+culture via CVC showed ampicillin resistant Enterococcus, so Vancomycin was
+added. CVC was removed and a new one was placed. After there managements,
+his fever seems subsided gradaully. The consciousness was also improved.
+However, NG coffee ground was noted since 12/4. NPO with IV PPI were given.
+We consulted GI man for EGD, but GI man thought that his condition was not
+suitable for EGD(poor general condition with no family permit), so
+conservative treatment was suggested first. His GI bleeding was improved
+gradually under conservative treatment. NG feeding was restarted since
+12/11.
+   The final psoas muscle abscess culture revealed Enterobacter aerogenes.
+We de-escalated antibiotic to Maxipime only according to drug sensitivity
+test. However, low grade fever with consciounsess drowsy occurred since
+12/10. Teicoplanin was added for GPC coverage. Paracentesis was done and
+high LDH was noted during ascites study. The fever with consciousness
+deterioration, poor digestion and abdominal distention occurred
+subsequently. Antibiotic was upgraded to cravit and Invanz for broader
+coverage. Brain CT on 12/18 showed no obvious ICH. However, abdominal CT on
+12/18 disclosed suspicious descending colon perforation with
+pneumoperitoneum and massive ascites. Diflucan was added. We consulted
+general surgeon and they thought operation risk is too high, so operation
+was not suggested. Then we consulted radiologist and two pigtails were
+placed for dirty ascites drainage. Due to poor grave prognosis without
+family support, we consulted palliative care team and they will cooperate
+with us to conduct the end-of-life care including comfort care and even
+withdrawal of life-sustaining support.
+   After pigtail intra-abdominal abscess drainage and strong antibiotic,
+the fever seems subsided gradually. However, new fever occurred again on
+12/23. After discussing with ID specialist, antibiotic was upgraded to
+Tygacil and Ceftazidime. The abdominal abscess culture disclosed candida
+species(suspect fimetaria). High diflucan MIC was noted, so antifungal
+agnet was shifted to anidulafungin. On 12/27 morning, anisocoria(pupil
+size:L't > R't size) was noted. We will arrange emergent brain CT and keep
+following up his condition.
+
+Assessment
+ABx: Micafungin 12/26-, Tigecycline+Fortum 12/25-
+     s/p Ertapenem + Cravit 12/17-12/25, Targocid 12/10-12/25
+     s/p Diflucan 12/18-12/26
+     s/p Maxipime 12/10-12/17, Vancomycin 12/6-12/8,
+     s/p Maxipime 11/24-12/4,
+     s/p Tigacyl 12/4-12/10, Ceftazidime 12/4-12/10
+
+ABP 122/47mmHg under levophed 5mcg/min
+PCV: IP20  PEEP6  FiO2:0.35 => Tv:650, MV:10.4, SpO2 98%
+
+Abd.CT(12/4): Suspected left iliopsoas abscess. Suspected left renal
+abscess
+=> iliopsoas abscess became larger compare to previous image
+=> s/p small size pig-tail drainage due to limited safe margin, exchange a
+larger one pigtail will be done on 12/5 afternoon
+=> 12/5, 12/11, 12/15 Pigtail revision
+
+Abd.CT(12/18): Descending colon perforation with pneumoperitoneum and
+massive ascites
+=> General surgeon: the operation is not feasible due to high risk!
+=> CT-guided pig-tail(x2) insertion to abdominal cavity on 12/18
+
+E2VtM1, stupor
+HEENT: anicteric sclera, pale conjunctiva
+            anisocoria(pupil size:L't > R't size)
+Heart: RHB, no obvious murmur
+Chest: Bilateral coarse
+Abdomen: softer, silent bowel sounds
+Extremities: pitting edema 2+, ischemic changed over bilateral feet,
+especially left toes
+
+12/26 severe intradialysis hypotension, improved after increase levophed
+and off UF, SLED 4hrs
+
+Culture: S/C: PsA (S to Maxipime)
+             B/C(12/4) CVC: Enterococcus faecalis/faecium
+             Abscess/C:Enterobacter aerogenes
+             S/C: Stenotrophomonas
+             Ascites/C: Few enterococcus faecium
+             B/C(D-L and A-line): Bacteroides ovatus
+             Ascites/C: E.coli, Enterococcus species, Bacteroides
+             Ascites/C:suspect candida fimetaria!!(Diflucan MIC:32)
+             S/C: Stenotrophomonas
+
+12/9 有一位女士(台大心理系教授
+連韻文)表示是病人十多年的朋友，病人出院後要由她來照顧，詢問相關的醫療決策是否
+可由她來負責
+12/17 Neurologist: sepsis or critical illness related neuropathy related
+con's change and general weakness were suspected, suggest arrange Brain EEG
+and NCV
+brian CT: Leukoaraiosis and brain atrophy
+12/18 After discussing with 倫理諮詢 and Hospice team
+        => 目前治療應以病患最大利益為主=> DNR 不電不壓
+12/25 社工:會找民間見證人協助醫療代理人之簽署見證
+
+Plan
+1. Keep ABx as Tygacil+Fortum+Micafungin
+    Wait for repeated ascites fungus culture
+2. NPO with NG/anal tube decompression
+    Keep pit-tail drainage for intra-abdominal abscess
+3. TPN for nutritional support
+4. Arrange emergent brain CT due to anisocoria
+    If obvious ICH => May discuss with hospice team about withdrawl
+5. Keep iHD(SLED) QW1,3,5. Set DW around 63kg
+    Don't shift to CVVH due to terminal disease
+    F/U renal function, urine output, ABG and electrolytes
+6. Keep contact with social worker, 倫理諮詢, Hospice care
+   => 目前治療應以病患最大利益為主=> 不電不壓
+7. Informed patient's friends the grave prognosis
+    Discuss with friends to generate one 醫療代理人!!

@@ -1,0 +1,13 @@
+
+HCC with Rt PVT; LC with EV/GV bleeding
+s/p HAIC for 45 cycles; C45D1: 2014-12-30
+Tc99m-MAA scan: lung/liver ratio: 38.3 %
+Tumor progression with lung and multiple LN mets
+Melena: PES: EV, F3Cb with RCS; GU, A2ulcers
+mFOLFOX C1D9
+Grade 3 myelosuppression
+
+1. Tx as febrile neutropenia promptly if fever occur
+2. Give G-CSF 300 ug sc qd for 3 days (NHI)
+3. PLT transfusion (single donor) to keep PLT > 80K
+4. Watch out GI bleeding

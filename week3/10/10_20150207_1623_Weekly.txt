@@ -1,0 +1,112 @@
+
+Brief Summary of this week
+The culture of sputum on 01/24 showed Pseudomonas aeruginosa, and pleural
+effusion showed E.coli and Enterococcus gallinarum (VRE). The culture of
+pleural effusion on 01/27 showed Pseudomonas aeruginosa, Enterococcus
+faecium, Enterococcus casseliflavus (VRE), Candida albicans, and Candida
+tropicalis. The culture of pleural effusion from chest tube on 01/30 showed
+Candida tropicalis, and the culture from right subphrenic drain showed
+Enterococcus faecium and Candida tropicalis.
+     Only mild drainage was noted in the right chest tube. After discussing
+with the chest surgeon on 02/04, right pleural irrigation with normal
+saline 1000 ml BID was performed. Atrial fibrillation with rapid
+ventricular response happened intermittently, so Cordarone was shifted to
+IV form on 02/06. Low-grade fever was noted since 02/04. Porlong PT and
+hypoalbuminemia were noted, so Vitamine K1 and albumin were given.
+Hyperbilirubinemia was also noted, suspected TPN or liver decompensation
+related.
+
+
+Assessment
+Meropenem (1/24-) D15
+Ampicillin (1/30-) D9
+Anidulafungin (02/02~) D6
+
+Fluconazole (1/27-2/02)
+Targocid (1/24-1/30) emyema Gram stain: GPC
+Metronidazole (1/19 - 1/24) empirical for bowel perforation
+Ceftiraxone (1/16 - 1/24) empirical for bowel perforation
+
+Intermittent low grade fever without hemodynamic change
+Last septic workup: 02/06
+I/O: 1835/1560 (+275)/8hrs, UOP: 370 ml/8hrs
+CVP: 3 mmHg
+NG decompression: 0 ml/8hrs
+Right side chest tube: turbid brown 300 ml/8hrs
+Right subphrenic rubber drain: turbid brown, 800 ml/8hrs
+Left Douglas pouch drain: yellowish with some blood, 20 ml/8hrs
+
+[PE]
+E1VtM4
+HEENT: conjunctiva: no pale, sclera: icteric
+Chest: bilateral coarse
+Heart: RHB, no murmur
+Abdomen: normoactive bowel sound, no tenderness, no rebound tenderness
+Extremity: dry
+
+[Ventilator settings]
+PSV FiO2 35%, PEEP 6, PS 14
+=> Tv ~400, Mv ~10, RR 24, SpO2 100%
+
+[Important images and studies]
+1/28 Pathology
+(1) Intestine and colon: inflammation and necrosis
+(2) LN and appendix: no evidence of metastasis
+
+[Recent culture]
+1/16 blood: (-) x 2
+1/24 S/C:PsA 2+
+1/24 Pleural effusion: E.coli few (S to 3rd cefa and quinolone, S to
+carbapenam), Enterococcus gallinarum few(VRE)
+1/27 S/C:neg
+1/27 Pleural effusion: Pseudomonas aeruginosa 2+, Enterococcus faecium 3+,
+Enterococcus casseliflavus 3+ (VRE),
+     Fungus culture: Candida albicans, Candida tropicalis
+       => MIC of Candida tropicalis: 0.50
+1/30 Right subphrenic rubber drain culture: enterococcus faecium 1+,
+Candida tropicalis 2+
+     Right chest tube: Candida tropicalis few
+2/2  Right subphrenic rubber drain culture: Candida tropicalis 1+
+
+[Important consultations and family's decision]
+1/26 Consult CS for empyema, arrange VATS
+1/28 GS: due to proximity of ileostomy to lower portion of laparotomy
+wound, high likelihood of wound/fascia infection, keep laparotomy wound
+open to allow open drainage and prevent subcutaneous abscess formation
+1/26 family signed DNR except medication, refuse hemodialysis
+2/02 ID: shift Diflucan to Anidulafungin due to liver function deteriorated
+under Diflucan and persistent fever
+2/04 CS: suggest right pleural irrigation with N/S 1000 ml BID.
+2/5 CS: suggest follow up CXR QD and keep irrigation
+2/6 ID: If fever with hypotension or leukocytosis, change Mepem and
+ampicillin to Tatumcef and Tigecycline.
+
+[Important interventions and new added medication]
+1/24 desaturation, s/p thoracentesis, paracentesis, shock, ETT+MV,
+Mepem+Targocid
+1/27 VATS: fecal materal in right pleural cavity, s/p drainage and chest
+tube insertion;
+--> consulted GS for exploratory laparotomy: necrotic tissue at post-RFA
+liver, a 3x3cm perforation at colon hepatic flexure, with focal abscess
+formation due to severe peri-hepatic adhesions, no apparent diaphragm
+rupture found, s/p right hemicolectomy and end-ileostomy
+2/04 Shift PCV to PSV
+2/7 Porlong PT, hypoalbuminemia, hyperbilirubinemia
+    => add Vit.K1 and Albumin
+
+
+Plan
+1. Keep Mepem, ampicillin, and Anidulafungin for empyema, monitor fever
+curve; repeat septic workup today, pursue culture results.
+2. ID: If fever with hypotension or leukocytosis, change Mepem and
+ampicillin to Tatumcef and Tigecycline.
+3. Keep ventilator support and taper sedation agents
+4. Keep I/O balance
+5. Keep NPO and TPN support due to colon perforation; Continue open
+drainage for lower laparotomy wound.
+6. Right pleural irrigation with N/S 1000 ml BID as the CS doctor
+suggested.
+7. Keep Cordarone for Af-RVR.
+8. DNR except medication; family refuse hemodialysis
+9. Vit.K1 and Albumin for porlong PT and hypoalbuminemia.
+10. Contact with GI doctor VS陳健弘 for Baraclude (since next W3)

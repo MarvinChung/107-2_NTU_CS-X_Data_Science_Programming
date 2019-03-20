@@ -1,0 +1,111 @@
+
+Brief Summary of this week
+Profound shock requiring ceiling dose of Levophed+ Pitressin+ Epinephrine
+was found upon admission to 3A2. Central catheter was replaced as blood
+culture from previous CVC yielded GNB, which final report yielded resistant
+strain E.Coli. Stress dose Solu-cortef (50mg BID) was administered. GCS-f
+was given due to neutropenic fever while chemotherapy (BOMES) was
+suspended. Mepem was continued and Vorinocazole was added as  aspergillus
+antigen showed elevated titer of 5.018. Pre-emptive Ganciclovir was given
+to cover CMV viremia (CMV viral load 3080). Sputum specimen was tested
+positive for PJP by RT-PCR hence Sevatrim was administered. Since 12/25
+morning, limb tonic twitching with rightward gaze and post-ictal paralysis
+was noted. Immediate brain CT for concern of ICH was unremarkable.
+Metabolic factors were corrected but intermittent convulsion was still
+noted. Brain CT with contrast and awake EEG were arranged as neurologist
+suggested. CT with contrast did not showed acute intracranial pathology.
+Keppra was first added, and subsequent use of continuous Anxicam infusion
+due to poorly controlled seizure. An episode of hypotension developed
+following Phenytoin loading.
+
+Assessment
+Mepem (12/24-) D5 for resistant E.Coli bacteremia
+Voriconazole(12/25-) D4 for suspected aspergillosis
+Sevatrium(12/25-) D4 for PJP pneumonia
+Ganciclovir(12/25-) D4 for CMV viremia
+
+<Culture summary>
+10/30 Urine culture: Proteus mirabilis 4000, CONS 2000
+11/10 Stool toxin A+B: positive
+11/11 Throat swab: Rhodotorula species
+12/18 Aspergillus Ag: positive (0.562)
+12/24 B/C (CVC) Resistant strain E.coli (7hr)
+12/25 Aspergillus Ag: positive (5.018)
+          CMV viral assay 3080
+          Sputum PJP PCR(+)
+
+<Ventilator setting>
+PCV IP 16 RR 12 FiO2 0.5 PEEP 10 Ti 0.7
+-> Tv 331 MV 9.79 RR 31 SpO2 97%
+
+ABP 90/62 HR 116 under Levophed 8.533mcg/min
+Anxicam 1mL/hr for suspected status epilepticus
+Urine amount 390mL/16hr
+Pronounced weight gain 59-> 77kg in one week
+Defervescence after steroid/ ice cooling blanket
+Intermittent right side (facial and limb) convulsion
+Tachypnea, low tidal volume, worsened oxygenation
+
+<Physical finding>
+GCS E2M5Vt, drowy, follow command(-)
+HEENT: short neck, grade 1 goiter, anicterus, isocoric pupil
+             bilateral swelling as before, no erythematous change
+             one palpable mass, movable, elastic at left level V
+Breathing: coarse crackles at basal lung, diminished over left basal
+Heart: rapid and regular, no audible murmur
+Abdomen: round and distended, hypoactive bowel sound, no gaurding
+Extremity: scattered ecchymosis at lower extremity, no peripheral edema
+
+[Treatment course]
+12/25 Seizure was noted 5 times within 30 sec since morning
+       4 limbs tonic twiching with right ward gaze. Post ictal paralysis+
+       K 3.0 s/p 60mEq, Ca 1.8, Mg 0.76 s/p 32mEq,  ammonia 36
+       Even after electrolyte suppliment
+       Pupil symmetric to light reflex. trace, 2mm.
+       Brain CT: no obcious ICH or midline shift
+       2014/2 CSF cytology: no blast.
+  => suspected sepsis related, r/o electrolyte imbalance, r/o CNS invol
+  => consult neurologist for further evaluation and AED use.
+12/26 intermittent seizure, GTC or right partial frequent but self-limited
+for about seconds
+         EEG: pending
+  Brain CT with contrast as neurologist suggestion: Mild leukoaraiosis
+  Neurologist: Keppra for tm. Suggest MRI (but no suitable due to
+                       levophed use). Suggest CSF study.
+  Hema 陳尹愷: Transfuse PLT 24U daily. If PLT>50K on W1, do CSF study.
+  ID: DC Daptomycin. Stop Cravit due to E.coli bacteremia, MIC resistent.
+  Due to severe sepsis, choose broad spectrum Abx: Mepem and
+  Maxipime were both has <1% risk of seizure. Tazocin is not suitable
+  due to Aspergillosis false positive risk. Cravit resistent to E.coli.
+  --> Keep Mepem
+
+12/27 still frequent GTC under Anxicam PRN and keppra use: 4-5times/8hrs
+      intermittent low TV and apnea, right hand grasping and mouth chewing,
+no response to calling --> seizure?
+      pupil 2.5+/2.5+,
+      four limbs to pain(RUL/LUL/RLL/LLL)= 3/3-/2/2 (as before)
+      low TV improved after Anxicam 2mg-> poor effect
+        --> 6mg STAT, then cIF 4mg
+      --> Discussed with neurologist, due to frequent GTC under Anxicam and
+keppra, suggest phenytoin for faster control. He could not sure whether
+intermittent low TV is related to seizure or not. Also, every iv form AED
+may has risk of SJS, possible but low.
+       Recheck loading dose with pharmacist: 15-20mg/kg, max 1000mg
+12/28 Bedside echo: left side pleural effusion, moderate amount
+
+
+Plan
+1. Mepem for resistant E.coli bacteremia, voriconazole for suspected
+invasive aspergillosis, Sevatrim for PJP pneumonia and Ganciclovir for CMV
+viremia. F/U Aspergillus Ag and CMV viral assay QW
+2. Stress dose solu-cortef 50mg Q12H, glycemic control
+3. GCSF 300mcg BID for neutropenic fever with septic shock
+4. Component therapy with PKT transfusion to  keep PLT >50K on W1 for
+lumbar puncture. Check HLA for platelet refractoriness
+5. NPO for GI bleeding and typhlitis, aminofluid supplement and bowel
+stimulation with Primperan
+6. Nexium 40mg Q12H for suspected duodenal ulcer bleeding
+7. AED: Keppra 1000mg Q12H, Anxicam pump run 1mL/hr for suspected status
+epilepticus
+    Consider brain MRI when the condition stablizes.
+    Pursue EEG report

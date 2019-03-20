@@ -1,0 +1,115 @@
+2016/01/13 01:02 
+主訴(Chief Complaint) 
+Informant:patient and previous medical records
+Suddent onset of slurred speech and weakness of right leg on 2015/12/29 
+病史(Brief History) 
+This 68-year-old man has past history of:
+1. IHCA status post CPR and ECMO due to cardiovascular disease(3-vessel-disease with NSTEMI), status post CABG on 2011/12/28
+2. Chronic kidney injury for 17~18 years with OPD follow-up
+3. Hypertension for 10+ years, under medication control 
+4. Type 2 diabetes mellitus for 10+ years, under medication control
+5. Left lower limb status post above knee amputation  due to peripheral arterial occlusive disease in 2012/2 
+6. Old infarctions at left posteior frontal and parietal cortical/subcortical regions (2013 MRI)
+  At baseline, he could walk with quadricane slowly (with 左下肢義肢), and communicate freely. As for his CVD, he was under DAPT(Bokey+Plavix), and shifted to Plavix only since 2015/12/25 due side effect of GI upset.
+  According to the patient's statement, he had slurred speech and right limbs waekness after woke up on 2015/12/29 morning. He also had nausea/vomiting, headache over the occipital region, vertigo, and blurred vision. Besides, there were drooling and cholking when eating. The symptoms was not so severe that bothered him very much(still able to walk with quadricane), thus, he neglected them. However, after 2 days on 2015/12/31, he could barely stand up so that he came to our ER for help.  
+  At ER, the BP was 178/100mmHg. Brain noncontrast CT on 2015/12/31 showed old infarct in left posterior frontal and parietal lobes, as well as lacunar infarcts in bilateral perinventricular white matter. So neurologist was consulted and brain noncontrast MRI was suggested for ruling out acute ischemic stroke. Therefore brain MRI on 2015/12/31 was arranged and revealed (1)Recent infarction at right paramedian pons, (2)Brain atrophy, leukoaraiosis and multiple old insults, (3)Diffuse atherosclerotic narrowing of cervicocranial vessels. Because acute ischemic stroke was confirm,hydration with normal saline 1000ml QD was given and antihypertensive drug was hold.Bokey was added and shifted back to DAPT. noted. Physical therapy started and Foley was removed on 2016/01/07 and oral feeding started on 01/08. Due to stable condition of acute ischemic stroke in right paramedian pons, he was admitted to PM&R ward for further rehabilitation program. 
+
+Family History: no systemic underlying disease
+Medication Allergy:No  病人自述 2016/01/12
+No  親屬描述 2016/01/04
+No  病人自述 2016/01/12
+No  病人自述 2016/01/12
+UnClear  病人自述 2011/12/21
+Medication ADR:unknown
+Allergy to Medical Device and Materials:No  病人自述 2016/01/12
+No  病人自述 2016/01/12
+No  親屬描述 2016/01/04
+No  病人自述 2016/01/12
+Current Medication:
+NTUH:Plavix 75 mg/tab 1 tab QD PO 5 days
+Takepron OD 30 mg/tab 1 tab QDAC LZ 4 days
+Dulcolax EC 5 mg/tab 1 tab HS PO 3 days
+HARNALIDGE D 0.2 mg/tab 2 tab HS LZ 3 days
+栓 Bisacodyl Supp 10 mg/pill 2 pill STAT R 1 days
+Glucobay 50 mg/tab 1 tab TID POMEAL 28 days
+警 Lantus SoloStar 300 IU/3 mL /pen 14 IU AS ORDER SC 28 days
+(8mm) Micro-Fine Insulin Pen Needle 31G /set 1 set QD SC 28 days
+NovoNorm 1 mg/tab 0.5 tab TIDAC15 PO 28 days
+Lasix 40 mg/tab 1 tab BID PO 28 days
+Aldactone 25 mg/tab 1 tab BID PO 28 days
+6.25 DILATREND 6.25 mg/tab 1 tab QD PO 28 days
+HARNALIDGE D 0.2 mg/tab 2 tab HS LZ 28 days
+Norvasc 5 mg/tab 1 tab QD PO 28 days
+Plavix 75 mg/tab 1 tab QD PO 28 days
+Bethanechol 25 mg/tab 1 tab BID PO 28 days
+(管4) 安柏寧 Alpraline 0.5 mg/tab 1 tab HS PO 28 days
+Other: nil 
+中草藥: nil 
+保健食品: nil 
+
+Past Medical History:
+1. IHCA status post CPR and ECMO due to cardiovascular disease(3-vessel-disease with NSTEMI), status post CABG on 2011/12/28
+2. Chronic kidney injury for 17~18 years with OPD follow-up
+3. Hypertension for 10+ years, under medication control 
+4. Type 2 diabetes mellitus for 10+ years, under medication control
+5. Left lower limb status post above knee amputation  due to peripheral arterial occlusive disease in 2012/2 
+6. Old infarctions at left posteior frontal and parietal cortical/subcortical regions (2013 MRI)
+
+Hospitalization:
+1. 1999,nephrotic syndrome
+2. IHCA status post CPR and ECMO due to cardiovascular disease(3-vessel-disease with NSTEMI), status post CABG on 2011/12/28
+3. Left lower limb status post above knee amputation  due to peripheral arterial occlusive disease in 2012/2
+
+Past Surgical History:
+1. IHCA status post CPR and ECMO due to cardiovascular disease(3-vessel-disease with NSTEMI), status post CABG on 2011/12/28
+2. Left lower limb status post above knee amputation  due to peripheral arterial occlusive disease in 2012/2
+
+Travel History: nil 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:小學
+職業:退休
+宗教信仰:道教
+婚姻狀態:已婚
+使用語言:國語 台語 
+口述血型:B，RH:不清楚，輸血反應:
+抽煙:沒有
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Psychological History and Evaluation
+意識狀態:警醒
+認知功能:異常 計算能力障礙
+精神情緒狀態:正常  
+安全問題:有 其他 跌倒
+睡眠形態:正常  
+
+Nutritional Screen
+攝食情形:優，攝取完整
+排便狀態:正常
+BMI:21.71
+
+Fall Risk Assessment
+總分:10
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+1.Systemic: weight loss(-), easy-fatigability(+), night sweats(-)
+2.Skin:  petechiae(-), purpurae(-), skin rash(-), itching(-),
+3.HEENT: headache(-),dizziness(-), blurred vision(-), strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing impairment(-), tinnitus(-), vertigo(-), nasal stuffiness(-), nasal discharge(-) , epistaxis(-), gum bleeding(-), sore throat(-),oral ulcer(-)
+4.Cardiovascular:  exertional chest tightness(-), nocturnal dyspnea(-), orthopnea(-) syncope(-), palpitation(-), intermittent claudication(+) due to PAOD in right leg 
+5.Respiratory: dyspnea on exertion(-), cough(-), chest pain(-), hemoptysis(-), productive cough (-), pleuritic chest pain(-)
+6.GI: anorexia(-), nausea(-), vomiting(-), dysphagia(-), heart burn(-), acid regurgitation(-), abdominal fullness(-), hunger pain(-) midnight pain(-), constipation(-), diarrhea(-), melena(-), change of bowel habit(-), small caliber of stool(-), tenesmus(-), flatulence(-)
+7.Urogenital: flank pain(-), hematuria(-), urinary frequency(-), urgency(-), dysuria (-), hesitancy(-), small stream of urine(-), impotence(-), nocturia(-), polyuria(-), oliguria (-)
+8.Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-), back pain(-)
+9.Metabolic: heat intolerance(-), cold intolerance(-), thirsty(-)
+10.Nervous: numbness (+)right hemiparesis hemiplegia (-) 
+身體檢查(Physical Examination) 
+BH:165 cm   BW:59.1 kg
+T:36.4 P:93 R:18
+BP:158/86 mmHg
+Pain:0
+
+General: ill-looking, drowsy but arousable, and oriented but inconsistent
+HEENT: conjunctivae: pale, sclerae: anicteric, pupils: isocoric 3/3mm, light reflex +/+, 
+  Throat injection (-), tonsil enlarge (-), oral ulcer or thrush (-) 

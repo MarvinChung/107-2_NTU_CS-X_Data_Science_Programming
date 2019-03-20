@@ -1,0 +1,18 @@
+
+Persistent candidemia.
+Antifungal agent adjusted.
+The family changed the mind again on withholding antimicrobial agent.
+Inform the family about the potential harm to the patient that the
+antimicrobials should be used as planned.
+
+2015/08/23 ID+DS Blood.#1:Yeast-like organism   *
+2015/08/23 WBC:10.12   K/μL
+2015/08/23 HB:9.6   g/dL
+2015/08/23 PLT:174   K/μL
+2015/08/23 BUN:53.0   mg/dL
+2015/08/23 CRE:1.8   mg/dL
+2015/08/23 C-Reactive Protein:8.49   mg/dL
+2015/08/23 PH:7.391   *
+2015/08/23 PCO2:37.7   mmHg
+2015/08/23 PO2:40.8   mmHg
+2015/08/23 HCO3:23.1   mmol/L

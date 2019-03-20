@@ -1,0 +1,123 @@
+
+[Diagnosis]
+1. CAD, 3-vessel disease, status post POBAS (BMT) to LCX on 2011/11/1, with
+ISRS, status post POBAS (BMT) to LCX and POBA to LAD on 2012/03/13, NSTEMI
+on 2015/5/10
+2. Bilateral lower legs PAOD, s/p left foot PTA on 3/4 and 3/10, with dry
+gangrene change, on wound dressing
+3. ESRD, under H/D QW 2,4,6 now.
+4. Type 2 DM
+5. Cerebral infarction on 2010, left pons, with right hemiplegia, left
+dysmetria and dysphagia
+6. HCAPneumonia, recovered.
+7. Pruritus, suspected autoimmune disease-related, ANA 1:320+ (centromere
+cytoplasmic), under hydroxychloroquine + prednisolone 2.5mg(hold)
+
+[Brief history]
+After admission, we kept antibiotic treatment for pneumonia, and shifted
+antibiotics to ceftazidimefrom 4/28 for 14 days by the suggestion of ID
+specialist Dr. Chang. The patient complained about progressive right foot
+pain and worsening of the right ankle ulcer from 4/27. The cardiologist Dr
+Chang and Dr Lee suggested re-evaluation and possible revascularization.
+The chest radiograph on 4/30 reassured improving pneumonia, while the blood
+test showed elevated white cell count.
+On 4/30, the patient complained chest tightness and mild dyspnea. The EKG
+and cardiac enzymes did not favor new acute myocardial infarction.
+On 5/1, the patient's activity decreased gradually and the consciousness
+drowsiness developed on 5/4. On examination, the patient was arousable but
+drowsy and disoriented. The right hemiplegia was stationary, while the left
+muscle power decreased from 3+~4 to 2+. There were no signs of increased
+intracranial pressure. The laboratory study showed mildly elevated BUN and
+ammonia, which were corrected after scheduled hemodialysis on 5/4. The
+emergent brain CT scan without contrast reassured no new intracranial
+hemorrhage. The oral gabapentin (自備) was discontinued, and the patient
+was nil per os. The consciousness improved gradually from 5/5 and was
+totally clear on 5/8.
+On 5/4, the patient's youngest daughter visited the Head Nurse of the
+Hospice Ward, and requested hospice combined care. The family members
+discussed with hospice specialist on 5/4 and entered combined care program.
+The patient herself signed DNR on 5/6. They had discussed about withdrawing
+regular hemodialysis and turning to hospice care, but had not reached a
+conclusion yet.
+The chest tightness was noted again since 5/10. EKG showed V3-V6 ST
+depression, and the cardiac enzyme was not elevated. Unstable angina, TIMI
+4 was impressed. We contacted with Dr. 張博淵, who suggested not suitable
+to PCI. NTG infusion was applied and switched to oral ismo-20. However,
+dyspnea occured and excerbated this week, the followed-up chest Xray showed
+improved pulmonary edema. No obivious infection sign was noted. The ACS
+with lung edema or nosocomial pneumonia was suspected. We started empirical
+antibiotics with Fortum. After discussed with family, we presribed Morphin
+as symptom reliever. We arranged cardiac echo on 5/19, which revealed
+regional wall motion abnormalities and decrease LVEF. After discussed with
+her family, we kept the palliative treatment. We adjusted the morphin
+dosage to 2mg SC Q6H use. Also, we had contacted with Dr. 賴俊夫 for the HD
+issue. The family meeting was held on W5 with Dr. 賴俊夫 and hospice care
+nurse, and the family expressed the willing of withdraw the HD. We switched
+morphin to Fantanyl patch by the suggestion of Dr. 賴 for the possible
+complication of morphin accumulation. An episode of fever was noted on
+5/25. We added empirical antibiotics and hydration support.
+We will keep hospice care and discussed with family about withdraw HD.
+
+[Assessment]
+Fortum D4 (5/26~)
+
+*DNR
+
+*Vital sign
+2015/05/29 08:55 T:35.7 P:97 R:29
+2015/05/29 08:54 BP:114/51
+>>> vital sign stable, no dyspnea
+
+Daily Input per os:160ml
+
+CXR: bilateral infilatration increased, CP angle blunt
+fluid accumulation at lung and hand
+
+discussed with family about fentanyl patch use and its risk
+discussed with family about HD issue, discontinued because of little help?
+>>> family: understand, discussed with other family member, keep HD on W4,
+hold if hypotension
+
+*Lab
+2015/05/25
+PH:7.354 *
+PCO2:35.2 mmHg
+PO2:215.0 mmHg
+HCO3:19.8 mmol/L
+BaseExcess:-6.0 mmol/L
+
+WBC:16.11 k/μL
+HB:10.2 g/dL
+PLT:191 k/μL
+
+Alb:3.8 g/dL
+AST:43 U/L
+ALT:24 U/L
+UN:55.0 mg/dL
+CRE:2.9 mg/dL
+Na:133 mmol/L
+K:5.3 mmol/L
+Ca:2.33 mmol/L
+Mg:1.00 mmol/L
+
+*Consultation
+contact with Dr. 張博淵
+>>> keep hospice care, morphin controlled, oxygen support
+
+contact with hospice care
+>>> adjust morphin dosage, 已排入病房等候名單
+
+contact with Dr. 賴俊夫
+>>> will discussed with family about the HD issue
+>>> fair response to HD. Fear of possible morphine complication,
+considering Fentanyl patch, elevated morphine dosage to 1.5mg Q4H
+
+contact with 藥師:
+>>> fentanyl patch, difficult to control the dosage and the risk of
+respiratory depression.
+
+[Plan]
+1. Hospice care
+2. Hemodialysis QW2,4,6
+3. dyspnea controlled with fentanyl patch 12.5mg
+4. empirical abx

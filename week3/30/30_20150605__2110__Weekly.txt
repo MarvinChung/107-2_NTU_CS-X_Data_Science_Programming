@@ -1,0 +1,59 @@
+
+79 year old man
+
+<Diagnosis>
+1. Hematemesis, suspect gastric ulcer with gastric tumor bleeding related,
+noted since 2015/5/4.
+2. Metastatic gastric cancer, adenocarcinoma, intestinal type, Borrmann
+type III, moderately differentiated, with liver metastasis, stage IV, non-
+resectable, cT4N2M1, HER2/Neu 3+/3+ with increasing Ki-67 activity, p53
+negative, status post palliative chemotherapy cisplatin + capecitabine (IV)
+(2013/5/28-2013/7/30), progressive disease, status post phase II/III study
+with TDM1 (VIII) (2013/8/30-2014/1/24), partial response (PR) then later
+with progressive disease (PD), status post LJM716+ Herceptin (VIII)
+(2014/2/25-2014/9/30), partial response (PR) then PD later, under ASLAN001
+plus Cisplatin and Capecitabine (VI, 2014/10/22~ 2015/03/11), with
+obstructive jaundice, status post PTCD (2015/05/14)
+
+<Treatment course>
+    After admission, we consulted radiologist, and PTCD placement was
+performed on 2015/05/14. Follow-up lab data on 2015/05/18 revealed decline
+of t-bil level (11.45->7.85). Anemia was also noted, and cash oral Nexium
+was prescribed. Family meeting was arranged on 2015/5/20, and terminal
+status was informed. Hospice concept was introduced, and they agreed with
+palliative care. Home TPN training was also arranged for poor oral intake.
+    On 6/3, follow up abdominal standing X ray showed increased bowel gas
+with dilatation of bowel loops in the abdomen, r/o ileus. Primperan and
+Bisacodyl were prescribed and increased dose. On 6/4, hematemesis was noted
+several times since the morning. Blood transfusion with PRBC 2U+FFP 6U and
+Vitamin K-1 plus transamine were prescribed. Emergent upper GI panendoscopy
+was arranged however was hold due to severe INR prolongation (INR: 4.12).
+The patient's hematemesis received gradually. On 6/5, the patient received
+upper GI panendoscopy, which showed:
+(1) Gastric ulcer, several, AW of the upper body. (2)Suspicious gastric
+tumor, LC of the middle body. (3) Gastric tumor with narrowed pyloric ring,
+PW of the antrum. (4) Incomplete study. Due to large amount of blood clot
+with abdominal fullness, NG tube insertion was performed.
+
+<Assessment>
+Nutrition: minimal oral intake with TPN (Nutriflex 1000 mL)
+           -> home TPN training completed
+
+2015/05/14 PTCD  daily bile drainage amount: around 100-250mL
+
+2015/5/1 C+A+P CT: gastric cancer with enlarged abdominal lymphadenopathy,
+liver and right adrenal metastases. Biliary dilatation
+
+2015/5/5 Upper GI panendoscopy:
+
+<Plan>
+1. Keep Vitamin K-1 weekly and transamine
+2. If lots amount of hematemesis -> consider consult radiologist for TAE
+(Currently the patient's family still didn't signed the DNR)
+3. Record NG decompression amount.
+4. Record PTCD drainage amount and character.
+5. Nutrition support with TPN
+6. Supportive care, pending family's DNR result.
+7. Keep primperan Q8H, give Bisacodyl 2# Q8H
+8. NPO, avoid any food or water intake.
+9. Follow up CBC and PT/aPTT tomorrow morning and next W1

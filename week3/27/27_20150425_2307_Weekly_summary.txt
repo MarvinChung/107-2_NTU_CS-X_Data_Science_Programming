@@ -1,0 +1,31 @@
+
+83 M
+<Active Problems>
+1. Pneumonia with hypoxemia respiratory failure, status post intubation
+(2015/03/31-)
+<Inactive Problems>
+1. Pulmonary fibrosis
+2. Chronic obstructive pulmonary disease
+3. Left internal carotid stenosis, status post stenting on 2012/04/13
+4. Cerebral infarction
+5. Diabetes mellitus
+
+<Treatment course>
+For ARDS, we kept solu-medrol. Mepem and Diflucan was discontinued on 4/17.
+Poor prognosis was informed. There was two episode of AfRVR on 4/23 and
+4/25 respectivley. Sputum culture on 4/23 yielded Acinetobacter baummanii
+and Burkholderia cepacia complex. Ceftazidime was administered.
+We started to taper down Solu-medrol on 4/24.
+
+<Assessment>
+PCV(IP:22/RR:28/IT:0.9"/PEEP:8/FiO2:55%)
+E1M1Vt.
+P/F:102.8 /55 this morning.
+AfRVR, s/p Herbesser, rate decreases to 75, BP:90/50.
+
+<Plan>
+1.  Keep solu-medrol 20mg Q12H for ARDS as well as IPF
+2.  Intensive chest care
+3.  Keep ceftazidime for 7 days
+4.       Inform poor prognosis.
+5.       Give oral herbesser for rate control

@@ -1,0 +1,202 @@
+
+2014/12/21 09:49 | |
+|主訴(Chief Complaint)                                            |
+|Informant:patient's parents Noticed unconsciosuness at 7AM on    |
+|12/20 by her parents                                             |
+|病史(Brief History)                                              |
+|This 34y/o woman has histories of: 1.Schizophrenia, paranoid type|
+|2.Suicide attempt and drug overdose, complicated with            |
+|hypersalivation and consciousness change, status post protective |
+|intubation and mechanical ventilation (2011/09/10-09/12)         |
+|3.Aspiration pneumonia, suspected drug overdose related tenacious|
+|sputum 4.Right wrist cutting wound, suicide related She has been |
+|followed at Psychiatrist OPD here. According to her parent's     |
+|statement and OPD note, she tapered her medication on her own due|
+|to relative stable mood for 7-8 months: Clozapine 100mg/tab from |
+|200mg daily to 100mg daily. Her psychiatirst knew about it. She  |
+|quit her job as schedule recently. However, her fluctuating mood |
+|began on 12/19 and she was angry to her mother. On 12/20 around  |
+|3AM, she sent a text to her parent with suicide intention. At    |
+|around 7 AM, she was noticed lying laterally on the floor at     |
+|living room. No ecchymosis, vomitus material, obvious trauma,    |
+|urinary or stool incontinence was noticed. According to her      |
+|family, her medication was at her room, with all pack-up, which  |
+|seems to be months-accumulation dose. She was sent to ER: E2V2M3,|
+|TPR= 34.6'C/99/22, BP 44/27mmHg, SpO2 94%. Refractory hypotention|
+|was noticed under inotropic agents, hydration. Lab showed        |
+|leukocytoss, electrolyes imalanace with hypo-kalemia,            |
+|hypomagnesemia, hypocalcemia, metabolic acidosis with lactic     |
+|acidosis. CXR showed right lung white-out. Under the impression  |
+|of shock, suspected medication related; and suspected aspiration |
+|pneumonia, she is admitted to ICU for evaluation and further     |
+|management. Family History: Medication Allergy:No 親屬描述       |
+|2014/12/20 No 病人自述 2010/02/03 Medication ADR:unknown Allergy |
+|to Medical Device and Materials:No 親屬描述 2014/12/20 Current   |
+|Medication: NTUH:Rocephin 500 mg/vial 1000 mg STAT IV 1 days     |
+|Rocephin 500 mg/vial 1000 mg Q12H IV 2 days Actein Effervescent  |
+|Tablet 600 mg/tab 2 tab STAT PO 1 days 警 Adrenaline 1 mg/1 mL   |
+|/amp 10 mg QD cIF 2 days 警 Adrenaline 1 mg/1 mL /amp 10 mg QD   |
+|cIF 2 days Rolikan 16.6 mEq/20 mL /amp 49.8 mEq STAT IV 1 days 警|
+|Levophed 4 mg/4 mL /amp 8 mg QD cIF 2 days Pitressin 20 U/1 mL   |
+|/amp 60 U QD cIF(CVC) 2 days 稀 KCl 20mEq+NS 100mL Inj 20 mEq/100|
+|mL /bag 20 mEq STAT IF(CVC) 1 days (TBSF) Albumin 10 g/50 mL 20% |
+|/vial (國血製劑) 20 g STAT IF 1 days 警 Dopamine HCl, Baxter 400 |
+|mg/250 mL /bag 400 mg QD cIF(CVC) 2 days 瓶 Rolikan 7% 250 mL/btl|
+|1 btl STAT IF 1 days (管4) Ativan 0.5 mg/tab 2 tab HS PO 28 days |
+|(管4) Imovane 7.5 mg/tab 1 tab HS PO 28 days Solian 200 mg/tab 1 |
+|tab HS PO 28 days Clozaril 100 mg/tab 1 tab HS PO 28 days Other: |
+|中草藥: unknown medication 保健食品:unknown Past Medical History:|
+|Hospitalization: unknown                                         |
+|社會心理相關評估(Psychosocial Assessment)                        |
+|Social Economic and Personal History 教育程度:大學 職業:其他     |
+|宗教信仰:無 婚姻狀態:未婚 使用語言:國語                          |
+|口述血型:O，RH:，輸血反應:沒輸過血 抽煙:有，煙齡:12年，10支/天   |
+|喝酒:沒有 檳榔:沒有 物質濫用:沒有 Psychological History and      |
+|Evaluation 意識狀態:昏迷 認知功能:無法評估 精神情緒狀態:無法評估 |
+|安全問題:有 其他 高危跌倒 睡眠形態:異常 其他 不適評 Nutritional  |
+|Screen 攝食情形: 排便狀態:異常 排便異常狀態:失禁 BMI:24.3 Fall   |
+|Risk Assessment 總分:12 (>=3分進行不倒翁計畫，請開預防跌倒醫囑)  |
+|系統性回顧(Review of System)                                     |
+|1.Systemic: weight loss(-), easy-fatigability(-), night sweats(-)|
+|2.Skin: petechiae(-), purpurae(-), skin rash(-), itching(-)      |
+|3.HEENT: headache(-), dizziness(-), blurred vision(-),           |
+|strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing  |
+|impairment(-), tinnitus(-), vertigo(-), nasal stuffiness(-),     |
+|nasal discharge(-), epistaxis(-), gum bleeding(-), sore          |
+|throat(-), oral ulcer(-) 4.Cardiovascular: exertional chest      |
+|tightness(-), nocturnal dyspnea(-), orthopnea(-), syncope(-),    |
+|palpitation(-), intermittent claudication(-) 5.Respiratory:      |
+|dyspnea(-), cough(-), chest pain(-), hemoptysis(-), pleuritic    |
+|chest pain(-) 6.Gastrointestinal: decreased appetite(-),         |
+|nausea(-), vomiting(-), dysphagia(-), heartburn(-), acid         |
+|regurgitation(-), abdominal fullness(-), hunger pain(-), midnight|
+|pain(-), constipation(-), diarrhea(-), melena(-), change of bowel|
+|habit(-), small caliber of stool(-), tenesmus(-), flatulence(-)  |
+|7.Urogenital: flank pain(-), hematuria(-), urinary frequency(-), |
+|urgency(-), dysuria (-), hesitancy(-), small stream of urine(-), |
+|impotence(-), nocturia(-), polyuria(-), oliguria (-)             |
+|8.Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-),      |
+|weakness(-), back pain(-) 9.Metabolic: heat intolerance(-), cold |
+|intolerance(-), thirsty(-) 10.Nervous: numbness(-),              |
+|paresis/plegia(-)                                                |
+|身體檢查(Physical Examination)                                   |
+|BH:160 cm BW:62.2 kg T:36.7 P:103 R:19 BP:104/48 mmHg Pain:0     |
+|Neurological Examination: . Consciousness:coma . Muscle power:NA |
+|. Gait:NA Head-Eye-ENT Grossly normal; Conjunctiva: Pink; Sclera:|
+|Anicteric Pupil: Isocoric, R/L: 3mm/3mm Light reflex: R/L: +/-,  |
+|+/-; EOM: Full and free Neck Jugular vein engorgement(-)         |
+|Goiter(-) Meningismus: Kernig sign(-), Brudzinski sign(-) Carotid|
+|bruit(-) Chest Thoracic cage contour: Symmetric, Retraction(-)   |
+|Vocal fremitus and expansion: Symmetric Percussion: Resonant     |
+|Breath sounds: Clear to auscultation bilaterally crackles(-),    |
+|wheezes(-), rhonchi(-), stridor(-) Heart Heart beat: Regular;    |
+|Murmurs(-) LV lift(-), RV heave(-) Increased cardiac size by     |
+|percussion(-) Adventitious sounds(-) Abdomen Flat & soft         |
+|Superficial vein engorgement(-); Protruded umbilicus(-) Bowel    |
+|sound: Normoactive Tenderness(-); Hepato-jugular reflux(-) Liver |
+|and spleen: Impalpable Extremities Freely movable, pulses        |
+|symmetric and intact, pitting edema(-) Back Knocking pain(-) Skin|
+|Abnormal pigmentation(-) Petechiae(-); Purpura(-); Ecchymoses(-);|
+|Telangiectasia(-) Rash(-), Plaque(-) Lymphadenopathy(-)          |
+|檢驗紀錄(Laboratory Report)                                      |
+|PH PCO2 PO2 HCO3 BaseExcess time/item (*) (mmHg) (mmHg) (mmol/L) |
+|(mmol/L) 1031220 [1406] 7.368 29.4 235.2 17.1 -8.5 1031220 [2217]|
+|7.580 21.7 249.5 20.6 -1.5 WBC RBC HB HCT MCV time/item (K/μL)   |
+|(M/μL) (g/dL) (%) (fL) 1031220 [1406] 18.50 3.07 9.8 28.6 93.2   |
+|1031220 [2217] 25.14 3.51 11.1 31.9 90.9 MCH MCHC PLT RDW-CV PS  |
+|time/item (pg) (g/dL) (K/μL) (%) () 1031220 [1406] 31.9 34.3 145 |
+|12.7 - 1031220 [2217] 31.6 34.8 168 12.5 - Blast Promyl. Myelo.  |
+|Meta Band time/item (%) (%) (%) (%) (%) 1031220 [1406] 0.0 0.0   |
+|0.0 0.0 0.0 Seg Eos. Baso. Mono. Lym. time/item (%) (%) (%) (%)  |
+|(%) 1031220 [1406] 90.6 0.1 0.1 3.3 5.9 Aty.Lym. PlasmaCell      |
+|Normobl. PS time/item (%) (%) () () 1031220 [1406] 0.0 0.0 0 -   |
+|群組:General BioChemistry UA ALB ALT time/item (mg/dL) (g/dL)    |
+|(U/L) 1031220 [1406] 4.1 3.0 9 群組:Biochemistry BUN CRE Na K Cl |
+|time/item (mg/dL) (mg/dL) (mmol/L) (mmol/L) (mmol/L) 1031220     |
+|[1406] 10.9 1.2 145 2.5 102 1031220 [2217] 153 2.3 108 1031221   |
+|[0052] Ammonia N T-BIL Ca Mg P time/item (μmol/L) (mg/dL)        |
+|(mmol/L) (mmol/L) (mg/dL) 1031220 [1406] 13 0.55 1.71 0.60 3.9   |
+|1031220 [2217] 1.96 1.14 <1.0 1031221 [0052] AST LacticAcid CK   |
+|CK-MB %CKMB time/item (U/L) (mmol/L) (U/L) (U/L) (%) 1031220     |
+|[1406] 11 13.77 18 15 88.2 1031220 [2217] 10.44 75 18 24.0       |
+|1031221 [0052] Troponin I K(U) Na(U) time/item (ng/mL) (mmol/L)  |
+|(mmol/L) 1031220 [1406] 0.019 1031220 [2217] 1.00 1031221 [0052] |
+|23 122 群組:Coagulation PT PTT PT INR time/item (sec) (sec) ()   |
+|1031220 [1406] 13.2 34.1 1.24 群組:Yes C-Reactive P rotein       |
+|time/item (mg/dL) 1031220 [1406] 0.05 群組: CRE(U) time/item     |
+|(mg/dL) 1031221 [0052] 41 Free Ca(急重症自 Hb(急重症自行檢驗)    |
+|Hct(急重症自行檢驗) K+(急重症自行檢驗) Na(急重症自行檢驗) 行檢驗)|
+|time/item (mmol/L) (g/dL) (%) (mmol/L) (mmol/L) 1031220 [0813]   |
+|1.20 15.2 46 2.86 138.5 1031220 [0946] 1.19 11.4 34 2.73 138.6   |
+|1031220 [1127] 1.11 10.9 33 2.82 136.4 Suger(急重症自行檢        |
+|LacticAcid(急 驗) 重症自行檢驗) time/item (mg/dL) (mmol/L)       |
+|1031220 [0813] 152 8.1 1031220 [0946] 146 7.9 1031220 [1127] 364 |
+|12.0 pH pCO2 pO2 HCO3 BaseExcess time/item () (mmHg) (mmHg)      |
+|(mmol/L) (mmol/L) 1031220 [0813] 7.308 35.9 52.3 18.1 -8.4       |
+|1031220 [0946] 7.301 33.1 51.5 16.5 -10.2 1031220 [1127] 7.306   |
+|26.4 247.3 13.3 -13.3 SO2 time/item (%) 1031220 [0813] 83.6      |
+|1031220 [0946] 82.9 1031220 [1127] 99.8 COHb time/item (%)       |
+|1031220 [0947] 3.5 群組:MULTISTIX Sp. Gr.(C) pH(C) Protein(C)    |
+|Glu.(C) Ketones(C) time/item (*) (*) (mg/dL) (mg/dL) (*) 1031220 |
+|[0831] 1.019 5.5 20 ( +/- ) - 2+ O.B.(C) Urobil.(C) Bil.(C)      |
+|Nitrite(C) WBC(C) time/item (mg/dL) (mg/dL) (mg/dL) (*) (*)      |
+|1031220 [0831] - ≦1.5 - - - Color Turbidity time/item (*) (*)    |
+|1031220 [0831] Yellow + 群組:Biochemistry BUN CRE Na K Ammonia N |
+|time/item (mg/dL) (mg/dL) (mmol/L) (mmol/L) (μmol/L) 1031220     |
+|[0823] 9.7 1.1 138 2.9 16 T-BIL Ca Mg LacticAcid CK time/item    |
+|(mg/dL) (mmol/L) (mmol/L) (mmol/L) (U/L) 1031220 [0823] 0.72 2.39|
+|0.80 7.04 35 CK-MB %CKMB Troponin I time/item (U/L) (%) (ng/mL)  |
+|1031220 [0823] 15 42.9 0.015 群組:Coagulation PT PTT PT INR      |
+|time/item (sec) (sec) () 1031220 [0823] 11.2 28.8 1.05 群組:WBC  |
+|Classification Blast Promyl. Myelo. Meta Band time/item (%) (%)  |
+|(%) (%) (%) 1031220 [0823] 0.0 0.0 0.0 0.0 0.0 Seg Eos. Baso.    |
+|Mono. Lym. time/item (%) (%) (%) (%) (%) 1031220 [0823] 85.3 0.2 |
+|0.1 4.4 10.0 Aty.Lym. PlasmaCell Normobl. PS time/item (%) (%) ()|
+|() 1031220 [0823] 0.0 0.0 0 - 群組:CBC+PLT WBC RBC HB HCT MCV    |
+|time/item (K/μL) (M/μL) (g/dL) (%) (fL) 1031220 [0823] 20.65 4.55|
+|14.5 42.6 93.6 MCH MCHC PLT RDW-CV PS time/item (pg) (g/dL)      |
+|(K/μL) (%) () 1031220 [0823] 31.9 34.0 198 12.5 - 群組:Yes       |
+|pro-BNP time/item (pg/mL) 1031220 [1015] 119 Sugar(One to uch)   |
+|time/item (*) 1031220 [0837] 127 1031220 [1422] 377 1031220      |
+|[1855] 344 1031220 [2242] 304                                    |
+|檢查紀錄(Examination Report)                                     |
+|Nil                                                              |
+|影像報告(Imaging Report)                                         |
+|Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師:|
+|游治維 影像時間: 2014/12/20 09:18 (32001CYM) 發報告時間:         |
+|2014/12/20 22:28 status post placement of endotracheal tube;     |
+|marked right pleural effusion and collapsed right lung; recommend|
+|clinical correlation and follow up. Chest : AP View (Supine)     |
+|醫令: Chest : AP View (Supine) 報告醫師: 游治維 影像時間:        |
+|2014/12/20 09:58 (32001CYM) 發報告時間: 2014/12/20 22:27 status  |
+|post placement of central venous catheter and nasogastric tube;  |
+|marked right pleural effusion and collapsed right lung; recommend|
+|clinical correlation and follow up.                              |
+|病理報告(Pathology Report)                                       |
+|Nil                                                              |
+|臆斷(Tentative Diagnosis)                                        |
+|1. Consciousness disturbance, shock, respiratory failure, status |
+|post endotracheal tube intubation and mechanical ventilation,    |
+|suspected medication overdose 2. right lung consolidation,       |
+|suspected aspiration pneumonia 3. Schizophrenia, paranoid type   |
+|4.History of suicide attempt and drug overdose, complicated with |
+|hypersalivation and consciousness change, status post protective |
+|intubation and mechanical ventilation (2011/09/10-09/12 5.Right  |
+|wrist cutting wound, suicide attempt                             |
+|醫療需求與治療計畫(Medical Needs and Care Plan)                  |
+|*Treatment Goal: 1. Discuss with toxin specialist for management |
+|2. stablize vital signs. ECMO if indicated 3. Empirical tazocin  |
+|for consciosuness change and hypotention 4. Informed family about|
+|poor prognosis                                                   |
+|出院規劃(Discharge Planning)                                     |
+|管路留置狀況:有 靜脈管路留置(含Hickman / Port-A)：有 右頸 雙腔導 |
+|管留置：無 鼻胃管留置：有 16Fr. 氣管管路留置：有 氣管內管 7.0mm  |
+|胃造廔口：無 尿管留置：有 16Fr. 膀胱造廔：無 傷口引流管：無 其他 |
+|導管： 日常生活功能分數：0 預期出院後居住場所：與家人同住 預期出 |
+|院後主要照顧者：自己 爸爸 媽媽 出院規劃收案篩檢：高危病患 功能量 |
+|表未滿60分                                                       |
+|主治醫師評論(VS Comments)                                        |
+|Nil                                                              |
+|醫師姓名                                                         |
+|郭律成 主治醫師                                                  |
+

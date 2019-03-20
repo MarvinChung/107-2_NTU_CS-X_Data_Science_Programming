@@ -1,0 +1,180 @@
+
+2015/02/18 11:15 | |
+|主訴(Chief Complaint)                                            |
+|Informant:Family Sudden onset of hematemesis, followed by        |
+|conscious loss this morning                                      |
+|病史(Brief History)                                              |
+|The 47-year-old man is a patient of 1. Left buccal cancer, status|
+|post wide tumor excision + segmental mandibulectomy+ marginal    |
+|maxillectomy + tracheostomy + free ALT flap (2013/10/16 ),       |
+|pT2N0M1, with submental skin metastasis, status post             |
+|UFUR(2013/11/5~2013/11/2)(intolerable), Endoxan/NSAID (2013/11/19|
+|~2014/5/6), progressing status post TP(IV)2014/6/18~2014/8/30),  |
+|TPX(III, C2D1: 20141110), 2. Oropharyngeal cancer, tonsillar     |
+|basaloid, squamous cell carcinoma, cT4aN0M0, stage IVa, status   |
+|post induction chemotherapy with PF(I)and Avastin/PF(I), CCRT    |
+|with Cisplatin(I), Avastin/Cisplatin (I),                        |
+|Cisplatin(I)(2011/1/24~2011/3/15)(6600cGy/33fx), complete        |
+|remission, 3. Impending airway obstruction, status post          |
+|tracheostomy on 2014/9/19. He had been hospitalized in 2014/11   |
+|for UGI bleeding and UTI. K.P bacteremia was noted at that time. |
+|Hemodialysis had been applied also. After, medical treatment, his|
+|condition stablized and then discharged with OPD follow-up.      |
+|Intermittent cough with difficult expectoration was noted at     |
+|home. This morning, difficulty in sputum expectoration was noted,|
+|and then suffocation developed. Conscious loss with sudden       |
+|collapse developed. CPCR by family was performed. Still no       |
+|spontaneous circulation and breathing was noted when EMT arrived.|
+|CPCR was kept. CPCR continued while arriving our ED, and CPCR    |
+|duration was about 17min by EMT, and 16min in our ED. ROSC       |
+|regained. High-dose inotropic agents were applied. He was then   |
+|admitted to our ICU for further care. Upon arrival, his BP       |
+|stablized, and intoropic agents were soon tapered off. Family    |
+|History: please see nursing sheet Medication Allergy:No 病人自述 |
+|2014/06/16 Medication ADR:unknown Allergy to Medical Device and  |
+|Materials:No 病人自述 2014/06/16 Current Medication:             |
+|NTUH:Transamin 250 mg/cap 1 cap TID PO 14 days (管4) Ultracet tab|
+|/tab 1 tab QID PO 14 days Nexium 40 mg/tab 1 tab QDAC1HR PO 14   |
+|days Gascon 40 mg/tab 1 tab TIDPC PO 14 days (管4) Rivotril 0.5  |
+|mg/tab 1 tab HS PO 14 days Encore 300 mg/3 mL /amp 300 mg Q6H IH |
+|14 days Fucidin Cream 2% 5 g/tube 1 XX BID D 14 days Past Medical|
+|History: Hospitalization:入院日期:2014_11_23 出院日期:2014_12_23 |
+|診斷:Malignant neoplasm of tonsil 入院日期:2014_11_10            |
+|出院日期:2014_11_12 診斷:Buccal cancer 入院日期:2014_10_14       |
+|出院日期:2014_10_18 診斷:Buccal cancer 入院日期:2014_09_19       |
+|出院日期:2014_09_25 診斷:Buccal cancer 入院日期:2014_08_30       |
+|出院日期:2014_09_02 診斷:Buccal cancer 入院日期:2014_08_06       |
+|出院日期:2014_08_08 診斷:Buccal cancer 入院日期:2014_07_11       |
+|出院日期:2014_07_13 診斷:Buccal cancer 入院日期:2014_06_16       |
+|出院日期:2014_06_23 診斷:Tonsillar cancer 入院日期:2013_10_15 出 |
+|院日期:2013_10_29 診斷:Buccal cancer Past Surgical               |
+|History:2013_10_16 Free antero-lateral thigh fascio-cutaneous    |
+|flap reconstuctionwide buccal tumor excision+ marginal           |
+|mandibulectomy+ partial maxillectomy + tracheostomy+ teeth       |
+|extraction 2014_06_05 Excisional biopsy of neck mass, left       |
+|2014_09_12 Excisional biopsy of left lower gingival tumor        |
+|2014_09_19 Tracheostomy Travel History:nil                       |
+|社會心理相關評估(Psychosocial Assessment)                        |
+|Social Economic and Personal History 教育程度:高中 職業:無       |
+|宗教信仰:民間信仰 婚姻狀態:已婚 使用語言:國語 台語               |
+|口述血型:O，RH:不清楚，輸血反應:有,Skin rush,呼吸急促，血氧降低  |
+|抽煙:沒有，已戒煙:4年 喝酒:沒有，已戒酒:4年                      |
+|檳榔:沒有，已戒檳榔:4年 物質濫用:沒有 Psychological History and  |
+|Evaluation 意識狀態:昏迷 認知功能:無法評估 精神情緒狀態:無法評估 |
+|安全問題:無 睡眠形態:異常 其他 無法評估 Nutritional Screen       |
+|攝食情形:佳，攝食75% 排便狀態:正常 BMI:21.7 Fall Risk Assessment |
+|總分:9 (>=3分進行不倒翁計畫，請開預防跌倒醫囑)                   |
+|系統性回顧(Review of System)                                     |
+|1.Systemic: weight loss(-), easy-fatigability(-), night sweats(-)|
+|2.Skin: petechiae(-), purpurae(-), skin rash(-), itching(-)      |
+|3.HEENT: headache(-), dizziness(-), blurred vision(-),           |
+|strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing  |
+|impairment(-), tinnitus(-), vertigo(-), nasal stuffiness(-),     |
+|nasal discharge(-), epistaxis(-), gum bleeding(-), sore          |
+|throat(-), oral ulcer(-) 4.Cardiovascular: exertional chest      |
+|tightness(-), nocturnal dyspnea(-), orthopnea(+), syncope(-),    |
+|palpitation(-), intermittent claudication(-) 5.Respiratory:      |
+|dyspnea(+), cough(+, with difficulty in sputum expectoration),   |
+|chest pain(-), hemoptysis(-), pleuritic chest pain(-)            |
+|6.Gastrointestinal: decreased appetite(-), nausea(-),            |
+|vomiting(-), dysphagia(-), heartburn(-), acid regurgitation(-),  |
+|abdominal fullness(-), hunger pain(-), midnight pain(-),         |
+|constipation(-), diarrhea(-), melena(-), change of bowel         |
+|habit(-), small caliber of stool(-), tenesmus(-), flatulence(-)  |
+|7.Urogenital: flank pain(-), hematuria(-), urinary frequency(-), |
+|urgency(-), dysuria (-), hesitancy(-), small stream of urine(-), |
+|impotence(-), nocturia(-), polyuria(-), oliguria (-)             |
+|8.Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-),      |
+|weakness(-), back pain(-) 9.Metabolic: heat intolerance(-), cold |
+|intolerance(-), thirsty(-) 10.Nervous: numbness(-),              |
+|paresis/plegia(-)                                                |
+|身體檢查(Physical Examination)                                   |
+|BH:174 cm BW:63.7 kg T: P:107 R: BP:133/84 mmHg without inotropic|
+|agents Neurological Examination: . Consciousness: E1M1Vt         |
+|Head-Eye-ENT Grossly normal; Conjunctiva: Pink; Sclera: Anicteric|
+|Pupil: Isocoric, R/L: 8mm/8mm Light reflex: R/L: -/-; EOM: Full  |
+|and free Neck Jugular vein engorgement(-) Goiter(-) Carotid      |
+|bruit(-) Chest Thoracic cage contour: Symmetric, Retraction(-)   |
+|Vocal fremitus and expansion: Symmetric Percussion: Resonant     |
+|Breath sounds: crackles(-), wheezes(+, expiratory), rhonchi(+,   |
+|bilateral), stridor(-) Heart Heart beat: Regular; Murmurs(-) LV  |
+|lift(-), RV heave(-) Increased cardiac size by percussion(-)     |
+|Adventitious sounds(-) Abdomen Flat & soft Superficial vein      |
+|engorgement(-); Protruded umbilicus(-) Bowel sound: Hypoactive   |
+|Tenderness(-); Hepato-jugular reflux(-) Liver and spleen:        |
+|Impalpable Extremities Freely movable, pulses symmetric and      |
+|intact, pitting edema(-) Back Knocking pain(-) Skin Abnormal     |
+|pigmentation(-) Petechiae(-); Purpura(-); Ecchymoses(-);         |
+|Telangiectasia(-) Rash(-), Plaque(-) Lymphadenopathy(-)          |
+|檢驗紀錄(Laboratory Report)                                      |
+|*********檢驗室:YM*********** 群組: Free Ca(急重症自 Hb(急重症自 |
+|行檢驗) Hct(急重症自行檢驗) K+(急重症自行檢驗) Na(急重症自行檢驗)|
+|行檢驗) time/item (mmol/L) (g/dL) (%) (mmol/L) (mmol/L) 1040218  |
+|[0326] 1.24 9.5 28 3.92 127.5 1040218 [0337] 1.26 9.8 29 4.29    |
+|128.4 Suger(急重症自行檢 LacticAcid(急 驗) 重症自行檢驗)         |
+|time/item (mg/dL) (mmol/L) 1040218 [0326] 194 8.8 1040218 [0337] |
+|254 10.2 群組:Yes pH pCO2 pO2 HCO3 BaseExcess time/item () (mmHg)|
+|(mmHg) (mmol/L) (mmol/L) 1040218 [0326] 7.248 58.7 30.1 25.9 -1.7|
+|1040218 [0337] 7.200 61.8 23.6 24.4 -3.9 SO2 time/item (%)       |
+|1040218 [0326] 46.2 1040218 [0337] 29.1                          |
+|*********檢驗室:PO*********** 群組: Sugar(One to uch) time/item  |
+|(*) 1040218 [0334] 178 *********檢驗室:RL***********             |
+|群組:Biochemistry BUN CRE Na K Ammonia N time/item (mg/dL)       |
+|(mg/dL) (mmol/L) (mmol/L) (μmol/L) 1040218 [0342] 19.8 1.3 132   |
+|4.2 50 LacticAcid CK CK-MB %CKMB Troponin I time/item (mmol/L)   |
+|(U/L) (U/L) (%) (ng/mL) 1040218 [0342] 10.20 124 28 22.6 <0.012  |
+|群組:Coagulation PT PTT PT INR time/item (sec) (sec) () 1040218  |
+|[0342] 11.6 34.3 1.08 群組:General BioChemistry ALT time/item    |
+|(U/L) 1040218 [0342] 11 群組:WBC Classification Blast Promyl.    |
+|Myelo. Meta Band time/item (%) (%) (%) (%) (%) 1040218 [0342] 0.0|
+|0.0 1.0 0.0 2.0 Seg Eos. Baso. Mono. Lym. time/item (%) (%) (%)  |
+|(%) (%) 1040218 [0342] 50.0 2.0 0.0 3.0 42.0 Aty.Lym. PlasmaCell |
+|Normobl. PS time/item (%) (%) () () 1040218 [0342] 0.0 0.0 0.0   |
+|/100 WBC WBC 100 群組:CBC+PLT WBC RBC HB HCT MCV time/item (K/μL)|
+|(M/μL) (g/dL) (%) (fL) 1040218 [0342] 19.04 3.04 7.9 26.0 85.5   |
+|MCH MCHC PLT RDW-CV PS time/item (pg) (g/dL) (K/μL) (%) ()       |
+|1040218 [0342] 26.0 30.4 350 14.7 -                              |
+|檢查紀錄(Examination Report)                                     |
+|Nil                                                              |
+|影像報告(Imaging Report)                                         |
+|CXR: bilateral perihilar lung congestion, suspect lung edema,    |
+|suspect pneumonia                                                |
+|病理報告(Pathology Report)                                       |
+|Nil                                                              |
+|臆斷(Tentative Diagnosis)                                        |
+|1. Out of hospital cardiac arrest, suspect sputum impaction      |
+|related, status post cardiopulmonary resuscitation, for at least |
+|33 min, with return of spontaneous circulation, under mechanical |
+|ventilator support 2. Left buccal cancer, status post wide tumor |
+|excision + segmental mandibulectomy+ marginal maxillectomy +     |
+|tracheostomy + free ALT flap (2013/10/16 ), pT2N0M1, with        |
+|submental skin metastasis, status post                           |
+|UFUR(2013/11/5~2013/11/2)(intolerable), Endoxan/NSAID (2013/11/19|
+|~2014/5/6), progressing status post TP(IV)2014/6/18~2014/8/30),  |
+|TPX(III, C2D1: 20141110), 3. Oropharyngeal cancer, tonsillar     |
+|basaloid, squamous cell carcinoma, cT4aN0M0, stage IVa, status   |
+|post induction chemotherapy with PF(I)and Avastin/PF(I), CCRT    |
+|with Cisplatin(I), Avastin/Cisplatin (I),                        |
+|Cisplatin(I)(2011/1/24~2011/3/15)(6600cGy/33fx), complete        |
+|remission, 4. Impending airway obstruction, status post          |
+|tracheostomy on 2014/9/19. 5. Suspect hypoxic encephalopathy 6.  |
+|Suspect aspiration pneumonia                                     |
+|醫療需求與治療計畫(Medical Needs and Care Plan)                  |
+|1. Out of hospital cardiac arrest, suspect sputum impaction      |
+|related, status post cardiopulmonary resuscitation, for at least |
+|33 min, with return of spontaneous circulation, under mechanical |
+|ventilator support 2. Suspect hypoxic encephalopathy 3. Suspect  |
+|aspiration pneumonia P: Keep empirical antibiotics and pursue    |
+|culture results Monitor respirator pattern Monitor conscious     |
+|level. Inform poor prognosis Family signed DNR. No hypothermic   |
+|therapy Treatment Goal: post-CPCR care                           |
+|出院規劃(Discharge Planning)                                     |
+|管路留置狀況:有 靜脈管路留置(含Hickman / Port-A)：有 右頸 右手   |
+|雙腔導管留置：無 鼻胃管留置：有 16Fr. 氣管管路留置：無           |
+|胃造廔口：無 尿管留置：無 膀胱造廔：無 傷口引流管：無 其他導管： |
+|日常生活功能分數：0 預期出院後居住場所：與家人同住               |
+|預期出院後主要照顧者：配偶 出院規劃收案篩檢：高危病患 功能量表未 |
+|滿60分                                                           |
+|醫師姓名                                                         |
+|葉志凡 主治醫師                                                  |
+

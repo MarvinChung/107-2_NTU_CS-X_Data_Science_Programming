@@ -1,0 +1,144 @@
+
+2015/05/27 01:35 | |
+|主訴(Chief Complaint)                                            |
+|Informant:The patient's family and other hospital medical record |
+|Sudden collapse at 18:40 on 5/26                                 |
+|病史(Brief History)                                              |
+|【present illness】 This 59-year-old man has the past medical    |
+|history of 1. Hypertension 2. Diabetes mellitus 3. dyslipidemia  |
+|4. Coronary artery disease, triple vessel disease, status post   |
+|coronary artery bypass grafting (CABG) surgery in 2011 5.        |
+|Epilepsy, developed in 2015/1, under medication control 5.       |
+|Chronic kidney disease. His baseline ADL is independent. This    |
+|time, at around 18:40 on 5/26, while he was taking dinner. Lost  |
+|of consciousness, cyanotic lip were found by his family. EMT was |
+|called and initial cardiac rhythm showed asystole. CPCR was      |
+|performed and he was sent to 亞東H. for management. CPCR about   |
+|30mins with ROSC, 12 lead EKG revealed ST elevation over aVR and |
+|V1. Due to no bed and under suspicion of AMI related OHCA, he was|
+|transferred to our ER at 5/26 21:09. Initial vital signs         |
+|revealed: BP: 149/74 mmHg PR: 101/min SpO2: 100% Respirations:   |
+|23/min BT: 34.6 C, GCS: E1VtM1. 12-lead EKG revealed revealed    |
+|inferior lead ST elevation. Brain CT revealed no obvious ICH and |
+|showed hypoxic ischemic encephalopathy. Emergent cardiac cath was|
+|arranged on 5/26 22:00, revealed CAD, triple vessel disease, with|
+|patent graft and LIMA. After surgery, he was transferred to ICU  |
+|for further management. 【Past History】 1. Systemic disease: 1. |
+|Hypertension 2. Diabetes mellitus 3. dyslipidemia 4. Coronary    |
+|artery disease, triple vessel disease, status post coronary      |
+|artery bypass grafting (CABG) surgery in 2011 5. Epilepsy,       |
+|developed in 2015/1, under medication control 5. Chronic kidney  |
+|disease. 2. Past Medical History: Surgery: CABG in 2011 at 亞東H.|
+|Bilateral Cataract s/p OP 3. Allergy history: nil 4. Current     |
+|Medication: Unknown medication for underlying disease, pending   |
+|中草藥: Nil 保健食品: Nil 5. Lifestyle: Cigarette smoking: 1PPD  |
+|for 20+years, ceased currently Alcohol consumption: nil Betelnut |
+|chewing: nil 6. Travel history: nil 7. Family history: refer to  |
+|nursing record                                                   |
+|社會心理相關評估(Psychosocial Assessment)                        |
+|Social Economic and Personal History 教育程度:國中 職業:退休     |
+|宗教信仰:無 婚姻狀態:已婚 使用語言:國語 台語 口述血型:O，RH:不清 |
+|楚，輸血反應:無 抽煙:沒有 喝酒:沒有 檳榔:沒有 物質濫用:沒有      |
+|Psychological History and Evaluation 意識狀態:昏迷 認知功能:無法 |
+|評估 精神情緒狀態:正常 安全問題:有 其他 fall down 睡眠形態:正常  |
+|Nutritional Screen 攝食情形: 排便狀態:異常 排便異常狀態:其他     |
+|其他排便異常狀態:未排便 BMI: Fall Risk Assessment 總分:4         |
+|(>=3分進行不倒翁計畫，請開預防跌倒醫囑)                          |
+|系統性回顧(Review of System)                                     |
+|1.Systemic: weight loss(-), easy-fatigability(-), night sweats(-)|
+|2.Skin: petechiae(-), purpurae(-), skin rash(-), itching(-),     |
+|3.HEENT: headache(-),dizziness(-), blurred vision(-),            |
+|strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing  |
+|impairment(-), tinnitus(-), vertigo(-), nasal stuffiness(-),     |
+|nasal discharge(-), epistaxis(-), gum bleeding(-), sore          |
+|throat(-),oral ulcer(-) 4.Cardiovascular: exertional chest       |
+|tightness(-), nocturnal dyspnea(-), orthopnea(-) syncope(-),     |
+|palpitation(-), intermittent claudication(-) 5.Respiratory:      |
+|dyspnea(-), cough(-), chest pain(-), hemoptysis(-), productive   |
+|cough (-), pleuritic chest pain(-) 6.Gastrointestinal:           |
+|anorexia(-), nausea(-), vomiting(-), dysphagia(-), heartburn(-), |
+|acid regurgitation(-), abdominal fullness(-), hunger pain(-)     |
+|midnight pain(-), constipation(-), diarrhea(-), melena(-), change|
+|of bowel habit(-), small caliber of stool(-), tenesmus(-),       |
+|flatulence(-) 7.Urogenital: flank pain(-), hematuria(-), urinary |
+|frequency(-), urgency(-), dysuria (-), hesitancy(-), small stream|
+|of urine(-), impotence(-), nocturia(-), polyuria(-), oliguria (-)|
+|8.Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-),      |
+|weakness(-) back pain(-) 9.Metabolic: heat intolerance(-), cold  |
+|intolerance(-), thirsty(-) 10.Nervous: numbness (-),             |
+|paresis/plegia (-)                                               |
+|身體檢查(Physical Examination)                                   |
+|BH:na cm BW:70.7 kg T: P:83 R:26 BP:192/78 mmHg Pain:            |
+|Neurological Examination: . Consciousness: coma . Muscle power:  |
+|<3 . Gait: not test Consciousness E1VtM1 Head-Eye-ENT grossly    |
+|normal, conjunctiva: not pale, sclera: anicteric Pupil: 5mm/ 4mm,|
+|Light reflex: L/R: -/- Neck Jugular vein engorgement(-) Thyroid  |
+|goiter(-) Carotid bruit(-) Chest Thoracic cage contour:          |
+|symmetric, Retraction(-), CABG scar(+) Percussion: resonant      |
+|Breathing sound: bilateral coarse, no whezzing or crackles Heart |
+|Heart beat: regular Murmurs(-) LV lift(-) RV heave(-) Increased  |
+|cardiac size by percussion(-) Adventitious sounds (-) Abdomen    |
+|Soft, mild obese Superficial vein engorgement(-) Protruded       |
+|umbilicus(-) Bowel sound: Hypoactive Liver and spleen: impalpable|
+|Extremities Freely movable, pulses symmetric and intact, pitting |
+|edema(-) Right femoral artery sheath, left femoral CVC Back      |
+|Knocking pain(-) Skin Abnormal pigmentation(-) Petechiae(-)      |
+|Purpura(-) Ecchymoses(-) Telangiectasia(-) Rash(-) Plaque(-)     |
+|Lymphadenopathy(-)                                               |
+|檢驗紀錄(Laboratory Report)                                      |
+|*********檢驗室:PO*********** 群組: Sugar(One to uch) time/item  |
+|(*) 1040526 [2113] 243 *********檢驗室:BK*********** 群組:Yes    |
+|antibody scr een(New Lis) time/item (*) 1040526 [2134] Negative  |
+|群組:Blood Type ABO Typing RH Typing time/item (*) (*) 1040526   |
+|[2134] O Positive *********檢驗室:RL*********** 群組:Biochemistry|
+|BUN CRE Na K Ammonia N time/item (mg/dL) (mg/dL) (mmol/L)        |
+|(mmol/L) (μmol/L) 1040526 [2122] 75.0 3.3 139 4.2 33 Ca Mg       |
+|LacticAcid CK CK-MB time/item (mmol/L) (mmol/L) (mmol/L) (U/L)   |
+|(U/L) 1040526 [2122] 2.26 0.91 6.35 185 107 %CKMB Troponin I     |
+|time/item (%) (ng/mL) 1040526 [2122] 57.8 <0.012 群組:Yes pro-BNP|
+|time/item (pg/mL) 1040526 [2122] 212 群組:Coagulation PT PTT PT  |
+|INR time/item (sec) (sec) () 1040526 [2122] 11.0 24.3 1.04       |
+|群組:General BioChemistry ALT time/item (U/L) 1040526 [2122] 533 |
+|群組:WBC Classification Blast Promyl. Myelo. Meta Band time/item |
+|(%) (%) (%) (%) (%) 1040526 [2122] 0.0 0.0 3.0 2.0 5.0 Seg Eos.  |
+|Baso. Mono. Lym. time/item (%) (%) (%) (%) (%) 1040526 [2122]    |
+|74.0 1.0 0.0 6.0 8.0 Aty.Lym. PlasmaCell Normobl. PS time/item   |
+|(%) (%) () () 1040526 [2122] 1.0 0.0 0.0 /100 WBC WBC 100        |
+|群組:CBC+PLT WBC RBC HB HCT MCV time/item (K/μL) (M/μL) (g/dL)   |
+|(%) (fL) 1040526 [2122] 6.43 3.61 11.0 31.8 88.1 MCH MCHC PLT    |
+|RDW-CV PS time/item (pg) (g/dL) (K/μL) (%) () 1040526 [2122] 30.5|
+|34.6 120 12.5 -                                                  |
+|檢查紀錄(Examination Report)                                     |
+|Nil                                                              |
+|影像報告(Imaging Report)                                         |
+|Formal brain CT report: pending                                  |
+|病理報告(Pathology Report)                                       |
+|Nil                                                              |
+|臆斷(Tentative Diagnosis)                                        |
+|1. Out of hospital cardiac arrest, suspect acute myocardial      |
+|infarction related, status post Cardiopulmonary cerebral         |
+|resuscitation (CPCR) with Return of spontaneous circulation      |
+|(ROSC) 2. Hypoxic ischemic encephalopathy 3. Coronary artery     |
+|disease, triple vessel disease, status post coronary artery      |
+|bypass grafting (CABG) surgery in 2011 4. Hypertension 5.        |
+|Diabetes mellitus 6. Dyslipidemia 7. Epilepsy, developed in      |
+|2015/1, under medication control 8. Chronic kidney disease       |
+|醫療需求與治療計畫(Medical Needs and Care Plan)                  |
+|1. Out of hospital cardiac arrest, suspect acute myocardial      |
+|infarction related, status post CPCR with ROSC 2. Hypoxic        |
+|ischemic encephalopathy 3. Coronary artery disease, triple vessel|
+|disease, status post coronary artery bypass grafting (CABG)      |
+|surgery in 2011 P: 1. Performed hypothermia therapy for improving|
+|neurologic outcome and decreased mortality rate. Closely monitor |
+|and watch complication 2. Empirical Tazocin for hypothermia 3.   |
+|Keep DAPT, heparinization 4. Informed poor prognosis to his      |
+|family Treatment Goal: Improving consciousness, GCS > 3          |
+|出院規劃(Discharge Planning)                                     |
+|管路留置狀況:有 靜脈管路留置(含Hickman / Port-A)：有 左腹股溝 左 |
+|手 雙腔導管留置：無 鼻胃管留置：有 16Fr. 氣管管路留置：有 氣管內 |
+|管 胃造廔口：無 尿管留置：有 16Fr. 膀胱造廔：無 傷口引流管：無   |
+|其他導管： 日常生活功能分數：0 預期出院後居住場所：與家人同住 預 |
+|期出院後主要照顧者：自己 配偶 兒子 出院規劃收案篩檢：高危病患    |
+|醫師姓名                                                         |
+|林柏志 主治醫師                                                  |
+

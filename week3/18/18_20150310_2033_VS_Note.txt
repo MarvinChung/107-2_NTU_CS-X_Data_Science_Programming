@@ -1,0 +1,21 @@
+
+1.  EV bleeding s/p ETT+MV(3/10-) and SB tube (3/10-)
+2.  Hepatocellular carcinoma with portal vein thrombosis, cT3N0M0, Okuda
+II, Barcelona Clinic Liver Cancer C, status post oral Sorafenib/UFUR,
+disease in progression, status post hepatic arterial infusion chemotherapy
+with Cisplatin+FL protocol (46, since 2008/04/24, last course on
+2014/12/30), status post modified FOLFOX (III)(2015/2/25~)
+3.  Cirrhosis, Child B, with gastric and esophageal varices
+4.  Sponetaneous bacterial peritonitis, s/p ceftazidime(3/3-)
+
+2015/03/10 20:09 GCS:E4M6VT
+2015/03/10 20:07 SpO2:100%(40？000 0000L,VCR)
+2015/03/10 20:07 BP:92/54
+
+1. Endotracheal tube intubation and ventilator support
+2. On SB tube with relieve esophageal balloon Q6H and monitor bleeding
+amount, component therapy if needed
+3. On DLC and CVC for transfusion therapy and vasopressor use if needed
+4. NPO with TPN support
+5. Keep Ceftazidime for SBP, repeat and upgrade abx if sepsis signs
+occured.

@@ -1,0 +1,17 @@
+
+GI bleeding risk explained to the family that aggressive management was
+note recommended by the experts.
+Stabilised the condition before consulting for tracheostomy.
+Otherwise supportive care as the family have decided.
+2015/08/16 05:05 T:36.4 P:78 R:15
+2015/08/16 00:49 T:36.2 P:89 R:21
+2015/08/15 21:33 T:36.2 P:84 R:10
+2015/08/15 16:37 T:36.2 P:86 R:20
+2015/08/16 05:05 SpO2:96%(40%,L,VCR)
+2015/08/16 00:49 SpO2:97%(40%,L,VCR)
+2015/08/15 21:34 SpO2:97%(40%,L,VCR)
+2015/08/15 16:38 SpO2:96%(40%,L,VCR)
+2015/08/16 04:04 BP:120/67
+2015/08/16 00:49 BP:107/60
+2015/08/15 21:37 BP:150/86
+2015/08/15 16:37 BP:144/72

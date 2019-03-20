@@ -1,0 +1,88 @@
+
+Brief Summary of this week
+This week, his hemodynamics remained unstable. Levophed could not be
+tapered off. However, due to no evidence of infection, we discontinued
+Maxipime after 14-day treatment.
+   Hyperthyroidism and relative adrenal insufficiency were noted. PTU 2#
+TID was initiated. However, elevated hyperbilirubinemia and liver function
+were noted. Thus, we replaced PTU with Carbimazole 1# QD. Follow thyroid
+function and procalcitonin next week.
+
+Assessment
+Abx free
+Maxipime 4/2-4/15, Ceftazidime 3/31-4/2, Tamiflu 3/25~4/1, Unasyn 3/26,
+Zithromax 3/26, Targocid 4/2-4/4 , Avelox 3/27-4/8
+prone position 3/27~3/30
+
+<Current ventilator setting>
+PCV IP 24 PEEP 6, RR 36, FiO2 60% -> Tv 337, MV 11.3, SPO2 92%, RR: 36
+
+hemodynamics is more stable on steroid
+Taper off Levophed on 4/18 9am, but hypotension recurred since 9pm
+
+3/27
+PCR: influenza A; keep prone position due to high O2 demand
+supine: FiO2 90% SaO2 108 PF ratio 120
+prone: FiO2 70% SaO2 79.6 PF ratio 113
+procalcitonin 1.792
+Free T4 1.3, hsTSH  0.080
+Influenza A+B PCR:Influenza A RNA ; positive, influenza B RNA (-)Chlamydiae
+Antigen: negLegionella Urinary Ag: negMycoplasma Pneumoniae IgM positive
+3/28 still fever
+FiO2 tapered to 60% under prone position
+PF 142.6 this morning
+3/29  fever curve improved, CXR: bil consolidation but less
+         P/F ratio 176 when prone and 150 when supine
+3/30 PaO2 70 FiO2 35% after supine for 4 hours => no more prone
+        poor digestion, no stool passage for 4 days, despite lactulose
+enema
+       suspected heavy sedative related, DC nimbex, taper fentanyl and
+anxicam.
+       low grade fever-> repeatseptic w/u
+3/31 still constipation for 1 week => lactulose PO + R
+CRP decreased to 6.5 ; poor digestion, suspect constipation related
+4/1 try erythromycin for poor digestion
+4/2 Ceftazidime was shifted to Maxipime, add Targocid for right neck CVC
+use  → remove CVC
+4/4 PF<200, prone was hold due to Af with RVR
+4/7 Infection specialist 王振泰: favored viral pneumonitis, abx adjustment
+is not necessary; consider shifting to Colistin if needed
+4/8  VS何奕倫: suggest adding Clonidine 0.5# BID for refractory Af RVR
+4/9 C+A+P CT: 1) Bilateral lung ground glass opacities, interlobular septal
+thickening and consolidation. Etiology could be atypical infection.
+2) Aortic aneurysm 3) Abnormal air in the liver, suspected pneumobilia
+4/10  Clamp chest tube, and desaturation happens → open the chest tube and
+much air bubbles emerged
+          Still paroxysmal Af with RVR → high BP → amiodarone → BP dropped
+→ Levophed → Af RVR again
+          CV何奕惀: suggest taper amiodarone (taper rate) dosage if
+unreliable digestion of clonidine; OR, give digoxin 0.25 amp QD and f/u
+digoxin level on day 3
+4/13  S/C: Pseudomonas, all S
+         Digoxin:0.23
+         CV何奕惀: Keep digoxin 0.25amp QD and follow up digoxin on W3
+                          Add amiodarone 200mg QD PO
+4/14  TSH:0.007, fT4:2.19 → hyperthyroidism, add PTU 1# TID due to Inderal
+is inappropriate now
+         Procalcitonin 3.304
+4/15  Adjust endotracheal tube position with exchanger, 26cm to 23cm, no
+more leakage. Balloon: 10 cc.
+         Remove right femoral CVC and insert right neck CVC.
+         increase PTU dosage
+         TA: 105.34 >14.4,  anti-TPO:(-), TSH receptor: (-), TBII:7.5(-)
+         T3:<40, T4: 4.5
+         VS 王治元: suggest tapering PTU to 2# TID, the patient was not
+likely at thyroid storm status → follow TSH/fT4/T3/T4 QW
+4/16  Add stress dose solu-cortef for relative adrenal insufficiency
+4/17  Taper PTU to 2# BID
+4/18  Replace PTU to Carbimazole 1# QD
+
+
+Plan
+1. Monitor procalcitonin as infection signs
+2. Keep chest tube with low-pressure system drainage
+    Keep low PEEP due to pneumothorax and high frequency due to CO2
+retension (keep Pplt<30, pH>7.2)
+3. Replace PTU to Carbimazole 1# QD for hyperthyroidism. Follow thyroid
+function and liver function QW1
+4. Keep solu-cortef 200mg QD cIF for relative adrenal insufficiency

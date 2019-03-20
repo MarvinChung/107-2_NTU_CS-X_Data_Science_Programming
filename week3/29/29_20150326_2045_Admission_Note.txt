@@ -1,0 +1,197 @@
+
+2015/03/26 20:45 | |
+|主訴(Chief Complaint)                                            |
+|Informant:patient himself and his family productive cough and    |
+|dyspnea for 4 days                                               |
+|病史(Brief History)                                              |
+|This 68-year-old male has underlying disease of 1) Aortic        |
+|dissection, type 3, occurred 15 years ago, improved after medical|
+|treatment only, without obvious sequella 2) Aortic regurgitation,|
+|moderate; Mitral regurgitation, moderate; Mitral valve prolapse, |
+|anterior leaflet; Tricuspid regurgitation, moderate; Pulmonic    |
+|regurgitation, moderate to severe 3) Hypertension, under Betaloc |
+|50mg PO QD and Norvasc 5mg PO QD 4) type II DM, under Glucobay   |
+|50mg PO TID, Loditon 250mg PO QD 5) Atrial fibrilation, under    |
+|Rytmonorm 150mg TID PO and Aspirin 100mg PO QD He complained of  |
+|producive cough with dyspnea for 4 days, and the symptoms        |
+|progressed. He came to ED at 耕莘 hospital yesterday and rapid   |
+|test revealed influenza A infection. CXR done there revealed no  |
+|obvious consalidations but increased infiltrations. Tamiflu was  |
+|prescribed but a unknown IV antibiotics injection. Due to        |
+|persisted fever, productive cough and chest tightness over       |
+|bilateral lung fields, he was transferred to our emergency       |
+|department for further managment. On arriving to our ED, he was  |
+|oriented and alert. Vital signs showed Blood Pressure:           |
+|112/76mmHg, Pulse Rate: 119/min, Respiratory Rate: 20/min,       |
+|Temperature: 38℃, SPO2: 90% under nasal cannula. Chest xray      |
+|showed bilateral consolidations over bilateral lung fields, right|
+|predominant. Lab data showed WBC 4.46k/ul, Seg 85%, Hb 14.9g/dL, |
+|PLT 109k/ul. Blood gas showed pH 7.488, pCO2 30.3mmHg, pO2       |
+|36mmHg, HCO3 23.2mmol/L. The diagnoses of community aquired      |
+|pneumonia, suspect secondary bacterial infection after primary   |
+|influenza A infection, we administrated Tamiflu, Unasyn and      |
+|Zithromax for his infection control. However, his O2 demand      |
+|increased significantly in hours from nasal cannula to simple    |
+|mask 10L 98%, and his SpO2 was around 90%. Under the impression  |
+|of rapid progression of pneumonia and pending respiratory        |
+|failure, he was transferred to 3C2 for further treatment. 1.     |
+|Systemic disease: 1) Aortic dissection, type 3, occurred 15 years|
+|ago, improved after medical treatment only, without obvious      |
+|sequella 2) Dilated aortic root and ascending aorta 3) Aortic    |
+|regurgitation, moderate; Mitral regurgitation, moderate; Mitral  |
+|valve prolapse, anterior leaflet; Tricuspid regurgitation,       |
+|moderate; Pulmonic regurgitation, moderate to severe 4)          |
+|Hypertension, under Betaloc 50mg PO QD and Norvasc 5mg PO QD 5)  |
+|type II DM, under Glucobay 50mg PO TID, Loditon 250mg PO QD 6)   |
+|Atrial fibrilation, under Rytmonorm 150mg TID PO and Aspirin     |
+|100mg PO QD 2. Hospitalization and surgical history: 1) Aortic   |
+|dissection, type 3, occurred 15 years ago, improved after medical|
+|treatment only, without obvious sequella 3. Allergy history:     |
+|甲殼類 only, no drug allergy 4. Current medication: Betaloc ZOK  |
+|100 mg/tab 1/2 tab QD PO 28 days Rytmonorm 150 mg/tab 1 tab TID  |
+|PO 28 days Norvasc 5 mg/tab 1 tab QD PC PO 28 days Bokey EM cap  |
+|100 mg/cap 1 cap QD PO 28 days Glucobay 50 mg/tab 1 tab TID PO 28|
+|days (DM) Loditon 500 mg/tab 0.5 tab QDPC PO 28 days denied      |
+|herbal or nutritional supplement use 5. Lifestyle: Cigarette     |
+|smoking: denied Alcohol consumption: denied Betelnut chewing:    |
+|denied 6. Travel history: nil 7. Occupation: 投資地產 8. Contact |
+|history: nil 9. Cluster of illness: nil 10. Family history: no   |
+|cardiovascular disease, no tumor history, no immune disease or   |
+|the herediatary disease                                          |
+|社會心理相關評估(Psychosocial Assessment)                        |
+|Social Economic and Personal History 教育程度:高中 職業:退休     |
+|宗教信仰:佛教 婚姻狀態:已婚 使用語言:國語 台語 口述血型:O，RH:不 |
+|清楚，輸血反應:沒輸過血 抽煙:沒有 喝酒:沒有 檳榔:沒有            |
+|物質濫用:沒有 Psychological History and Evaluation 意識狀態:警醒 |
+|認知功能:正常 精神情緒狀態:正常 安全問題:有 其他                 |
+|預防跌倒和管路安全 睡眠形態:正常 Nutritional Screen 攝食情形: 排 |
+|便狀態:異常 排便異常狀態:其他 其他排便異常狀態:未解便(3/25解過便)|
+|BMI:28.57 Fall Risk Assessment 總分:4 (>=3分進行不倒翁計畫，請開 |
+|預防跌倒醫囑)                                                    |
+|系統性回顧(Review of System)                                     |
+|1. Systemic: fever (+) intermittent, for 3 days, BW loss (-),    |
+|easy-fatigability (-), change of appetite (-), dizziness (-) 2.  |
+|Skin: petechiae (-), purpura (-), itching (-), local redness and |
+|swelling (-), papules(-) 3. HEENT: hearing loss (-), nasal       |
+|discharge (+) for 3 days, sore throat (-) headache (-) 4.        |
+|Cardiovascular: palpitation (-), exertional dyspnea (-) 5.       |
+|Respiratory: dyspnea (+) for 3 days, chest pain (+) occurred     |
+|occasionally often, progressed in recent 3 days, productive cough|
+|(+) for 3 days 6. GI: anorexia (-), nausea (-), vomiting (-),    |
+|constipation (-), diarrhea (-), melena (-), change of bowel habit|
+|(-), small caliber of stool (-), tenesmus (-), flatulence (-),   |
+|abdominal pain (-) 7. Urogenital: flank soreness (-), hematuria  |
+|(-), urinary frequency (-), urgency (-), dysuria(-), hesitancy   |
+|(-), nocturia (-), polyuria (-), oliguria (-) 8. Musculoskeletal:|
+|Back pain (-), bone pain (-), joint pain(-)                      |
+|身體檢查(Physical Examination)                                   |
+|BH:169 cm BW:81.6 kg T:36.9 P:108 R:33 BP:132/74 mmHg Pain:0     |
+|Neurological Examination: . Consciousness: alert, oritented .    |
+|Muscle power: full . Gait: steady Consciousness: clear GCS:E4M6V5|
+|HEENT: grossly normal, conjunctiva: pink, sclera: anicteric      |
+|Pupil: isocoric, 3mm/ 3mm Light reflex: L/R: +/+, EOM: full and  |
+|free Neck: supple, JVE (-) LAP (-) Goiter(-) Carotid bruit(-)    |
+|Chest: symmetric expansion, breath sound: bilateral crackles,    |
+|right predominant Heart: IRHB, continuous murmur, grade III      |
+|Abdomen: soft and flat, bowel sound: normoactive Liver/ spleen:  |
+|impalpable Tenderness (-) Rebound tenderness (-) Murphy`s sign   |
+|(-) Back: No knocking tenderness Extremities: Freely movable,    |
+|Pitting edema (-) ; Cyanosis (-) Skin: Skin rash (-) Peripheral  |
+|pulsation: intact                                                |
+|檢驗紀錄(Laboratory Report)                                      |
+|*********檢驗室:RL*********** 群組:Blood pH/Gas PH PCO2 PO2 HCO3 |
+|BaseExcess time/item (*) (mmHg) (mmHg) (mmol/L) (mmol/L) 1040326 |
+|[1743] 7.506 36.0 60.5 28.8 5.4 群組:CBC+PLT WBC RBC HB HCT MCV  |
+|time/item (K/μL) (M/μL) (g/dL) (%) (fL) 1040326 [1743] 4.06 4.41 |
+|13.9 39.9 90.5 MCH MCHC PLT RDW-CV PS time/item (pg) (g/dL)      |
+|(K/μL) (%) () 1040326 [1743] 31.5 34.8 109 13.4 - 群組:WBC       |
+|Classification Blast Promyl. Myelo. Meta Band time/item (%) (%)  |
+|(%) (%) (%) 1040326 [1743] 0.0 0.0 0.0 0.0 0.0 Seg Eos. Baso.    |
+|Mono. Lym. time/item (%) (%) (%) (%) (%) 1040326 [1743] 82.3 0.0 |
+|0.0 2.7 15.0 Aty.Lym. PlasmaCell Normobl. PS time/item (%) (%) ()|
+|() 1040326 [1743] 0.0 0.0 0 - 群組:Biochemistry Na K Ca Mg P     |
+|time/item (mmol/L) (mmol/L) (mmol/L) (mmol/L) (mg/dL) 1040326    |
+|[1743] 133 3.1 1.87 0.66 1.8 LacticAcid CK CK-MB %CKMB Troponin I|
+|time/item (mmol/L) (U/L) (U/L) (%) (ng/mL) 1040326 [1743] 1.15   |
+|160 11 6.9 0.026 群組:Yes C-Reactive P rotein time/item (mg/dL)  |
+|1040326 [1743] 16.50 群組:Coagulation PT PTT PT INR time/item    |
+|(sec) (sec) () 1040326 [1743] 12.0 45.6 1.11                     |
+|*********檢驗室:RL*********** 群組:Biochemistry BUN CRE Na K     |
+|time/item (mg/dL) (mg/dL) (mmol/L) (mmol/L) 1040326 [1024] 19.7  |
+|1.0 132 3.1 群組:General BioChemistry ALT time/item (U/L) 1040326|
+|[1024] 18 群組:WBC Classification Blast Promyl. Myelo. Meta Band |
+|time/item (%) (%) (%) (%) (%) 1040326 [1024] 0.0 0.0 0.0 0.0 0.0 |
+|Seg Eos. Baso. Mono. Lym. time/item (%) (%) (%) (%) (%) 1040326  |
+|[1024] 85.0 0.0 0.2 2.2 12.6 Aty.Lym. PlasmaCell Normobl. PS     |
+|time/item (%) (%) () () 1040326 [1024] 0.0 0.0 0 - 群組:CBC+PLT  |
+|WBC RBC HB HCT MCV time/item (K/μL) (M/μL) (g/dL) (%) (fL)       |
+|1040326 [1024] 4.45 4.67 14.9 42.2 90.4 MCH MCHC PLT RDW-CV PS   |
+|time/item (pg) (g/dL) (K/μL) (%) () 1040326 [1024] 31.9 35.3 109 |
+|13.5 - *********檢驗室:PO*********** 群組: Sugar(One to uch)     |
+|time/item (*) 1040326 [1023] 161 1040326 [1745] 137              |
+|*********檢驗室:B3*********** B3-1040326-6006661 SPUTUM          |
+|(EXPECTORATED) Gram's(GS)#1: Few PMNs ( <10 /LPF ) Gram's(GS)#2: |
+|Many epithelial cells ( >25 /LPF ) Gram's(GS)#3: Gram (+) cocci  |
+|in chains 2+ Gram's(GS)#4: Gram (-) rods 2+ Gram's(GS)#5: Gram   |
+|(+) rods, 痰檢體品質不良建議重新送檢 2+                          |
+|*********檢驗室:YM*********** 群組: Free Ca(急重症自 Hb(急重症自 |
+|行檢驗) Hct(急重症自行檢驗) K+(急重症自行檢驗) Na(急重症自行檢驗)|
+|行檢驗) time/item (mmol/L) (g/dL) (%) (mmol/L) (mmol/L) 1040326  |
+|[1119] 1.04 14.3 43 3.52 128.8 Suger(急重症自行檢 LacticAcid(急  |
+|驗) 重症自行檢驗) time/item (mg/dL) (mmol/L) 1040326 [1119] 113  |
+|1.3 群組:Yes pH pCO2 pO2 HCO3 BaseExcess time/item () (mmHg)     |
+|(mmHg) (mmol/L) (mmol/L) 1040326 [1119] 7.488 30.3 36.6 23.2 -0.4|
+|SO2 time/item (%) 1040326 [1119] 75.7                            |
+|檢查紀錄(Examination Report)                                     |
+|nil                                                              |
+|影像報告(Imaging Report)                                         |
+|Chest : PA View (Standing) 醫令: Chest : PA View (Standing) 報告 |
+|醫師: 簡寧 影像時間: 2015/03/26 10:31 (32001CXM) 發報告時間:     |
+|2015/03/26 11:50 cardiomegaly. atherosclerosis with wall         |
+|calcification of the aorta. mediastinum widening. increased      |
+|infiltration and bronchiectasis in the bilateral lower lung      |
+|fields. degenerative spondylosis at the thoracic spine. suggest  |
+|correlation with clinical manifestation.                         |
+|病理報告(Pathology Report)                                       |
+|nil                                                              |
+|臆斷(Tentative Diagnosis)                                        |
+|1) Community-acquired pneumonia, suspect secondary bacterial     |
+|infection after primary influenza A infection 2) Aortic          |
+|dissection, type 3, occurred 15 years ago, improved after medical|
+|treatment only, without obvious sequella 3) Aortic regurgitation,|
+|moderate; Mitral regurgitation, moderate; Mitral valve prolapse, |
+|anterior leaflet; Tricuspid regurgitation, moderate; Pulmonic    |
+|regurgitation, moderate to severe 4) Hypertension, under Betaloc |
+|50mg PO QD and Norvasc 5mg PO QD 5) type II DM, under Glucobay   |
+|50mg PO TID, Loditon 250mg PO QD 6) Atrial fibrilation, under    |
+|Rytmonorm 150mg TID PO and Aspirin 100mg PO QD                   |
+|醫療需求與治療計畫(Medical Needs and Care Plan)                  |
+|* 1) Community-acquired pneumonia, suspect secondary bacterial   |
+|infection after primary influenza A infection 2) Aortic          |
+|dissection, type 3, occurred 15 years ago, improved after medical|
+|treatment only, without obvious sequella 3) Aortic regurgitation,|
+|moderate; Mitral regurgitation, moderate; Mitral valve prolapse, |
+|anterior leaflet; Tricuspid regurgitation, moderate; Pulmonic    |
+|regurgitation, moderate to severe 4) Hypertension, under Betaloc |
+|50mg PO QD and Norvasc 5mg PO QD 5) type II DM, under Glucobay   |
+|50mg PO TID, Loditon 250mg PO QD 6) Atrial fibrilation, under    |
+|Rytmonorm 150mg TID PO and Aspirin 100mg PO QD A: Unasyn 3/26~   |
+|Zithromax 3/26~ Tamiflu 3/25~ productive cough and dyspnea for 3 |
+|days rapid test: influenza A new-onset bilateral penumonia patch |
+|O2 demand increased rapidly on 3/26 under simple mask 98% 10L ECG|
+|showed Afib, HR 100~120/mins P: complete Unasyn, Zithromax and   |
+|Tamiflu use consider intubation if O2 demand still progresses    |
+|chest care monitor his Afib pattern, consider amiodarone if AfRVR|
+|persisted Treatment Goal: O2 demand less than 5L 28% complete    |
+|Unasyn, Zithromax and Tamiflu                                    |
+|出院規劃(Discharge Planning)                                     |
+|管路留置狀況:有 靜脈管路留置(含Hickman / Port-A)：有 右手 雙腔導 |
+|管留置：無 鼻胃管留置：無 氣管管路留置：無 胃造廔口：無 尿管留置 |
+|：無 膀胱造廔：無 傷口引流管：無 其他導管： 日常生活功能分數：40 |
+|預期出院後居住場所：與家人同住 預期出院後主要照顧者：配偶 出院規 |
+|劃收案篩檢：高危病患 功能量表未滿60分                            |
+|主治醫師評論(VS Comments)                                        |
+|I agree with the resident's assessment.                          |
+|醫師姓名                                                         |
+|古世基 主治醫師                                                  |
+

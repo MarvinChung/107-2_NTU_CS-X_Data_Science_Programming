@@ -1,0 +1,127 @@
+
+Brief Summary of this week
+After transfered to general ward, we maintained regular hemodialysis 3
+times a week and kept dpamine infusion. Follow-up lab data showed CRP still
+elevated, and thus we continue the use of Tazocin.  Aggrassive laxative was
+applied for maldigestion, constipation, abdomen distension, and delirium.
+Although there was transient improvement, the bowel movement deteriorated
+soon in the night on 2015/07/13. Metabolic acidosis (pH 7.397, HCO3 14.1
+mEq/L) in the morning on July 14 and hypotension developed during
+hemodialysis. Thus we titrated up the dosage of dopamine and provided
+NaHCO3 infusion. Severe lactic acidosis (11.7 mg/dL), leukocytosis (WBC
+15250/cmm, segment 90%), and elvation of CRP (13.4 mg/dL) were reported at
+10:40. We then changed antibiotics from Tazocin to Tienam and Vancomycin
+for sepsis. Post-hemodialysis gas analysis showed persistive metabolic
+acidosis despite Rolikan supplement. His sons signed "DO NOT
+RESCUCITATION", declined hemodialysis and central venous catheter
+insertion. Chest, abdomen and pelvis CT with/without contrast revealed
+nutmeg liver, bilateral pleural effusion, and emphysematous gastritis. NG
+tube with compression was applied for abdomen pain.
+Follow-up data on 2015/07/15 morning revealed persistent lactic acidosis
+and hyperbilirubinemia. The family members have diversed opinion and
+withdrew the consent of no hemodialysis and medication. We then resumed
+hemodialysis on July 15. Meanwhile, lactic acidosis resolved gradually.
+Blood culture collected from central venous line on July 14 were reported
+to have gram negative bacteria. His conscious remained disoriented and his
+biological clock reversed. The systolic blood pressure was about 90-110mmHg
+under Dopamine support.
+Currently, he receives hemodialysis every other day and TPN for prolonged
+fasting.
+
+
+Assessment
+7/2 T/P/R 36.4/123/22 BP 79/53mmHg
+    =>Dopamine 5mcg/kg/min, BP 142/64mmHg
+    WBC 14.69, Seg 91.1%, T-bil 2.05
+    VBG 7.406/39.1/24.8, lactate 1.95, ammonia 39
+    Na/K/Ca 138/4.5/2.48
+7/3 growning,
+    5am&7am Chenyne-Stokes respiration,
+        bradycardia, seizure 30secs, spontaneous recovery
+    P/R 31/16-120/10; BS 71
+    VBG 7.349/28.5/15.8, lactate 10.58, ammonia 51
+    WBC 13.61, Seg 90.3%, CRP 23.02, D-bil 2.57
+    Na/K/Ca 139/5.7/2.52
+    => rolikan 32meq in N/S 250c.c, D50W*2amp, Tazocin 3g Q6H
+    BS 54
+    9am bradycardia and Apnea, conscious loss
+    => CPCR + ETT
+    VBG 7.258/36.1/16.3, lactate 18.47
+    WBC 16.10, Seg 87.4%, CRP 20.42, T-bil 3.77
+    Na/K/Ca 141/6.6/2.41  Mg 1.07, P 7.4, BUN 62.4
+    => ROSC, ABG 7.326/28.6/15.1
+    => ICU + CVVH
+    => Digoxin IF, Cordarone 150mg IF, Levophed, Bosmin
+7/4 T/P/R 36.1/114/14 BP 136/80mmHg,
+    Dopamine
+    ABG 7.451/32.6/23, lactate 3.72,
+    PT/INR/aPTT 21/2.1/38.7 d-dimer >35.2, fibrinogen 389
+    T-bil 4.5, ALP/GGT 200/211, Amy/Lip 72/220
+    BUN/Cre 39.7/3.3
+    NA/K/Ca 138/3.5/2.64
+7/5 SLED
+    CVP 22
+    T-bil/D-bil 6.17/4.52, AST/ALT 672/531, ALP/GGT 157/167
+    lipase 199
+    ammonia 39
+7/6 CVP 24
+    T-bil 8.88, ALP 396
+7/7 SLED
+    CVP 22, Extubation
+    T-bil 11.67, ALP 239, lipase 121
+7/8 CVP 18
+    T-bil 11.56,
+7/9 iHD
+    T-bil 10.38, AST/ALT 38/110
+    => transfer to general ward
+7/11 iHD
+7/13 poor digestive function since afternoon, abdomen distension,
+constipation, groaning at night,
+     sleep-apnea appearance at night, with spontaneous recovery
+7/14 SLED
+     could not tolerate 3-day dialysis free duration;
+     ABG 7.39/22.6/14.1, K 5.6, CRP 13.41;
+     WBC 15.25, Seg 90.2%
+     T-bil/D-bil 11.08/7.07,
+     Amy/Lip 141/209,
+    => Rolikan 1 bottle at HD room + Ambu-bagging
+     ABG 7.53/22.8/19.3
+    => after SLED
+     VBG 7.39/22.4/14.1, lactate 11.1
+    => Tazocin change to Tienam + Vancomycin
+       rolikan for pending to CT and family visits
+     chest + abdomen + pelvis CT with/without contrast:
+     1. emphysematous gastritis with portal vein gas
+     2. bilateral pleural effusion
+    => family signed "DO NOT RESCUCITATION" including hemodialysis, and
+change right subclavian CVC
+7/15 lactate 22
+     VBG 7.292/23.5/11.5
+     WBC 26.76, Seg 90.6%, Hb 11.0
+     T-bil 16.85, AST/ALT 92/50, Na 140, Cl 87, AG 41.5
+     B/C GNB*II (TTP peripheral: 29.10Hr, CVC: 11.70)
+    => CRBSI; removed CVC, change to left neck
+7/16 lactate 4.74; ammonia 29
+    => Rolikan 1 bottle
+     VBG 7.486/35.4/27
+     T-bil 16.48, ALT 117, BUN 87, Na 140, K 4.9, Cl 88
+    => SLED
+     VBG 7.413/39/25.1
+7/17 lactate 2.18; ammonia 55
+     ABG 7.467/32.7/23.8
+     CRP 11.26
+     T-bil 17.55, ALT 162, Ca 2.73, K 3.9, Cl 92
+     another set of blood culture: GNB
+    => discontinue Vancomycin; add TPN 1000c.c
+     Owing to hemodynamic stablization and improving clinical condition, we
+keep Tienam.
+
+
+Plan
+1. Arrange hemodialysis on July 18
+2. Regular check lab data daily
+3. Do blood culture at HD room
+4. Start TPN support today
+5. Keep NPO until hemodynamic stablization
+6. Pursue blood culture sensitivity report for further antibiotics
+adjustment

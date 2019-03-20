@@ -1,0 +1,78 @@
+
+Brief Summary of this week
+After admission, CVVH was started, and we added on Invanz and Cravit. On
+2/16, shock was noted in the morning, ans hydration and Levophed were given
+both; and the blood pressure returned to 105/44 mmHg in the afternoon; an
+episode of seizure developed, and anxicam was given; and we added on
+Teicoplanin for sputum smear GPC in clusters 3+. On 2/17, we tapered off
+Levophed due to blood pressure up to 110/50 mmHg. On 2/18, the sputum
+culture showed Stenotrophomonas maltophilia 3+; and we tapered off the
+CVVH. On 2/19 we DC Targocid due to no evident MRSA infection and r/o
+Targocid related thrombocytopenia(PLT:92K(2/17)-->66K(2/18)-->47K(2/19)).
+
+
+2015/02/17:Urinary legionella Ag: negative
+Mycoplasma Pneumoniae IgM: negative
+Sputum Chlamydiae Antigen: negative
+2015/02/18:
+
+
+Assessment
+Invanz (2/15-) D6 for IAI
+Cravit(2/15-) D6 for atypical infection coverage and SM
+Targocid (2/16-18)
+
+[Clinical findings]
+PCV IP 14, PEEP 6, FiO2 35%
+->TV 323, RR 17, VE 5.39, SpO2 98%
+BW 52.6kg(+0.7kg)
+conscious unclear, E2M4Vt
+no nystagmus, right eye s/p cataract surgery, left side pinpoint pupil
+BS: bil. coarse, no wheezing, Gr III/IV pansystolic murmurs over apex and
+LLSB
+Abdomen: soft, hypoactive bowel sounds
+Extremities: Gr II edema
+
+2/21 no seizure activity, oliguria, Levophed dose taper down to 3ml/hr
+ABG=7.45/32/96/22.7 BE-1.5, no acidosis
+2/20 GTC for 1min, poor conscious then; hypotension after phenytoin loading
+Brain CT: no ICH, no mass lesion
+ammonia 12, Na 140, Ca 1.8, Mg 0.96, BUN 29.1
+
+[Imag and LAB]
+Urinary legionella Ag: negative
+Mycoplasma Pneumoniae IgM: negative
+Sputum Chlamydiae Antigen: negative
+Chest CT (2/14): bil. dependent part consolidation with multiple air-
+bronchogram and GGO pattern
+Abdomen rigid and tenderness (Bedside echo: mild ascites)
+A+P CT(2/14): r/o ileus, no GB stone, no obvious  pancreas swelling
+
+
+BUN/Cre:76.1/4.2  U/O<100ml/6hrs
+CK/CKMB/TnI:(2/14)1174/117/0.021-->(2/15)723/98/0.802
+NG coffee ground(+), OB 4+
+2/16 (1) ABP 85/40 in AM s/p hydration and titration of Levophed, 105/44 in
+PM (Levophed 5mcg/min), (2) GTC 20 seconds s/p Anxicam, (3) Add teicoplanin
+for sputum smear GPC in clusters 3+
+2/17 Off Levophed, BP 110/50mmHg, still abdominal distension and tenderness
+2/18 S/C: Stenotrophomonas maltophilia 3+
+        off CVVH.
+2/19 DC Targocid due to no evident MRSA infection and r/o Targocid related
+thrombocytopenia(PLT:92K(2/17)-->66K(2/18)-->47K(2/19))
+        Try Lasix for oliguria.  Try D5W feeding.
+
+
+Plan
+1. Keep Cravit (for SM and cover atypical infection)+ Invanz
+2. Follow BUN/CRE/ABG; consider dialysis if progressed acidosis or
+azotemia, deteriorated O2 demand
+3. Beware of pancreatitis complications, may check autoimmune markers;
+Abdominal CT may be indicated if there was persistent fever 1 week later;
+monitor peritoneal signs.
+4. Close monitor neurologic status, lumbar puncture not indicated now as no
+evident signs of CNS infection, correct metabolic factors first
+5. Try half milk feeding, taper TPN gradually(2/20要重開), self-paid nexium
+use
+6. The family consented on 不電不壓, 要洗腎
+7. Consider further NJ tube insertion for re-feeding

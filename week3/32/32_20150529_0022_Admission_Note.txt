@@ -1,0 +1,243 @@
+
+2015/05/29 00:22 | |
+|主訴(Chief Complaint)                                            |
+|Informant:family and medical record consciouness disturbance     |
+|since 2015/05/25                                                 |
+|病史(Brief History)                                              |
+|This 55-year-old patient had following diseases: 1)Hepatocellular|
+|Carcinoma(HCC), Barcelona Clinic Liver Cancer stage B, status    |
+|post Transcatheter Arterial Chemoembolization(TACE) in 2011 and  |
+|2013, with recurrence, status post TAE and Radiofrequency        |
+|Ablation(RFA) on 2014/07/30, status post TACE(III) on 10/23 and  |
+|RFA(II) on 10/29, under natural therapy with multiple lung       |
+|metastases 2)Multiple brain metastases with tumor bleeding and   |
+|IVH with obstructive hydrocephalus, s/p suboccipital craniotomy  |
+|for tumor excision on 2015/05/28 3)Hepatitis B carrier 4)ESRD    |
+|status post kidney transplantation in 2009 under prograf use This|
+|patient was noted to have consciouness disturbance since         |
+|2015/05/25. There was no fever, cough or diarrhea noted. He was  |
+|brought to our ER on 5/27. At our ER, his vital signs was stable |
+|with GCS E3V2M5. Initial PE/NE revealed nystagmus(rapid phase to |
+|right), hyporeflexia DTR and equivocal Babinski's sign. CXR      |
+|showed RLL consolidation. Leukocytosis(~10k/ul) and              |
+|anemia(8.7mg/dl) was noted. Unasyn was given empirically. On     |
+|5/28, non-contrast CT reported Multiple brain metastases with    |
+|cerebellar tumor bleeding and IVH with obstructive hydrocephalus.|
+|They consulted neurosurgeon for further management, and 1.)      |
+|arrange contrast brain CT 2.) Mannitol 100mL q8h IF, Solu-medrol |
+|40mg IV q8h, 3.) Control SBP < 140mmHg, 4.) Correct coagulopathy,|
+|5.)EVD insertion for obstructive hydrocephalus were suggested.   |
+|However, his family hesitated about EVD insertion. After well    |
+|explaination, they decided to receive suboccipital craniotomy for|
+|tumor excision. Emergent operation was done on 5/28. After       |
+|surgery, the patient was transferred to SICU for post-operative  |
+|care. Family History: no family history of liver cancer          |
+|Medication Allergy:No 病人自述 2014/07/29 No 病人自述 2014/03/04 |
+|Medication ADR:unknown Allergy to Medical Device and Materials:No|
+|病人自述 2014/07/29 Current Medication: NTUH: 0.5 Baraclude 0.5  |
+|mg/tab for CDC Approval 1 tab QDAC2HR PO 28 days B.C. /cap 1 cap |
+|TID PO 28 days Urso 100 mg/tab 1 tab TID PO 28 days Rapamune 1   |
+|mg/tab 1 tab QD PO 28 days 0.5 PROgraf 0.5 mg/cap 1 cap QD PO 28 |
+|days Other: 中草藥:nil 保健食品:nil Past Medical History:        |
+|1)Hepatocellular Carcinoma(HCC), Barcelona Clinic Liver Cancer   |
+|stage B, status post Transcatheter Arterial                      |
+|Chemoembolization(TACE) in 2011 and 2013, with recurrence, status|
+|post TAE and Radiofrequency Ablation(RFA) on 2014/07/30, status  |
+|post TACE(III) on 10/23 and RFA(II) on 10/29, under natural      |
+|therapy with multiple lung metastases 2)Multiple brain metastases|
+|with tumor bleeding and IVH with obstructive hydrocephalus, s/p  |
+|suboccipital craniotomy for tumor excision on 2015/05/28         |
+|3)Hepatitis B carrier 4)ESRD status post kidney transplantation  |
+|in 2009 under prograf use Hospitalization: 入院日期:2015_01_20   |
+|出院日期:2015_01_23 診斷:Hepatocellular carcinoma                |
+|入院日期:2014_10_23 出院日期:2014_10_30 診斷:Hepatocellular      |
+|carcinoma 入院日期:2014_07_29 出院日期:2014_08_01                |
+|診斷:Hepatocellular carcinoma Past Surgical History: 2009 kidney |
+|transplantation 2015_05_28 Suboccipital craniotomy for tumor     |
+|excision Travel History:nil                                      |
+|社會心理相關評估(Psychosocial Assessment)                        |
+|Social Economic and Personal History 教育程度:高中 職業:商       |
+|宗教信仰:道教 婚姻狀態:已婚 使用語言:國語 台語 口述血型:B，RH:不 |
+|清楚，輸血反應:無 抽煙:沒有 喝酒:沒有，已戒酒:0.5年 檳榔:沒有 物 |
+|質濫用:沒有 Psychological History and Evaluation 意識狀態:麻醉未 |
+|醒 認知功能:無法評估 精神情緒狀態:異常 焦慮 安全問題:有 跌倒     |
+|睡眠形態:異常 淺、易醒 Nutritional Screen 攝食情形:佳，攝食75%   |
+|排便狀態:正常 BMI:23.14 Fall Risk Assessment 總分:13             |
+|(>=3分進行不倒翁計畫，請開預防跌倒醫囑)                          |
+|系統性回顧(Review of System)                                     |
+|1.Systemic: weight loss(-), easy-fatigability(-), night sweats(-)|
+|2.Skin: petechiae(-), purpurae(-), skin rash(-), itching(-),     |
+|3.HEENT: headache(-),dizziness(-), blurred vision(-),            |
+|strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing  |
+|impairment(-), tinnitus(-), vertigo(-), nasal stuffiness(-),     |
+|nasal discharge(-), epistaxis(-), gum bleeding(-), sore          |
+|throat(-),oral ulcer(-) 4.Cardiovascular: exertional chest       |
+|tightness(-), nocturnal dyspnea(-), orthopnea(-) syncope(-),     |
+|palpitation(-), intermittent claudication(-) 5.Respiratory:      |
+|dyspnea(-), cough(-), chest pain(-), hemoptysis(-), productive   |
+|cough (-), pleuritic chest pain(-) 6.Gastrointestinal:           |
+|anorexia(-), nausea(-), vomiting(-), dysphagia(-), heartburn(-), |
+|acid regurgitation(-), abdominal fullness(-), hunger pain(-)     |
+|midnight pain(-), constipation(-), diarrhea(-), melena(-), change|
+|of bowel habit(-), small caliber of stool(-), tenesmus(-),       |
+|flatulence(-) 7.Urogenital: flank pain(-), hematuria(-), urinary |
+|frequency(-), urgency(-), dysuria (-), hesitancy(-), small stream|
+|of urine(-), impotence(-), nocturia(-), polyuria(-), oliguria (-)|
+|8.Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-),      |
+|weakness(-) back pain(-) 9.Metabolic: heat intolerance(-), cold  |
+|intolerance(-), thirsty(-) 10.Nervous: numbness (-),             |
+|paresis/plegia (-)                                               |
+|身體檢查(Physical Examination)                                   |
+|BH:165 cm BW:63 kg T:36.5 P:88 R:18 BP:137/97 mmHg Pain:0        |
+|Neurological Examination: . Consciousness:sedative, E2M1VT .     |
+|Muscle not accessible . Gait:not accessible Head-Eye-ENT grossly |
+|normal, conjunctiva: pink, sclera: anicteric, surgical wound(+)  |
+|Pupil: isocoric, 3.5mm/ 2.5mm Light reflex: L/R: -/-, EOM: -/-   |
+|Neck Jugular vein engorgement(-) Thyroid goiter(-) Meningismus:  |
+|Kernig sign(-); Brudzinski sign(-) Carotid bruit(-) Chest        |
+|Thoracic cage contour: symmetric, Retraction(-) Breathing        |
+|sound:bilateral coarse breathing sound Heart Heart beat: regular |
+|Murmurs(-) LV lift(-) RV heave(-) Increased cardiac size by      |
+|percussion(-) Adventitious sounds (-) Abdomen Flat & soft        |
+|Superficial vein engorgement(-) Protruded umbilicus(-) Bowel     |
+|sound: Normoactive Tenderness(-) Hepato-jugular reflux(-) Liver  |
+|and spleen: impalpable Surgical wound(+) Extremities pulses      |
+|symmetric and intact, pitting edema(-) Skin Abnormal             |
+|pigmentation(-) Petechiae(-) Purpura(-) Ecchymoses(-)            |
+|Telangiectasia(-) Rash(-) Plaque(-) Lymphadenopathy(-) Initial NE|
+|2015/5/28 02:30 E4M6poorV2, drowsy Pupil:(R/L) 2mm/2mm, light    |
+|reflex:+/+ EOM: un-conjugated MP: symmetric, >3 DTR: all         |
+|hyporeflexia Babinski's sign:(R/L) equivocal / equivocal         |
+|檢驗紀錄(Laboratory Report)                                      |
+|*********檢驗室:YM*********** 群組: Free Ca(急重症自 Hb(急重症自 |
+|行檢驗) Hct(急重症自行檢驗) K+(急重症自行檢驗) Na(急重症自行檢驗)|
+|行檢驗) time/item (mmol/L) (g/dL) (%) (mmol/L) (mmol/L) 1040528  |
+|[1758] 1.17 11.1 33 3.76 136.6 1040528 [2005] 1.10 10.5 31 3.73  |
+|139.1 Suger(急重症自行檢 LacticAcid(急 驗) 重症自行檢驗)         |
+|time/item (mg/dL) (mmol/L) 1040528 [1758] 239 2.1 1040528 [2005] |
+|221 2.4 群組:Yes pH pCO2 pO2 HCO3 BaseExcess time/item () (mmHg) |
+|(mmHg) (mmol/L) (mmol/L) 1040528 [1758] 7.469 29.8 283.6 21.9    |
+|-2.1 1040528 [2005] 7.396 36.6 274.2 22.7 -2.5 SO2 time/item (%) |
+|1040528 [1758] 99.9 1040528 [2005] 99.9                          |
+|*********檢驗室:RL*********** 群組: Mucus(S) time/item (*)       |
+|1040527 [2103] - 群組:SEDIMENT RBC(S) WBC(S) EpithCell(S) Cast(S)|
+|Crystal(S) time/item (/HPF) (/HPF) (/HPF) (/LPF) (*) 1040527     |
+|[2103] 0-2 0-2 0-2 - - Others(S) Bacteria time/item (*) (*)      |
+|1040527 [2103] - + 群組:MULTISTIX Sp. Gr.(C) pH(C) Protein(C)    |
+|Glu.(C) Ketones(C) time/item (*) (*) (mg/dL) (mg/dL) (*) 1040527 |
+|[2103] 1.018 6.5 30 ( 1+ ) - 2+ O.B.(C) Urobil.(C) Bil.(C)       |
+|Nitrite(C) WBC(C) time/item (mg/dL) (mg/dL) (mg/dL) (*) (*)      |
+|1040527 [2103] - ≦1.5 - - - Color Turbidity time/item (*) (*)    |
+|1040527 [2103] Light Yellow - 群組:Yes C-Reactive P rotein       |
+|time/item (mg/dL) 1040527 [2029] 15.87 群組:General BioChemistry |
+|ALB ALT time/item (g/dL) (U/L) 1040527 [2029] 2.7 49             |
+|群組:Biochemistry BUN CRE Na K Cl time/item (mg/dL) (mg/dL)      |
+|(mmol/L) (mmol/L) (mmol/L) 1040527 [2029] 12.7 0.6 131 4.0 90    |
+|Ammonia N T-BIL Ca Mg P time/item (μmol/L) (mg/dL) (mmol/L)      |
+|(mmol/L) (mg/dL) 1040527 [2029] 26 1.34 2.06 0.63 4.1 LacticAcid |
+|time/item (mmol/L) 1040527 [2029] <0.20 群組:WBC Classification  |
+|Blast Promyl. Myelo. Meta Band time/item (%) (%) (%) (%) (%)     |
+|1040527 [2029] 0.0 0.0 0.0 1.0 0.0 Seg Eos. Baso. Mono. Lym.     |
+|time/item (%) (%) (%) (%) (%) 1040527 [2029] 86.0 0.0 0.0 5.0 8.0|
+|Aty.Lym. PlasmaCell Normobl. PS time/item (%) (%) () () 1040527  |
+|[2029] 0.0 0.0 0.0 /100 WBC WBC 100 群組:CBC+PLT WBC RBC HB HCT  |
+|MCV time/item (K/μL) (M/μL) (g/dL) (%) (fL) 1040527 [2029] 10.36 |
+|3.77 8.7 28.1 74.5 MCH MCHC PLT RDW-CV PS time/item (pg) (g/dL)  |
+|(K/μL) (%) () 1040527 [2029] 23.1 31.0 260 18.5 -                |
+|群組:Coagulation PT PTT PT INR time/item (sec) (sec) () 1040528  |
+|[0217] 12.0 31.7 1.13 *********檢驗室:BK*********** 群組:Yes     |
+|antibody scr een(New Lis) time/item (*) 1040528 [0217] Negative  |
+|群組:Blood Type ABO Typing RH Typing time/item (*) (*) 1040528   |
+|[0217] B Positive *********檢驗室:PO*********** 群組: Sugar(One  |
+|to uch) time/item (*) 1040527 [2028] 160 1040528 [0216] 133      |
+|*********檢驗室:YM*********** 群組: Free Ca(急重症自 Hb(急重症自 |
+|行檢驗) Hct(急重症自行檢驗) K+(急重症自行檢驗) Na(急重症自行檢驗)|
+|行檢驗) time/item (mmol/L) (g/dL) (%) (mmol/L) (mmol/L) 1040528  |
+|[0215] 1.13 10.4 31 3.82 127.7 Suger(急重症自行檢 LacticAcid(急  |
+|驗) 重症自行檢驗) time/item (mg/dL) (mmol/L) 1040528 [0215] 129  |
+|1.7 群組:Yes pH pCO2 pO2 HCO3 BaseExcess time/item () (mmHg)     |
+|(mmHg) (mmol/L) (mmol/L) 1040528 [0215] 7.515 29.3 55.4 23.8 0.6 |
+|SO2 time/item (%) 1040528 [0215] 91.8                            |
+|檢查紀錄(Examination Report)                                     |
+|nil                                                              |
+|影像報告(Imaging Report)                                         |
+|CT With/Without Contrast-Brain 醫令: CT With/Without             |
+|Contrast-Brain 報告醫師: 陳信嘉 影像時間: 2015/05/28 02:51       |
+|(33072B0M) 發報告時間: 2015/05/28 09:59 History: HCC, HBV        |
+|currently under natural therapy; ESRD, s/p renal transplant;     |
+|Con's disturbance for 2 days; Nystagmus; Emergent CT of the brain|
+|without and with contrast enhancement shows: > Multiple enhancing|
+|nodular lesions with perifocal edema at bilateral cerebral       |
+|hemispheres and the left cerebellum. Metastasis is considered    |
+|first. > Hemorrhage in fourth ventricle with dilated lateral and |
+|third ventricles. > No definite focal lesion in the cranial      |
+|vault. > Well aeration of mastoid air cells and paranasal        |
+|sinuses. CT Without Contrast-Brain 醫令: CT Without              |
+|Contrast-Brain 報告醫師: 陳信嘉 影像時間: 2015/05/28 01:12       |
+|(33070B0M) 發報告時間: 2015/05/28 09:58 History: HCC, HBV        |
+|currently under natural therapy; ESRD, s/p renal transplant;     |
+|Con's disturbance for 2 days; Nystagmus; Emergent CT of the brain|
+|without contrast enhancement shows: > Multiple nodular lesions   |
+|with perifocal edema at bilateral cerebral hemispheres and the   |
+|left cerebellum. Metastasis is considered first. > Hemorrhage in |
+|fourth ventricle with dilated lateral and third ventricles. > No |
+|definite focal lesion in the cranial vault. > Well aeration of   |
+|mastoid air cells and paranasal sinuses. Chest : AP View (Supine)|
+|醫令: Chest : AP View (Supine) 報告醫師: 廖漢文 影像時間:        |
+|2015/05/27 20:39 (32001CYM) 發報告時間: 2015/05/27 21:30 1. hazy |
+|density noted in the both lungs more on right. 2. the heart size |
+|is normal.The aorta is tortuous and calcified. 3. thoracic cage  |
+|is intact.                                                       |
+|病理報告(Pathology Report)                                       |
+|pending                                                          |
+|臆斷(Tentative Diagnosis)                                        |
+|1)Hepatocellular Carcinoma(HCC), Barcelona Clinic Liver Cancer   |
+|stage B, status post Transcatheter Arterial                      |
+|Chemoembolization(TACE) in 2011 and 2013, with recurrence, status|
+|post TAE and Radiofrequency Ablation(RFA) on 2014/07/30, status  |
+|post TACE(III) on 10/23 and RFA(II) on 10/29, under natural      |
+|therapy with multiple lung metastases 2)Multiple brain metastases|
+|with tumor bleeding and IVH with obstructive hydrocephalus, s/p  |
+|suboccipital craniotomy for tumor excision on 2015/05/28         |
+|3)Hepatitis B carrier 4)ESRD status post kidney transplantation  |
+|in 2009 under prograf use                                        |
+|醫療需求與治療計畫(Medical Needs and Care Plan)                  |
+|*1)Hepatocellular Carcinoma(HCC), Barcelona Clinic Liver Cancer  |
+|stage B, status post Transcatheter Arterial                      |
+|Chemoembolization(TACE) in 2011 and 2013, with recurrence, status|
+|post TAE and Radiofrequency Ablation(RFA) on 2014/07/30, status  |
+|post TACE(III) on 10/23 and RFA(II) on 10/29, under natural      |
+|therapy with multiple lung metastases 2)Multiple brain metastases|
+|with tumor bleeding and IVH with obstructive hydrocephalus, s/p  |
+|suboccipital craniotomy for tumor excision on 2015/05/28         |
+|3)Hepatitis B carrier 4)ESRD status post kidney transplantation  |
+|in 2009 under prograf use A: Vital signs:35.7/103/12, BP:141/88  |
+|Consciousness: sedative, E2M1VT, pupil:3.5/2.5, LR:-/- Muscle    |
+|power: not accessible <OP summary> -op method:Suboccipital       |
+|craniotomy for tumor excision -op finding: One well-defined tumor|
+|about 2.5cm was noted at the rignt cerebellar hemisphere. Another|
+|small soft tumor was noted at the vermis and the deepest one was |
+|about 3.2cm with hemorrhage was hard. -complication:nil -blood   |
+|loss:100ml <Lab> 2015/05/28 HB:9.2 g/dL 2015/05/28 WBC:13.43 K/μL|
+|2015/05/28 PLT:270 K/μL 2015/05/28 CRE:0.7 mg/dL 2015/05/28      |
+|BUN:21.4 mg/dL 2015/05/28 ALT:39 U/L 2015/05/28 AST:128 U/L      |
+|2015/05/28 PH:7.430 * PCO2:34.0 mmHg PO2:198.5 mmHg HCO3:22.8    |
+|mmol/L BaseExcess:-1.7 mmol/L <CXR> RLL consolidation <Brain CT  |
+|C+> Multiple brain metastases. Hemorrhage in fourth ventricle    |
+|with hydrocephalus. P: 1. Check GCS, Light reflex, Pupil size,   |
+|vital sign Q1H, muscle power as routine 2. On ETT with ventilator|
+|3. if consciousness full awake, try weaning ventilator, then     |
+|extubation. 4. try oral intake after extubation 5. Keep          |
+|SBP<140mmHg on postop day 1, then Keep SBP<160mmHg since day 2 6.|
+|Head elevation 30' 7. Mannitol+solumedrol use 8. Keep unasyn     |
+|Treatment goal: no fever(BT<38'c), VAS<3                         |
+|出院規劃(Discharge Planning)                                     |
+|管路留置狀況:有 靜脈管路留置(含Hickman / Port-A)：有 左手 右手   |
+|雙腔導管留置：有 右腹股溝 鼻胃管留置：有 16Fr. 氣管管路留置：有  |
+|氣管內管 7.5mm 胃造廔口：無 尿管留置：有 Two way Foley 14Fr.     |
+|膀胱造廔：無 傷口引流管：有 其他導管： 日常生活功能分數：0       |
+|預期出院後居住場所：與家人同住 預期出院後主要照顧者：兒子 出院規 |
+|劃收案篩檢：高危病患 帶有管路 功能量表未滿60分                   |
+|醫師姓名                                                         |
+|王國川 主治醫師                                                  |
+

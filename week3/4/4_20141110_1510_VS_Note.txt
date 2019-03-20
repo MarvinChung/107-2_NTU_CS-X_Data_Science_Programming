@@ -1,0 +1,36 @@
+
+*1. Refractory Pre-T acute lymphoblastic leukemia/lymphoma
+2. Suspected intraabdominal infection, colitis/appendicitis?
+3. Previous hepatic fungal infection
+4. Paranasal sinusitis, resolved
+
+Low-grade fever
+Abdominal cramps, especially right side
+Deep colored stool
+
+2014/11/10
+HB:6.9 g/dL
+PLT:10 (Manual checked) k/μL
+WBC:2.01 k/μL
+RBC:2.12 M/μL
+HCT:19.8 %
+MCV:93.4 fL
+MCH:32.5 pg
+MCHC:34.8 g/dL
+RDW-CV:20.9 %
+PS:-
+
+2014/11/10
+T-BIL:0.54 mg/dL
+AST:10 U/L
+ALP:60 U/L
+CRE:0.3 mg/dL
+K:2.9 mmol/L
+Mg:0.74 mmol/L
+
+2014/11/07 CXR:
+Right sided pleural effussion
+
+Plan:
+Keep meropenem and fluconazole
+Keep platelet count > 50K if persistent deep colored stooll

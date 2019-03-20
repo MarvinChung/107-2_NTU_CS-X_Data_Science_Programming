@@ -1,0 +1,215 @@
+
+2015/02/06 22:38 | |
+|主訴(Chief Complaint)                                            |
+|Informant:old chart and dyspnea with wheezing for 4 days         |
+|病史(Brief History)                                              |
+|This 92 y/o man has history of 1. Acute on chronic kidney        |
+|disease, intrinsic type, with severe azotemia and metabolic      |
+|acidosis 2. Left intertrochanteric fracture, Boyd e Griffin type |
+|II, s/p ORIF 3. Vascular dementia, ADL independent 4. Type 2     |
+|diabetes mellitus under oral medication 5. Chronic kidney        |
+|disease, stage V, with anemia and secondary hyperparathyroidism  |
+|6. Hypertension under medication 7. Valvular heart disease,      |
+|moderate aortic regurgitation He was regularly followed at our   |
+|nephrology OPD. In the recent 8 months, the patient's creatinine |
+|gradually increased from 4.9 mg/dl (2014//05/15) to 8.1mg/dl     |
+|(2015/01/02). This time, He had dyspnea with wheezing for 4 days |
+|. He was sent to our ER on 02/04 . At ER, the vital sign was     |
+|Clear , E: 3, V: 4, M: 5 Blood Pressure: 187/87mmHg, Pulse Rate: |
+|90/min, Respiratory Rate: 22/min, Temperature: 37.5℃. Emprical   |
+|antibiotics Unasyn and bronchodilater were given. However , he   |
+|had wheezing and edema still. he was admitted our ward on        |
+|2015/02/06. Family History: 1)Father:stroke, 2)Brothers: CAD,    |
+|liver cancer, 3)son and daughters: almost all have hypertension  |
+|Medication Allergy:No 病人自述 2014/12/27 Medication ADR:unknown |
+|Allergy to Medical Device and Materials:No 病人自述 2014/12/27   |
+|Current Medication: NTUH: Catapres 0.075 mg/tab : PO 0.5 tab BID |
+|ADALAT OROS 30 mg/tab : PO 1 tab QD Alfarol (VIT.D3) 0.25 mcg/cap|
+|: PO 1 cap QD Glunormal 30 mg/tab : PO 1 tab BIDAC HARNALIDGE D  |
+|0.2 mg/tab : LZ 1 tab QD Ferrum Hausmann Chewable 100 mg/tab : PO|
+|1 tab QD Mircera 100 mcg/0.3 mL /syrg : SC 100 mcg Q4W Other:nil |
+|中草藥:nil 保健食品:nil Past Medical History: 1. Vascular        |
+|dementia, ADL dependent before admission 2. Type 2 diabetes      |
+|mellitus under oral medication 3. Chronic kidney disease, stage  |
+|V, with anemia and secondary hyperparathyroidism 4. Hypertension |
+|under medication 5. Valvular heart disease, moderate aortic      |
+|regurgitation Hospitalization: 入院日期:2014_06_06               |
+|出院日期:2014_06_10 診斷:Dementia, orgaic brain syndrome, senile |
+|入院日期:2014_05_13 出院日期:2014_05_23 診斷:Cognitive deficits, |
+|late effects of cerebrovascular disease Past Surgical History: 1.|
+|bilateral catarract status surgery 3 years ago 2. 2014_12_19 ORIF|
+|with PFNA II(11*200mm, 130 degree), proximal lag screw*1 (10.5*95|
+|mm), distal screw*1(30mm) Travel History:denied                  |
+|社會心理相關評估(Psychosocial Assessment)                        |
+|Social Economic and Personal History 教育程度:博士 職業:退休     |
+|宗教信仰:無 婚姻狀態:喪偶 使用語言:台語 日語 口述血型:O，RH:不清 |
+|楚，輸血反應:無 抽煙:沒有 喝酒:有，酒齡:70年，1杯/天 檳榔:沒有   |
+|物質濫用:沒有 Psychological History and Evaluation 意識狀態:混淆 |
+|認知功能:無法評估 精神情緒狀態:異常 倦怠 淡漠 安全問題:有 其他   |
+|fall down 睡眠形態:異常 入睡困難 淺、易醒 使用藥物 Nutritional   |
+|Screen 攝食情形:佳，攝食75% 排便狀態:正常 BMI:18.78 Fall Risk    |
+|Assessment 總分:17 (>=3分進行不倒翁計畫，請開預防跌倒醫囑)       |
+|系統性回顧(Review of System)                                     |
+|General/Constitutional: Fever(-), weight change(-), general      |
+|weakness(-) Head/Neck: Headaches(-), dizziness(-), vertigo(-),   |
+|lightheadedness(+), injury(-) Vision(fair), double vision(-),    |
+|strabismus(-), ocular pain(-) Otalgia(-), otorrhea(-), hearing   |
+|impairment(+/-), tinnitus(-) Epistaxis(-), congestion(-),        |
+|discharge(-) Caries(-), dentures(-), gum bleeding(-), sore       |
+|throat(-), oral ulcer(-) Neck stiffness(-), neck pain(-),        |
+|tenderness(-), masses(-) Cardiovascular: Chest tightness/pain(-),|
+|palpitations(-), syncope(-), dyspnea on exertion(-),             |
+|orthopnea(-), paroxysmal nocturnal dyspnea(-), edema(-),         |
+|cyanosis(-), claudication(-), varicosities(-) Respiratory: Chest |
+|pain(-), shortness of breath(+) ofr 3 dasy , cough(-),           |
+|hemoptysis(-), wheezing(-), night sweats(-) Gastrointestinal:    |
+|Appetite(good), dysphagia(-), abdominal pain(-), flatulence(-),  |
+|heartburn(-), nausea(-), vomiting(-), hematemesis(-),            |
+|jaundice(-), constipation(-), diarrhea(-), stools [normal],      |
+|recent changes in bowel habits(-), fecal incontinence(+)         |
+|Genitourinary: Flank pain(-), hematuria(-), urgency(-),          |
+|frequency(-), dysuria(-), nocturia(-), polyuria(-), oliguria(-), |
+|retention(-), incontinence(+, urine and stool)                   |
+|Hematologic/Endocrine Bleeding tendency(-), previous transfusions|
+|and reactions(-), lymph node enlargement or tenderness(-)        |
+|Thirsty(-), polydipsia(-), polyuria(-), hormone therapy(-),      |
+|growth and development(normal) Goiter(-), Intolerance to heat or |
+|cold(-) Musculoskeletal/Nervous: Pain(-), swelling(-), redness or|
+|heat of muscles or joints(-), limitation of motion(-), muscular  |
+|weakness(-), atrophy(-), cramps(-) Numbness(-), paresis/plegia(-)|
+|Skin/Breast: Rash(-), itching(-), pigmentation(-), changes in    |
+|hair growth or loss(-), nail changes(-) Breast lumps(-),         |
+|tenderness(-), swelling(-), nipple discharge(-) Muscle power:    |
+|身體檢查(Physical Examination)                                   |
+|BH:170 cm BW:54.26 kg T:36.5 P:95 R:24 BP:188/169 mmHg Pain:0    |
+|Neurological Examination: . Consciousness: confused, can answer  |
+|his name, oriented to time, to place . Muscle power: No focal    |
+|deficit . Gait: steady Head-Eye-ENT Grossly normal; Conjunctiva: |
+|Pink; Sclera: Anicteric Pupil: Isocoric, R/L: 3mm/3mm Light      |
+|reflex: R/L: +/+; EOM: Full and free Neck Jugular vein           |
+|engorgement(-) Goiter(-) Meningismus: Kernig sign(-), Brudzinski |
+|sign(-) Carotid bruit(-) Chest Thoracic cage contour: Symmetric, |
+|Retraction(-) Breath sounds: Clear to auscultation bilaterally   |
+|Heart Heart beat: Regular; pansystolic murmur Increased cardiac  |
+|size by percussion(-) Adventitious sounds(-) Abdomen Flat & soft |
+|Superficial vein engorgement(-); Protruded umbilicus(-) Bowel    |
+|sound: hyperactive Tenderness(-); Hepato-jugular reflux(-) Liver |
+|and spleen: Impalpable Extremities Freely movable, pulses        |
+|symmetric and intact, pitting edema(-) clean surgical wound at   |
+|left leg Back Knocking pain(-) Skin Abnormal pigmentation(-)     |
+|Petechiae(-); Purpura(-); Ecchymoses(-); Telangiectasia(-)       |
+|Rash(-), Plaque(-) Lymphadenopathy(-)                            |
+|檢驗紀錄(Laboratory Report)                                      |
+|*********檢驗室:BC*********** 群組:Anemia BC Profile Ferritin    |
+|time/item (ng/mL) 1040203 [0935] 593 群組:General BioChemistry   |
+|Alb TP ALT UN CRE time/item (g/dL) (g/dL) (U/L) (mg/dL) (mg/dL)  |
+|1040203 [0935] 3.3 6.3 36 109.1 9.1 UA Na K Ca P time/item       |
+|(mg/dL) (mmol/L) (mmol/L) (mmol/L) (mg/dL) 1040203 [0935] 8.6 137|
+|4.8 1.80 7.7 TG T-CHO LDL-C HDL-C time/item (mg/dL) (mg/dL)      |
+|(mg/dL) (mg/dL) 1040203 [0935] 57 105 45 46 群組:DM GLU AC HbA1c |
+|time/item (mg/dL) (%) 1040203 [0935] 210 8.0                     |
+|*********檢驗室:HE*********** 群組:CBC+PLT WBC RBC HB HCT MCV    |
+|time/item (k/μL) (M/μL) (g/dL) (%) (fL) 1040203 [0935] 9.98 3.33 |
+|9.4 28.3 85.0 MCH MCHC PLT RDW-CV PS time/item (pg) (g/dL) (k/μL)|
+|(%) () 1040203 [0935] 28.2 33.2 140 16.3 -                       |
+|*********檢驗室:RL*********** 群組:Biochemistry BUN CRE Na K Cl  |
+|time/item (mg/dL) (mg/dL) (mmol/L) (mmol/L) (mmol/L) 1040120     |
+|[1627] 95.0 7.6 144 4.4 108 Ca time/item (mmol/L) 1040120 [1627] |
+|1.88 群組:Blood pH/Gas PH PCO2 PO2 HCO3 BaseExcess time/item (*) |
+|(mmHg) (mmHg) (mmol/L) (mmol/L) 1040120 [1627] 7.384 35.8 28.1   |
+|21.6 -3.7 群組:CBC+PLT WBC RBC HB HCT MCV time/item (K/μL) (M/μL)|
+|(g/dL) (%) (fL) 1040120 [1627] 5.35 3.29 9.2 28.7 87.2 MCH MCHC  |
+|PLT RDW-CV PS time/item (pg) (g/dL) (K/μL) (%) () 1040120 [1627] |
+|28.0 32.1 124 15.7 - *********檢驗室:BC*********** 群組:General  |
+|BioChemistry P time/item (mg/dL) 1040120 [1627] 4.8              |
+|*********檢驗室:RL*********** 群組:Blood pH/Gas PH PCO2 PO2 HCO3 |
+|BaseExcess time/item (*) (mmHg) (mmHg) (mmol/L) (mmol/L) 1040204 |
+|[1719] 7.381 28.5 45.5 17.1 -8.3 群組: Glucose(seru m for ED)    |
+|time/item (mg/dL) 1040204 [1719] 190 群組:General BioChemistry   |
+|ALT time/item (U/L) 1040204 [1719] 35 群組:Biochemistry CRE Na K |
+|time/item (mg/dL) (mmol/L) (mmol/L) 1040204 [1719] 8.9 136 4.6   |
+|群組:WBC Classification Blast Promyl. Myelo. Meta Band time/item |
+|(%) (%) (%) (%) (%) 1040204 [1719] 0.0 0.0 0.0 0.0 0.0 Seg Eos.  |
+|Baso. Mono. Lym. time/item (%) (%) (%) (%) (%) 1040204 [1719]    |
+|76.0 0.7 0.1 9.5 13.7 Aty.Lym. PlasmaCell Normobl. PS time/item  |
+|(%) (%) () () 1040204 [1719] 0.0 0.0 0 - 群組:CBC+PLT WBC RBC HB |
+|HCT MCV time/item (K/μL) (M/μL) (g/dL) (%) (fL) 1040204 [1719]   |
+|7.54 2.99 8.8 25.4 84.9 MCH MCHC PLT RDW-CV PS time/item (pg)    |
+|(g/dL) (K/μL) (%) () 1040204 [1719] 29.4 34.6 121 16.5 -         |
+|檢查紀錄(Examination Report)                                     |
+|nil                                                              |
+|影像報告(Imaging Report)                                         |
+|Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師:|
+|李怡範 影像時間: 2015/02/04 17:35 (32001CYM) 發報告時間:         |
+|2015/02/05 17:27 cardiomegaly. atherosclerotic calcification of  |
+|aorta. bilateral lung opacities. small bilateral pleural         |
+|effusion. Hip: Left 醫令: Hip: Left 報告醫師: 許昭禹 影像時間:   |
+|2015/02/03 10:20 (32022CZM) 發報告時間: 2015/02/03 18:26         |
+|osteopenia of the visible bony structures. mild scoliosis of the |
+|spine, probably due to positioning factor. lumbar spondylosis    |
+|with disc space narrowing, intradiscal vacuum phenomena and      |
+|marginal spur formation at the lower lumbar levels. essential    |
+|intact sacroiliac joints on both sides. fracture(s) at the left  |
+|femoral intertrochanteric to subtrochanteric area s/p dynamic hip|
+|screw fixation with scanty callus formation and with adjacent    |
+|soft tissue swelling. a calcified nodule(s) or plaque(s) about   |
+|the greater femoral trochanter, r/o calcified tendinosis, on     |
+|right side. atherosclerotic change of the abdominal aorta and its|
+|bifurcation, and bil. iliac and femoral arteries. some           |
+|phleboliths in the pelvic cavity. Pelvis: for THR 醫令: Pelvis:  |
+|for THR 報告醫師: 許昭禹 影像時間: 2015/02/03 10:20 (32022CUM)   |
+|發報告時間: 2015/02/03 18:26 osteopenia of the visible bony      |
+|structures. mild scoliosis of the spine, probably due to         |
+|positioning factor. lumbar spondylosis with disc space narrowing,|
+|intradiscal vacuum phenomena and marginal spur formation at the  |
+|lower lumbar levels. essential intact sacroiliac joints on both  |
+|sides. fracture(s) at the left femoral intertrochanteric to      |
+|subtrochanteric area s/p dynamic hip screw fixation with scanty  |
+|callus formation and with adjacent soft tissue swelling. a       |
+|calcified nodule(s) or plaque(s) about the greater femoral       |
+|trochanter, r/o calcified tendinosis, on right side.             |
+|atherosclerotic change of the abdominal aorta and its            |
+|bifurcation, and bil. iliac and femoral arteries. some           |
+|phleboliths in the pelvic cavity. Chest : AP View (Supine) 醫令: |
+|Chest : AP View (Supine) 報告醫師: 陳世杰 影像時間: 2014/12/27   |
+|16:03 (32001CYM) 發報告時間: 2015/02/02 16:34 remove the CVP     |
+|line, right; others, stationary in compare to previous the       |
+|nearest one similar study, suggest correlated with clinical      |
+|manifestation. Chest : AP View (Supine) 醫令: Chest : AP View    |
+|(Supine) 報告醫師: 陳世杰 影像時間: 2014/12/20 04:19 (32001CYM)  |
+|發報告時間: 2015/02/01 11:03 status post endotracheal tube       |
+|insertion. status post CVP line insertion, right; others,        |
+|stationary in compare to previous the nearest one similar study, |
+|suggest correlated with clinical manifestation.                  |
+|病理報告(Pathology Report)                                       |
+|nil                                                              |
+|臆斷(Tentative Diagnosis)                                        |
+|1.Acute on chronic kidney disease with uremic syndrome 2.Suspect |
+|pneumonia                                                        |
+|醫療需求與治療計畫(Medical Needs and Care Plan)                  |
+|1.Acute on chronic kidney disease with uremic syndrome 2.Suspect |
+|pneumonia 3.Right hip pressure sore 4.Anemia in end-stage renal  |
+|disease 5.Suspect UGI bleeding s/p Nexium by co-paid 6.Senile    |
+|dementia 7.DM with nephropathy 8.Hypertension 9.Benign prostate  |
+|hyperplasia 10.Renal hyperparathyroidism [Past Medical History]  |
+|1.Left hip fracture s/p ORIF [Dr.胡名孝's OPD] 2.Renal           |
+|hyperparathyroidism [Lab] 2015/02/04 CRE:8.9 mg/dL Na:136 mmol/L |
+|K:4.6 mmol/L ALT:35 U/L WBC:7.54 K/μL HB:8.8 g/dL HCT:25.4 %     |
+|PLT:121 K/μL [Image] 2/04 CXR:Increased infiltrations over bil.  |
+|lower lung fields [r't >L't] 2/04 KUB: ORIF was placed at left   |
+|femur head. 1.Pneumonia control with Unasyn [Day 3] 7-day course.|
+|2.Nesp 20mcg sc qW by co-paid + B.C 1# qd + Folic acid 1# qd for |
+|renal anemia 3.Alfarol (0.25) 1#qd for renal hyperparathyroidism |
+|4.HTN control with Adalat-OSOS(30) 1# bid 5.DM control with      |
+|Trajenta 1# qd 6.Dementia Rx with Seroquel. 7.Add Nexium 1# qd by|
+|co-paid. 8.May provide Siruta inhalation if indicated. 9.DNR意願 |
+|書(全拒). Treatment Goal: no dyspnea <30                         |
+|出院規劃(Discharge Planning)                                     |
+|管路留置狀況:有 靜脈管路留置(含Hickman / Port-A)：無             |
+|雙腔導管留置：無 鼻胃管留置：無 氣管管路留置：無 胃造廔口：無 尿 |
+|管留置：無 膀胱造廔：無 傷口引流管：無 其他導管：IV cath         |
+|日常生活功能分數：60 預期出院後居住場所：與家人同住 預期出院後主 |
+|要照顧者：女兒 外勞 出院規劃收案篩檢：高危病患 傷口未癒          |
+|醫師姓名                                                         |
+|蔡宏斌 主治醫師                                                  |
+

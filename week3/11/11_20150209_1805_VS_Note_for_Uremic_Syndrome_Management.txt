@@ -1,0 +1,27 @@
+
+Event: The patient had oliguria [U/O: 70ml/8hrs] noted on 2/09 afternoon.
+Azotemia was also deteriorated. The patient's son was informed grave
+prognosis. The family respect the patient's reguest to forgo dialysis.
+
+[lab]
+2015/02/09
+BUN:146.6 mg/dL CRE:10.0 mg/dL K:5.9 mmol/L Na:135 mmol/L
+Ca:1.82 mmol/L P:8.6 mg/dL
+
+Impression:
+1.Acute on chronic kidney disease with uremic syndrome
+2.Suspect pneumonia
+3.Right hip pressure sore
+4.Anemia in end-stage renal disease
+5.Suspect UGI bleeding s/p Nexium by co-paid
+6.Senile dementia
+7.DM with nephropathy
+8.Hypertension
+9.Benign prostate hyperplasia
+10.Renal hyperparathyroidism and hyperphosphatemia
+
+Plans:
+1.Keep on renal hospice-palliative care.
+2.Consider Fosrenal prescription for hyper-P 1# bid with meal since 2/09.
+Stop Vit D 1# qd on 2/09.
+3.Shift Lasix(40) 1# bid to Busix(1) 1# bid since 2/09.

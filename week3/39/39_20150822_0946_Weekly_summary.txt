@@ -1,0 +1,150 @@
+
+<Diagnosis>
+1.Gastric pseudoaneurysm bleeding with shock, status post TAE on 7/03,
+rebleeding
+2.Acute respiratory failure, type IV, s/p ETT+MV(2015/7/3-)
+3. Candidas albican fungemia, CRBSI
+4.Acute on chronic kidney disease, improved (baseline creatinine at 1.9-
+2.0)
+5.Elevated liver profile, suspected TAE related liver infarction, improved
+<Inactive problems>
+1.VRE bacteremia, improved
+5.CAD-3VD, s/p CABG (LIMA-LAD; SVG-Dx1-OM1-OM2-PDA) in 1992, with SVG
+stenosis, s/p POBAS to SVG in 2002, recurrence and complicated with STEMI,
+s/p POBAS to SVG in 2011, under aspirin
+6.AAA, infrarenal type, and bilateral common iliac artery stenosis, s/p
+Aorta-bifemoral grafting in 2008
+7.Gouty arthritis
+8.Hypothyroidism, under Eltroxin
+9.Hypertension
+10.Diabetes mellitus
+11.Dyslipidemia
+
+<Treatment course>
+After admission, one fever episode occurred on 2015/8/6. Since nosocomial
+infection could not be ruled out, we added Tazocin for infection control.
+However, blood culture showed fungemia thus we checked MIC level and
+administrated Diflucan. She kept afebrile since 8/7.
+
+However, coffee ground vomitus was noted during her weaning progragm. We
+consulted GI specilist, and medical treatment was suggested instead of EGD.
+After discussing to her family, they refuse further operation or TAE. We
+also consulted chest surgeon for further tracheostomy. The family expressed
+their willing for withdraw or further hospice care. Thus we also consulted
+psychologist and hospice doctor for her further plan.
+Repeated fungemia was noted stil after 12 days of Diflucan use. We
+consulted infection specilaist and we elevated diflucan dose first due to
+low MIC level, and then shifted antibiotics to Anidulafungin due to severe
+sepsis. Tracheostomy was discontinued due to severe sepsis and elevated O2
+demand, too. However, due to disease progression and prolonged intubation
+course, the patient and her family requested for discontinuing antibiotics
+use. After well informing the current critical condition and discussing
+with hospice doctor, the patient and her family  still insisted on
+discontinuing antibiotics use. Thus, after signing 切結書 and DNR同意書, we
+hold antibiotics use since 8/21.
+
+<Problem>
+1.Gastric pseudoaneurysm bleeding with shock, status post TAE on 7/03,
+rebleeding
+2.Acute respiratory failure, type IV, s/p ETT+MV(2015/7/3-)
+3. Candidas albican fungemia, CRBSI
+4.Acute on chronic kidney disease, improved (baseline creatinine at 1.9-
+2.0)
+5.Elevated liver profile, suspected TAE related liver infarction, improved
+<Inactive problems>
+1.VRE bacteremia, improved
+5.CAD-3VD, s/p CABG (LIMA-LAD; SVG-Dx1-OM1-OM2-PDA) in 1992, with SVG
+stenosis, s/p POBAS to SVG in 2002, recurrence and complicated with STEMI,
+s/p POBAS to SVG in 2011, under aspirin
+6.AAA, infrarenal type, and bilateral common iliac artery stenosis, s/p
+Aorta-bifemoral grafting in 2008
+7.Gouty arthritis
+8.Hypothyroidism, under Eltroxin
+9.Hypertension
+10.Diabetes mellitus
+11.Dyslipidemia
+
+<Assessment>
+<Antibiotic history>
+Tazocin 8/6~ D10
+Diflucan 8/7- D9 for fungemia
+
+Tazocin 7/3-7/6
+Imipenem 7/6-7/22
+Daptomycin 7/16-7/29
+Cravit 7/16-8/03
+Cefmetazole 8/03-8/04
+
+sedated consciousness under fentanyl
+RHB
+bilateral mild crackles, decreased left side
+Abdomen: soft, mild distended, normoactive bowel sound, no guarding
+
+<Culture data>
+B/C(8/14): pending
+B/C(8/9): pending
+8/6 B/C*2 and CVC tip: Candida albicans, S to fluconazole
+7/28 S/C Stenotrophomonas maltophilia (Levofloxacin R)
+7/23 B/C A-line: no growth
+7/20 B/C A-line: no growth
+7/16 B/C Enterococcus faecium (VRE)
+7/16 B/C CVP Enterococcus faecium
+7/14 B/C CVP Enterococcus faecium (VRE)
+7/13 B/C A-line Enterococcus faecium (VRE)
+7/13 S/C Stenotrophomonas maltophilia (Levofloxacin S)
+7/03 B/C PB Staphylococcus hominis ssp hominis
+
+<Ventilator setting>
+SIMV+PS: RR 6->22, PS 8, PEEP 6, FiO2 40%, IP 16
+->MV 7 TV 350~400, RR 16, SpO2 95%
+
+<Important intervention>
+7/03 TAE: with gelfoam fine particles in the LGA
+7/29 ND insertion for feeding
+8/14 Nd re-insertion for self-removal
+
+<Important study findings>
+7/10 CXR: Left pleural effusion
+7/03 PES: Gastric ulcer, A1,Forrest III,upper body (not be likely the
+bleeder)
+7/03 TAE: Angiography showed hyperemic patch and a tiny pseudoaneurysm of
+the stomach supplied by LGA
+7/03 CTA: active bleeding in stomach
+7/07 PES: Susp. post-TAE gastopathy, r/o stomach perforation
+7/07 A+P CT: GI bleeding with gastric hematoma status post TAE
+Infarct, lateral segment of liver and spleen.
+7/21 PES: Gastric ulcers, fundus and upper body, suspected post-TAE related
+Gastric tumor, AW, upper body, r/o pseudoaneurysm
+
+<Lab>
+8/9 FeUN 51%, FeNa 1.25% --> intrinsic
+
+<Consultation>
+7/21 GS: Gastrectomy or suture ligation of bleeders is risky.
+         suggest less-invasive procedure such as endoscopic hemostasis and
+component therapy.
+8/11 CV: add lidocain and f/u cardiac enzyme+ECG Q12H; wait for cardiac
+echo
+8/13 GI: endoscopy could do no help to gastric pseudoaneurysm, suggest TAE
+or surgical intervention.
+
+<Family decision>
+2015/7 Family: DNR除插管、不洗腎
+8/11 informed family about risk of sudden death due to NSVT and MI/heart
+failure hx. Reconfirmed family about DNR.
+8/14 family refused further TAE if UGI rebleeding(noted on DNR)
+
+大兒子表示已經攜帶胰島素瓶來探視母親好多天，想自己給母親施打來了結她的痛苦；
+詢問我們能否幫她施打一整瓶。(已嚴正說明此作法不可行，經說明給予鎮靜止痛藥物並
+安排氣切後可接受。)
+
+8/10 NPO due to poor gastric empty time and vomitus
+8/21 the patient and her family request for
+DNR全拒不給抗生素及其他侵入性治療, signed 切結書
+
+<Plan>
+1. hold antibiotics use
+2. Monior low HCO3.  Soda supply.
+3. Low dose fentanyl for sedation.
+4. hospice care
+5. If expired, 院宣

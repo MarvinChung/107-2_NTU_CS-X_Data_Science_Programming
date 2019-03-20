@@ -1,0 +1,43 @@
+
+Brief Summary of this week
+After first cycle of modified FOLFOX, leukopenia and thrombocytopenia were
+noted. After giving G-CSF for 3 days from 2/5 to 2/7, white count and
+platelet count increased. Follow-up hemogram, T-Bil and Cre level were
+acceptable, so the second cycle of modidfied FOLFOX was started on
+2015/02/11. Marked abdominal distention was noted and bedside echo showed
+distended bowel and moderate amount of ascites. Paracentesis was performed
+on 2015/02/13 and totally 1360 ml clear yellowish ascites was drained out.
+Fleet enema was also given for small amount of stool passage.
+
+
+Assessment
+2015/02/13 08:35 T:35.7 P:81 R:22
+2015/02/13 08:35 BP:141/75
+2015/02/13 08:35 SpO2:95%(%,L,)
+2015/02/13 14:05 Pain score:3
+
+FOLFOX(II)  D3
+(D1=2015/2/11)
+
+<Lab>   2/4     2/6     2/8     2/11
+WBC:    1570    11182   13480   4120
+HB:     9.7     10.2    10.6    10.0
+PLT:    47K     57K     81K     139K
+Cre:    1.0     1.3             1.0
+
+He complained of abdominal distension and small amount of stool passage.
+Bowel sound: mild hypoactive
+
+2015/02/13 Bed side echo: Ascites(+)
+Paracentesis: 1360 ml clear yellowish ascites
+
+2/9== > CXR : no pleural effusion.
+2/7== > KUB and abdominal X-ray showed prominent bowel gas.
+
+
+Plan
+1. F/U CBC, D/C, T-Bil, BUN/Cre, electrolytes next W1; Give G-CSF if
+neutropenia was found again.
+2. Pursue ascites analysis and cytology reports.
+3. Keep nutritional support with TPN.
+4. Titrate insulin dosage for adequate glycemic control.

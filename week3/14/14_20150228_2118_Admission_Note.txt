@@ -1,0 +1,345 @@
+
+2015/02/28 21:18 | |
+|主訴(Chief Complaint)                                            |
+|Informant:patient and medical chart progressive cough and dyspnea|
+|for two days                                                     |
+|病史(Brief History)                                              |
+|Present illness: This 53-year-old male has history of 1. right   |
+|lung sarcomatoid carcinoma, pT3N2Mx stage IIIa, status post      |
+|sternotomy right pneumonectomy on 2015/02/02 2. PSVT under       |
+|amiodarone control He suffered form progressed dry cough and     |
+|dyspnea since 2015/1, mild fever with shortness of breathing and |
+|body weight loss 4 kg in 1 month. He denied chillness, fatique   |
+|anorexia, nausea and vomitting. So, he was admitted to 北醫,Where|
+|CT revealed: a 6.9cm mass at posterior RLL with central necrosis |
+|and involving visceral pleural and suspected ipsilateral         |
+|mediastinal and sub cardinal lymph node invasion.Bronchial scopy |
+|report revealed right main bronchus total occlusion. CT guide    |
+|biopsy pathology report showed malignant spindle cell tumor.with |
+|immunohistochemical report revealed: vimentin(+),                |
+|Ck(-),CK5/6(-),CK7(-),CD45(-), TTF-1(-), S-100(-), sacoma or rare|
+|sarcomatoid carcinoma was suspected. Surgical intervention was   |
+|suggested.He came to NTUH chest surgeon Dr. 陳晉興 OPD for second|
+|opinion. Under impression of lung cancer, He was admitted for    |
+|further evaluation and treatment. After admission, sternotomy    |
+|right pneumonectomy was performed on 2/2 smoothly. He was        |
+|transferred to SICU after the operation. Extubation was performed|
+|smoothly on 2/3. However, CXR on 2/6 showed left lung white out, |
+|r/o lung edema or vascular related cause. There was no pleural   |
+|effusion so right chest tube was removed. Delirium was noted on  |
+|2/6, too. PSVT occurred on 2/7 so IV amiodarone was loaded to    |
+|maintenance dose. Under relatively stable PSVT status, amiodarone|
+|was shifted from IV to PO afterwards. Another episode of PSVT was|
+|noted on 2/16 morning. He had no discomforts and the tachycardia |
+|subsided after amiodarone usage. Under stable condition, he was  |
+|discharged on 2/17 and received OPD follow-up on 2/24. No obvious|
+|discomfort was noted. Nevetheless, he suffered form progressive  |
+|cough and exertional dyspnea two days ago. Dizziness when        |
+|standing up, diffuse right chest pain and poor apetite were also |
+|noted. He denied fever, palpitation, nausea or vomitting. He came|
+|to our ER with vital signs: BT: 37.1 C, PR: 114/min,             |
+|Respirations: 20/min, BP: 96/58 mmHg, SpO2: 96%. Coarse breathing|
+|sound with decreas in right lung was noted. Ches X-ray showed    |
+|prominent right pleural effusion, status post operative change   |
+|with wiring at sternum, which was stationary in compare to       |
+|previous the nearest one similar study. Laboratory data revealed |
+|leukocytosis and mild prolonged PT&aPTT( HB 8.4 g/dL, WBC 9.18   |
+|K/μL, PLT 336 K/μL; PT 12.1 sec, PTT 33.4 sec, PT INR 1.12).     |
+|Diagnostic thoracocentesis was arranged. Hemothorax and exudative|
+|pleural effusion with lymphocyte predominence were noted( RBC    |
+|count: 1260000, Sp. gr. 1.032, Rivalta's Test Positive, Sediment:|
+|N:M&H=70:27:3). Chest surgeon was consulted and he was admitted  |
+|to 8B ward for further managment. Family History:                |
+|non-contributory Medication Allergy:No 病人自述 2015/01/29       |
+|UnClear 病人自述 2015/01/27 Ketorolac Tromethamine (Keto 30 mg/1 |
+|mL /amp) 【Anaphylactic Shock(過敏性休克)】 本院醫事人員確認     |
+|發生日期:2015/2/2 Medication ADR:unknown Allergy to Medical      |
+|Device and Materials:No 病人自述 2015/01/29 Current Medication:  |
+|NTUH:新 針 Transamin Inj 250 mg/5 mL /amp 1000 mg Q12H IF 2 days |
+|Maxipime 500 mg/vial 2000 mg STAT IV 1 days PARAMOL 500 mg/tab 1 |
+|tab Q6HPRN PO 2 days 新 針 Transamin Inj 250 mg/5 mL /amp 1000 mg|
+|STAT IF 1 days Cordarone 200 mg/tab 1 tab BID PO 28 days (管4)   |
+|Ultracet tab /tab 1 tab Q6H PO 14 days (管4) Eurodin 2 mg/tab 1  |
+|tab HS PO 28 days SEROXAT 20 mg/tab 1 tab QN PO 28 days Other:   |
+|中草藥: nil 保健食品: nil Past Medical History: Hospitalization: |
+|入院日期:2015_01_29 出院日期:2015_02_17 診斷:Bronchus and lung   |
+|cancer Past Surgical History:2015_02_02 Sternotomy right         |
+|pneumonectomy Travel History: nil                                |
+|社會心理相關評估(Psychosocial Assessment)                        |
+|Social Economic and Personal History 教育程度:高中 職業:工       |
+|宗教信仰:無 婚姻狀態:已婚 使用語言:國語 台語 口述血型:B，RH:，輸 |
+|血反應:沒輸過血 抽煙:沒有，已戒煙:1週 喝酒:沒有 檳榔:沒有 物質濫 |
+|用:沒有 Psychological History and Evaluation 意識狀態:警醒       |
+|認知功能:正常 精神情緒狀態:異常 焦慮 安全問題:有 其他 跌倒       |
+|睡眠形態:正常 Nutritional Screen 攝食情形:優，攝取完整 排便狀態: |
+|正常 BMI:16.38 Fall Risk Assessment 總分:7                       |
+|(>=3分進行不倒翁計畫，請開預防跌倒醫囑)                          |
+|系統性回顧(Review of System)                                     |
+|1.Cardiovascular system: chest pain(+) dyspnea(+, released with  |
+|nasal cannula O2:3L/min) orthopnea(-) leg edema(-) palpitation(-)|
+|exertional intolerance(+) cyanosis of limbs(-) 2.Respiratory     |
+|system: tachypnea(-) cough(+) wheezing(+) fever(-) night         |
+|sweats(-) 3.Breast bleeding or lactorrhea(-) 4.Gastrointestinal  |
+|system: abdominal pain(-) bowel habit change(-) anal             |
+|incontinence(-) bloody stool(-) melena(-) dysphagia(-)           |
+|anorexia(-) nausea(-) body weight loss(-) heartburn sensation(-) |
+|jaundiced sclera(-) 5.Genitourinary system: dysuria(-)urinary    |
+|frequency(-)urinary urgency(-)nocturnal polyuria(-) impotence(-) |
+|urolithiasis(-) 6.Hematology system: tendency to have ecchymosis |
+|(-) lymphadenopathy(-) 7.Musculoskeletal system: joint stiffness |
+|or pain(-) back pain(-) 8.Endocrine system: goiter(-) heat or    |
+|cold intolerance(-) fatigue(-)                                   |
+|身體檢查(Physical Examination)                                   |
+|BH:166.5 cm BW:45.4 kg T:37.3 P:94 R:22 BP:102/66 mmHg Pain:0    |
+|Neurological Examination: . Consciousness: clear . Muscle power: |
+|intact . Gait: steady Consciousness: clear HEENT: Pupils:        |
+|isocoric and both reactive promptly Sclera: anicteric,           |
+|conjunctivae: not pale, prompt eye movement Oral thrush (-), oral|
+|ulcer (-), tonsillar enlargement(-) Neck: Supple neck, no LAP,   |
+|Jugular vein engorgement (-) Thyroid goiter (-) Chest:           |
+|Inspection: symmetric expansion, visible chest deformity (-),    |
+|Percussion: left lung resonant, right lung dullness Auscultation:|
+|breath sound: coarse breathing sound, wheezing(+-), decreased    |
+|breathing sound over right lung Heart: regular heart beat without|
+|murmurs Abdomen: flat and soft; bowel sound: normoactive         |
+|Tenderness (-); liver and spleen: impalpable Peripheral          |
+|pulsation: Carotid brachial radial femoral post. tibial dorsalis |
+|pedis L’t ++ ++ ++ ++ ++ ++ R’t ++ ++ ++ ++ ++ ++BH:166.5 cm     |
+|BW:45.4 kg                                                       |
+|檢驗紀錄(Laboratory Report)                                      |
+|*********檢驗室:RL*********** 群組:CBC+PLT WBC RBC HB HCT MCV    |
+|time/item (K/μL) (M/μL) (g/dL) (%) (fL) 1040202 [1508] 9.38 3.71 |
+|9.4 27.4 73.9 1040202 [2312] 13.23 4.41 11.6 33.4 75.7 1040203   |
+|[0258] 12.46 4.92 12.9 38.2 77.6 1040204 [0245] 13.20 4.88 12.9  |
+|38.6 79.1 1040204 [1934] 12.80 4.52 11.9 35.5 78.5 1040206 [0248]|
+|7.77 4.66 12.1 36.7 78.8 1040207 [0248] 7.82 4.51 11.6 35.5 78.7 |
+|1040208 [0248] 8.55 4.82 12.8 37.5 77.8 1040209 [0244] 9.09 5.04 |
+|13.1 39.8 79.0 1040210 [0249] 9.18 5.20 13.7 40.4 77.7 1040216   |
+|[0633] 4.98 5.14 13.2 40.4 78.6 MCH MCHC PLT RDW-CV PS time/item |
+|(pg) (g/dL) (K/μL) (%) () 1040202 [1508] 25.3 34.3 179 20.3 -    |
+|1040202 [2312] 26.3 34.7 203 19.7 - 1040203 [0258] 26.2 33.8 173 |
+|19.8 - 1040204 [0245] 26.4 33.4 123 21.1 - 1040204 [1934] 26.3   |
+|33.5 147 22.0 - 1040206 [0248] 26.0 33.0 123 21.5 - 1040207      |
+|[0248] 25.7 32.7 124 21.3 - 1040208 [0248] 26.6 34.1 147 21.5 -  |
+|1040209 [0244] 26.0 32.9 180 21.5 - 1040210 [0249] 26.3 33.9 186 |
+|20.9 - 1040216 [0633] 25.7 32.7 256 21.9 - 群組:General          |
+|BioChemistry ALB ALT time/item (g/dL) (U/L) 1040202 [1508] 2.6 10|
+|1040209 [0244] 2.8 39 1040216 [0633] 3.8 21 群組:Biochemistry BUN|
+|CRE Na K Ammonia N time/item (mg/dL) (mg/dL) (mmol/L) (mmol/L)   |
+|(μmol/L) 1040202 [1508] 7.4 0.5 144 3.1 1040203 [0258] 146 4.5   |
+|1040204 [0245] 25.1 1.1 136 4.0 1040204 [1934] 133 3.9 1040205   |
+|[0240] 26.8 1.1 136 3.9 1040206 [0654] 21.1 0.6 136 3.6 34       |
+|1040207 [0248] 12.6 0.5 134 3.4 1040207 [1054] 1040208 [0248] 9.8|
+|0.5 138 2.9 1040209 [0244] 135 3.0 1040210 [0249] 6.7 0.5 132 3.4|
+|1040216 [0633] 8.1 0.7 137 4.3 T-BIL Ca Mg AST LacticAcid        |
+|time/item (mg/dL) (mmol/L) (mmol/L) (U/L) (mmol/L) 1040202 [1508]|
+|1.03 1.83 0.72 20 1.25 1040203 [0258] 1040204 [0245] 0.91 1040204|
+|[1934] 1.93 1.19 1040205 [0240] 1.00 1040206 [0654] 1.96 0.85    |
+|1040207 [0248] 1040207 [1054] 0.77 1040208 [0248] 1.87 0.88      |
+|1040209 [0244] 0.97 0.88 1040210 [0249] 0.86 1040216 [0633] 0.83 |
+|21 群組:Coagulation PT PTT PT INR time/item (sec) (sec) ()       |
+|1040202 [1508] 10.9 31.5 1.01 群組:Blood pH/Gas PH PCO2 PO2 HCO3 |
+|BaseExcess time/item (*) (mmHg) (mmHg) (mmol/L) (mmol/L) 1040202 |
+|[1508] 7.402 40.1 274.0 25.2 0.2 1040203 [0258] 7.426 31.7 209.1 |
+|21.1 -3.6 1040204 [0245] 7.359 45.1 193.1 25.7 -0.1 1040205      |
+|[0240] 7.395 43.0 204.4 26.6 1.4 1040206 [0248] 7.442 35.2 59.2  |
+|24.2 -0.1 1040207 [0248] 7.474 37.2 167.5 27.6 3.7 1040208 [0248]|
+|7.463 37.0 162.9 26.7 2.7 1040209 [0244] 7.465 39.3 131.6 28.5   |
+|4.5 1040210 [0249] 7.468 37.8 163.3 27.6 3.7 SO2 time/item (%)   |
+|1040202 [1508] 1040203 [0258] 62.1 1040204 [0245] 1040205 [0240] |
+|1040206 [0248] 1040207 [0248] 1040208 [0248] 1040209 [0244]      |
+|1040210 [0249] 群組:Yes C-Reactive P rotein time/item (mg/dL)    |
+|1040206 [0759] 14.90 1040209 [0244] 4.14 1040216 [0633] 2.15     |
+|群組:WBC Classification Blast Promyl. Myelo. Meta Band time/item |
+|(%) (%) (%) (%) (%) 1040216 [0633] 0.0 0.0 0.0 0.0 0.0 Seg Eos.  |
+|Baso. Mono. Lym. time/item (%) (%) (%) (%) (%) 1040216 [0633]    |
+|59.9 4.6 0.6 11.4 23.5 Aty.Lym. PlasmaCell Normobl. PS time/item |
+|(%) (%) () () 1040216 [0633] 0.0 0.0 0 -                         |
+|*********檢驗室:PO*********** 群組: Sugar(One to uch) time/item  |
+|(*) 1040202 [1456] 195 *********檢驗室:YM*********** 群組: Free  |
+|Ca(急重症自 Hb(急重症自行檢驗) Hct(急重症自行檢驗) K+(急重症自行 |
+|檢驗) Na(急重症自行檢驗) 行檢驗) time/item (mmol/L) (g/dL) (%)   |
+|(mmol/L) (mmol/L) 1040202 [0913] 1.14 10.7 32 3.04 135.7 1040202 |
+|[1200] 1.06 9.7 29 2.86 139.8 Suger(急重症自行檢 LacticAcid(急   |
+|驗) 重症自行檢驗) time/item (mg/dL) (mmol/L) 1040202 [0913] 132  |
+|0.6 1040202 [1200] 148 群組:Yes pH pCO2 pO2 HCO3 BaseExcess      |
+|time/item () (mmHg) (mmHg) (mmol/L) (mmol/L) 1040202 [0913] 7.450|
+|37.2 201.8 26.1 1.8 1040202 [1200] 7.352 38.4 308.0 21.5 -4.4 SO2|
+|time/item (%) 1040202 [0913] 99.8 1040202 [1200] 99.9            |
+|*********檢驗室:HE*********** 群組:CBC+PLT WBC RBC HB HCT MCV    |
+|time/item (k/μL) (M/μL) (g/dL) (%) (fL) 1040129 [1022] 11.94 5.12|
+|10.8 33.1 64.6 1040205 [0240] 10.17 4.71 12.5 37.5 79.6 MCH MCHC |
+|PLT RDW-CV PS time/item (pg) (g/dL) (k/μL) (%) () 1040129 [1022] |
+|21.1 32.6 442 14.6 - 1040205 [0240] 26.5 33.3 134 21.6 - 群組:WBC|
+|D/C Blast Promyl. Myelo. Meta Band time/item (%) (%) (%) (%) (%) |
+|1040129 [1022] 0.0 0.0 0.0 0.0 0.0 1040205 [0240] 0.0 0.0 0.0 0.0|
+|0.0 Seg Eos. Baso. Mono. Lym. time/item (%) (%) (%) (%) (%)      |
+|1040129 [1022] 79.9 0.2 0.1 6.2 13.6 1040205 [0240] 83.8 1.9 0.0 |
+|4.8 9.5 Aty.Lym. PlasmaCell Normobl. PS time/item (%) (%) () ()  |
+|1040129 [1022] 0.0 0.0 0 - 1040205 [0240] 0.0 0.0 0.0 -          |
+|*********檢驗室:CT*********** 群組:PT PT PT INR time/item (sec)  |
+|() 1040129 [1022] 10.5 0.97 群組:PTT PTT time/item (sec) 1040129 |
+|[1022] 32.2 *********檢驗室:BC*********** 群組:General           |
+|BioChemistry Alb TP T-BIL AST ALT time/item (g/dL) (g/dL) (mg/dL)|
+|(U/L) (U/L) 1040129 [1022] 3.2 0.35 17 13 1040202 [1106] 3.9     |
+|1040212 [0652] LDH UN CRE Na K time/item (U/L) (mg/dL) (mg/dL)   |
+|(mmol/L) (mmol/L) 1040129 [1022] 9.2 0.7 143 4.4 1040202 [1106]  |
+|2515 1040212 [0652] 136 3.8 Mg TG T-CHO time/item (mmol/L)       |
+|(mg/dL) (mg/dL) 1040129 [1022] 1040202 [1106] 53 85 1040212      |
+|[0652] 0.85 群組:DM GLU AC time/item (mg/dL) 1040202 [1106] 110  |
+|群組:Others Procalcitoni n time/item (ng/mL) 1040206 [0918] 2.564|
+|*********檢驗室:B3*********** B3-1040209-8053967 SPUTUM          |
+|(EXPECTORATED) Gram's(GS)#1: Many PMNs ( >25 /LPF ) Gram's(GS)#2:|
+|Many epithelial cells ( >25 /LPF ) Gram's(GS)#3: Gram (-) rods 3+|
+|ID+DS Sputum Culture #1: Mixed flora Gram's(GS)#4: Yeast-like    |
+|organism 2+ Gram's(GS)#5: 痰檢體品質不良建議重新送檢             |
+|B3-1040202-2041402 Pleural effusion ID+DS Common #1: No aerobic  |
+|pathogen Anaerobic #2: No anaerobic pathogen B3-1040206-6022326  |
+|SPUTUM (EXPECTORATED) Gram's(GS)#1: Many PMNs ( >25 /LPF )       |
+|Gram's(GS)#2: Many epithelial cells ( >25 /LPF ) Gram's(GS)#3:   |
+|Yeast-like organism 3+ ID+DS Sputum Culture #1: Mixed flora      |
+|Gram's(GS)#4: Gram (+) rods 1+ Gram's(GS)#5:                     |
+|痰檢體品質不良建議重新送檢 B3-1040207-6036291 SPUTUM             |
+|(EXPECTORATED) Gram's(GS)#1: Many PMNs ( >25 /LPF ) Gram's(GS)#2:|
+|Many epithelial cells ( >25 /LPF ) Gram's(GS)#3: Yeast-like      |
+|organism 3+ ID+DS Sputum Culture #1: Mixed flora Gram's(GS)#4:   |
+|痰檢體品質不良建議重新送檢 *********檢驗室:BK***********         |
+|群組:Blood Type ABO Typing RH Typing time/item (*) (*) 1040201   |
+|[1119] B Positive 群組:Yes antibody scr een(New Lis) time/item   |
+|(*) 1040201 [1119] Negative *********檢驗室:OP***********        |
+|群組:Punctate Exam. Sp. Gr.(P) Rivalta's(P) Total nuclea RBC     |
+|count Sediment(P) r cell count (TNC) time/item (*) (*) (/μL)     |
+|(/μL) (*) 1040202 [1106] 1.027 + 500 <20000 L:N:M&H=96:0 :4      |
+|*********檢驗室:CY*********** 群組:Yes Pleural Effu Specimen Ade |
+|sion Cytolog quacy y time/item (*) (*) 1040202 [1106] Negative   |
+|for Satisfactory malignant c for evaluat ells ion                |
+|*********檢驗室:B6*********** B6-1040202-2041401 OTHER BODY FLUID|
+|Gram's(GS)#1: Many PMNs ( >25 /LPF ) Gram's(GS)#2: No bacteria   |
+|visible *********檢驗室:B4*********** B4-1040202-2041403 Pleural |
+|effusion AF Stain(AF) #1: Acid fast bacilli - negative ********* |
+|檢驗室:B2*********** B2-1040206-6018982 BLOOD ID+DS Blood.#1: No |
+|aerobic & anaerobic pathogens *********檢驗室:RL*********** 群組:|
+|Glucose(seru m for ED) time/item (mg/dL) 1040228 [1448] 153      |
+|群組:Biochemistry BUN CRE Na K AST time/item (mg/dL) (mg/dL)     |
+|(mmol/L) (mmol/L) (U/L) 1040228 [1448] 12.8 1.0 132 4.0 23       |
+|群組:WBC Classification Blast Promyl. Myelo. Meta Band time/item |
+|(%) (%) (%) (%) (%) 1040228 [1448] 0.0 0.0 0.0 0.0 0.0 Seg Eos.  |
+|Baso. Mono. Lym. time/item (%) (%) (%) (%) (%) 1040228 [1448]    |
+|67.6 0.3 0.4 12.9 18.8 Aty.Lym. PlasmaCell Normobl. PS time/item |
+|(%) (%) () () 1040228 [1448] 0.0 0.0 0 - 群組:CBC+PLT WBC RBC HB |
+|HCT MCV time/item (K/μL) (M/μL) (g/dL) (%) (fL) 1040228 [1448]   |
+|9.18 3.35 8.4 25.2 75.2 MCH MCHC PLT RDW-CV PS time/item (pg)    |
+|(g/dL) (K/μL) (%) () 1040228 [1448] 25.1 33.3 336 22.0 -         |
+|群組:Coagulation PT PTT PT INR time/item (sec) (sec) () 1040228  |
+|[1612] 12.1 33.4 1.12 群組:General BioChemistry TP LDH time/item |
+|(g/dL) (U/L) 1040228 [1553] 4.7 1338 群組:Punctate Exam. Sp. gr. |
+|Rivalta's Te Total nuclea RBC count Sediment st r cell count     |
+|(TNC) time/item (*) (*) (/μL) (/μL) (*) 1040228 [1553] 1.032     |
+|Positive 3200 1260000 L:N:M&H=70:2 7:3                           |
+|*********檢驗室:BK*********** 群組:Yes antibody scr een(New Lis) |
+|time/item (*) 1040228 [1559] Negative 群組:Blood Type ABO Typing |
+|RH Typing time/item (*) (*) 1040228 [1559] B Positive            |
+|*********檢驗室:BC*********** 群組:DM GLU AC time/item (mg/dL)   |
+|1040228 [1553] 72                                                |
+|檢查紀錄(Examination Report)                                     |
+|nil                                                              |
+|影像報告(Imaging Report)                                         |
+|Chest : PA View (Standing) 醫令: Chest : PA View (Standing) 報告 |
+|醫師: 陳世杰 影像時間: 2015/02/28 14:42 (32001CXM) 發報告時間:   |
+|2015/02/28 16:16 prominent right pleural effusion is noted,      |
+|status post operative change with wiring at sternum, stationary  |
+|in compare to previous the nearest one similar study, suggest    |
+|correlated with clinical manifestation. Chest : PA View          |
+|(Standing) 醫令: Chest : PA View (Standing) 報告醫師: 許瑞珊     |
+|影像時間: 2015/02/24 14:21 (32001CXM) 發報告時間: 2015/02/26     |
+|11:06 Chest PA view shows opcified right hemithorax, which       |
+|obscures right cardiac border. Postoperative change with sternal |
+|wiring. Chest : AP View (Supine) 醫令: Chest : AP View (Supine)  |
+|報告醫師: 陳育青 影像時間: 2015/02/10 06:03 (32001CYM)           |
+|發報告時間: 2015/02/11 12:15 thoracotomy and sternal wiring.     |
+|right pleural effusion and pneumothorax. consolidation of right  |
+|lung. haziness of the left lung. suspect left pleural effusion.  |
+|Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師:|
+|張晉誠 影像時間: 2015/02/09 06:13 (32001CYM) 發報告時間:         |
+|2015/02/12 21:04 status post metallic wires at the sternum.      |
+|normal heart size. widening of mediastinum. bilateral lung       |
+|opacities. right pneumothorax and right pleural effusion. Chest :|
+|AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 王甄   |
+|影像時間: 2015/02/05 12:54 (32001CYM) 發報告時間: 2015/02/06     |
+|14:31 Chest AP film shows normal heart size or borderline heart  |
+|size or mediastinal widening. Wire sternotomy. Air shadow at     |
+|mediastinum or pericardium. Collapse right lung with increased   |
+|opacity or cystic change at right lung. Right pneumothorax and   |
+|right chest tube insertion. consolidation or haziness at left    |
+|lung. Subcutaneous emphysema at right abdominal wall. Left       |
+|pleural effusion. Chest : AP View (Supine) 醫令: Chest : AP View |
+|(Supine) 報告醫師: 葉建德 影像時間: 2015/02/03 00:46 (32001CYM)  |
+|發報告時間: 2015/02/24 09:49 Placement of an endotracheal tube   |
+|and a NG tube. Placement of a Swan-Ganz catheter. Sternal wiring.|
+|Insertion of a right chest tube. The mediastinum is shifted to   |
+|the right side. Right pneumothorax. Chest : AP View (Supine)     |
+|醫令: Chest : AP View (Supine) 報告醫師: 施怡倫 影像時間:        |
+|2015/02/02 16:01 (32001CYM) 發報告時間: 2015/02/03 17:47         |
+|Placement of an endotracheal tube and a NG tube. Placement of a  |
+|Swan-Ganz catheter. Sternal wiring. Insertion of a right chest   |
+|tube. The mediastinum is shifted to the right side. Right        |
+|pneumothorax. Requesting PET Whole body Image Films and Report   |
+|醫令: Requesting PET Whole body Image Films and Report 報告醫師: |
+|黃潔宜 影像時間: 2015/01/19 13:17 (P2107C0T) 發報告時間:         |
+|2015/02/13 14:25 * Images from outside hospital has been uploaded|
+|into the PACS (Picture Archieving and Communicating System)      |
+|server as a baseline or for comparison. * The PET/CT images were |
+|done on 2015/01/19. The PET/CT report has been reviewed and      |
+|confirmed. * Clinical History: right lung cancer. * Requesting   |
+|film of PET whole body imaging shows: 1. Intense hot areas at    |
+|right lung, right hilum, right paratracheal to subcarinal area.  |
+|2. Hot areas at right paratracheal and subcarinal lymph nodes.   |
+|Requesting MRI Film and Report 醫令: Requesting MRI Film and     |
+|Report 報告醫師: 李崇維 影像時間: 2015/01/12 09:45 (P2104C0M) 發 |
+|報告時間: 2015/02/03 11:06 MR images from outside Hospital for   |
+|shared information have been successfully uploaded into the PACS |
+|(Picture Archieving and Communication System) server for         |
+|reference purpose. Please check the attached original formal     |
+|report of the source Hospital. If a second opinion of these      |
+|images is required, please consult us.                           |
+|病理報告(Pathology Report)                                       |
+|S1504627 Lung,right,pneumonectomy,sarcomatoid carcinoma          |
+|(subgroup: pleomorphic carcinoma), Lymph node,group              |
+|3,4,lymphadenectomy,no tumor metastasis (0/9), Lymph             |
+|node,intrapulmonary,lymphadenectomy,no tumor metastasis (0/15),  |
+|Lymph node,group 7,lymphadenectomy,carcinoma,metastatic (1/1),   |
+|Lymph node,group 11,lymphadenectomy,carcinoma,metastatic (2/2),  |
+|Lung,carina,resection,sarcomatoid carcinoma                      |
+|臆斷(Tentative Diagnosis)                                        |
+|1. Right hemothorax suspect infection related 2. Right lung      |
+|sarcomatoid carcinoma, pT3N2Mx stage IIIa, status post sternotomy|
+|right pneumonectomy on 2015/02/02 3. PSVT under amiodarone       |
+|control                                                          |
+|醫療需求與治療計畫(Medical Needs and Care Plan)                  |
+|*Right lung sarcomatoid carcinoma, pT3N2Mx stage IIIa, status    |
+|post sternotomy right pneumonectomy on 2015/02/02, right         |
+|hemothorax A: dry cough, diffuse right chest pain, decreased     |
+|apetite(1/2) PE: Coarse breathing sound with decrease in right   |
+|lung CXR: prominent right pleural effusion, status post operative|
+|change with wiring at sternum, stationary in compare to previous |
+|the nearest one similar study. Lab: leukocytosis and mild        |
+|prolonged PT&aPTT (HB 8.4 g/dL, WBC 9.18 K/μL, PLT 336 K/μL; PT  |
+|12.1 sec, PTT 33.4 sec, PT INR 1.12). Diagnostic thoracocentesis:|
+|hemothorax, exudative pleural effusion with lymphocyte           |
+|predominence ( RBC count: 1260000, Sp. gr. 1.032, Rivalta's Test |
+|Positive, Sediment: N:M&H=70:27:3) P: 1. closely monitor vital   |
+|signs and give O2 support 2. administer Transamin Inj 1000 mg IF |
+|TID 3. give TIENAM 500 mg IF Q8H 4. Cordarone 200 mg/tab 1 tab PO|
+|BID and Lanoxin Tablet 0.25 mg/tab QD 5. follow up CXR and CBC   |
+|tomorrow Treatment Goal: relieve symptoms and work-up for the    |
+|cause of hemothorax                                              |
+|出院規劃(Discharge Planning)                                     |
+|管路留置狀況:有 靜脈管路留置(含Hickman / Port-A)：有 左手 右手   |
+|雙腔導管留置：無 鼻胃管留置：無 氣管管路留置：無 胃造廔口：無 尿 |
+|管留置：無 膀胱造廔：無 傷口引流管：無 其他導管： 日常生活功能分 |
+|數：80 預期出院後居住場所：與家人同住 預期出院後主要照顧者：自己 |
+|配偶 出院規劃收案篩檢：高危病患 非計劃再入院 (30天內因為相同或相 |
+|關病情非計畫性再入院者)                                          |
+|醫師姓名                                                         |
+|陳晉興 主治醫師                                                  |
+

@@ -1,0 +1,22 @@
+
+61M,
+1. CAD, 3VD, complicated with inferior STEMI, Killip class IV, with IHCA,
+s/p CPCR with ROSC(11 minutes), s/p primary PCI with stent to RCA
+2. Acute liver injury, suspect shock related
+3. UGI bleeding, source?
+4. Hypertension
+5. Type 2 diabetes mellitus
+6. Internal carotid artery stenosis (laterality unknown)
+
+Hypothermic therapy started 2/21
+Stopped due to acute GI bleeding (fresh blood from NG)
+
+ABP: 153/59mmHg, HR: 98, sinus, SpO2: 100%
+
+Plan:
+1. Discontinue DAPT due to acute GI bleeding, consider add back plavix if
+bleeding subsided
+2. Component therapy, keep Hb>10, PPI use for ulcer prophylaxis
+3. Explain to family and inform grave prognosis
+4. Keep dopamine
+5. Keep CVVH for persistent metabolic acidosis

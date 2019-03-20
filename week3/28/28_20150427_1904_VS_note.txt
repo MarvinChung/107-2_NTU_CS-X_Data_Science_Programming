@@ -1,0 +1,3 @@
+
+pneumonia(Hospital-acquired pneumonia). CHF. CVA. CAD s/p POBAS.CHF class
+3. DM. On Mepem. DNR+. sugar 285. WBC 12820. seg 82%. Keep on IV ABx.

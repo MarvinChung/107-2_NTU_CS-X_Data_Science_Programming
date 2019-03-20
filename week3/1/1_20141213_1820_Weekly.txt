@@ -1,0 +1,93 @@
+
+Brief Summary of this week
+After admission, CVVH was started on 11/25 for severe lactic acidosis.
+Maxpime and metronidazole were given for Enterobacter bacteremia and
+suspected left psoas muscle pyomyositis. His consciousness gradually became
+clear and vasopressor was tapered.
+   Radiologist was consulted on 11/26 for psoas abscess, while CT-guided
+drainage was not feasible. CVVH was discontinued on 11/27 morning for
+improved acidosis. Large amount of tarry stool was noted, and component
+therapy was given. B/C (11/24 specimen) yielded Enterobacter aerogenes, and
+S/C (11/24 specimen) yielded P. aeruginosa and Proteus mirabilis. So
+Maxipime was not changed. Recurrent fever was noted on 11/27 evening, and
+workup was repeated. SLED was started on 11/28 for fluid overload. NG
+feeding with D5W was started on 11/29. Furosemide continuous infusion was
+started on 11/29 for oliguria. However, poor response with fluid overload
+still persisted. Cash albumin was given. CVVH was also started since 11/30,
+but clots were noted frequently, so the CVVH was discontinued on 12/1, and
+shifted back to SLED.
+   Low grade fever with consciousness drowsy occurred again on 12/3. Under
+the susepct of infection poor control, abdominal CT was arranged on 12/4
+and it showed enlarged L't psoas muscle abscess size with suspect multiple
+L't renal abscess. Antibiotic as upgraded to Tygacil and Fortum. We also
+consulted radiologist again and pigtail was placed on 12/4. The blood
+culture via CVC showed ampicillin resistant Enterococcus, so Vancomycin was
+added. CVC was removed and a new one was placed. After there managements,
+his fever seems subsided gradaully. The consciousness was also improved.
+However, NG coffee ground was noted since 12/4. NPO with IV PPI were given.
+We consulted GI man for EGD, but GI man thought that his condition was not
+suitable for EGD due to no family permit. His GI bleeding was improved
+gradually under conservative treatment. NG feeding was restarted since
+12/11.
+   The final psoas muscle abscess culture revealed Enterobacter aerogenes.
+We de-escalated antibiotic to Maxipime only according to drug sensitivity
+test. However, low grade fever with consciounsess drowsy occurred since
+12/10. Teicoplanin was added for GPC coverage. Paracentesis was done and
+high LDH was noted during ascites study. We will keep following up his
+condition, if persistent fever or GI symptoms(abdominal distention, poor
+digestion..), further abdominal CT might be arranged.
+
+Assessment
+ABx: Maxipime 12/10-, Targocid 12/10-, Valtrex 12/9-;
+        s/p Vancomycin 12/6-12/8, s/p Maxipime 11/24-12/4,
+        s/p Tigacyl 12/4-12/10, Ceftazidime 12/4-12/10
+
+SBP 90-110 mmHg on Levophed 2mcg/min
+PCV: IP14  PEEP6  FiO2:0.3 => Tv:609, MV:9.5, SpO2 97-99%
+
+Abd.CT(12/4): Suspected left iliopsoas abscess. Suspected left renal
+abscess
+=> iliopsoas abscess became larger compare to previous image
+=> s/p small size pig-tail drainage due to limited safe margin, exchange a
+larger one pigtail will be done on 12/5 afternoon
+=> 12/5 Pigtail revision
+=> 12/11 Pigtail revision again, now drainage amount:20ml/24hrs
+
+less NG coffee ground drainage
+=> GI specialist refused performing EGD due to no permit from family
+=> resume feeding on 12/11, no coffee ground, but digestion poor
+
+low grade fever since 12/10, s/p septic workup
+mild ascites, s/p diagnostic paracentesis
+Ascites LDH:1093(high!!) => cause? perforate bowel ??
+
+E4VtM4-5, drowsy
+HEENT: anicteric sclera, pale conjunctiva
+Heart: RHB, no obvious murmur
+Chest: Bilateral rhonchi
+Abdomen: distended, silent bowel sounds
+Extremities: pitting edema 2+, free movable; ischemic changed over
+bilateral feet, especially left toes
+
+Culture: S/C: PsA (S to Maxipime)
+         B/C(12/4) CVC: Enterococcus faecalis/faecium
+         Abscess/C:Enterobacter aerogenes
+
+12/9 有一位女士(台大心理系教授
+連韻文)表示是病人十多年的朋友，病人出院後要由她來照顧，詢問相關的醫療決策是否
+可由她來負責
+
+Plan
+1. Keep Maxipime and Targocid
+    Wait for sputum culture and blood culture result
+2. F/U digestion, may restart NG milk if fair digestion
+    If still fever, poor digestion or GI bleeding
+    => May arrange abdominal CT for possible bowel perforation
+    (previous CT image showed poor descending colon wall)
+3.  Keep oral PPI
+     F/u hemogram, component therapy if need
+4. Keep iHD(SLED) QW2,4,6. Set DW as 65kg(or lower)
+    Give albumin, F/u urine amount
+    Consider to hold RRT if daily urine output increase
+5. Keep contact with social worker, consult 倫理諮詢
+6. Hold weaning due to unstable vital sign recently

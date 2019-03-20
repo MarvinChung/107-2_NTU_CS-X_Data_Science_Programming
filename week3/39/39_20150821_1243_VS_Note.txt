@@ -1,0 +1,23 @@
+
+Persistent candidemia.
+Antifungal agent adjusted.
+The family remained not decided about aggressive medications.
+Cancelled the schedule for tracheostomy.
+Discuss with CV for cardiac echo for persistent candidemia.
+
+2015/08/21 ID+DS Sputum Culture #1:Stenotrophomonas maltophilia 3+   *
+2015/08/21 ID+DS Blood.#1:Yeast-like organism   *
+2015/08/21 ID+DS Urine #1:Yeast-like organism 3000   /ml
+2015/08/20 ID+DS Blood.#1:Candida albicans   *
+2015/08/21 12:09 BP:120/56
+2015/08/21 08:46 BP:134/73
+2015/08/21 04:20 BP:124/64
+2015/08/21 00:14 BP:124/69
+2015/08/21 12:09 T:36.9 P:88 R:18
+2015/08/21 08:46 T:37 P:90 R:21
+2015/08/21 04:20 T:36.5 P:103 R:22
+2015/08/21 00:14 T:36.2 P:119 R:28
+2015/08/21 12:09 SpO2:90%(60%,L,VCR)
+2015/08/21 08:46 SpO2:92%(60%,L,VCR)
+2015/08/21 00:14 SpO2:94%(50%,L,VCR)
+2015/08/20 20:42 SpO2:96%(60%,L,VCR)

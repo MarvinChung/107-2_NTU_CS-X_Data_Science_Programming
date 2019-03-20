@@ -1,0 +1,174 @@
+
+2015/08/16 21:48 | |
+|主訴(Chief Complaint)                                            |
+|Informant:The patient and her husband Left-sided drooling for one|
+|month                                                            |
+|病史(Brief History)                                              |
+|The 60-year-old woman, with medical history of hypertension and  |
+|dyslipidemia, has been suffering from drooling on the left side  |
+|for one month. She first visited neurologist in 雙和醫院, and the|
+|brain MRI disclosed brain tumors. She visited our ER for second  |
+|opinion. MRI on 2015/08/03 revealed a 4.8cm tumor at the right   |
+|frontal lobe and a 2.5cm tumor at the left frontal lobe, with    |
+|perifocal edema, heterogenous enhancing and mild diffusion       |
+|restriction. CXR did not revealed any mass lesion. The patient   |
+|was admitted on 2015/08/04 for tumor survey and evaluation for   |
+|operation. After admission, they were hesitating about the       |
+|decision. Cerebral angiography on performed on 2015/08/07, and it|
+|revealed a hypervascular intraaxial tumor at the right frontal   |
+|lobe, which was supplied by right ACA. Since the patient was     |
+|still hesitating about the operation, she was discharged on      |
+|2015/08/11. This time, she was admitted for craniotomy with right|
+|frontal tumor. Family History:Her father died of stroke. Her     |
+|mother has hypertension. Medication Allergy:No 病人自述          |
+|2015/08/02 No 病人自述 2015/08/04 No 病人自述 2015/08/02 No 病人 |
+|自述 2015/08/16 No 病人自述 2015/08/16 Medication ADR:unknown    |
+|Allergy to Medical Device and Materials:No 病人自述 2015/08/02 No|
+|病人自述 2015/08/04 No 病人自述 2015/08/02 ( 其他:紙膠 ) 病人自述|
+|2015/08/16 Current Medication: NTUH: Other: 中草藥: denied       |
+|保健食品: denied Past Medical History: hypertension and          |
+|dyslipidemia Hospitalization:入院日期:2015_08_04                 |
+|出院日期:2015_08_11 診斷:Brain tumor Past Surgical History: C/S  |
+|for three times. Travel History: denied.                         |
+|社會心理相關評估(Psychosocial Assessment)                        |
+|Social Economic and Personal History 教育程度:小學 職業:服務業   |
+|宗教信仰:道教 婚姻狀態:已婚 使用語言:國語 台語 口述血型:A，RH:不 |
+|清楚，輸血反應:沒輸過血 抽煙:沒有 喝酒:沒有 檳榔:沒有 物質濫用:  |
+|Psychological History and Evaluation 意識狀態:警醒 認知功能:正常 |
+|精神情緒狀態:異常 焦慮 安全問題:無 睡眠形態:異常 淺、易醒        |
+|Nutritional Screen 攝食情形:佳，攝食75% 排便狀態:正常 BMI:22.86  |
+|Fall Risk Assessment 總分:1 (>=3分進行不倒翁計畫，請開預防跌倒醫 |
+|囑)                                                              |
+|系統性回顧(Review of System)                                     |
+|1.Systemic: weight loss(-), easy-fatigability(-), night sweats(-)|
+|2.Skin: petechiae(-), purpurae(-), skin rash(-), itching(-),     |
+|3.HEENT: headache(-),dizziness(-), blurred vision(-),            |
+|strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing  |
+|impairment(-), tinnitus(-), vertigo(-), nasal stuffiness(-),     |
+|nasal discharge(-), epistaxis(-), gum bleeding(-), sore          |
+|throat(-),oral ulcer(-) 4.Cardiovascular: exertional chest       |
+|tightness(-), nocturnal dyspnea(-), orthopnea(-) syncope(-),     |
+|palpitation(-), intermittent claudication(-) 5.Respiratory:      |
+|dyspnea(-), cough(-), chest pain(-), hemoptysis(-), productive   |
+|cough(-), pleuritic chest pain(-) 6.Gastrointestinal:            |
+|anorexia(-), nausea(-), vomiting(-), dysphagia(-), heartburn(-), |
+|acid regurgitation(-), abdominal fullness(-), hunger pain(-)     |
+|midnight pain(-), constipation(-), diarrhea(-), melena(-), change|
+|of bowel habit(-), small caliber of stool(-), tenesmus(-),       |
+|flatulence(-) 7.Urogenital: flank pain(-), hematuria(-), urinary |
+|frequency(-), urgency(-), dysuria (-), hesitancy(-), small stream|
+|of urine(-), impotence(-), nocturia(-), polyuria(-), oliguria (-)|
+|8.Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-),      |
+|weakness(-) back pain(-) 9.Metabolic: heat intolerance(-), cold  |
+|intolerance(-), thirsty(-) 10.Nervous: numbness (-),             |
+|paresis/plegia (-)                                               |
+|身體檢查(Physical Examination)                                   |
+|BH:147 cm BW:49.4 kg T:36.4 P:76 R:19 BP:112/68 mmHg Pain:0      |
+|Neurological Examination: . Consciousness: clear and oriented .  |
+|Muscle power: R/L=5/4+ . Gait: steady General appearance: good   |
+|Consciousness: clear and alert Vital sign: stationary HEENT:     |
+|grossly normal Eyes: conjunctiva: not pale, sclera: not icteric  |
+|Pupil Isocoric, light reflex (R/L): +/+, prompt Ears: eardrums   |
+|not injected. Neck: supple, JVE (-), LAP (-) Chest: symmetric    |
+|expansion, breath sounds: clear, Heart: RHB, no murmur audible   |
+|Abdomen: soft and flat, no superficial collateral circulations,OP|
+|scar(-) No tenderness, no rebounding tenderness Bowel sounds:    |
+|normal active Liver / Spleen: Not palpable Extremities: freely   |
+|movable, pitting edema (-), cyanosis (-), petechiae (-), rash (-)|
+|Neurological examination: Consciousness: clear and oriented, E4  |
+|M6 V5 Cranial nerve: CN III, IV, VI: intact CN V: normal CN VII: |
+|facial palsy(+), central type CN III: no hearing impairment, no  |
+|vertigo CN XI, X: choking(-), uvula deviation(-), CN XI: no      |
+|weakness CN XII: tongue deviation to the left side. DTR: upper   |
+|limbs (++), lower limbs (++) Muscle power(R/L): upper limb       |
+|flexor: 5/4+, upper limb extensor: 5/4+ thigh flexor: 5/4+, thigh|
+|extensor: 5/4+ leg flexor: 5/4+, leg extensor: 5/4+ Big toe      |
+|extensor: 5/4+ Meningeal sign: neck stiffness(-), Kernig sign(-),|
+|Brudzinski sign(-) Gait: steady Romberg test: not performed      |
+|檢驗紀錄(Laboratory Report)                                      |
+|*********檢驗室:HE*********** 群組:CBC+PLT WBC RBC HB HCT MCV    |
+|time/item (k/μL) (M/μL) (g/dL) (%) (fL) 1040816 [1217] 6.14 4.61 |
+|14.5 43.0 93.3 MCH MCHC PLT RDW-CV PS time/item (pg) (g/dL)      |
+|(k/μL) (%) () 1040816 [1217] 31.5 33.7 239 13.0 -                |
+|*********檢驗室:BC*********** 群組:General BioChemistry T-BIL AST|
+|ALT UN CRE time/item (mg/dL) (U/L) (U/L) (mg/dL) (mg/dL) 1040816 |
+|[1217] 0.44 19 13 13.2 0.6 Na K time/item (mmol/L) (mmol/L)      |
+|1040816 [1217] 141 4.1 *********檢驗室:CT*********** 群組:PT PT  |
+|PT INR time/item (sec) () 1040816 [1217] 9.7 0.91 群組:PTT PTT   |
+|time/item (sec) 1040816 [1217] 26.0 *********檢驗室:BK***********|
+|群組:Blood Type ABO Typing RH Typing time/item (*) (*) 1040816   |
+|[1217] A Positive 群組:Yes antibody scr een(New Lis) time/item   |
+|(*) 1040816 [1217] Negative *********檢驗室:N2***********        |
+|群組:Tumor Marker RIA:CA 19-9 RIA:CEA (Ser um) time/item (U/mL)  |
+|(ng/ml) 1040805 [0631] 12.6 0.49 *********檢驗室:SF***********   |
+|群組:Yes Alpha-Fetopr CA-125 SCC otein time/item (ng/mL) (U/mL)  |
+|(ng/mL) 1040805 [0631] < 2.00 5.1 < 0.5                          |
+|*********檢驗室:OP*********** 群組:STOOL O.B. time/item (*)      |
+|1040805 [0206] - *********檢驗室:CT*********** 群組:PT PT PT INR |
+|time/item (sec) () 1040805 [0631] 9.8 0.92 群組:PTT PTT time/item|
+|(sec) 1040805 [0631] 26.9 *********檢驗室:RL***********          |
+|群組:General BioChemistry ALT time/item (U/L) 1040802 [1459] 11  |
+|群組:Biochemistry CRE Na K time/item (mg/dL) (mmol/L) (mmol/L)   |
+|1040802 [1459] 0.6 138 4.3 群組:WBC Classification Blast Promyl. |
+|Myelo. Meta Band time/item (%) (%) (%) (%) (%) 1040802 [1459] 0.0|
+|0.0 0.0 0.0 0.0 Seg Eos. Baso. Mono. Lym. time/item (%) (%) (%)  |
+|(%) (%) 1040802 [1459] 65.4 4.0 0.3 5.2 25.1 Aty.Lym. PlasmaCell |
+|Normobl. PS time/item (%) (%) () () 1040802 [1459] 0.0 0.0 0 -   |
+|群組:CBC+PLT WBC RBC HB HCT MCV time/item (K/μL) (M/μL) (g/dL)   |
+|(%) (fL) 1040802 [1459] 6.50 4.93 15.5 45.6 92.5 MCH MCHC PLT    |
+|RDW-CV PS time/item (pg) (g/dL) (K/μL) (%) () 1040802 [1459] 31.4|
+|34.0 212 13.1 - *********檢驗室:PO*********** 群組: Sugar(One to |
+|uch) time/item (*) 1040802 [1458] 136                            |
+|檢查紀錄(Examination Report)                                     |
+|NIL                                                              |
+|影像報告(Imaging Report)                                         |
+|COMMON CAROTID ARTERY:both sides 醫令: COMMON CAROTID ARTERY:both|
+|sides 報告醫師: 李崇維 影像時間: 2015/08/07 12:39 (33042BZM)     |
+|發報告時間: 2015/08/09 09:50 Indication: Brain tumor. Procedure  |
+|name: Angiography. Catheters/needles: 5Fr femoral sheath. 5Fr H1.|
+|Other materials: nil. Approach site: Right common femoral artery |
+|approach after sterilization Procedure findings: > We canalized  |
+|the common femoral artery with 5Fr femoral sheath. > Angiography |
+|at right ICA showed hypervascular stain in right posterior       |
+|frontal periventricular region, with feeding arteries from right |
+|MCA, with early venous drainage to internal cerebral vein and    |
+|cortical vein. > Angiography at left ICA showed no definite tumor|
+|stain. Suggestion: > Bed rest at least 4 hours and follow up the |
+|clinical condition. MRI With/Without Contrast--Brain 醫令: MRI   |
+|With/Without Contrast--Brain 報告醫師: 梁博欽 影像時間:          |
+|2015/08/03 22:06 (33085BYM) 發報告時間: 2015/08/04 08:28 MRI of  |
+|the brain without and with contrast enhancement shows: > A 4.8cm |
+|tumor at the right frontal lobe and a 2.5cm tumor at the left    |
+|frontal lobe, with perifocal edema, heterogenous enhancing and   |
+|mild diffusion restriction. > Mild mid-line shift to the left    |
+|side. > Non-specific white matter change. > No definite lesion of|
+|the circle of Willis. > Intact cranial vault. Chest : PA View    |
+|(Standing) 醫令: Chest : PA View (Standing) 報告醫師: 彭信逢     |
+|影像時間: 2015/08/02 14:49 (32001CXM) 發報告時間: 2015/08/02     |
+|15:15 tortuous aorta; deviation of the TL spines to the right;   |
+|normal heart shadow, calcified aortic knob                       |
+|病理報告(Pathology Report)                                       |
+|NIL                                                              |
+|臆斷(Tentative Diagnosis)                                        |
+|239.6 Brain tumor 351.0 Facial palsy                             |
+|醫療需求與治療計畫(Medical Needs and Care Plan)                  |
+|* Brain tumor S: Left-sided drooling. O: Left facial palsy,      |
+|central type. Tongue deviation to the left side. Muscle power    |
+|R/L=5/4+ MRI(2015/08/03): A 4.8cm tumor at the right frontal lobe|
+|and a 2.5cm tumor at the left frontal lobe, with perifocal edema,|
+|heterogenous enhancing and mild diffusion restriction.           |
+|Angiography(2015/08/07): at right ICA showed hypervascular stain |
+|in right posterior frontal periventricular region, with feeding  |
+|arteries from right MCA, with early venous drainage to internal  |
+|cerebral vein and cortical vein. A: Brain tumor P: 1. craniotomy |
+|for tumor excision (left temporal bone) Treatment Goal: 1.       |
+|operation and post-op care                                       |
+|出院規劃(Discharge Planning)                                     |
+|管路留置狀況:無 日常生活功能分數：100 預期出院後居住場所：與家人 |
+|同住 預期出院後主要照顧者：自己 配偶 女兒 出院規劃收案篩檢：一般 |
+|病患                                                             |
+|主治醫師評論(VS Comments)                                        |
+|High risk, explain ti her family                                 |
+|醫師姓名                                                         |
+|曾漢民 主治醫師                                                  |
+

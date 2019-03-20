@@ -1,0 +1,44 @@
+
+1. Refractory Pre-T acute lymphoblastic leukemia/lymphoma, s/p steroid
+leukoreduction, PD
+2. Septic shock episode
+2. Clostridium difficile colitis/neutropenic colitis
+3. Previous hepatic fungal infection
+4. Paranasal sinusitis, resolved
+
+Afebrile
+Inotropic dependent with tachycardia
+Few oral intake
+No cough
+No abdominal cramps/tenderness
+Loose stool
+
+2014/11/29
+WBC:2.00 k/μL
+RBC:2.25 M/μL
+HB:7.2 g/dL
+HCT:20.1 %
+MCV:89.3 fL
+MCH:32.0 pg
+MCHC:35.8 g/dL
+PLT:10 k/μL
+RDW-CV:18.3 %
+PS:-
+
+2014/11/29
+T-BIL:0.28 mg/dL
+ALT:11 U/L
+LDH:81 U/L
+CRE:0.5 mg/dL
+UA:3.5 mg/dL
+Na:135 mmol/L
+K:4.2 mmol/L
+Ca:2.33 mmol/L
+Mg:0.88 mmol/L
+
+Plan:
+Keep salvage LOP
+Keep TPN with insulin
+Keep megace
+Keep micafungin and levofloxacin
+keep acyclovir

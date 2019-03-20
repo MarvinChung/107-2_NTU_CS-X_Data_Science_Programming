@@ -1,0 +1,14 @@
+
+1.因上次會談有問有關助念資源,提供給妹妹
+2.太太暫回租屋,休息
+3.家人表示病人病情近日有改善,如果再好點就可以繼續在治療
+Mode :PC/AC
+Insp. Pressure : 16   cmH2O
+VT set/exp. :400~350ml
+RR set/total :24/27   bpm
+FiO2 : 65 %
+PIP/MAP:30/18cmH2O
+VE total :9.7lpm
+Ti:1.0  sec
+PEEP:12cmH2O
+SpO2 : 99%

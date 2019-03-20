@@ -1,0 +1,41 @@
+
+25 y/o female
+History
+MDS, RA type, s/p allogeneic SCT on 2014/01/15, with GVHD presented with
+progressive respiratory distress after dicahrged from NTUH on 2015/02/17.
+She was BiPAP-dependent upon last discharge, and the latest CT result
+showed possible GVHD-related lung changes with bronchiectasis.
+Lung function test was performed on 2015/02/13, which disclosed FEV1 18%
+and FVC 40%.
+After discharge, progressive respiratory distress was told at home with no
+improvement even after level titrated to PIP 22/PEEP 4; O2 5L/min, and she
+was taken to NTUH ER for help. Upon the arrival, she presented with low-
+grade fever to 37.8C with shortness of breath. Septic workup was done.
+Initial blood gas showed respiratory acidosis with evident CO2
+retention(pCO2 91.2).
+Lab data showed leukocytosis(WBC:16.35K) with left shift, and the lactic
+acid level was 0.6 initially.
+Urinalysis showed pyuria(WBC 75~100) with bacteriuria +.
+CXR showed no evident patchy lesion, but increased hilar infiltration was
+seen.
+However, the respiratory condition worsened rapidly, and intubation was
+done in ER(6.5Fr ETT, fixed at 22cm).
+
+Respiration
+acute on top of chronic respiratory failure
+not sure whether regular use of BiPAP at home or not
+now ETT with mechanical ventilator support
+limited CO2 retension improvement after intubation
+prominant airleak under 6.5 ETT
+should change to 7.0
+As chronic lung disease with bronchiectasis, suspect bronchiolitis
+obliterans
+Add inhaled corticosteroid and macrolides
+closely monitor breathing condition
+
+Infection
+Mepem continue usage
+
+Hematology oncology
+the female seems to have limited understanding of her disease and lung
+function condition

@@ -1,0 +1,24 @@
+
+Previous attempts at reducing MV setting was coincidently confronted with
+GU bleeding.
+Fever 8/6. Under antibiotic treatment.
+Observe closely about the process related to sepsis.
+2015/08/07 ID+DS Blood.#1:Yeast-like organism   *
+2015/08/07 ID+DS Blood.#2:待確認報告   *
+Fluconazole added.
+2015/08/07 04:43 SpO2:98%(40%,L,VCR)
+2015/08/07 01:04 SpO2:98%(40%,L,VCR)
+2015/08/06 21:28 SpO2:100%(35%,L,VCR)
+2015/08/06 16:45 SpO2:93%(35%,L,VCR)
+2015/08/07 04:41 BP:115/59
+2015/08/07 01:04 BP:126/83
+2015/08/06 20:26 BP:113/98
+2015/08/06 16:44 BP:93/43
+2015/08/06 12:41 BP:130/66
+2015/08/06 09:00 BP:144/62
+2015/08/07 04:41 T:36.8 P:104 R:20
+2015/08/07 01:04 T:37.6 P:103 R:23
+2015/08/06 20:25 T:36.5 P:106 R:28
+2015/08/06 16:45 T:37 P:83 R:19
+2015/08/06 14:35 T:36.9 P:86 R:18
+2015/08/06 12:41 T:38.1 P:103 R:28

@@ -1,0 +1,88 @@
+
+Brief Summary of this week
+After admission, ceftriaxone, azithromycin, and Tamiflu were continued. The
+patient was still in comatous status with GCS: E1M1Vt. Bilateral pupils
+were both small (2 ~ 2.5 mm) with trace light reflex. Diuretics were added
+to keep I/O negative, which made pulmonary edema and pitting edema
+gradually improved. Depakine was added for seizure prophylaxis but
+intermittent focal seizure presenting as left mouth angle twitching was
+still noted. EEG was done on 3/9 and showed severe diffuse cortical
+dysfunction, which was compatible with hypoxic encephalopathy.
+
+
+Assessment
+Ceftriaxone D10 3/5-
+Tamiflu 3/5-3/9
+Moxifloxacin 3/5
+Azithromycin 3/6-3/8
+
+Afebrile, last septic workup: 3/9
+SBP 100-130, HR 80-90, sinus
+I/O 882/760(+122)/8hrs, U/O 520ml/8hrs
+Diet: 1500kcal/1000cc, low protein (30g)
+BW 71 Kg
+
+[PE]
+Conscious E1VtM1
+HEENT: no pale conjunctiva
+Chest: bilateral bronchial sound
+Heart: regular heart beat
+Abdomen: soft, no tenderness, normoactive bowel sound
+Extremity: no edema
+
+[Ventilator setting]
+PC/SIMV + PS mode: iP 16, PS 12, PEEP 5, FiO2 25, RR 10 --> 10, Vt 336, MV
+5.19
+
+[Important studies and images]
+3/9 EEG interpretation: severe diffuse cortical dysfunction, compatible
+with hypoxic encephalopathy
+
+[Recent lab data]
+3/14 Hb: 8.8, WBC: 10.33K (3/12) => 14.64K
+     BUN/Cre: 79.1/3.8 (3/12) => 96.7/3.4
+     ABG: 7.429/39.4/146.7/26.3/1.7
+
+[Recent culture]
+3/7 B/C x 2: negative
+    S/S: GPC in clusters, S/C: negative
+    U/C: negative
+3/9 B/C x 2: pending, B/C (fungus): pending
+    S/S, S/C: negative
+    U/C: negative
+
+[Important consultations and family's decision]
+3/11 Neurologists
+  1. Increase Keppra to 750mg BID
+  2. add Rivotril 1/2# TID, monitor liver function closely
+  3. Follow up EEG in one week later
+
+[Important intervention and new added medications]
+3/7-3/12 Furosemide
+3/7-3/14 Aldactone
+3/11-3/14 Fluitran
+
+3/8-3/11 Depakine
+3/10-3/11 Phenytoin
+3/11- Keppra + Rivotril
+
+3/9- Norvasc
+3/10- Dilatrend
+
+[FEMH]
+3/5 Brain CT at FEMH: no ICH nor large ischemic stroke, r/o hypoxic-
+ischemic encephalopathy.
+3/6 Intermittent focal seizure attacks presenting as mouth angle twitching,
+gave Depakine and Anxicam infusion.
+3/6 EGD: DU and GERD grade D. Removal of foreign body (tooth) in the
+esophagus.
+Echocardiography: LV global hypokinesia, LVEF (37%)
+
+Plan
+1. DC Rocephin after completing 10-day treatment course
+2. Keep Rivotril and Keppra and monitor seizure control
+3. DC all diuretics
+   Monitor renal function and keep electrolytes balance
+   Inform families the possibility of hemodialysis
+4. Pursue EEG report
+5. Insulin for glycemic control

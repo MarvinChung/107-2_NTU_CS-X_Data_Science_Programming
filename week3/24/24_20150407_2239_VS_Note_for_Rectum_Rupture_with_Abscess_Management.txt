@@ -1,0 +1,49 @@
+
+Event: The patient was found rectum rupture with abscess s/p CT-guided
+drainage. Radiologist informed high mortality risk and suggested to consult
+CRS man for colostomy or further surgery. The consulted CRS man had family
+meeting with family on 4/07 night. This old aged patient had high risk to
+tolerate surgery. Therefore, NPO, nutrition support and drainage of the
+abscess should be the best policy. The radiologist would like to change the
+bigger tube to drain the abscess (stool-like material) a few days later.
+O:
+2015/04/07 19:05 BP:130/72
+2015/04/07 21:01 Pain score:0
+Chest: Bilateral coarse BS. Already drainage of right pleural effusion
+about 500ml.
+Heart: IRIRHB.
+Abdomen: pigtail drainage of stool-like material.
+Ext: Cold extremities
+[Lab]
+2015/04/07 SCC:3.2 ng/mL CA-125:157.4 U/mL CA 15-3:10.6 U/mL
+2015/04/07 VRE screening:Enterococcus faecium 3+
+2015/04/07 O.B.:3+ *
+2015/04/06 RIA:CA 19-9:31.5 U/mL
+2015/04/06 RIA:CEA (Serum):2.97 ng/ml
+2015/04/06 ID+DS Blood.#1:No growth after 5 days *
+2015/04/06 ID+DS Blood.#1:No growth after 5 days *
+2015/04/05 BUN/Cre:27.4/0.6 mg/dL Na/K:138/ 4.3 mmol/L
+[Image]
+
+Impression:
+1.Rectum diverticulitis with rupture and abscess s/p TPN
+2.High CA-125 and SCC level,suspect GI tract or gynecological cancer
+3.Suspect pneumonia with massive parapneumonic effusion, right s/p pigtail
+drainage on 4/07
+4.Chronic respiratory failure s/p tracheostomy + ventilator
+5.Hypertension
+6.Suspect Parkinsonism
+
+Plans:
+1.Keep on CVP care and TPN support.
+2.May contact with radiologist Dr.劉高郎 to change a bigger tube to drain
+the abscess and stool-like material
+3.Keep on NPO and give IV medications as needed.
+4.Keep on Transamin 1 amp ivp q8h.
+5.Keep on Abx with Mepem + Vancomycin as needed.
+6.Seizure control with IV Anxecam + Keppra
+7.DNR同意書(除呼吸器與藥物外). Inform grave
+prognosis.病人兒子希望能夠在母親最後的時候助念12小時,
+蔡醫師解釋可以在樓上使用念佛機,在往生室待滿8小時。
+8.7D整合醫療照護團隊會盡力照顧母親,讓她可以好好過這段時光,也會以緩和醫療的方
+式來協助母親舒適照護!

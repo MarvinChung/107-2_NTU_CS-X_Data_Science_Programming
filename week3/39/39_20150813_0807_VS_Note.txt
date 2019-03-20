@@ -1,0 +1,15 @@
+
+Fungemia. Under antimicrobial treatment.
+Condition appeared improved.
+Large minute ventilation that active weaning and extubation remained not
+feasible.
+Monitor minute volume closely.
+2015/08/13 04:47 T:36.2 P:83 R:21
+2015/08/13 00:55 T:36.1 P:91 R:15
+2015/08/12 23:08 T:36.1 P:90 R:20
+2015/08/12 17:17 T:36.3 P:85 R:18
+2015/08/12 12:07 T:36.5 P:89 R:23
+2015/08/12 09:07 T:36.2 P:92 R:24
+2015/08/13 04:47 SpO2:98%(40%,L,VCR)
+2015/08/13 00:55 SpO2:98%(40%,L,VCR)
+2015/08/12 23:09 SpO2:98%(35%,L,VCR)

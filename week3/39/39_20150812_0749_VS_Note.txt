@@ -1,0 +1,24 @@
+
+Previous attempts at reducing MV setting was coincidently confronted with
+GU bleeding.
+Fungemia. Under antimicrobial treatment.
+Condition appeared improved.
+Discuss with ID expert as indicated for the optimisation of anti fungal
+treatment.
+Large minute ventilation that active weaning and extubation remained not
+feasible.
+2015/08/11 PH:7.390   *
+2015/08/11 PCO2:29.5   mmHg
+2015/08/11 PO2:28.6   mmHg
+2015/08/11 HCO3:18.0   mmol/L
+2015/08/10 WBC:7.48   K/μL
+2015/08/10 HB:8.9   g/dL
+2015/08/10 PLT:102   K/μL
+2015/08/11 ID+DS Blood.#1:Candida albicans   *
+2015/08/11 Fluconazole#1:Candida albicans   ug/ml
+2015/08/12 04:34 T:36.3 P:87 R:22
+2015/08/12 01:12 T:36.5 P:81 R:17
+2015/08/11 21:09 T:36.4 P:92 R:21
+2015/08/12 04:34 BP:99/60
+2015/08/12 00:13 BP:118/74
+2015/08/11 21:09 BP:124/70

@@ -1,0 +1,49 @@
+
+1. Refractory Pre-T acute lymphoblastic leukemia/lymphoma, s/p steroid
+leukoreduction, PD
+2. Septic shock episode
+2. Clostridium difficile colitis/neutropenic colitis
+3. Previous hepatic fungal infection
+4. Paranasal sinusitis, resolved
+
+Low-grade fever
+Inotropic dependent with tachycardia
+Loss of appetite
+No cough
+No abdominal cramps/tenderness
+Loose stool
+
+Enlarging left cervical LAPs
+
+2014/11/26
+MCHC:35.1 g/dL
+PLT:17 k/μL
+RDW-CV:18.9 %
+PS:-
+WBC:15.96 k/μL
+RBC:2.52 M/μL
+HB:8.0 g/dL
+HCT:22.8 %
+MCV:90.5 fL
+MCH:31.7 pg
+
+2014/11/26
+Blast:38.0 %
+Promyl.:0.0 %
+Myelo.:0.0 %
+Meta:0.0 %
+Band:2.0 %
+Seg:10.0 %
+Eos.:0.0 %
+Baso.:0.0 %
+Mono.:3.0 %
+Lym.:46.0 %
+Aty.Lym.:1.0 %
+PlasmaCell:0.0 %
+Normobl.:0.0 /100 WBC
+PS:WBC 100
+
+Plan:
+Give salvage LOP from 1127
+Arrange cardiac US
+Keep micafungin and levofloxacin

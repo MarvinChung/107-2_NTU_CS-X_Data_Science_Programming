@@ -1,0 +1,14 @@
+
+P:
+no acute distress, no fever, bowel and urination normal
+   stay in bed all day today
+A:
+2015/02/19 19:30 T:37.5 P:109 R:16
+2015/02/19 19:30 Pain score:0
+2015/02/19 19:30 BP:104/57
+2015/02/19 14:37 SpO2:100%(？000 00003.5L,)
+P:
+try clear wather
+up with assistance
+rehab in bed
+watch vital signs especially for temperature

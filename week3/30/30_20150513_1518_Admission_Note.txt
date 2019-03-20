@@ -1,0 +1,361 @@
+
+2015/05/13 15:18 | |
+|主訴(Chief Complaint)                                            |
+|Informant:patient, family and medical record yellowish skin for  |
+|one week                                                         |
+|病史(Brief History)                                              |
+|This 79-year-old man is a patient of 1. Metastatic gastric       |
+|cancer, adenocarcinoma, intestinal type, Borrmann type III,      |
+|moderately differentiated, with liver metastasis, stage IV,      |
+|non-resectable, cT4N2M1, HER2/Neu 3+/3+ with increasing Ki-67    |
+|activity, p53 negative, status post palliative chemotherapy      |
+|cisplatin + capecitabine (IV) (2013/5/28-2013/7/30), progressive |
+|disease, status post phase II/III study with TDM1 (VIII)         |
+|(2013/8/30-2014/1/24), partial response (PR) then later with     |
+|progressive disease (PD), status post LJM716+ Herceptin (VIII)   |
+|(2014/2/25-2014/9/30), partial response (PR) then PD later, under|
+|ASLAN001 plus Cisplatin and Capecitabine(V)                      |
+|(2014/10/22~2015/02/04) 2. Herpes zoster on the right T10, healed|
+|3. Anemia, transfusion required The initial presentation was     |
+|progressive dyspnea for 6 months in 2013. Progressive poor       |
+|appetite and early satiety were also noted for 2 months. He      |
+|developed progressive dyspnea, dizziness and exertional          |
+|intolerance. Body weight loss of 6kg/6months was also recalled   |
+|(75kg to 69kg). He went to Cardinal Tien Hospital (耕莘) on      |
+|2013/05/04. However, lab data showed severe anemia of 5.0 g/dL   |
+|which may be the cause of his dyspnea, dizziness and exertional  |
+|intolerance. Blood transfusion was performed. His dyspnea,       |
+|dizziness and exertional intolerance improved gradually.         |
+|Abdominal echo on 2013/5/6 showed an echogenic lesion 3.5cm near |
+|the pancreatic head and panendoscopy on 2013/5/6 showed a        |
+|protruding mass over 5cm with ulceration at gastric antrum       |
+|posterior wall extended to lower gastric body. Biopsy on 2013/5/6|
+|showed gastric adenocarcinoma, intestinal type, moderately       |
+|differentiated, Bormann type 3. Abdominal CT on 2013/5/6 showed  |
+|advanced gastric cancer, lower body and antrum, with extraserosal|
+|invasion, multiple regional and paraaortic lymphadenopathy,      |
+|multiple liver metastasis and suspecting local invasion of       |
+|pancreatic head. He then came to NTUH for second opinion.        |
+|Panendoscopy on 2013/05/20 showed fungating tumors from upper    |
+|body to antrum, causing poor expansion of stomach and luminal    |
+|stenosis status post biopsy which showed adenocarcinoma,         |
+|Her-2/Neu 3+/3+, increasing ki-67 activity and p53 negative.     |
+|Gastric cancer, cT4N2M1, HER2 (3+) was diagnosed. Port-A was     |
+|implantation on 2013/5/22 for chemotherapy. He then received     |
+|Capecitabine and Cisplatin for 4 cycles from 2013/5/28 to        |
+|2013/7/30. However, followed up abdominal CT on 2013/8/9 showed  |
+|disease progression with right adrenal metastasis and multiple   |
+|lymph nodes metastasis (upper abdomen and bilateral paraaortic   |
+|areas). Thus, he was enrolled into Phase II/III TDM1 trial (VIII)|
+|from 2013/8/30 to 2014/1/24. Subsequent CT during the            |
+|chemotherapy was stationary. The CEA level was elevated to 611.6 |
+|ng/ml and CT scan on 2014/1/10 revealed advanced gastric cancer  |
+|with prominent LAPs, liver and right adrenal metastases,         |
+|enlarged. Then, he was enrolled another trial of LJM716+Herceptin|
+|trial (VIII) form 2014/2/25 to 2014/9/30. The side effect was    |
+|grade I-II diarrhea and grade I anorexia. The CT on 2014/2/11    |
+|showed partial response. Then, following up frequency CT on      |
+|20114/4/16, 2014/5/14, and 2014/6/11 showed 1.) gastric cancer   |
+|with liver and adrenal metastases. 2.) abdominal lymphadenopathy,|
+|stable disease. However, CT on 2014/8/6 and 2014/10/01 showed    |
+|disease progression. Due to disease in progression with liver and|
+|adrenal metastases, then he was enrolled into phase I trial with |
+|ASLAN001 plus Cisplatin and Capecitabine (V) [ASLAN001 (100      |
+|mg/1tab) 4 tabs PO BID on D1-D21 before Xeloda ; Capecitabine    |
+|(500 mg/tab) 7 tab PO AS ORDER 9AM 4tabs PO QD; 6PM 3tabs PO QN  |
+|(after ASLAN) on D1-D14; Cisplatin (80mg/m2) IF 2hrs on D1] from |
+|2014/10/22 to 2014/2/04. Grade I~II mucositis was noted after    |
+|treatment. Hypokalemia occurred and corrected later. The followed|
+|CT scan on 2014/11/21 showed the size of gastric tumor was       |
+|smaller but the size of right adrenal was larger than previous   |
+|CT. He suffered from grade I mucositis, asthenia, diarrhea, and  |
+|nausea. Due to elevation of ACTH (134 pg/ml), the urine free     |
+|cortisol was checked and within normal limit. Second primary     |
+|adrenal tumor was not favored and paraneoplastic syndrome was    |
+|favored.He suffered from exertional dyspnea and intermittent     |
+|dizziness in recent one month. He was admitted on 2015/03/10 for |
+|phase I trial with ASLAN001 plus Cisplatin and Capecitabine      |
+|treatment. After admission, Phase I trial ASLAN001 plus Cisplatin|
+|and Capecitabine (VI) {ASLAN001 (100 mg/1tab) 4 tabs PO BID on   |
+|D1-D21 before Xeloda ; Capecitabine (500 mg/tab) 7 tab PO AS     |
+|ORDER 9AM 4tabs PO QD; 6PM 3tabs PO QN (after ASLAN) on D1-D14;  |
+|Cisplatin (80mg/m2) IF 2hrs on D1}was given since 3/11. There was|
+|no acute toxicity chemotherapy. He was discharged under stable   |
+|condition and will be followed at OPD. C+A+P CT study on         |
+|2015/05/01 revealed gastric cancer with enlarged abdominal       |
+|lymphadenopathy, liver and right adrenal metastases. Biliary     |
+|dilatation was also noted. Yellowish skin and sclera was noted in|
+|recent one week, but there was no fever, abdominal pain,         |
+|clay-color stool or tea-color urine. During regular OPD          |
+|follow-up, lab data on 2015/05/11 disclosed elevation of         |
+|bilirubin level (t-bil: 1.99 -> 11.45). This time, he was        |
+|admitted for percutaneous transhepatic cholangial drainage       |
+|(PTCD). Family History: denied GI malignancy Medication          |
+|Allergy:UnClear 病人自述 2013/08/29 No 病人自述 2013/05/27 No 病 |
+|人自述 2013/05/13 No 親屬描述 2015/05/13 No 病人自述 2015/01/06  |
+|No 病人自述 2014/11/11 Medication ADR:unknown Allergy to Medical |
+|Device and Materials:UnClear 病人自述 2013/08/29 No 病人自述     |
+|2013/05/27 UnClear 病人自述 2013/05/13 No 病人自述 2015/01/06 No |
+|親屬描述 2015/05/13 No 病人自述 2014/11/11 NTUH: see OPD         |
+|medication 中草藥: nil 保健食品: nil Past Medical History:       |
+|gastric cancer Hospitalization: 入院日期:2014_12_02 出院日期: 診 |
+|斷:Gastric cancer 入院日期:2015_03_03 出院日期: 診斷:Gastric     |
+|cancer 入院日期:2015_03_10 出院日期:2015_03_12 診斷:Gastric      |
+|cancer 入院日期:2015_02_03 出院日期:2015_02_05 診斷:Gastric      |
+|cancer 入院日期:2015_01_06 出院日期:2015_01_08 診斷:Gastric      |
+|cancer 入院日期:2014_12_09 出院日期:2014_12_11 診斷:Gastric      |
+|cancer 入院日期:2014_11_11 出院日期:2014_11_13 診斷:Gastric      |
+|cancer 入院日期:2014_11_04 出院日期:2014_11_06 診斷:Gastric      |
+|cancer 入院日期:2014_10_21 出院日期:2014_10_23 診斷:Gastric      |
+|cancer 入院日期:2014_02_24 出院日期:2014_02_26 診斷:Gastric      |
+|cancer 入院日期:2013_08_29 出院日期:2013_09_07 診斷:Gastric      |
+|cancer 入院日期:2013_05_27 出院日期:2013_05_30 診斷:Gastric      |
+|cancer Past Surgical History:2013_05_22 Port-A implantation,     |
+|echo-guided Travel History: nil                                  |
+|社會心理相關評估(Psychosocial Assessment)                        |
+|Social Economic and Personal History 教育程度:國中 職業:退休     |
+|宗教信仰:佛教 婚姻狀態:已婚 使用語言:國語 台語 口述血型:O，RH:不 |
+|清楚，輸血反應:無 抽煙:沒有 喝酒:沒有 檳榔:沒有 物質濫用:沒有    |
+|Psychological History and Evaluation 意識狀態:警醒 認知功能:正常 |
+|精神情緒狀態:正常 安全問題:有 其他 跌倒 睡眠形態:正常 Nutritional|
+|Screen 攝食情形:普通，攝食50-74% 排便狀態:正常 BMI:25.46 Fall    |
+|Risk Assessment 總分:10 (>=3分進行不倒翁計畫，請開預防跌倒醫囑)  |
+|系統性回顧(Review of System)                                     |
+|1.Systemic: weight loss(-), easy-fatigability(-), night sweats(-)|
+|2.Skin: petechiae(-), purpurae(-), skin rash(-), itching(-),     |
+|3.HEENT: headache(-),dizziness(-), blurred vision(-),            |
+|strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing  |
+|impairment(-), tinnitus(-), vertigo(-), nasal stuffiness(-),     |
+|nasal discharge(-), epistaxis(-), gum bleeding(-), sore          |
+|throat(-),oral ulcer(-) 4.Cardiovascular: exertional chest       |
+|tightness(-), nocturnal dyspnea(-), orthopnea(-) syncope(-),     |
+|palpitation(-), intermittent claudication(-) 5.Respiratory:      |
+|dyspnea(-), cough(-), chest pain(-), hemoptysis(-), productive   |
+|cough (-), pleuritic chest pain(-) 6.Gastrointestinal:           |
+|anorexia(-), nausea(-), vomiting(-), dysphagia(-), heartburn(-), |
+|acid regurgitation(-), abdominal fullness(-), hunger pain(-)     |
+|midnight pain(-), constipation(-), diarrhea(-), melena(-), change|
+|of bowel habit(-), small caliber of stool(-), tenesmus(-),       |
+|flatulence(-) 7.Urogenital: flank pain(-), hematuria(-), urinary |
+|frequency(-), urgency(-), dysuria (-), hesitancy(-), small stream|
+|of urine(-), impotence(-), nocturia(-), polyuria(-), oliguria (-)|
+|8.Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-),      |
+|weakness(-) back pain(-) 9.Metabolic: heat intolerance(-), cold  |
+|intolerance(-), thirsty(-) 10.Nervous: numbness (-),             |
+|paresis/plegia (-)                                               |
+|身體檢查(Physical Examination)                                   |
+|BH:164.4 cm BW:68.8 kg T:36.7 P:100 R:20 BP:127/70 mmHg Pain:0   |
+|Neurological Examination: . Consciousness: clear . Muscle power: |
+|fair . Gait: not check Head-Eye-ENT grossly normal, conjunctiva: |
+|pink, sclera: icteric(+) Pupil: isocoric, 3mm/ 3mm Light reflex: |
+|L/R: +/+, EOM: full and free Neck Jugular vein engorgement(-)    |
+|Thyroid goiter(-) Meningismus: Kernig sign(-); Brudzinski sign(-)|
+|Carotid bruit(-) Chest Thoracic cage contour: symmetric Vocal    |
+|fremitus and expansion: symmetric Percussion: resonant Breathing |
+|sound: clear Crackles(-) wheezes(-)rhonchi(-) stridor(-) Heart   |
+|Heart beat: regular Murmurs(-) LV lift(-) RV heave(-) Increased  |
+|cardiac size by percussion(-) Adventitious sounds (-) Abdomen    |
+|distended & soft Superficial vein engorgement(-) Protruded       |
+|umbilicus(-) Bowel sound: Normoactive Tenderness(-)              |
+|Hepato-jugular reflux(-) Liver and spleen: impalpable Extremities|
+|Freely movable, pulses symmetric and intact, pitting edema(-)    |
+|Back Knocking pain(-) Skin Abnormal pigmentation(-) Petechiae(-) |
+|Purpura(-) Ecchymoses(-) Telangiectasia(-) Rash(-) Plaque(-)     |
+|Lymphadenopathy(-)                                               |
+|檢驗紀錄(Laboratory Report)                                      |
+|*********檢驗室:HE*********** 群組:CBC+PLT WBC RBC HB HCT MCV    |
+|time/item (k/μL) (M/μL) (g/dL) (%) (fL) 1040511 [0835] 9.72 2.54 |
+|8.6 25.1 98.8 MCH MCHC PLT RDW-CV Retic. time/item (pg) (g/dL)   |
+|(k/μL) (%) (%) 1040511 [0835] 33.9 34.3 235 17.5 6.40 PS         |
+|Retic.No. IRF time/item () (10^4/μL) (%) 1040511 [0835] - 16.26  |
+|32.4 （僅供參考） 群組:WBC D/C Blast Promyl. Myelo. Meta Band    |
+|time/item (%) (%) (%) (%) (%) 1040511 [0835] 0.0 0.0 0.0 0.0 0.0 |
+|Seg Eos. Baso. Mono. Lym. time/item (%) (%) (%) (%) (%) 1040511  |
+|[0835] 72.4 0.6 0.1 9.8 17.1 Aty.Lym. PlasmaCell Normobl. PS     |
+|time/item (%) (%) () () 1040511 [0835] 0.0 0.0 0 - *********檢驗 |
+|室:BC*********** 群組:General BioChemistry Alb TP T-BIL AST ALT  |
+|time/item (g/dL) (g/dL) (mg/dL) (U/L) (U/L) 1040511 [0835] 3.3   |
+|6.2 11.45 107 69 ALP GGT UN CRE Na time/item (U/L) (U/L) (mg/dL) |
+|(mg/dL) (mmol/L) 1040511 [0835] 127 480 13.2 1.1 134 K Cl Ca     |
+|time/item (mmol/L) (mmol/L) (mmol/L) 1040511 [0835] 3.1 102 2.06 |
+|群組:DM GLU AC time/item (mg/dL) 1040511 [0835] 113              |
+|*********檢驗室:CT*********** 群組:PT PT PT INR time/item (sec)  |
+|() 1040511 [0835] 14.2 1.34 群組:PTT PTT time/item (sec) 1040511 |
+|[0835] 29.2 群組:Other Test Mixed APTT time/item (sec) 1040511   |
+|[0835] 27.4(imm.)/2 8.0(1hr) *********檢驗室:OP***********       |
+|群組:SEDIMENT RBC (S) WBC (S) Epith (S) Cast (S) Crystal (S)     |
+|time/item (/HPF) (/HPF) (/HPF) (/LPF) (*) 1040511 [0906] 0-2 0-2 |
+|0-2 Gr(10-20) - Bacteria Mucus(S) Others (S) time/item (*) (*)   |
+|(*) 1040511 [0906] + - - 群組:MULTISTIX Sp. Gr.(C) pH Protein(C) |
+|Glu.(C) Ketone body (U) time/item (*) (*) (mg/dL) (mg/dL) (*)    |
+|1040511 [0906] 1.019 6.0 30 ( 1+ ) - - O.B.(C) Urobil.(C) Bil.(C)|
+|Nitrite(C) WBC esterase (U) time/item (mg/dL) (mg/dL) (mg/dL) (*)|
+|(*) 1040511 [0906] - ≦1.5 3+ - - Color Turbidity time/item (*)   |
+|(*) 1040511 [0906] Dark Yellow 2+ *********檢驗室:HE***********  |
+|群組:CBC+PLT WBC RBC HB HCT MCV time/item (k/μL) (M/μL) (g/dL)   |
+|(%) (fL) 1040420 [0846] 3.28 2.89 10.3 29.1 100.7 MCH MCHC PLT   |
+|RDW-CV Retic. time/item (pg) (g/dL) (k/μL) (%) (%) 1040420 [0846]|
+|35.6 35.4 113 18.8 3.49 PS Retic.No. IRF time/item () (10^4/μL)  |
+|(%) 1040420 [0846] - 10.09 26.8 （僅供參考） 群組:WBC D/C Blast  |
+|Promyl. Myelo. Meta Band time/item (%) (%) (%) (%) (%) 1040420   |
+|[0846] 0.0 0.0 0.0 0.0 0.0 Seg Eos. Baso. Mono. Lym. time/item   |
+|(%) (%) (%) (%) (%) 1040420 [0846] 58.5 1.2 0.3 11.0 29.0        |
+|Aty.Lym. PlasmaCell Normobl. PS time/item (%) (%) () () 1040420  |
+|[0846] 0.0 0.0 0 - *********檢驗室:BC*********** 群組:General    |
+|BioChemistry Alb TP T-BIL AST ALT time/item (g/dL) (g/dL) (mg/dL)|
+|(U/L) (U/L) 1040420 [0846] 3.8 6.5 1.99 41 22 ALP GGT UN CRE Na  |
+|time/item (U/L) (U/L) (mg/dL) (mg/dL) (mmol/L) 1040420 [0846] 72 |
+|219 14.5 1.0 138 K Cl Ca time/item (mmol/L) (mmol/L) (mmol/L)    |
+|1040420 [0846] 3.6 104 2.14 群組:DM GLU AC time/item (mg/dL)     |
+|1040420 [0846] 101 *********檢驗室:CT*********** 群組:PT PT PT   |
+|INR time/item (sec) () 1040420 [0846] 10.3 0.95 群組:PTT PTT     |
+|time/item (sec) 1040420 [0846] 25.6 群組:Other Test Mixed APTT   |
+|time/item (sec) 1040420 [0846] 25.6(imm.)/2 5.9(1hr) *********檢 |
+|驗室:OP*********** 群組:SEDIMENT RBC (S) WBC (S) Epith (S) Cast  |
+|(S) Crystal (S) time/item (/HPF) (/HPF) (/HPF) (/LPF) (*) 1040420|
+|[0907] 2-5 0-2 0-2 - - Bacteria Mucus(S) Others (S) time/item (*)|
+|(*) (*) 1040420 [0907] 3+ - - 群組:MULTISTIX Sp. Gr.(C) pH       |
+|Protein(C) Glu.(C) Ketone body (U) time/item (*) (*) (mg/dL)     |
+|(mg/dL) (*) 1040420 [0907] 1.022 6.0 200 ( 2+ ) - - O.B.(C)      |
+|Urobil.(C) Bil.(C) Nitrite(C) WBC esterase (U) time/item (mg/dL) |
+|(mg/dL) (mg/dL) (*) (*) 1040420 [0907] - 3.0 - - - Color         |
+|Turbidity time/item (*) (*) 1040420 [0907] Dark Yellow 2+        |
+|檢查紀錄(Examination Report)                                     |
+|nil                                                              |
+|影像報告(Imaging Report)                                         |
+|CT With/Without Contrast-Chest 醫令: CT With/Without             |
+|Contrast-Chest 報告醫師: 王甄 影像時間: 2015/05/01 14:44         |
+|(33072B2M) 發報告時間: 2015/05/04 15:05 CT of chest without and  |
+|with iv contrast shows: 1. comparison: 2015/3/20 CT. 2. right    |
+|Port-A insertion. hypodense lesion at left thyroid. LN at        |
+|mediastinum, stable. atherosclerotic change of aorta. a 1cm LN at|
+|right cardiophrenic angle (SE5/IM48), larger 3. fibrotic change  |
+|in bilateral lungs. tiny faint nodule in RLL (SE5 IM36), stable. |
+|4. subsegmental atelectasis at RML, LUL lingular. bronchiectasis |
+|in bilateral lungs. also suggest correlate with abdominal CT     |
+|report. CT With/Without Contrast-Pelvis 醫令: CT With/Without    |
+|Contrast-Pelvis 報告醫師: 黃旭辰 影像時間: 2015/05/01 14:44      |
+|(33072B5M) 發報告時間: 2015/05/03 17:03 Abdomen,Pelvis CT        |
+|without/with enhancement showed: > wall thickening with          |
+|transmural enhancement at gastric antrum, compatible with gastric|
+|cancer. > perigastric and paraaortic lymphadenopathy.            |
+|lymphadenopathy at hepatic hilum with biliary dilatation. >      |
+|cirrhosis. multiple liver tumors, suspect metastases. increased  |
+|in size and number as compared with previous CT on 2015/3/20. >  |
+|right adrenal metastases, enlarged. > gallstones. > bilateral    |
+|renal cysts. > no definite lesion in spleen, pancreas, and left  |
+|adrenal gland. > no ascites. > degenerative change of the spine  |
+|with marginal spur formation. (Please correlate with the report  |
+|of other body parts.) CT With/Without Contrast-Abdomen 醫令: CT  |
+|With/Without Contrast-Abdomen 報告醫師: 黃旭辰 影像時間:         |
+|2015/05/01 14:44 (33072B3M) 發報告時間: 2015/05/03 17:03         |
+|Abdomen,Pelvis CT without/with enhancement showed: > wall        |
+|thickening with transmural enhancement at gastric antrum,        |
+|compatible with gastric cancer. > perigastric and paraaortic     |
+|lymphadenopathy. lymphadenopathy at hepatic hilum with biliary   |
+|dilatation. > cirrhosis. multiple liver tumors, suspect          |
+|metastases. increased in size and number as compared with        |
+|previous CT on 2015/3/20. > right adrenal metastases, enlarged. >|
+|gallstones. > bilateral renal cysts. > no definite lesion in     |
+|spleen, pancreas, and left adrenal gland. > no ascites. >        |
+|degenerative change of the spine with marginal spur formation.   |
+|(Please correlate with the report of other body parts.)          |
+|病理報告(Pathology Report)                                       |
+|T1300335 S1318218 Stomach,stated as upper body to                |
+|antrum,endoscopic biopsy,adenocarcinoma S1318582 Stomach,stated  |
+|as upper body to antrum,endoscopic biopsy,adenocarcinoma         |
+|(Her-2/Neu 3+/3+), S1406455 Stomach,antrum,endoscopic            |
+|biopsy,severe dysplasia at least, T1400072                       |
+|臆斷(Tentative Diagnosis)                                        |
+|1. Metastatic gastric cancer, adenocarcinoma, intestinal type,   |
+|Borrmann type III, moderately differentiated, with liver         |
+|metastasis, stage IV, non-resectable, cT4N2M1, HER2/Neu 3+/3+    |
+|with increasing Ki-67 activity, p53 negative, status post        |
+|palliative chemotherapy cisplatin + capecitabine (IV)            |
+|(2013/5/28-2013/7/30), progressive disease, status post phase    |
+|II/III study with TDM1 (VIII) (2013/8/30-2014/1/24), partial     |
+|response (PR) then later with progressive disease (PD), status   |
+|post LJM716+ Herceptin (VIII) (2014/2/25-2014/9/30), partial     |
+|response (PR) then PD later, under ASLAN001 plus Cisplatin and   |
+|Capecitabine (VI, 2014/10/22~ 2015/03/11), with obstructive      |
+|jaundice 2. Anemia 3. Paraneoplastic syndrome with elevated ACTH |
+|level                                                            |
+|醫療需求與治療計畫(Medical Needs and Care Plan)                  |
+|*yellowish skin for one week S: yellowish skin for one week O:   |
+|PE: icteric(+) Lab: HB:8.6 g/dL WBC:9.72 k/μL PLT:235 k/μL       |
+|T-BIL:11.45 mg/dL ALT:69 U/L CRE:1.1 mg/dL PT:14.2 sec PT        |
+|INR:1.34 PTT:29.2 sec C+A+P CT (2015/05/01): gastric cancer with |
+|enlarged abdominal lymphadenopathy, liver and right adrenal      |
+|metastases. Biliary dilatation A: Metastatic gastric cancer,     |
+|adenocarcinoma, intestinal type, Borrmann type III, moderately   |
+|differentiated, with liver metastasis, stage IV, non-resectable, |
+|cT4N2M1, HER2/Neu 3+/3+ with increasing Ki-67 activity, p53      |
+|negative, status post palliative chemotherapy cisplatin +        |
+|capecitabine (IV) (2013/5/28-2013/7/30), progressive disease,    |
+|status post phase II/III study with TDM1 (VIII)                  |
+|(2013/8/30-2014/1/24), partial response (PR) then later with     |
+|progressive disease (PD), status post LJM716+ Herceptin (VIII)   |
+|(2014/2/25-2014/9/30), partial response (PR) then PD later, under|
+|ASLAN001 plus Cisplatin and Capecitabine (VI, 2014/10/22~        |
+|2015/03/11), with obstructive jaundice P: 1. Arrange PTCD        |
+|placement 2. Monitor vital signs and clinical condition 3.       |
+|Supportive care 4. May arrange family meeting after then         |
+|Treatment Goal: complete PTCD 【Oncology Summary】 【Initial     |
+|presentation】 2013/4 progressive poor appetite and early satiety|
+|【Definite Diagnosis and disease extent】 2013/5/6 Abdominal     |
+|echo: an echogenic lesion 3.5cm near the pancreatic head 2013/5/6|
+|panendoscopy: a protruding mass over 5cm with ulceration at      |
+|gastric antrum posterior wall extended to lower gastric body     |
+|2013/5/6 biopsy: gastric adenocarcinoma, intestinal type,        |
+|moderately differentiated, Bormann type 3 2013/5/6 Abdominal CT: |
+|advanced gastric tumor, lower body and antrum, with extraserosal |
+|invasion, multiple regional and paraaortic lymphadenopathy,      |
+|multiple liver metastasis and suspecting local invasion of       |
+|pancreatic head. 2013/05/20 Panendoscopy: fungating tumors,      |
+|easily touch bleeding, from upper body to antrum, causing poor   |
+|expansion of stomach and luminal stenosis 2013/05/20 Biopsy:     |
+|adenocarcinoma, Her-2/Neu 3+/3+, increasing ki-67 activity and   |
+|p53 negative. *Gastric cancer, cT4N2M1, HER2/Neu 3+/3+ with      |
+|increasing Ki-67 activity, p53 negative 【Treatment course,      |
+|effect and side effect】 Tx:2013/5/28-2013/8/2                   |
+|Capecitabine+Cisplatin (IV) {Cisplatin 106mg on D1; Xeloda 2# po |
+|BID 14 days every Q3W} 2013/8/7 abdominal CT: disease progression|
+|with right adrenal meta and multiple lymph nodes metastasis(upper|
+|abdomen and bilateral paraaortic areas)-->PD!!                   |
+|Tx:2013/8/29-2014/1/24 Phase II/III trial with TDM1 (I-VIII)     |
+|{TDM-1 255mg in NS 250ml IF 30mins on D1, every Q3W} ◎ Effect:   |
+|Subsequent CT during the chemotherapy was stationary. 2014/1/10  |
+|CT scan: advanced gastric cancer with prominent LAPs, liver and  |
+|right adrenal metastases; the liver metastases are enlarged in   |
+|size. ＊ CEA level was elevated to 611.6 ng/ml--> PD!! 2014/2/11 |
+|CT: showed abnormal thickening and enhancing wall is noted from  |
+|the lower body, antrum to the duodenal bulb; prominent LAPs are  |
+|noted in the upper abdomen and bilateral paraaortic areas;       |
+|compared with prior CT 2014/01/10 study, the LNs are slightly    |
+|enlarged, esp. the LN between the SMA and aorta (arrow, key      |
+|images), from 14.7 mm (CT 2014/01/10) to the 20.6 mm (CT         |
+|2014/02/11). Tx:2014/2/25-2014/9/30 LJM716+Herceptin (VIII)      |
+|{LJM716 2800mg on D1.D8.D15.D22; Herceptin 280mg on D1. D8. D15. |
+|D22} ** Side effect: fever up to 38 degree without chills or     |
+|toxic signs, grade I-II diarrhea and grade I anorexia ** Effect: |
+|CT on 20114/4/16, 2014/5/14, 2014/6/11 showed gastric cancer with|
+|liver and adrenal metastases. Abdominal lymphadenopathy=> stable |
+|disease 2014/8/6 and 2014/10/01 CT: gastric cancer with liver and|
+|adrenal metastases. Abdominal lymphadenopathy. The hepatic tumor |
+|(S2) and right adrenal metastatic tumor enlarged                 |
+|Tx:2014/10/22~2015/2/4: Phase I trial ASLAN001 plus Cisplatin and|
+|Capecitabine (I~V) {ASLAN001 (100 mg/1tab) 4 tabs PO BID on      |
+|D1-D21 before Xeloda ; Capecitabine (500 mg/tab) 7 tab PO AS     |
+|ORDER 9AM 4tabs PO QD; 6PM 3tabs PO QN (after ASLAN) on D1-D14;  |
+|Cisplatin (80mg/m2) IF 2hrs on D1} Side effect: grade I asthenia,|
+|diarrhea, mucositis,neutropenia dizziness and exertional dyspnes |
+|2015/05 Obstructive jaundice                                     |
+|出院規劃(Discharge Planning)                                     |
+|管路留置狀況:無 日常生活功能分數：85                             |
+|預期出院後居住場所：與家人同住 預期出院後主要照顧者：配偶 兒子   |
+|女兒 出院規劃收案篩檢：一般病患                                  |
+|主治醫師評論(VS Comments)                                        |
+|I agree with the assessment made by the resident.                |
+|醫師姓名                                                         |
+|葉坤輝 主治醫師                                                  |
+

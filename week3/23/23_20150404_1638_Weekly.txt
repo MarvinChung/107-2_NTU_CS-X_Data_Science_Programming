@@ -1,0 +1,54 @@
+
+Brief Summary of this week
+This week, we no longer conduct prone position since 4/3 for it showed
+littile improvement. No more fever was noted. CXR also showed resolution.
+Keep tapering iNO.
+
+
+Assessment
+Cravit (3/27-)
+Tamiflu (3/27-4/3)
+
+iNO 3/28-
+Prone 3/28-4/3
+
+afebrile
+ABP 105/66 mmHg under Levophed 4 mcg/min
+
+Head and neck swelling due to prone position
+HEENT: conjunctiva: not pale, no icteric sclera
+heart: regular
+Chest: symmetric expansion, crackles bilaterally, no wheeze
+abdomen: soft and flat, no tenderness, normoactive BoS
+Limbs: no more pitting edema.
+
+3/27 admitted to 3C2 MICU for hypoxic RF. -> ETT+MV, also on CVC and
+Levophed for transient hypotension after Dormicum.
+3/28 O2 demand elevted significantly, SpO2 80~90% under FiO2 100%
+=> prone position => FiO2 65% ->SpO2 95%
+CXR: diffuse opacities over bilateral lungs, R>L; air-bronchogram(+)
+3/29   easily desaturation when prone-> supine
+          P/F ration 123->109 => on iNO in the evening, strart form 15 ppm
+3/30  AfRVR => add Herbesser
+prone: FiO2 45% PaO2 93 PF ratio 146;
+supine: FiO2 70% PaO2 120 PF ratio: 170
+better digestion, diest 500Kcal->1000Kcal
+3/31  still AfRVR, ECG: no QTc prolong => add amiodarone
+prone ABG: FiO2 45% PaO2 86  PF ratio  191
+supine ABG FiO2 45% PaO2 79  PF ratio  175
+=> keep prone
+4/1  PF(supine): 177
+4/2  PF(prone): 166 → supine for 6 hours, PF: 174
+4/3 hold prone position due to no more effect
+      iNO:5→2.5
+4/4 iNO:2.5→1.9
+
+
+Plan
+1. Keep Cravit use. Pursue the culture result.
+2. DC Solu-medrol 40mg Q8H for no obvious improvement with PF ration
+    Taper iNO gradually
+3. Intensive chest care, sputum suction and mucolytic agent sue.
+4. Keep Procaterol. Consider add SABA if high resistance. Consider seretide
+use after DC iNO
+

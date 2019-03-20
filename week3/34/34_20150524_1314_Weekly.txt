@@ -1,0 +1,83 @@
+
+Brief Summary of this week
+Cardiac echo on 5/18 showed fair EF. We contacted GI man and they suggested
+colonoscope was not neccessary. Since there was no more bloody stool, we
+tried NG D5W with glutamine on 5/18 and milk on 5/19. We discontinued
+somatostatin. He had fair stool passage on 5/22 under prokinetics. We tried
+off ECMO gas flow on 5/18 but hypotention was noted. He had fever and we
+did septic workup. VA-ECMO was shifted to VV-ECMO and CVC was changed on
+5/19. S/C yeild MDRAD and sphingomonas pauimobilis and we shifted abx to
+Cravit. Tracheostomy was done on 5/20. He had intermittent fever with
+chillness and we repeated culture. ECMO temporature was adjusted to 37.5C.
+We started heparin use on 5/22. He had fluctuated BP We adjusted sedation
+medication and gave volume support accordingly.
+
+
+Assessment
+2015/05/24 12:00 T:37.9 P: R:
+2015/05/24 12:00 SpO2:87%(%,L,)
+2015/05/24 12:00 BP:169/93
+Increased ECMO flow support and ventilator fiO2(80%) for poor saturation
+CXR/bedside echo: bilateral lung consolidation, minimal pleural effusion
+paO2 59.8, CO2 38.1
+Dormicum+fentanyl+nimbex
+Flucutated BP
+NG pump milk feeding, fair digestion. TPN
+Stool(+)
+Cravit for S/C, targocid
+
+2015/05/24
+Na(急重症自行檢驗):135.7 mmol/L
+Hct(急重症自行檢驗):41 %
+Suger(急重症自行檢驗):158 mg/dL
+Hb(急重症自行檢驗):13.6 g/dL
+K+(急重症自行檢驗):3.57 mmol/L
+Free Ca(急重症自行檢驗):1.13 mmol/L
+LacticAcid(急重症自行檢驗):1.1 mmol/L
+Hct(急重症自行檢驗):40 %
+Free Ca(急重症自行檢驗):1.11 mmol/L
+Hb(急重症自行檢驗):13.4 g/dL
+Na(急重症自行檢驗):132.5 mmol/L
+Suger(急重症自行檢驗):172 mg/dL
+K+(急重症自行檢驗):3.63 mmol/L
+LacticAcid(急重症自行檢驗):1.1 mmol/L
+
+2015/05/24
+pH:7.374
+pCO2:40.3 mmHg
+pO2:39.4 mmHg
+HCO3:23.7 mmol/L
+BaseExcess:-1.8 mmol/L
+SO2:72.7 %
+pH:7.404
+pCO2:37.2 mmHg
+pO2:390.9 mmHg
+HCO3:23.5 mmol/L
+BaseExcess:-1.5 mmol/L
+SO2:100.0 %
+2015/05/24
+PT:11.8 sec
+PTT:42.1 sec
+PT INR:1.12
+2015/05/24
+BUN:24.6 mg/dL
+CRE:0.8 mg/dL
+Na:133 mmol/L
+K:4.1 mmol/L
+T-BIL:1.33 mg/dL
+AST:37 U/L
+Mg:0.94 mmol/L
+2015/05/24
+ALB:3.8 g/dL
+ALT:44 U/L
+2015/05/24 WBC:14.42 K/μL
+2015/05/24 HB:12.3 g/dL
+2015/05/24 PLT:167 K/μL
+
+
+
+Plan
+1. VV-ECMO and ventilator support
+2. Keep Targocid and Cravit, pursue culture, repeat influenza PCR next W1
+3. NG feeding milk; TPN support, prokinetic use
+4. Keep heprin, f/u ACT/PTT, hemolysis profile.

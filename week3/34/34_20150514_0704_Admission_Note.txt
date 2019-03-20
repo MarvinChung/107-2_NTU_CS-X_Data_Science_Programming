@@ -1,0 +1,160 @@
+
+2015/05/14 07:04 | |
+|主訴(Chief Complaint)                                            |
+|Informant:chart and family Community acquired pneumonia with     |
+|acute respiratory distress syndrome since 2015/4/27.             |
+|病史(Brief History)                                              |
+|Present illness: This is a 61 y/o man with history of:           |
+|1.Congestive heart failure, NYHA II 2.Valvular heart disease     |
+|3.Right atrophic kidney with chronic pyelonephritis and          |
+|hydronephrosis s/p right hand-assisted laparoscopic radical      |
+|nephrectomy on 2013/1/30 4.Gall stone with chronic cholecystitis |
+|s/p laparoscopic cholecystectomy on 2012/1/28 5.L3-5 lumbar      |
+|stenosis with ossification of ligmentum s/p laminectomy on       |
+|2010/9/29. He had cough with sputum with mild fever noted in late|
+|April, 2015. No rhinorrhea, abdominal pain, nausea/vomiting,     |
+|dysuria, frequency, or other symptoms mentioned. He had taken    |
+|Clarithromycin(250) 1# tid for 5 days with Ventolin and          |
+|Mucosolvan use for 5 days. However, symptoms still progressing   |
+|and short of breath with wheezing and crackles noted on          |
+|2015/4/24. He had taken Prednisolone(5) 2# bid 3 days and        |
+|Indapamide SR for 2 days. Nevertheless, progressing symptoms     |
+|still noted, so he went to 澄清H. chest OPD for help, where CXR  |
+|revealed cardiomegaly and bilateral pulmonary congestion with    |
+|saturation around 74-76%. Under impression of acute respiratory  |
+|distress syndrome, he was admitted to 澄清H. ICU for care on     |
+|2015/4/27. After admission in ICU, Cravit was used for pneumonia |
+|and Tamiflu for 5 days was given for suspicious of influenza.    |
+|Chest X-ray showed ARDS, so Tazocin and Targocid were added on   |
+|4/27. Then, symptoms persisted, so ABx shifted to Tigecycline +  |
+|Isepamicin on 5/4 and Tigecycline + Fortum on 5/7. Diflucan was  |
+|added on 5/6 due to sputum culture yielded Candida albicans.     |
+|Persistent hypoxemia and progressing bilateral lung infiltration |
+|was noted with FiO2 elevation to 100%. Bloody stool noted on 5/8 |
+|and low GI showed diverticulosis of A-colon and much bloody stool|
+|from T-colon to anus without obvious bleeding site. Then, Abx was|
+|shifted to IV baktar + Cefepime on 5/12. Due to no obvious       |
+|improvement and condition progressing, ECMO was suggested and he |
+|was transferred to our hospital after ECMO implantation on       |
+|2015/5/13. [Abx course] 4/27-5/4 Tazocin+Targocid+Cravit 5/4-5/7 |
+|Tigecycline+Isepamicin+Diflucan 5/7-5/12                         |
+|Tigecycline+Fortum+Diflucan 5/12- IV baktar+Cefepime+Diflucan    |
+|Family History:Not mentioned Medication Allergy:UnClear 病人自述 |
+|2013/01/10 UnClear 親屬描述 2015/05/13 Medication ADR:unknown    |
+|Allergy to Medical Device and Materials:No 親屬描述 2015/05/13   |
+|Current Medication: NTUH:nil Other:nil 中草藥:nil 保健食品:nil   |
+|Past Medical History: 1.Congestive heart failure, NYHA II        |
+|2.Valvular heart disease 3.Right atrophic kidney with chronic    |
+|pyelonephritis and hydronephrosis s/p right hand-assisted        |
+|laparoscopic radical nephrectomy on 2013/1/30 4.Gall stone with  |
+|chronic cholecystitis s/p laparoscopic cholecystectomy on        |
+|2012/1/28 5.L3-5 lumbar stenosis with ossification of ligmentum  |
+|s/p laminectomy on 2010/9/29. Hospitalization:not mentioned. Past|
+|Surgical History: 1.Right atrophic kidney with chronic           |
+|pyelonephritis and hydronephrosis s/p right hand-assisted        |
+|laparoscopic radical nephrectomy on 2013/1/30 2.Gall stone with  |
+|chronic cholecystitis s/p laparoscopic cholecystectomy on        |
+|2012/1/28 3.L3-5 lumbar stenosis with ossification of ligmentum  |
+|s/p laminectomy on 2010/9/29. Travel History:nil                 |
+|社會心理相關評估(Psychosocial Assessment)                        |
+|Social Economic and Personal History 教育程度:大學 職業:服務業   |
+|宗教信仰:基督教 婚姻狀態:已婚 使用語言:國語 台語 口述血型:不清楚 |
+|，RH:不清楚，輸血反應:不清楚 抽煙:沒有 喝酒:沒有 檳榔:沒有       |
+|物質濫用:沒有 Psychological History and Evaluation 意識狀態:昏迷 |
+|認知功能:無法評估 精神情緒狀態:無法評估 安全問題:有 其他         |
+|睡眠形態:異常 Nutritional Screen 攝食情形: 排便狀態:異常         |
+|排便異常狀態:無排氣 BMI:32.49                                    |
+|系統性回顧(Review of System)                                     |
+|1. Cardiovascular system: chest pain(-) dyspnea(-) orthopnea(-)  |
+|leg edema(-) palpitation(-) exertional intolerance(-) cyanosis of|
+|limbs(-) 2. Respiratory system: tachypnea(-) cough(-) wheezing(-)|
+|fever(-) night sweating(-) 3. Breast bleeding or lactorrhea(-) 4.|
+|Gastrointestinal system: abdominal pain(-) bowel habit change(-) |
+|anal incontinence(-) bloody stool(+) melena(-) dysphagia(-)      |
+|anorexia(-) nausea(-) body weight loss(-) heartburn sensation(-) |
+|jaundiced sclera(-) 5. Genitourinary system: dysuria(-)urinary   |
+|frequency(-)urinary urgency(-)nocturnal polyuria(-) impotence(-) |
+|urolithiasis(-) 6. OB/GYN: Nil 7. Blood system: tendency to have |
+|echymosis (-) lymphadenopathy(-) 8. Musculoskeletal system: joint|
+|stiffness or pain(-) back pain(-) 9. Endocrine system: goiter(-) |
+|heat or cold intolerance(-) fatigue(-)                           |
+|身體檢查(Physical Examination)                                   |
+|BH:160.5 cm BW:83.7 kg T:35.9 P:133 R:16 BP:93/75 mmHg Pain:0    |
+|Neurological Examination: . Consciousness:E1VTM1 under sedation .|
+|Muscle power:cannot detect . Gait:cannot detect Consciousness:   |
+|clear, E4V5M6 HEENT: Eye: pink conjunctiva, anicteric sclera     |
+|Neck: jugular vein engorgement(-), thyroid goiter(-), carotid    |
+|bruit(-), lymphadenopathy(-) Meningismus: Kernig sign(-),        |
+|Brudzinski sign(-) Chest: crackles(+), wheezing(-) Heart: regular|
+|heart beat, murmur(-), gallop(-) Abdomen: Inspection: flat &     |
+|soft, lesion(-) Auscultation: hypoactive bowel sound Palpation:  |
+|tenderness(-), rebound tenderness(-) Liver and spleen: impalpable|
+|Percussion: resonance, shifting dullness(-) Extremities: freely  |
+|movable(-), pitting edema(-), VA-ECMO over right femoral a. and  |
+|v. Skin: wound(+), hyperpigmentation(-), petechiae(-),           |
+|purpura(-), ecchymosis(-), telangiectasia(-), rash(-)            |
+|檢驗紀錄(Laboratory Report)                                      |
+|*********檢驗室:YM*********** 群組: Free Ca(急重症自 Hb(急重症自 |
+|行檢驗) Hct(急重症自行檢驗) K+(急重症自行檢驗) Na(急重症自行檢驗)|
+|行檢驗) time/item (mmol/L) (g/dL) (%) (mmol/L) (mmol/L) 1040513  |
+|[2049] 1.14 10.4 31 5.44 129.1 1040513 [2110] 1.14 11.0 33 5.38  |
+|132.2 1040513 [2112] 1.16 10.9 33 5.60 134.2 Suger(急重症自行檢  |
+|LacticAcid(急 驗) 重症自行檢驗) time/item (mg/dL) (mmol/L)       |
+|1040513 [2049] 198 3.1 1040513 [2110] 203 3.4 1040513 [2112] 198 |
+|3.6 群組:Yes pH pCO2 pO2 HCO3 BaseExcess time/item () (mmHg)     |
+|(mmHg) (mmol/L) (mmol/L) 1040513 [2049] 7.381 36.6 149.5 21.9    |
+|-3.5 1040513 [2110] 7.409 32.3 97.9 20.6 -4.3 1040513 [2112]     |
+|7.350 41.5 29.7 23.1 -2.8 SO2 time/item (%) 1040513 [2049] 99.3  |
+|1040513 [2110] 97.8 1040513 [2112] 53.4                          |
+|*********檢驗室:RL*********** 群組:CBC+PLT WBC RBC HB HCT MCV    |
+|time/item (K/μL) (M/μL) (g/dL) (%) (fL) 1040513 [2056] 29.28 3.74|
+|10.1 30.3 81.0 MCH MCHC PLT RDW-CV PS time/item (pg) (g/dL)      |
+|(K/μL) (%) () 1040513 [2056] 27.0 33.3 340 19.2 - 群組:WBC       |
+|Classification Blast Promyl. Myelo. Meta Band time/item (%) (%)  |
+|(%) (%) (%) 1040513 [2056] 0.0 0.0 0.0 0.0 0.0 Seg Eos. Baso.    |
+|Mono. Lym. time/item (%) (%) (%) (%) (%) 1040513 [2056] 87.8 0.3 |
+|0.1 5.6 6.2 Aty.Lym. PlasmaCell Normobl. PS time/item (%) (%) () |
+|() 1040513 [2056] 0.0 0.0 0 僅供參考                             |
+|*********檢驗室:BK*********** 群組:Blood Type ABO Typing RH      |
+|Typing time/item (*) (*) 1040513 [2056] B Positive 群組:Yes      |
+|antibody scr een(New Lis) time/item (*) 1040513 [2056] Negative  |
+|檢查紀錄(Examination Report)                                     |
+|nil                                                              |
+|影像報告(Imaging Report)                                         |
+|nil                                                              |
+|病理報告(Pathology Report)                                       |
+|S1304158 Kidney,left,nephrectomy,chronic pyelonephritis          |
+|hydronephrosis Ureter,left,partial ureterectomy,ureterolithiasis |
+|臆斷(Tentative Diagnosis)                                        |
+|1.Community acquired pneumonia complicated with acute respiratory|
+|distress syndrome s/p VA-ECMO insertion on 2015/5/13 2.Bloody    |
+|stool with hemorrhagic shock 3.Congestive heart failure, NYHA II |
+|4.Valvular heart disease 5.Right atrophic kidney with chronic    |
+|pyelonephritis and hydronephrosis s/p right hand-assisted        |
+|laparoscopic radical nephrectomy on 2013/1/30 6.Gall stone with  |
+|chronic cholecystitis s/p laparoscopic cholecystectomy on        |
+|2012/1/28 7.L3-5 lumbar stenosis with ossification of ligmentum  |
+|s/p laminectomy on 2010/9/29.                                    |
+|醫療需求與治療計畫(Medical Needs and Care Plan)                  |
+|*Community acquired pneumonia complicated with acute respiratory |
+|distress syndrome s/p VA-ECMO insertion on 2015/5/13 *Bloody     |
+|stool with hemorrhagic shock S+O: Unstable vital sign with       |
+|Levophed use. HR around 100. SBP around 70-80. pRBC6u and        |
+|plasmanate 2btl use. Persistent bloody stool noted in the        |
+|ambulance 3 times and in the SICU. A+P: 1.GI contact:not         |
+|indicated for colonoscope due to active bleeding 2.Radiologist   |
+|contact:CTA first and consider to perform TAE if indicated.      |
+|3.Keep component therapy. 4.Survey underlying cause of ARDS and  |
+|pending for data. 5.Keep Cefepime+Sevatrim+Diflucan use.         |
+|Treatment Goal: Stop low GI bleeding and stablize vital sign.    |
+|Keep VA-ECMO and surveying ARDS cause.                           |
+|出院規劃(Discharge Planning)                                     |
+|管路留置狀況:有 靜脈管路留置(含Hickman / Port-A)：有 左腹股溝 雙 |
+|腔導管留置：無 鼻胃管留置：有 16Fr. 氣管管路留置：有 氣管內管    |
+|7.5mm 胃造廔口：無 尿管留置：有 Two way Foley 14Fr. 膀胱造廔：無 |
+|傷口引流管：無 其他導管： 日常生活功能分數：0 預期出院後居住場所 |
+|：與家人同住 預期出院後主要照顧者：配偶 出院規劃收案篩檢：高危病 |
+|患 帶有管路 功能量表未滿60分                                     |
+|醫師姓名                                                         |
+|郭順文 主治醫師                                                  |
+

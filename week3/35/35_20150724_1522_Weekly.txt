@@ -1,0 +1,81 @@
+
+Brief Summary of this week
+Three sets of blood culture reported Stenotrophomona maltophilia. We
+changed Mepem to Cravit according to drug sensitivity test report. Clinical
+condition stablized with no more lactic acidosis. But dialysis flow from AV
+shunt was insuffient on 2015/07/20. We had discussed with the family about
+further hemodialysis, and they insisted in regular hemodialysis according
+to alertness and awareness of the patient. Therefore, we inserted one
+double lumen at right femoral area at hemodialysis room, and dialysis flow
+was sufficient. But he reported right lower abdomen pain without obvious
+tenderness, muscle guarding, rebounding pain, abscent bowel sound or free
+air on plain film. Once intravenous morphine was provided and symptom was
+releived immediately. Hemodialysis on the next day was smooth. Regular
+followed lab data showed progressively hyperbilirubinemia, but no obvious
+detoriation in serum albumin or coagulopathy.
+
+
+Assessment
+[7/2-7/13] see previous summary note
+7/13 poor digestive function since afternoon, abdomen distension,
+constipation, groaning at night,
+     sleep-apnea appearance at night, with spontaneous recovery
+7/14 SLED
+     could not toleratedialysis-free for 3 days;
+     ABG 7.39/22.6/14.1, K 5.6, CRP 13.41;
+     WBC 15.25, Seg 90.2%
+     T-bil/D-bil 11.08/7.07,
+     Amy/Lip 141/209,
+    => Rolikan 1 bottle at HD room + Ambu-bagging
+     ABG 7.53/22.8/19.3
+    => after SLED
+     VBG 7.39/22.4/14.1, lactate 11.1
+    => Tazocin change to Tienam + Vancomycin
+       rolikan for pending to CT and family visits
+     chest + abdomen + pelvis CT with/without contrast:
+     1. emphysematous gastritis with portal vein gas
+     2. bilateral pleural effusion
+    => family signed "DO NOT RESCUCITATION" including hemodialysis, and
+change right subclavian CVC
+7/15 lactate 22
+     VBG 7.292/23.5/11.5
+     WBC 26.76, Seg 90.6%, Hb 11.0
+     T-bil 16.85, AST/ALT 92/50, Na 140, Cl 87, AG 41.5
+     B/C GNB*II (TTP peripheral: 29.10Hr, CVC: 11.70)
+    => CRBSI; removed CVC, change to left neck
+7/16 lactate 4.74; ammonia 29
+    => Rolikan 1 bottle
+     VBG 7.486/35.4/27
+     T-bil 16.48, ALT 117, BUN 87, Na 140, K 4.9, Cl 88
+    => SLED, once long pause (3 sec) in HD room
+     VBG 7.413/39/25.1
+7/17 Lactate 2.18; ammonia 55
+     ABG 7.467/32.7/23.8
+     CRP 11.26
+     T-bil 17.55, ALT 162, Ca 2.73, K 3.9, Cl 92
+    => discontinue Vancomycin; add TPN 1000c.c
+     Change to Cravit, according to B/C: Stenotrophromonas *2 sets
+7/18 SLED, UF: 1Kg
+7/20 SLED, UF: 0.5Kg, Qb=100c.c/min
+    => Arrange HD via double lumen tomorrow
+     pre-HD VBG 7.414/33.7/21.8
+     post-HD VBG 7.471/28.7/21.1
+     Hb 10.5, WBC 16, Seg 89%, CRP 4.03, BUN 65.1
+     T-bil/D-bil 18.37/14.55, AST/ALT 54/19
+7/21 try water 30c.c Q6HPRN(反抽15c.c)
+    => poor intestine motility; no abdomen pain
+    => double lumen insertion; iHD(UF1000)
+     abdomen pain after iHD
+7/22 abdomen pain and coffee ground water 500c.c; no flatus
+     Hb 10.3->10.0g/dl => pRBC 1U
+     Na/K/Cl 133/4.0/96
+7/23 iHD(UF1000), Hb 10.5;
+     pre-HD VBG 7.355/38.8/21.9
+     post-HD VBG 7.375/39.8/23.5
+     Blood sugar QDAC 85; T-bil/D-bil 21.91/16.44
+    => impending liver failure
+
+
+Plan
+1. Palliative care
+2. Discontinue Cravit on 7/27 if no newly events

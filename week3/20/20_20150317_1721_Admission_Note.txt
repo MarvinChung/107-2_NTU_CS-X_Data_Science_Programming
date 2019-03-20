@@ -1,0 +1,182 @@
+
+2015/03/17 17:21 | |
+|主訴(Chief Complaint)                                            |
+|Informant:patient's family and medical records Conscious loss    |
+|after car accident on 17:00 3/16                                 |
+|病史(Brief History)                                              |
+|This is a 69-year-old school guard with past medical problem of  |
+|hypertension without medical treatment. On 2015/3/16 17:00, he   |
+|lost conscious after a car accident and his right leg was        |
+|fractured. In 為恭H., Left side SDH with midline shift was noted.|
+|He was soon transfered to the emergency bureau of NTUH. At ER,   |
+|the body temperature was 37.4℃, the saturation 99% with trachea  |
+|vantilation, and the pulse rate: 127/min. The GCS was E1VtM2, the|
+|pupil size 1mm/4mm, the muscle power not able to evaluated,      |
+|negative corneal reflex, negative cough reflex, and negative doll|
+|eye. Repeated brain CT showed left side contusional SAH, SAD, ICH|
+|and right side IVH. On 2015/03/16, the lab data showed WBC 26.59 |
+|K/μL, PT INR 1.11, and HB 11.7 g/dL. After well informed the poor|
+|outcome to the patient's family, palliative treatment was decided|
+|by family. The patient's family members(including hie son and    |
+|sister) refused surgical intervention and requested "Do Not      |
+|Resuscitate." Current medication and palliative careness were    |
+|remained. On 2015/3/17 with the improved possitive cough reflex, |
+|he was admitted to the neural surgical ward. Family              |
+|History:parents had hypertension and cardiac disease Medication  |
+|Allergy:No 親屬描述 2015/03/16 Medication ADR:unknown Allergy to |
+|Medical Device and Materials:unknown Current Medication: NTUH:針 |
+|Depakine Inj 400 mg/vial 400 mg Q12H IF 2 days 針 Depakine Inj   |
+|400 mg/vial 800 mg STAT IF 1 days 3 Taita No.3 500 mL/btl 1000 mL|
+|QD IF 2 days Other: 中草藥:denied 保健食品:denied Past Medical   |
+|History:left leg fracture few years ago Hospitalization:denied   |
+|社會心理相關評估(Psychosocial Assessment)                        |
+|Fall Risk Assessment 總分:17                                     |
+|(>=3分進行不倒翁計畫，請開預防跌倒醫囑)                          |
+|系統性回顧(Review of System)                                     |
+|1. Systemic: fever (-), BW loss (-), easy-fatigibility (-),      |
+|change of appetite (-), dizziness (-), night sweating(-),        |
+|comatous(+, since 3/16) 2. Skin: petechiae(-), purpura(-), skin  |
+|rash (-), itching (-) 3. HEENT: blurred vision (-), strabismus   |
+|(-),ocular pain (-), ear ache (-), otorrhea (-), hearing loss    |
+|(-), tinnitus (-), vertigo (-), nasal stuffness (-), nasal       |
+|discharge (-), nasal bleeding (-), gum bleeding (-), glossitis   |
+|(-), sore throat (-) headache (-) 4. Cardiovascular: exertional  |
+|chest tightness (-), PND (-), orhtopnea (-), syncope (-),        |
+|palpitation (-), intermittent claudication (-) 5. Respiratory:   |
+|trachea tube(+, since 3/16) 6. GI: NG feeding(+, since 3/16),    |
+|incontinence(+, since 3/16) 7. Urogenital: flank pain(-),        |
+|hematuria(-), incontinence(-) 8. Musculoskeletal: right foot open|
+|wound and fracture(+, since 3/16), unable to walk(+, since 3/16) |
+|9. Metabolic: heat intolerance(-),cold intolerance(-), thirsty   |
+|(-)                                                              |
+|身體檢查(Physical Examination)                                   |
+|BH:na cm BW:na kg T:36.3 P:101 R:18 BP:141/101 mmHg Pain:0 HEENT:|
+|Conjunctiva: not pale, Sclera: anicteric Pupils: 1, 4 mm/ mm,    |
+|Light reflex -/ -, Neck: Supple, LAP (-), JVE (-), Goiter (-)    |
+|Chest: Symmetrically expansion, Breath sound: bilateral basal    |
+|rales, mild. cough reflex(+) Heart: Regular heart beat, murmur   |
+|(-) Abdomen: Soft and flat, Bowel sound: normoactive,            |
+|Liver/spleen: impalpable Superficial vein engorgement (-) Skin:  |
+|petechiae (-), purpura (-), rash (-) Extremities: Pitting edema  |
+|(-), tremor (-), right foot fracture open wound up to 15cm(+) 神 |
+|經學檢查(Neurological Examination) Consciousness: GCS= E1 M2 Vt  |
+|Speech: not able to detect due to comatous status Cranial nn.:   |
+|light reflex(-/-) Motor: Muscle power: not able to detect due to |
+|comatous status deep tendon reflex: right/left biceps = ++/++    |
+|right/left triceps = ++/++ right/left brachioradialis = ++/++    |
+|right/left knee jerk = ++/++ right/left ankle jerk = ++/++       |
+|Sensory:not able to detect due to comatous status                |
+|Coordination:not able to detect due to comatous status Gait: not |
+|able to walk due to comatous status Sphincters: incontinent      |
+|Babinski: dorsiflexion/ dorsiflexion Hoffman:+/+ clonus: +       |
+|檢驗紀錄(Laboratory Report)                                      |
+|*********檢驗室:PO*********** 群組: Sugar(One to uch) time/item  |
+|(*) 1040316 [2157] 203 *********檢驗室:YM*********** 群組: Free  |
+|Ca(急重症自 Hb(急重症自行檢驗) Hct(急重症自行檢驗) K+(急重症自行 |
+|檢驗) Na(急重症自行檢驗) 行檢驗) time/item (mmol/L) (g/dL) (%)   |
+|(mmol/L) (mmol/L) 1040316 [2148] 1.14 11.5 34 3.89 137.9         |
+|Suger(急重症自行檢 LacticAcid(急 驗) 重症自行檢驗) time/item     |
+|(mg/dL) (mmol/L) 1040316 [2148] 226 3.4 群組:Yes pH pCO2 pO2 HCO3|
+|BaseExcess time/item () (mmHg) (mmHg) (mmol/L) (mmol/L) 1040316  |
+|[2148] 7.421 33.2 286.8 21.8 -2.9 SO2 time/item (%) 1040316      |
+|[2148] 99.9 *********檢驗室:RL*********** 群組:Biochemistry BUN  |
+|CRE Na K time/item (mg/dL) (mg/dL) (mmol/L) (mmol/L) 1040316     |
+|[2157] 22.9 1.1 141 4.0 群組:Coagulation PT PTT PT INR time/item |
+|(sec) (sec) () 1040316 [2157] 12.0 26.1 1.11 群組:General        |
+|BioChemistry ALT time/item (U/L) 1040316 [2157] 33 群組:WBC      |
+|Classification Blast Promyl. Myelo. Meta Band time/item (%) (%)  |
+|(%) (%) (%) 1040316 [2157] 0.0 0.0 0.0 0.0 0.0 Seg Eos. Baso.    |
+|Mono. Lym. time/item (%) (%) (%) (%) (%) 1040316 [2157] 90.0 0.0 |
+|0.0 10.0 0.0 Aty.Lym. PlasmaCell Normobl. PS time/item (%) (%) ()|
+|() 1040316 [2157] 0.0 0.0 0.0 /100 WBC WBC 100 群組:CBC+PLT WBC  |
+|RBC HB HCT MCV time/item (K/μL) (M/μL) (g/dL) (%) (fL) 1040316   |
+|[2157] 26.59 3.73 11.7 34.8 93.3 MCH MCHC PLT RDW-CV PS time/item|
+|(pg) (g/dL) (K/μL) (%) () 1040316 [2157] 31.4 33.6 167 12.7 -    |
+|*********檢驗室:BK*********** 群組:Yes antibody scr een(New Lis) |
+|time/item (*) 1040316 [2157] Negative 群組:Blood Type ABO Typing |
+|RH Typing time/item (*) (*) 1040316 [2157] O Positive            |
+|檢查紀錄(Examination Report)                                     |
+|2015/03/16 22:00:51 NTUH Sinus tachycardia Biatrial enlargement  |
+|Abnormal ECG                                                     |
+|影像報告(Imaging Report)                                         |
+|CT Without Contrast-Brain 醫令: CT Without Contrast-Brain 報告醫 |
+|師: 李崇維 影像時間: 2015/03/17 08:21 (33070B0M) 發報告時間:     |
+|2015/03/17 08:54 CT scan of the brain without contrast           |
+|enhancement shows: 1. Heterogeneous subdural hemorrhage at left  |
+|fronto-temporo-parieto-occipital region. 2. Heterogeneous        |
+|intracerebral hematoma in base of left frontal lobe. Small       |
+|intracerebral hematoma in left medial high parietal lobe. 3.     |
+|Scattered subarachnoid hemorrhage. 4. Midline shift to right.    |
+|Right uncal and parahippcampal herniation. 5. Bilateral scalp    |
+|swelling, more on the right side. 6. Fractures from midline of   |
+|frontal bone to right parietal bone. CT Without Contrast-C Spine |
+|醫令: CT Without Contrast-C Spine 報告醫師: 梁博欽 影像時間:     |
+|2015/03/16 22:29 (33070BWM) 發報告時間: 2015/03/17 09:48 History:|
+|LMD:SDH,右下肢骨折 CT of the brain and C-spine without contrast  |
+|enhancement shows: - Left SDH. ICH at left anterior temporal and |
+|left anterior frontal lobe, as well as left high medial parietal |
+|lobe. Bilateral SAH. Intraventricular hemorrhage. - Midline shift|
+|to the right. Dilatation of right lateral ventricle. Suspect     |
+|subfalcine herniation and left uncal herniation. Diffuse brain   |
+|swelling. - Skull fracture(s) extending from left frontal to     |
+|right fronto-temporal region. Right scalp swelling. -            |
+|Degenerative change of cervical spine. - Relative hypertrophy of |
+|right masseter muscle. - Placement of an endotracheal tube. CT   |
+|Without Contrast-Brain 醫令: CT Without Contrast-Brain 報告醫師: |
+|梁博欽 影像時間: 2015/03/16 22:29 (33070B0M) 發報告時間:         |
+|2015/03/17 09:48 History: LMD:SDH,右下肢骨折 CT of the brain and |
+|C-spine without contrast enhancement shows: - Left SDH. ICH at   |
+|left anterior temporal and left anterior frontal lobe, as well as|
+|left high medial parietal lobe. Bilateral SAH. Intraventricular  |
+|hemorrhage. - Midline shift to the right. Dilatation of right    |
+|lateral ventricle. Suspect subfalcine herniation and left uncal  |
+|herniation. Diffuse brain swelling. - Skull fracture(s) extending|
+|from left frontal to right fronto-temporal region. Right scalp   |
+|swelling. - Degenerative change of cervical spine. - Relative    |
+|hypertrophy of right masseter muscle. - Placement of an          |
+|endotracheal tube.                                               |
+|病理報告(Pathology Report)                                       |
+|NIL                                                              |
+|臆斷(Tentative Diagnosis)                                        |
+|1. Subarachnoid hemorrhage, bilateral; 2. Intracerebral          |
+|hemorrhage at left anterior temporal and left anterior lateral   |
+|lobe; 3. Intraventricle hemorrhage; 4. subfalcine herniation and |
+|left uncal herniation; 5. Left Subdural hemorrhage; 6. Skull     |
+|fracture(s) and scalp swelling.                                  |
+|醫療需求與治療計畫(Medical Needs and Care Plan)                  |
+|* Subjective: Conscious loss after car accident on 17:00 3/16    |
+|with right leg fracture. His family members refused surgical     |
+|intervention and requested "Do Not Resuscitate" Objective:       |
+|-Physical exam: GCS: E1M4Vt (3/16 E1M2Vt) Cough reflex + Pupil:  |
+|right 1mm/ left side 2.5mm light reflex -/- -Lab data: 2015/03/16|
+|WBC:26.59 K/μL 2015/03/16 PT INR:1.11 2015/03/16 HB:11.7 g/dL    |
+|-Image: 2015/03/16 CT Without Contrast-Brain showed Left SDH. ICH|
+|at left anterior temporal and left anterior frontal lobe, as well|
+|as left high medial parietal lobe. Bilateral SAH.                |
+|Intraventricular hemorrhage. - Midline shift to the right.       |
+|Dilatation of right lateral ventricle. Suspect subfalcine        |
+|herniation and left uncal herniation. Diffuse brain swelling. -  |
+|Skull fracture(s) extending from left frontal to right           |
+|fronto-temporal region. Right scalp swelling. - Degenerative     |
+|change of cervical spine. - Relative hypertrophy of right        |
+|masseter muscle. - Placement of an endotracheal tube. Assessment:|
+|1. Subarachnoid hemorrhage, bilateral; 2. Intracerebral          |
+|hemorrhage at left anterior temporal and left anterior lateral   |
+|lobe; 3. Intraventricle hemorrhage; 4. subfalcine herniation and |
+|left uncal herniation; 5. Left Subdural hemorrhage; 6. Skull     |
+|fracture(s) and scalp swelling. Plan: 1. Suportive care 2.       |
+|Seizure prophylaxis with depakine 3. Explain to his family       |
+|members regarding the fatal prognosis in the coming future       |
+|Treatment Goal: 1. afebrile, keep body temperature < 37.5 degrees|
+|of celsius 2. palliative care as family's wish                   |
+|出院規劃(Discharge Planning)                                     |
+|管路留置狀況:有 靜脈管路留置(含Hickman / Port-A)：有 左手 右手   |
+|雙腔導管留置： 鼻胃管留置： 氣管管路留置：有 氣管內管 7.5mm 胃造 |
+|廔口： 尿管留置：有 Two way Foley 16Fr. 膀胱造廔： 傷口引流管：  |
+|其他導管： 日常生活功能分數：0 預期出院後居住場所：獨居 預期出院 |
+|後主要照顧者：兒子 妹妹 出院規劃收案篩檢：高危病患               |
+|需轉介後續照護機構 單位自訂條件 功能量表未滿60分                 |
+|主要照顧者照顧能力不足                                           |
+|醫師姓名                                                         |
+|王國川 主治醫師                                                  |
+

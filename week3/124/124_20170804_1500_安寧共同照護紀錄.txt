@@ -1,0 +1,35 @@
+1. Fever, suspect UTI or atypical pneumonia
+2. Acute decompensated heart failure (2017/06/28 EF:28%), with pulmonary congestion and mixed respiratory failure, s/p ETT+MV(2017/07/22-)
+3. Acute on chronic kidney disease (baseline Cre: 2.1-2.5 mg/dL), KDIGO 2, suspect cardiorenal syndrome s/p RRT(07/27-)
+4. Paroxysmal atrial fibrillation
+5. Asthma
+6. Type 2 diabetes mellitus (2017/6/15 HbA1C:7.3%)
+7. History of coronary artery disease, 2-vessel-disease, status post percutaneous angioplasty to left circumflex in 2007/09, under Plavix
+
+[Assesment]
+ECOG:4
+Consciousness:drowsy
+Vital signs:
+2017/08/04 14:00 T:36.5 P:71 R:23
+2017/08/04 14:00 BP:108/70 under Dobutamine、Levophed infusion
+2017/08/04 14:00 SpO2:93%(%,L,)
+# ACKD
+- under SLED QW1, 3, 5
+# infection control
+- Keep Mepem, Targocid and Diflucan
+# respiratory failure
+ETT with MV support (PCV mode)
+
+[訪視摘要]
+會談對象:主要照顧者-外傭
+會客時間訪視未遇家屬，外傭陪伴，表示案女多於上午或晚間會客時間訪視。
+病人與孫子(小兒子的兒子)及外傭同住，外傭照顧7年多，表示病人經常想念，為著失聯3年多的長女和兩個兒子傷心，會向外傭傾訴~配偶過世40幾年，一人撫養5個子女成長，不清楚為何子女失去聯繫，同住的孫子在工作以外返家的時間也很少與病人互動。
+平日日常生活照顧及醫院回診都由外傭陪伴協助，描述今年開始較為虛弱、步態不穩；常感胸悶，間歇使用氧氣；夜間也經常性失眠，但又不敢服用安眠藥。
+外傭對病人狀況清楚了解且能提供情感支持。
+
+[Plan]
+1. 持續安寧共照，預計下周再安排訪視與家屬會談了解相關照顧需求。
+2. 請協助持續評估病人後續整體器官衰竭病況及本人、家屬醫療意願，持續討論後續照顧計畫。
+3. 若有緩和照顧問題可聯繫共照小組，謝謝。
+
+原團隊共同照護成員:張鈞傑醫師，劉

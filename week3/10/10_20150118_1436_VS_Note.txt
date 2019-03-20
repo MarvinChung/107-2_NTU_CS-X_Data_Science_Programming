@@ -1,0 +1,51 @@
+
+# HCC s/p OP, PMCT,TACE, recurrent
+# HBV-related liver cirrhosis (e-) on cash ETV
+# CKD stage 3B
+# HTN
+
+pre-RFA TAE was done on 2015-01-12
+CT-guided RFA was done on 2015-01-14
+
+2015/01/18 13:03 T:36.5 P:106 R:20
+2015/01/18 13:03 BP:136/63
+2015/01/18 13:04 Pain score:0
+
+2015/01/16 CT With/Without Contrast-Abdomen (V1)
+Abdomen CT without/with enhancement showed 1.HCC S/P extended left
+hepatectomy and cholecystectomy. 2.Multiple Post-TAE+RFA effect in right
+hepatic lobe. 3.No definite tumor recurrence in the remnant liver in 4-
+phasic enhancement study. 4.No definite liver abscess. 5.Patent PV. 6.Mild
+wall thickening with small air pockets at hepatic flexure of colon, Post-
+RFA inflammation or microperforation is suspected. suggest clinical
+correlation and F/U. 7.no definite pneumoperitoneum. 8.Mild ascites.
+9.Atrophy of left kidney. 10.Bil. renal small cysts. 11.No definite lesion
+in spleen, pancreas, and bil. adrenal glands. 12.No definite paraaortic
+LAP. 13.Mild pericardial effusion. 14.Mild bil pleural effusion with
+bibasilar atelectasis, more on right side.
+1.HCC S/P extended left hepatectomy and cholecystectomy. 2.Multiple Post-
+TAE+RFA effect in right hepatic lobe. 3.No definite tumor recurrence in the
+remnant liver. 4.No definite liver abscess. 5.Mild wall thickening with
+small air pockets at hepatic flexure of colon, Post-RFA inflammation or
+microperforation is suspected. suggest clinical correlation and F/U. 6.Mild
+ascites. 7.Atrophy of left kidney. 8.Mild pericardial effusion. 9.Mild bil
+pleural effusion with bibasilar atelectasis, more on right side.
+
+2015/01/16 CT With/Without Contrast-Chest (V1)
+CT of chest without and with iv contrast shows: 1. bilateral pleural
+effusion more on right. atherosclerotic change of aorta. pericardial
+effusion 2. fibrocalcified lesions at bilateral lungs. interlobular
+thickening at bilateral lungs. linear atelectasis at bilateral lower lungs.
+engorged vasculature at RLL (SE5/IM86-91). tiny faint opacity or nodule in
+RLL (5/91). bronchiectasis in LLL. also suggest correlate with abdominal CT
+report.
+bilateral pleural effusion. interstitial change, linear atelectasis at
+bilateral lungs. bronchiectasis in left lung. RLL faint nodule or opacity
+with nonspecific appearance. please also refer to text for details.
+
+A: The findings in chest and abdominal CT might be due to the side effects
+of RFA. Colon micorperforation could not be ruled out.
+
+P:
+1. continue antibiotics
+2. keep close monitoring

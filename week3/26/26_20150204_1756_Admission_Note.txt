@@ -1,0 +1,196 @@
+
+2015/02/04 17:56 | |
+|主訴(Chief Complaint)                                            |
+|Informant:The patient, patient's family and previous records     |
+|Erythma was noted over right calf for 7 days                     |
+|病史(Brief History)                                              |
+|<Present illness> This is a 84-year-old male patient with        |
+|underlying disease of 1.)Type 2 DM 2.) Atrial fibrillation 3.)   |
+|CVA 3 time(1999, 2002, 2006) 4.) Dementia This patient was under |
+|dementia condition and cannot response to answers fluently. He   |
+|had a history of bilateral legs weakness last year, which        |
+|recovered gradually. This time, he moamed occasionally since 2   |
+|months ago, which became more often in these 2 weeks. Originally,|
+|he had to walk with other people's help. However, since 5 days   |
+|ago(1/31), he became unable to walk even under other people's    |
+|help. In addition, erythema over his right lower leg was also    |
+|noted since 7 days ago. Under deteriorating condition, he was    |
+|sent to 恩主公's hospital on 2015/02/02. Peripheral arterial     |
+|occlusive disease was suspected, thus, he was transferred to ER  |
+|of NTUH for management on 2015/2/3. At ER, lab data showed       |
+|leukocytosis: WBC 16.42 K/ul, Lactic Acid 1.64, CK 6996, Troponin|
+|I 0.079, CRP 7.55. Blood culture yielded Viridans streptococci   |
+|and Unasyn was given. CT was arranged which revealed compatible  |
+|with peripheral arterial occlusive disease, multifocal moderate, |
+|severe to total occlusion at pelvis and bilateral lower limbs.   |
+|Under impression of PAOD, he was admitted to 5A for further      |
+|survey and management. Family History:no related Medication      |
+|Allergy:No 病人自述 2010/11/15 No 親屬描述 2015/02/04 Medication |
+|ADR:unknown Allergy to Medical Device and Materials:No 親屬描述  |
+|2015/02/04 Current Medication: NTUH:Promostan 20 mcg/vial 120 mcg|
+|QD cIF 3 days Actein Effervescent Tablet 600 mg/tab 1 tab BID PO |
+|2 days Actein Effervescent Tablet 600 mg/tab 1 tab STAT PO 1 days|
+|Rolikan 16.6 mEq/20 mL /amp 49.8 mEq QD IF 3 days PCN Test       |
+|(Penicillin G Skin Test) 1000 U/1 mL 2 mL/vial 0.1 mL ONCE ID 1  |
+|days Unasyn (based on ampicillin content) 1000 mg/vial 1000 mg   |
+|Q6H IV 3 days Unasyn (based on ampicillin content) 1000 mg/vial  |
+|1000 mg STAT IV 1 days PARAMOL 500 mg/tab 1 tab Q6HPRN PO 2 days |
+|PARAMOL 500 mg/tab 1 tab STAT PO 1 days Promostan 20 mcg/vial 60 |
+|mcg QD cIF 2 days Other:nil 中草藥:nil 保健食品:nil Past Medical |
+|History:1.)Type 2 DM 2.) Atrial fibrillation 3.) CVA 4.) Dementia|
+|Hospitalization:2006 CVA Past Surgical History:gastrctomy > 40   |
+|years Travel History:nil                                         |
+|社會心理相關評估(Psychosocial Assessment)                        |
+|Social Economic and Personal History 教育程度:大學 職業:教       |
+|宗教信仰:佛教 婚姻狀態:已婚 使用語言:國語 台語 口述血型:B，RH:， |
+|輸血反應: 抽煙:沒有，已戒煙:20年 喝酒:沒有，已戒酒:20年 檳榔:沒有|
+|物質濫用:沒有 Psychological History and Evaluation 意識狀態:警醒 |
+|認知功能:無法評估 精神情緒狀態:異常 焦慮 安全問題:無 睡眠形態:正 |
+|常 Nutritional Screen 攝食情形:優，攝取完整 排便狀態:正常 BMI:   |
+|Fall Risk Assessment 總分:7 (>=3分進行不倒翁計畫，請開預防跌倒醫 |
+|囑)                                                              |
+|系統性回顧(Review of System)                                     |
+|1.Systemic: weight loss(-), easy-fatigability(-), night sweats(-)|
+|2.Skin: petechiae(-), purpurae(-), skin rash(-),                 |
+|itching(-),erythema over right calf for 7 days 3.HEENT:          |
+|headache(-),dizziness(-), blurred vision(-), strabismus(-),      |
+|ocular pain(-), otalgia(-), otorrhea(-), hearing impairment(-),  |
+|tinnitus(-), vertigo(-), nasal stuffiness(-), nasal discharge(-),|
+|epistaxis(-), gum bleeding(-), sore throat(-),oral ulcer(-)      |
+|4.Cardiovascular: exertional chest tightness(-), nocturnal       |
+|dyspnea(-), orthopnea(-) syncope(-), palpitation(-), intermittent|
+|claudication(-) 5.Respiratory: dyspnea(-), cough(-), chest       |
+|pain(-), hemoptysis(-), productive cough (-), pleuritic chest    |
+|pain(-) 6.Gastrointestinal: anorexia(-), nausea(-), vomiting(-), |
+|dysphagia(-), heartburn(-), acid regurgitation(-), abdominal     |
+|fullness(-), hunger pain(-) midnight pain(-), constipation(-),   |
+|diarrhea(-), melena(-), change of bowel habit(-), small caliber  |
+|of stool(-), tenesmus(-), flatulence(-) 7.Urogenital: flank      |
+|pain(-), hematuria(-), urinary frequency(-), urgency(-), dysuria |
+|(-), hesitancy(-), small stream of urine(-), impotence(-),       |
+|nocturia(-), polyuria(-), oliguria (-) 8.Musculoskeletal: bone   |
+|pain(-), arthralgia(-), myalgia(-), weakness(-) back pain(-)     |
+|9.Metabolic: heat intolerance(-), cold intolerance(-), thirsty(-)|
+|10.Nervous: numbness (-), paresis/plegia (-)                     |
+|身體檢查(Physical Examination)                                   |
+|BH:170 cm BW:NIL kg T:36.8 P:82 R:18 BP:68/48 mmHg Pain:0        |
+|Neurological Examination: . Consciousness:dementia . Muscle      |
+|power:lower limb not checked due to pain, upper limb 4/4 . Gait: |
+|not checked due to legs pain Head-Eye-ENT grossly normal,        |
+|conjunctiva: pink, sclera: anicteric Pupil: isocoric, 3mm/ 3mm   |
+|Light reflex: L/R: +/+, EOM: full and free Neck Jugular vein     |
+|engorgement(-) Thyroid goiter(-) Meningismus: Kernig sign(-);    |
+|Brudzinski sign(-) Carotid bruit(-) Chest Thoracic cage contour: |
+|symmetric Vocal fremitus and expansion: symmetric Percussion:    |
+|resonant Breathing sound: clear Crackles(-) wheezes(-)rhonchi(-) |
+|stridor(-) Heart Heart beat: regular Murmurs(-) LV lift(-) RV    |
+|heave(-) Increased cardiac size by percussion(-) Adventitious    |
+|sounds (-) Abdomen Flat & soft Superficial vein engorgement(-)   |
+|Protruded umbilicus(-) Bowel sound: Normoactive Tenderness(-)    |
+|Hepato-jugular reflux(-) Liver and spleen: impalpable OP scar(+),|
+|Extremities Freely movable, pulses symmetric and intact, pitting |
+|edema(-) Distal pulsation: Radial Artery Femoral Artery Right: ++|
+|++ Left: ++ ++ Popliteal Artery Dorsalis Pedis Artery Right: ++ 0|
+|Left: ++ 0 Cold and pain below bilateral mid-thighs, erythema    |
+|over right calf Back Knocking pain(-) Skin Abnormal              |
+|pigmentation(-) Petechiae(-) Purpura(-) Ecchymoses(-)            |
+|Telangiectasia(-) Rash(-) Plaque(-) Lymphadenopathy(-)           |
+|檢驗紀錄(Laboratory Report)                                      |
+|*********檢驗室:PO*********** 群組: Sugar(One to uch) time/item  |
+|(*) 1040203 [0103] 170 1040203 [1957] 218 1040204 [0556] 195     |
+|1040204 [1028] 226 *********檢驗室:RL***********                 |
+|群組:Biochemistry BUN CRE Na K T-BIL time/item (mg/dL) (mg/dL)   |
+|(mmol/L) (mmol/L) (mg/dL) 1040203 [0101] 34.2 1.4 137 4.3 0.79   |
+|1040203 [1836] 1040203 [1944] 4.5 1040204 [0556] Lipase Ca AST   |
+|LacticAcid CK time/item (U/L) (mmol/L) (U/L) (mmol/L) (U/L)      |
+|1040203 [0101] 13 2.36 137 1.64 6996 1040203 [1836] 1.65 6608    |
+|1040203 [1944] 1040204 [0556] 6116 CK-MB %CKMB Troponin I        |
+|time/item (U/L) (%) (ng/mL) 1040203 [0101] 93 1.3 0.079 1040203  |
+|[1836] 1040203 [1944] 1040204 [0556] 群組:Blood pH/Gas PH PCO2   |
+|PO2 HCO3 BaseExcess time/item (*) (mmHg) (mmHg) (mmol/L) (mmol/L)|
+|1040203 [0101] 7.448 34.0 51.0 23.8 -0.5 1040203 [1836] 7.471    |
+|34.4 70.2 25.3 1.4 群組:Yes C-Reactive P rotein time/item (mg/dL)|
+|1040203 [0101] 7.55 群組:General BioChemistry ALB ALT ALP LDH    |
+|time/item (g/dL) (U/L) (U/L) (U/L) 1040203 [0101] 3.9 44 46 563  |
+|群組: Glucose(seru m for ED) time/item (mg/dL) 1040203 [0101] 181|
+|群組:Coagulation PT PTT PT INR time/item (sec) (sec) () 1040203  |
+|[0101] 18.3 33.3 1.71 群組:WBC Classification Blast Promyl.      |
+|Myelo. Meta Band time/item (%) (%) (%) (%) (%) 1040203 [0101] 0.0|
+|0.0 0.0 0.0 0.0 1040203 [1836] 0.0 0.0 0.0 0.0 0.0 Seg Eos. Baso.|
+|Mono. Lym. time/item (%) (%) (%) (%) (%) 1040203 [0101] 85.8 0.2 |
+|0.1 8.2 5.7 1040203 [1836] 88.1 0.0 0.0 6.8 5.1 Aty.Lym.         |
+|PlasmaCell Normobl. PS time/item (%) (%) () () 1040203 [0101] 0.0|
+|0.0 0 - 1040203 [1836] 0.0 0.0 0 - 群組:CBC+PLT WBC RBC HB HCT   |
+|MCV time/item (K/μL) (M/μL) (g/dL) (%) (fL) 1040203 [0101] 16.42 |
+|3.91 12.3 36.0 92.1 1040203 [1836] 21.08 3.77 12.0 34.6 91.8 MCH |
+|MCHC PLT RDW-CV PS time/item (pg) (g/dL) (K/μL) (%) () 1040203   |
+|[0101] 31.5 34.2 175 13.0 - 1040203 [1836] 31.8 34.7 185 13.0 -  |
+|檢查紀錄(Examination Report)                                     |
+|nil                                                              |
+|影像報告(Imaging Report)                                         |
+|Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師:|
+|吳志宏 影像時間: 2015/02/03 01:05 (32001CYM) 發報告時間:         |
+|2015/02/03 16:46 A nodular lesion at right middle lung zone.     |
+|Mediastinal widening. Right pleural effusion. Prominent bilateral|
+|lung markings. Cardiomegaly. Mediastinal widening. Moderate      |
+|degenerative change of the spine with marginal spur formation.   |
+|Abdomen:KUB 醫令: Abdomen:KUB 報告醫師: 吳志宏 影像時間:         |
+|2015/02/03 01:05 (32006C0M) 發報告時間: 2015/02/03 16:47 No      |
+|definite radiopaque stone. Unremarkable bowel gas pattern.       |
+|Moderate degenerative change of the spine with marginal spur     |
+|formation. CT With/Without Contrast-Lower Extremities 醫令: CT   |
+|With/Without Contrast-Lower Extremities 報告醫師: 吳志宏         |
+|影像時間: 2015/02/03 03:03 (33072BQM) 發報告時間: 2015/02/03     |
+|14:44 CT scan of pelvis and lower extremities without/with IV    |
+|contrast enhancement shows: > Well-distended urinary bladder with|
+|smooth contour. > Enlarged prostate with nodular enhancement. >  |
+|Mild segmental wall thickening at rectum. > Atherosclerotic      |
+|change with calcified plaque at aortic wall, bifurcation and     |
+|bilateral lower limbs. > Total occlusion at right common,        |
+|external and internal iliac artery. > Multifocal severe stenosis |
+|to total occlusion at left common and superficial femoral artery,|
+|bilateral popliteal arteries. Moderate to severe stenosis at     |
+|bilateral ATAs, PTAs and peroneal arteries. > Swelling right     |
+|lower leg with poor opacification at deep vein, suspected poor   |
+|venous return. > Degenerative change of the spine with marginal  |
+|spur formation. Osteoarthritis change at bilateral knee joints.  |
+|CT With/Without Contrast-Pelvis 醫令: CT With/Without            |
+|Contrast-Pelvis 報告醫師: 吳志宏 影像時間: 2015/02/03 03:03      |
+|(33072B5M) 發報告時間: 2015/02/03 14:44 CT scan of pelvis and    |
+|lower extremities without/with IV contrast enhancement shows: >  |
+|Well-distended urinary bladder with smooth contour. > Enlarged   |
+|prostate with nodular enhancement. > Mild segmental wall         |
+|thickening at rectum. > Atherosclerotic change with calcified    |
+|plaque at aortic wall, bifurcation and bilateral lower limbs. >  |
+|Total occlusion at right common, external and internal iliac     |
+|artery. > Multifocal severe stenosis to total occlusion at left  |
+|common and superficial femoral artery, bilateral popliteal       |
+|arteries. Moderate to severe stenosis at bilateral ATAs, PTAs and|
+|peroneal arteries. > Swelling right lower leg with poor          |
+|opacification at deep vein, suspected poor venous return. >      |
+|Degenerative change of the spine with marginal spur formation.   |
+|Osteoarthritis change at bilateral knee joints.                  |
+|病理報告(Pathology Report)                                       |
+|nil                                                              |
+|臆斷(Tentative Diagnosis)                                        |
+|1. Peripheral arterial occlusive disease 2. Type 2 diabetes      |
+|mellitus 3. Dementia 4. Atrial fibrillation 5. Cerebral vascular |
+|events in 1999, 2002, 2006                                       |
+|醫療需求與治療計畫(Medical Needs and Care Plan)                  |
+|*Peripheral arterial occlusive disease S: pain over bilateral    |
+|legs Unable to walk O: Cold below bilateral mid-thighs, erythema |
+|over right calf CT showed peripheral arterial occlusive disease, |
+|multifocal moderate, severe to total occlusion at pelvis and     |
+|bilateral lower limbs A:Peripheral arterial occlusive disease    |
+|P:1.Survey of PAOD 2.Follow-up intervention 3.Infection control  |
+|4.Pain control Treatment Goal: 1.Pain < 3 2.WBC< 10000 3.Complete|
+|intervention of PAOD                                             |
+|出院規劃(Discharge Planning)                                     |
+|管路留置狀況:有 靜脈管路留置(含Hickman / Port-A)：有 左手 右手   |
+|雙腔導管留置：無 鼻胃管留置：無 氣管管路留置：無 胃造廔口：無 尿 |
+|管留置：無 膀胱造廔：無 傷口引流管：無 其他導管： 日常生活功能分 |
+|數：10 預期出院後居住場所：與家人同住 預期出院後主要照顧者：女兒 |
+|外勞 出院規劃收案篩檢：高危病患 功能量表未滿60分                 |
+|醫師姓名                                                         |
+|陳益祥 主治醫師                                                  |
+

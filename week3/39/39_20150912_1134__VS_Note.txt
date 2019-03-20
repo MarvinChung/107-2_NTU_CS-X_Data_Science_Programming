@@ -1,0 +1,18 @@
+
+S/P tracheostomy 9/1. Progressive renal failure. Poor prognosis.
+Avoid fluid overload, if possible.
+2015/09/09 BUN:87.4   mg/dL
+2015/09/09 CRE:3.8   mg/dL
+2015/09/12 BUN:88.4   mg/dL
+2015/09/12 CRE:4.2   mg/dL
+2015/09/12 Na:129   mmol/L
+2015/09/12 K:3.2   mmol/L
+2015/09/12 Mg:0.70   mmol/L
+2015/09/12 P:7.9   mg/dL
+2015/09/12 WBC:5.90   K/μL
+2015/09/12 HB:7.9   g/dL
+2015/09/12 PLT:75 (Manual checked)   K/μL
+2015/09/12 PH:7.308   *
+2015/09/12 PCO2:42.2   mmHg
+2015/09/12 PO2:50.8   mmHg
+2015/09/12 HCO3:21.3   mmol/L

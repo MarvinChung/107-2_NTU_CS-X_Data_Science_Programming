@@ -1,0 +1,484 @@
+
+2014/11/06 18:01 | |
+|主訴(Chief Complaint)                                            |
+|Informant:patient and her family Abdominal pain, diarrhea, with  |
+|intermittent fever for 10+ days                                  |
+|病史(Brief History)                                              |
+|【Present Illness】 This is a 59 year old female with underlying |
+|disease of: 1. Pre-T acute lymphoblastic leukemia/lymphoma,      |
+|status post (1) GRAALL induction part (I)20130910 and            |
+|(II)20130915 with positive flow MRD (2) Bloc MTX (I) on 20131113 |
+|(3) Bloc Ara-C (I) on 20140114 (4) Bloc Endoxan (I) on 20140214  |
+|(5) Intrathecal chemotherapy (III), with relapse found on        |
+|20140320 (6) Salvage N2HDAC (D1: 20140322), with poor response   |
+|noticed on 20140331 (7) L-FLAG on 20140402, held due to high     |
+|grade fever, resumed on 4/17,with positive flow MRD (8) L-FLAG on|
+|20140616, refractory (9) NEC(I) (D1= 20140815), refractory 2.    |
+|Liver abscess, fungal infection (20140704-) 3. Paranasal         |
+|sinusitis, resolved 4. Hepatitis B infection, recovered This     |
+|58-year-old woman suffered from bilateral neck swelling for one  |
+|month in July 2013. She had no meningeal sign at that time. She  |
+|visited ENT OPD at our hospital on 20130722. Local examination   |
+|revealed bilateral cervical lymphadenopathy but normal pharyngeal|
+|cavity and oral cavity. Head and neck sonogram on 20130726 showed|
+|multiple lymph nodes at bilateral level I to level V (the largest|
+|one at left level II, 4.39x1.63cm). Lymphoma was highly          |
+|suspected. We performed core needle biopsy and noticed lymphoid  |
+|tissue which was mainly composed of small lymphocytes with small |
+|aggregates of CD20+ B cells and abundant CD3+/CD5+/BCL2+ T cells |
+|between aggregated B cells. T zone expansion was considered, and |
+|it might attribute to reactive or neoplastic response. We        |
+|performed excisional biopsy of right neck mass on 20130805.      |
+|Pathology revealed lymphoma and leukemic cells involvement. Bone |
+|marrow study was performed when white blood cells was 71.87 K/u L|
+|(Lymphocyte 91.4%). It was compatible with lymphoma of T cell    |
+|lineage. Therefore we made the diagnosis of pre-T cell acute     |
+|lymphoblastic leukemia, combined with lymphoma. Therefore        |
+|cytoreduction with GRAALL regimen was inducted on 20130814 when  |
+|Rinderon was also added. Lymphadenopathy resolved gradually under|
+|GRAALL regimen. We noticed 23% residual disease activity on      |
+|20130910. Partial remission was considered. CNS involvement was  |
+|not noticed then. We gave GRAALL (II) on 20130915. However,      |
+|because of neurological deficits, we checked brain MRI on        |
+|20130917 and suspected CNS lymphoma. She received GRAALL         |
+|induction part II from 20130920 to 20130928. We checked her      |
+|chromosome and did not notice abnormalities. Bone marrow study on|
+|20131108 confirmed complete remission with minimal residual      |
+|disease after GRAALL (II). She received bloc-MTX on 20131113.    |
+|Diarrhea and grade III vomiting was noticed after bloc-MTX. She  |
+|received bloc Endoxan and intrathecal chemotherapy on 20131227.  |
+|She had persistent neutropenia when treated with Endoxan. Bone   |
+|marrow study on 20140106 showed blast < 5.0% and flow cytometry  |
+|showed progressive minimal residual disease. She received bloc   |
+|Ara-C treatment on 20140114. Partial response was noticed later. |
+|She received bloc Endoxan and intrathecal chemotherapy on        |
+|20140214. We noticed elevated blast percentage 18.0% in the      |
+|peripheral blood when bone marrow biopsy was done on 20140320.   |
+|Whole body CT scan on 20140321 showed multiple lymphadenopathy at|
+|right neck, bilateral para-aortic region, and mesenteric root and|
+|Winslow foramen. Multiple small hypo-dense lesions was noticed at|
+|both kidneys, and lymphoma was suspected. We prescribed salvage  |
+|N2HDAC on 20140322 and shifted regimen to L-FLAG on 20140402. Due|
+|to prolonged fever without obvious focus, abdominal CT and MRI   |
+|was arranged on 20140512, which revealed multiple new enhanced   |
+|nodules at liver. Bone marrow study on 20140604. We prescribed   |
+|L-FLAG (II) on 20140616. We noticed fungal infection in the liver|
+|on abdominal CT on 20140704. Oral candidiasis was also noticed.  |
+|Fluconazole has been prescribed since 20140715. Because of       |
+|increased abnormal lymphoid blasts, we performed bone marrow on  |
+|20140717, which showed 20% frank T-ALL relapse. She received NEC |
+|(I) on 20140815. Because of acute abdomen, abdominal CT was      |
+|arranged on 20140822. We did not notice hollow organ rupture, so |
+|surgery was not performed. She stayed at our hospital for several|
+|times because of neutropenia with blood stream infection. She    |
+|followed up regularly at our hematological OPD. Due to persistent|
+|productive cough, she visited our emergency room on 20141008. And|
+|Paranasal sinusitis was impressed by skull X ray. Augmentin was  |
+|prescribed, and Diflucan was kept for refractory fungal abscess  |
+|at the liver. Leukocytosis with increasing blasts and multiple   |
+|lymphadenopathies was noted, and Dorison was prescribed. Besides,|
+|disseminated intravascular coagulation were also noticed during  |
+|admission, and cryoprecipitate 20U was prescribed. The patient   |
+|was dishcharged on 20141016 with condition. However, she         |
+|complained of abdominal pain, diarrhea, with intermittent fever  |
+|since about 10 days ago. She visited our emergency department on |
+|10/30. Abdominal and pelvic CT on 10/30 were arranged for        |
+|infection focus survey and evaluate previous colitis site.       |
+|Diflucan was prescribed for previous fugal infection, maxipime   |
+|with Anegyn was also prescibred for impirical treatment.         |
+|Abdominal echo on 11/3 revealed Bowel wall thickening at         |
+|iliocecal valve, cecum and ascending-colon, r/o colon tumor.     |
+|However, intermittent fever was still noted. Because of ALL      |
+|associated rapidly progressive leukocytoisteroid was also        |
+|prescribed for leukoreduction. Then she was transferred to our   |
+|ward today for further evaluation and management. 【Past History |
+|】 1. Systemic disease: 2. Hospitalization and surgical history: |
+|入院日期:2014_06_16 出院日期: 診斷: 入院日期:2014_10_31 出院日期:|
+|診斷: 入院日期:2014_10_08 出院日期:2014_10_16 診斷:Acute rhinitis|
+|入院日期:2014_08_13 出院日期:2014_09_17 診斷:Other lymphomas,    |
+|lymph nodes of multiple sites 入院日期:2014_06_16                |
+|出院日期:2014_07_26 診斷:Other lymphomas, lymph nodes of multiple|
+|sites 入院日期:2014_03_20 出院日期:2014_06_06 診斷:Other         |
+|lymphomas, lymph nodes of multiple sites 入院日期:2014_02_14     |
+|出院日期:2014_02_20 診斷:Other lymphomas, lymph nodes of multiple|
+|sites 入院日期:2014_01_14 出院日期:2014_01_17 診斷:Other         |
+|lymphomas, lymph nodes of multiple sites 入院日期:2013_12_27     |
+|出院日期:2014_01_07 診斷:Other lymphomas, lymph nodes of multiple|
+|sites 入院日期:2013_11_07 出院日期:2013_11_27 診斷:Other         |
+|lymphomas, lymph nodes of multiple sites 入院日期:2013_09_15     |
+|出院日期:2013_10_07 診斷:Other lymphomas, lymph nodes of multiple|
+|sites 入院日期:2013_08_04 出院日期:2013_09_12 診斷:Other         |
+|lymphomas, lymph nodes of multiple sites Past Surgical History   |
+|2013_08_05 Neck mass excision, right 2013_09_16 Port-A           |
+|implantation, echo-guided 2014_06_19 Removal of Port-A 3.        |
+|Allergy:UnClear 病人自述 2014/03/20 No 親屬描述 2014/06/30 No 病 |
+|人自述 2013/11/07 藥名不清楚 病人自述 2013/07/22 UnClear 病人自述|
+|2013/08/04 藥名不清楚 【嘴唇腫脹脫皮】 病人自述 2013/08/13       |
+|UnClear 病人自述 2014/11/01 UnClear 病人自述 2014/08/13 No       |
+|病人自述 2014/06/16 4. Current medication: Anegyn 500 mg/100 mL  |
+|/bag (500 mg Q8H IF for 60 分 ) Maxipime 500 mg/vial (2000 mg Q8H|
+|IV for 5 分 ) 針 Diflucan inj 100 mg/50 mL /vial (400 mg QD IF   |
+|in: 無 keep 流速: 100 mL/時 for 120 分 Imolex 2 mg/cap (1 cap QD |
+|PO ) Taita No.5 400 mL/btl (400 mL QD Dexamethasone 0.5 mg/tab (1|
+|tab QDPC PO ) Gaster D 20 mg/tab (1 tab BID LZ PARAMOL 500 mg/tab|
+|(1 tab Q6HPRN PO ,if BT>38'C) 5. Lifestyle: Cigarette smoking:   |
+|nil Alcohol consumption: nil Betelnut chewing: nil 6. Travel     |
+|history: nil 7. Family history: nil                              |
+|社會心理相關評估(Psychosocial Assessment)                        |
+|Social Economic and Personal History 教育程度:高中 職業:無       |
+|宗教信仰:無 婚姻狀態:已婚 使用語言:國語 台語 口述血型:B，RH:不清 |
+|楚，輸血反應:無 抽煙:沒有 喝酒:沒有 檳榔:沒有 物質濫用:沒有      |
+|Psychological History and Evaluation 意識狀態:警醒 認知功能:正常 |
+|精神情緒狀態:異常 焦慮 安全問題:有 其他 fall down 睡眠形態:正常  |
+|Nutritional Screen 攝食情形:普通，攝食50-74% 排便狀態:異常       |
+|排便異常狀態:腹瀉 BMI:22.23 Fall Risk Assessment 總分:6 (>=3分進 |
+|行不倒翁計畫，請開預防跌倒醫囑)                                  |
+|系統性回顧(Review of System)                                     |
+|1.Systemic: weight loss(-), easy-fatigability(+), night sweats(-)|
+|2.Skin: petechiae(-), purpurae(-), skin rash(-), itching(-),     |
+|3.HEENT: headache(-),dizziness(-), blurred vision(-),            |
+|strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing  |
+|impairment(-), tinnitus(-), vertigo(-), nasal stuffiness(-),     |
+|nasal discharge(-), epistaxis(-), gum bleeding(-), sore          |
+|throat(-),oral ulcer(-) 4.Cardiovascular: exertional chest       |
+|tightness(-), nocturnal dyspnea(-), orthopnea(-) syncope(-),     |
+|palpitation(-), intermittent claudication(-) 5.Respiratory:      |
+|dyspnea(-), cough(-), chest pain(-), hemoptysis(-), productive   |
+|cough (-), pleuritic chest pain(-) 6.Gastrointestinal:           |
+|anorexia(+), nausea(-), vomiting(-), dysphagia(-), heartburn(-), |
+|acid regurgitation(-), abdominal fullness(-), hunger pain(-)     |
+|midnight pain(-), constipation(-), diarrhea(+), melena(-), change|
+|of bowel habit(+), small caliber of stool(-), tenesmus(-),       |
+|flatulence(-) 7.Urogenital: flank pain(-), hematuria(-), urinary |
+|frequency(-), urgency(-), dysuria (+), hesitancy(-), small stream|
+|of urine(-), impotence(-), nocturia(-), polyuria(-), oliguria (-)|
+|8.Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-),      |
+|weakness(+) back pain(-) 9.Metabolic: heat intolerance(-), cold  |
+|intolerance(-), thirsty(-) 10.Nervous: numbness (-),             |
+|paresis/plegia (-)                                               |
+|身體檢查(Physical Examination)                                   |
+|BH:158 cm BW:55.5 kg T:38.4 P:115 R:18 BP:107/74 mmHg Pain:5~6 at|
+|abdomen, especially at right side Neurological Examination: .    |
+|Consciousness: clear and oriented . Muscle power: generally 3~4  |
+|at four limbs . Gait: steady Consciousness E4 M6 V5 Head-Eye-ENT |
+|grossly normal, conjunctiva: mild pale, sclera: anicteric Pupil: |
+|isocoric, 3mm/ 3mm Light reflex: L/R: +/+, EOM: full and free    |
+|Neck Jugular vein engorgement(-) Thyroid goiter(-) Meningismus:  |
+|Kernig sign(-); Brudzinski sign(-) Carotid bruit(-) Chest        |
+|Thoracic cage contour: symmetric, Retraction(-) Vocal fremitus   |
+|and expansion: symmetric Percussion: resonant Breathing sound:   |
+|clear Crackles(-) wheezes(-)rhonchi(-) stridor(-) Heart Heart    |
+|beat: regular Murmurs(-) LV lift(-) RV heave(-) Increased cardiac|
+|size by percussion(-) Adventitious sounds (-) Abdomen rounded &  |
+|distended Superficial vein engorgement(-) Protruded umbilicus(-) |
+|Bowel sound: hypoactive Tenderness(+) and rebounding pain(+) at  |
+|mainly right side ; Hepato-jugular reflux(-), Liver and spleen:  |
+|impalpable Extremities Freely movable, pulses symmetric and      |
+|intact, pitting edema(+) at both legs Back Knocking pain(-) Skin |
+|Abnormal pigmentation(-) Petechiae(-) Purpura(-) Ecchymoses(-)   |
+|Telangiectasia(-) Rash(-) Plaque(-) scars at right neck(for CVC) |
+|and left subclavicular area(for Port A) Lymphadenopathy(-)       |
+|檢驗紀錄(Laboratory Report)                                      |
+|*********檢驗室:RL*********** 群組:CBC+PLT WBC RBC HB HCT MCV    |
+|time/item (K/μL) (M/μL) (g/dL) (%) (fL) 1031011 [0527] 60.69 3.75|
+|11.6 35.3 94.1 MCH MCHC PLT RDW-CV PS time/item (pg) (g/dL)      |
+|(K/μL) (%) () 1031011 [0527] 30.9 32.9 49 18.1 - 群組:WBC        |
+|Classification Blast Promyl. Myelo. Meta Band time/item (%) (%)  |
+|(%) (%) (%) 1031011 [0527] 0.0 0.0 0.0 0.0 0.0 Seg Eos. Baso.    |
+|Mono. Lym. time/item (%) (%) (%) (%) (%) 1031011 [0527] * 0.0 0.1|
+|0.4 * 0.0 * 0.0 Aty.Lym. PlasmaCell Normobl. PS time/item (%) (%)|
+|() () 1031011 [0527] 0.0 0.0 0 僅供參考 群組:General BioChemistry|
+|UA ALT time/item (mg/dL) (U/L) 1031011 [0527] 6.9 61             |
+|群組:Biochemistry CRE Na K Ca P time/item (mg/dL) (mmol/L)       |
+|(mmol/L) (mmol/L) (mg/dL) 1031011 [0527] 0.7 136 5.1 2.33 4.2    |
+|*********檢驗室:HE*********** 群組:CBC+PLT WBC RBC HB HCT MCV    |
+|time/item (k/μL) (M/μL) (g/dL) (%) (fL) 1031009 [0904] 51.97 4.36|
+|14.0 41.7 95.6 1031013 [0643] 17.90 3.59 11.2 33.1 92.2 1031014  |
+|[0640] 14.94 3.49 10.8 32.3 92.6 1031015 [0629] 11.29 3.48 10.9  |
+|32.0 92.0 MCH MCHC PLT RDW-CV PS time/item (pg) (g/dL) (k/μL) (%)|
+|() 1031009 [0904] 32.1 33.6 52 18.1 - 1031013 [0643] 31.2 33.8 46|
+|17.9 - 1031014 [0640] 30.9 33.4 49 18.2 - 1031015 [0629] 31.3    |
+|34.1 50 17.9 - 群組:WBC D/C Blast Promyl. Myelo. Meta Band       |
+|time/item (%) (%) (%) (%) (%) 1031009 [0904] 45.0 0.0 0.0 0.0 0.0|
+|1031013 [0643] 29.0 0.0 1.0 0.0 0.0 1031014 [0640] 17.0 0.0 1.0  |
+|0.0 1.0 1031015 [0629] 21.0 0.0 0.0 1.0 2.0 Seg Eos. Baso. Mono. |
+|Lym. time/item (%) (%) (%) (%) (%) 1031009 [0904] 11.0 0.5 0.0   |
+|2.0 41.5 1031013 [0643] 23.0 0.0 0.0 26.0 21.0 1031014 [0640]    |
+|33.0 0.0 0.0 21.0 27.0 1031015 [0629] 45.0 0.0 0.0 10.0 21.0     |
+|Aty.Lym. PlasmaCell Normobl. PS time/item (%) (%) () () 1031009  |
+|[0904] 0.0 0.0 0 /200 WBC WBC 200 1031013 [0643] 0.0 0.0 0.0 /100|
+|WBC WBC 100 1031014 [0640] 0.0 0.0 0.0 /100 WBC WBC 100 1031015  |
+|[0629] 0.0 0.0 0.0 /100 WBC WBC 100 *********檢驗室:BC***********|
+|群組:General BioChemistry D-BIL T-BIL AST ALT ALP time/item      |
+|(mg/dL) (mg/dL) (U/L) (U/L) (U/L) 1031009 [0904] 1031013 [0643]  |
+|50 82 1031014 [0640] 1031015 [0629] 62 132 1031016 [0624] 0.10   |
+|0.45 71 185 68 GGT LDH UN CRE UA time/item (U/L) (U/L) (mg/dL)   |
+|(mg/dL) (mg/dL) 1031009 [0904] 415 8.7 1031013 [0643] 17.8 0.8   |
+|6.2 1031014 [0640] 237 7.8 1031015 [0629] 24.9 0.7 1031016 [0624]|
+|77 Na K P Mg CRP time/item (mmol/L) (mmol/L) (mg/dL) (mmol/L)    |
+|(mg/dL) 1031009 [0904] 4.3 1031013 [0643] 142 3.6 1031014 [0640] |
+|3.6 4.5 0.81 1031015 [0629] 144 3.2 0.35 1031016 [0624]          |
+|*********檢驗室:MY*********** MY-1031009-8015467 SPUTUM          |
+|(EXPECTORATED) Fungus #1: No Fungus MY-1031009-8021254 BLOOD     |
+|Aspergillus Ag#1: Negative *********檢驗室:B3***********         |
+|B3-1031009-8015466 SPUTUM (EXPECTORATED) Gram's(GS)#1: Moderate  |
+|PMNs ( 10-25 /LPF ) Gram's(GS)#2: Many epithelial cells ( >25    |
+|/LPF ) Gram's(GS)#3: Gram (-) rods 2+ Gram's(GS)#4: Gram (+)     |
+|cocci in chains 2+ Gram's(GS)#5: Gram (+) cocci in cluster, 痰檢 |
+|體品質不良建議重新送檢 2+ ID+DS Sputum Culture #1: Mixed flora   |
+|*********檢驗室:OP*********** 群組:SEDIMENT RBC (S) WBC (S) Epith|
+|(S) Cast (S) Crystal (S) time/item (/HPF) (/HPF) (/HPF) (/LPF)   |
+|(*) 1031009 [0728] 0-2 10-20 0-2 - - 1031015 [0625] 0-2 0-2 0-2 -|
+|- Bacteria Mucus(S) Others (S) time/item (*) (*) (*) 1031009     |
+|[0728] - - - 1031015 [0625] + - - 群組:MULTISTIX Sp. Gr.(C) pH   |
+|Protein(C) Glu.(C) Ketone body (U) time/item (*) (*) (mg/dL)     |
+|(mg/dL) (*) 1031009 [0728] 1.005 6.0 - - - 1031015 [0625] 1.008  |
+|7.0 - 100 ( 1+ ) - O.B.(C) Urobil.(C) Bil.(C) Nitrite(C) WBC     |
+|esterase (U) time/item (mg/dL) (mg/dL) (mg/dL) (*) (*) 1031009   |
+|[0728] - ≦1.5 - - 1+ 1031015 [0625] - ≦1.5 - - - Color Turbidity |
+|time/item (*) (*) 1031009 [0728] Light Yellow - 1031015 [0625]   |
+|Colorless - 群組:ESR ESR 1Hr. time/item (mm /hr.) 1031015 [0629] |
+|13 *********檢驗室:CT*********** 群組:DIC Profile FDP D-Dimer    |
+|time/item (μg/mL) (μg/mL FEU) 1031014 [0640] 7.5 1.32 1031015    |
+|[0629] 5.5 2.31 1031016 [0624] 11.4 2.57 群組:Clotting Factor    |
+|Fibrinogen time/item (mg/dL) 1031014 [0640] 159.2 1031015 [0629] |
+|146.3 1031016 [0624] 158.5 群組:PT PT PT INR time/item (sec) ()  |
+|1031014 [0640] 11.6 1.08 1031016 [0624] 11.7 1.09 群組:PTT PTT   |
+|time/item (sec) 1031014 [0640] 26.6 1031016 [0624] 26.2          |
+|*********檢驗室:PO*********** 群組: Sugar(One to uch) time/item  |
+|(*) 1031013 [0510] 264 1031015 [0444] 184                        |
+|*********檢驗室:SF*********** 群組:Yes Anti-HBc Anti-HBs HBeAg   |
+|HBsAg time/item (*) (mIU/ml) (*) (IU/mL) 1031016 [0624] Positive |
+|Positive(152 Negative Negative(0.0 .42) 1)                       |
+|*********檢驗室:SE*********** 群組:Yes Anti-GBM Ab. Anti-Nuclear |
+|C-ANCA(IFA) P-ANCA(IFA) Antibody time/item (1:N) (1:N) (1:N)     |
+|(1:N) 1031015 [0629] 1:10(-) 1:40(-) Negative Negative ********* |
+|檢驗室:M5*********** 群組:Yes Anti-ds DNA Anti-SS-A Anti-SS-B    |
+|time/item (WHO units/m (U/ml) (U/ml) l) 1031015 [0629] 21.63     |
+|Negative(<0. Negative(<0. 3) 3) *********檢驗室:SB*********** 群 |
+|組:Yes C3 Quantitat C4 Quantitat RA Factor (N ion ion            |
+|ephelometry) time/item (mg/dl) (mg/dl) (IU/mL) 1031015 [0629]    |
+|94.70 19.10 <11.50 *********檢驗室:HE*********** 群組:CBC+PLT WBC|
+|RBC HB HCT MCV time/item (k/μL) (M/μL) (g/dL) (%) (fL) 1031023   |
+|[0908] 8.96 4.37 13.8 40.2 92.0 MCH MCHC PLT RDW-CV PS time/item |
+|(pg) (g/dL) (k/μL) (%) () 1031023 [0908] 31.6 34.3 61 19.4 -     |
+|群組:WBC D/C Blast Promyl. Myelo. Meta Band time/item (%) (%) (%)|
+|(%) (%) 1031023 [0908] 24.0 0.0 0.0 1.0 2.0 Seg Eos. Baso. Mono. |
+|Lym. time/item (%) (%) (%) (%) (%) 1031023 [0908] 18.0 0.0 0.0   |
+|37.0 17.0 Aty.Lym. PlasmaCell Normobl. PS time/item (%) (%) () ()|
+|1031023 [0908] 1.0 0.0 0.0 /100 WBC WBC 100                      |
+|*********檢驗室:BC*********** 群組:General BioChemistry T-BIL AST|
+|ALT UN CRE time/item (mg/dL) (U/L) (U/L) (mg/dL) (mg/dL) 1031023 |
+|[0908] 0.70 32 118 24.2 0.9 *********檢驗室:CT*********** 群組:PT|
+|PT PT INR time/item (sec) () 1031023 [0908] 10.7 1.00 群組:PTT   |
+|PTT time/item (sec) 1031023 [0908] 24.8 群組:DIC Profile FDP     |
+|D-Dimer time/item (μg/mL) (μg/mL FEU) 1031023 [0908] 5.4 1.43 群 |
+|組:Clotting Factor Fibrinogen time/item (mg/dL) 1031023 [0908]   |
+|154.1 *********檢驗室:PO*********** 群組: Sugar(One to uch)      |
+|time/item (*) 1031029 [2143] 164 *********檢驗室:RL***********   |
+|群組:General BioChemistry UA ALB ALT ALP LDH time/item (mg/dL)   |
+|(g/dL) (U/L) (U/L) (U/L) 1031029 [2142] 63 1031031 [0532] 5.5 2.8|
+|54 58 322 1031102 [0455] 5.3 46 1031105 [0952] 4.6 30            |
+|群組:Biochemistry BUN CRE Na K T-BIL time/item (mg/dL) (mg/dL)   |
+|(mmol/L) (mmol/L) (mg/dL) 1031029 [2142] 0.7 129 4.1 1031031     |
+|[0532] 0.4 131 4.8 0.56 1031102 [0455] 21.3 0.5 137 3.9 0.58     |
+|1031105 [0952] 0.5 Ca P time/item (mmol/L) (mg/dL) 1031029 [2142]|
+|1031031 [0532] 2.10 3.8 1031102 [0455] 2.18 1031105 [0952]       |
+|群組:WBC Classification Blast Promyl. Myelo. Meta Band time/item |
+|(%) (%) (%) (%) (%) 1031029 [2142] 10.5 0.0 0.0 0.0 0.0 1031031  |
+|[0532] 2.0 0.0 0.0 0.0 0.0 1031102 [0455] 1.0 0.0 0.0 0.0 0.0    |
+|1031105 [0952] ?7.0 0.0 0.0 0.0 0.0 Seg Eos. Baso. Mono. Lym.    |
+|time/item (%) (%) (%) (%) (%) 1031029 [2142] 0.0 0.0 0.0 20.0    |
+|69.5 1031031 [0532] 2.0 0.0 0.0 32.0 62.0 1031102 [0455] 14.0 0.0|
+|0.0 20.0 64.0 1031105 [0952] 4.0 0.0 0.0 16.0 66.0 Aty.Lym.      |
+|PlasmaCell Normobl. PS time/item (%) (%) () () 1031029 [2142] 0.0|
+|0.0 0 /200 WBC WBC 200 1031031 [0532] 2.0 0.0 0.0 /100 WBC WBC   |
+|100 1031102 [0455] 1.0 0.0 0.0 /100 WBC WBC 100 1031105 [0952]   |
+|7.0 0.0 0.0 /100 WBC WBC 100 群組:CBC+PLT WBC RBC HB HCT MCV     |
+|time/item (K/μL) (M/μL) (g/dL) (%) (fL) 1031029 [2142] 37.19 3.84|
+|12.4 36.2 94.3 1031031 [0532] 7.54 2.85 9.3 26.5 93.0 1031102    |
+|[0455] 1.47 2.54 8.4 23.4 92.1 1031105 [0952] 1.77 3.30 10.6 30.4|
+|92.1 1031106 [0558] 1.26 2.67 8.9 25.3 94.8 MCH MCHC PLT RDW-CV  |
+|PS time/item (pg) (g/dL) (K/μL) (%) () 1031029 [2142] 32.3 34.3  |
+|36 21.0 - 1031031 [0532] 32.6 35.1 26 21.9 - 1031102 [0455] 33.1 |
+|35.9 23 21.8 - 1031105 [0952] 32.1 34.9 13 21.3 - 1031106 [0558] |
+|33.3 35.2 64 21.4 - 群組:STOOL Occult Blood Stool WBC time/item  |
+|(*) (/HPF) 1031030 [0705] Not found 1031102 [0906] Negative      |
+|群組:SEDIMENT RBC(S) WBC(S) EpithCell(S) Cast(S) Crystal(S)      |
+|time/item (/HPF) (/HPF) (/HPF) (/LPF) (*) 1031030 [0203] 0-2 0-2 |
+|0-2 - - Others(S) Bacteria time/item (*) (*) 1031030 [0203] - -  |
+|群組: Mucus(S) time/item (*) 1031030 [0203] - 群組:MULTISTIX Sp. |
+|Gr.(C) pH(C) Protein(C) Glu.(C) Ketones(C) time/item (*) (*)     |
+|(mg/dL) (mg/dL) (*) 1031030 [0203] 1.010 6.0 10 ( +/- ) 30 ( +/- |
+|) - O.B.(C) Urobil.(C) Bil.(C) Nitrite(C) WBC(C) time/item       |
+|(mg/dL) (mg/dL) (mg/dL) (*) (*) 1031030 [0203] - ≦1.5 - - - Color|
+|Turbidity time/item (*) (*) 1031030 [0203] Light Yellow -        |
+|*********檢驗室:B3*********** B3-1031030-9008624 RANDOM URINE    |
+|ID+DS Urine #1: Proteus mirabilis 4000 ID+DS Urine #2: Coagulase |
+|neg. staphylococci 2000 *********檢驗室:B2***********            |
+|B2-1031029-9008619 BLOOD ID+DS Blood.#1: No aerobic & anaerobic  |
+|pathogens *********檢驗室:RL*********** 群組:General BioChemistry|
+|ALB time/item (g/dL) 1031008 [0917] 4.2 群組:Biochemistry CRE    |
+|T-BIL time/item (mg/dL) (mg/dL) 1031008 [0917] 0.9 0.43 群組:Yes |
+|C-Reactive P rotein time/item (mg/dL) 1031008 [0917] 1.17        |
+|群組:WBC Classification Blast Promyl. Myelo. Meta Band time/item |
+|(%) (%) (%) (%) (%) 1031008 [0917] 39.0 0.0 1.0 0.0 1.0 Seg Eos. |
+|Baso. Mono. Lym. time/item (%) (%) (%) (%) (%) 1031008 [0917] 9.0|
+|0.0 1.0 1.0 47.0 Aty.Lym. PlasmaCell Normobl. PS time/item (%)   |
+|(%) () () 1031008 [0917] 1.0 0.0 0.0 /100 WBC WBC 100            |
+|群組:CBC+PLT WBC RBC HB HCT MCV time/item (K/μL) (M/μL) (g/dL)   |
+|(%) (fL) 1031008 [0917] 33.41 4.07 12.7 38.4 94.3 MCH MCHC PLT   |
+|RDW-CV PS time/item (pg) (g/dL) (K/μL) (%) () 1031008 [0917] 31.2|
+|33.1 52 17.7 -                                                   |
+|檢查紀錄(Examination Report)                                     |
+|pending                                                          |
+|影像報告(Imaging Report)                                         |
+|CT With/Without Contrast-Abdomen 醫令: CT With/Without           |
+|Contrast-Abdomen 報告醫師: 陳育青 影像時間: 2014/10/30 16:31     |
+|(33072B3M) 發報告時間: 2014/10/30 17:07 History: abdominal pain  |
+|with diarrhea for 10+ days diarrhea up to 10+ times/day fatigue  |
+|and poor appetite history of pre-T ALL/lymphoblastic lymphoma    |
+|under Didlucan+Baktar now (refractory fungal abscess at the      |
+|liver). Abdomen and pelvis CT with/without contrast enhancement  |
+|shows 1. The hypoenhancing nodules noted in the prior CT on      |
+|2014/10/9 are not apparent in this scan. Multiple hepatic cysts. |
+|2. A stone in the cystic duct. Distended gallbladder with        |
+|hyperdense content (probable contrast medium from last contrast  |
+|enhanced scan with hepatic excretion). 3. Bilateral renal cysts, |
+|up to 1.6cm in the left kidney. 4. Splenomegaly. 5. Unremarkable |
+|pancreas, adrenal glands. 6. Multiple lymph nodes at paracaval   |
+|and paraaortic region, right external and internal iliac region, |
+|right inguinal region. The sizes are smaller. 7. No ascites. 8.  |
+|Unremarkable uterus and adnexa. 9. Submucosal thickening at the  |
+|cecum, A-colon, to T-colon, with adjacent fat stranding and      |
+|peritoneal thickening. Compatible with colitis, including        |
+|typhlitis and pseudomembranous colitis. 10. Unremarkable         |
+|appendix. CT With/Without Contrast-Pelvis 醫令: CT With/Without  |
+|Contrast-Pelvis 報告醫師: 陳育青 影像時間: 2014/10/30 16:31      |
+|(33072B5M) 發報告時間: 2014/10/30 17:07 History: abdominal pain  |
+|with diarrhea for 10+ days diarrhea up to 10+ times/day fatigue  |
+|and poor appetite history of pre-T ALL/lymphoblastic lymphoma    |
+|under Didlucan+Baktar now (refractory fungal abscess at the      |
+|liver). Abdomen and pelvis CT with/without contrast enhancement  |
+|shows 1. The hypoenhancing nodules noted in the prior CT on      |
+|2014/10/9 are not apparent in this scan. Multiple hepatic cysts. |
+|2. A stone in the cystic duct. Distended gallbladder with        |
+|hyperdense content (probable contrast medium from last contrast  |
+|enhanced scan with hepatic excretion). 3. Bilateral renal cysts, |
+|up to 1.6cm in the left kidney. 4. Splenomegaly. 5. Unremarkable |
+|pancreas, adrenal glands. 6. Multiple lymph nodes at paracaval   |
+|and paraaortic region, right external and internal iliac region, |
+|right inguinal region. The sizes are smaller. 7. No ascites. 8.  |
+|Unremarkable uterus and adnexa. 9. Submucosal thickening at the  |
+|cecum, A-colon, to T-colon, with adjacent fat stranding and      |
+|peritoneal thickening. Compatible with colitis, including        |
+|typhlitis and pseudomembranous colitis. 10. Unremarkable         |
+|appendix. Abdomen:KUB 醫令: Abdomen:KUB 報告醫師: 陳邦斌         |
+|影像時間: 2014/10/29 22:05 (32006C0M) 發報告時間: 2014/10/30     |
+|09:01 clear bilateral psoas shadows. unremarkable small bowel gas|
+|pattern. no definite radiopaque stones. a calcified nodular focus|
+|in the left iliac wing. mild lumbar spondylosis with tiny        |
+|marginal spur formation at multiple levels. essential intact of  |
+|bil. sacroiliac joints. Chest : PA View (Standing) 醫令: Chest : |
+|PA View (Standing) 報告醫師: 陳邦斌 影像時間: 2014/10/29 22:04   |
+|(32001CXM) 發報告時間: 2014/10/30 09:17 normal heart size. no    |
+|active lung lesion. bilateral sharp costophrenic angles.         |
+|thoracolumbar spondylosis with marginal spur formation at        |
+|multiple levels. no evidence of free air. CT With Contrast-Chest |
+|醫令: CT With Contrast-Chest 報告醫師: 王甄 影像時間: 2014/10/09 |
+|16:15 (33071B2M) 發報告時間: 2014/10/11 20:36 CT of chest without|
+|and with contrast enhancement is read and compared with prior    |
+|study dated 2014/8/29. This CT study shows: - Lungs: tiny        |
+|nonspecific opacity at LUL (SE9 IM15), stationary. a 0.27cm      |
+|nodule in LUL (9/21), stable. a 0.34cm nodule in RML (9/26) and a|
+|0.6cm nodule in RLL (9/33), hard to compare with prior since     |
+|there were more subsegmental atelectasis at right lung on prior  |
+|CT and thus obscuring part of lung detail. - Pleura: minimal     |
+|right pleural effusion. - Thoracic lymph nodes: small LN at      |
+|mediastinum, stable. larger or new right hilar LN. LAP at        |
+|bilateral supraclavicular regions, larger. LN at right axilla,   |
+|more prominent. - Heart/great vessels: no definite lesion.       |
+|pericardial effusion. - Bones/Soft tissues: spondylosis with     |
+|marginal spur formation. also suggest correlate with abdominal CT|
+|report. CT With Contrast-Pelvis 醫令: CT With Contrast-Pelvis 報 |
+|告醫師: 陳育青 影像時間: 2014/10/09 16:15 (33071B5M) 發報告時間: |
+|2014/10/09 16:55 History: lymphoma. Abdomen and pelvis CT        |
+|with/without contrast enhancement shows 1. Multiple hypoenhancing|
+|nodules in the liver (key images), lymphoma involvement cannot be|
+|excluded. Multiple hepatic cysts up to 2.3cm in S4a. 2. A stone  |
+|in the cystic duct. Distended gallbladder with hyperdense content|
+|(probable contrast medium from last contrast enhanced scan with  |
+|hepatic excretion). 3. Bilateral renal cysts, up to 1.6cm in the |
+|left kidney. 4. Splenomegaly. 5. Unremarkable pancreas, adrenal  |
+|glands. 6. Multiple lymphadenopathy at paracaval and paraaortic  |
+|region, right external and internal iliac region, right inguinal |
+|region. 7. No ascites. 8. Unremarkable uterus and adnexa. 9.     |
+|Submucosal thickening at the cecum and A-colon. CT With/Without  |
+|Contrast-Abdomen 醫令: CT With/Without Contrast-Abdomen 報告醫師:|
+|陳育青 影像時間: 2014/10/09 16:15 (33072B3M) 發報告時間:         |
+|2014/10/09 16:55 History: lymphoma. Abdomen and pelvis CT        |
+|with/without contrast enhancement shows 1. Multiple hypoenhancing|
+|nodules in the liver (key images), lymphoma involvement cannot be|
+|excluded. Multiple hepatic cysts up to 2.3cm in S4a. 2. A stone  |
+|in the cystic duct. Distended gallbladder with hyperdense content|
+|(probable contrast medium from last contrast enhanced scan with  |
+|hepatic excretion). 3. Bilateral renal cysts, up to 1.6cm in the |
+|left kidney. 4. Splenomegaly. 5. Unremarkable pancreas, adrenal  |
+|glands. 6. Multiple lymphadenopathy at paracaval and paraaortic  |
+|region, right external and internal iliac region, right inguinal |
+|region. 7. No ascites. 8. Unremarkable uterus and adnexa. 9.     |
+|Submucosal thickening at the cecum and A-colon. CT With          |
+|Contrast-Head and Neck(Skull Base to Clavicle) 醫令: CT With     |
+|Contrast-Head and Neck(Skull Base to Clavicle) 報告醫師: 林彥亨  |
+|影像時間: 2014/10/09 16:15 (33071B1M) 發報告時間: 2014/10/09     |
+|17:06 CT scan of the neck with/without contrast enhancement      |
+|shows: 1. Extensive lymphadenopathies at bilateral               |
+|supracalvicular fossa, left posterior cervical space, and        |
+|bilateral jugular chain. 2. Fluid collection in the left         |
+|maxillary sinus. 3. No definite focal lesion in the              |
+|pharyngomucosal space. 4. Cervical spondylosis with marginal spur|
+|formation. 5. No definite destructive bony lesion in the neck    |
+|region. Chest : PA View (Standing) 醫令: Chest : PA View         |
+|(Standing) 報告醫師: 陳信嘉 影像時間: 2014/10/08 09:31 (32001CXM)|
+|發報告時間: 2014/10/08 09:42 chest radiograph shows normal heart |
+|size and mild fibrotic change at the left lower lung zone; sharp |
+|bilateral costophrenic angles; thoracolumbar spondylosis;        |
+|recommend clinical correlation.                                  |
+|病理報告(Pathology Report)                                       |
+|S1329668 Bone marrow,iliac crest,core biopsy,lymphoma/leukemia   |
+|involvement see description, S1328120 Lymph node,neck,level      |
+|III,left,core biopsy,T zone expansion (see description), L1300763|
+|S1329517 Lymph node,neck, level III, right,excisional            |
+|biopsy,lymphoma/leukemia involvement see description, L1400010   |
+|S1400618 Bone marrow,site not stated,core biopsy,no morphologic  |
+|evidence of leukemia/lymphoma L1400546 L1400264                  |
+|臆斷(Tentative Diagnosis)                                        |
+|1. Refractory Pre-T acute lymphoblastic leukemia/lymphoma 2.     |
+|Suspected intraabdominal infection, colitis/appendicitis? 3.     |
+|Previous hepatic fungal infection 4. Paranasal sinusitis,        |
+|resolved                                                         |
+|醫療需求與治療計畫(Medical Needs and Care Plan)                  |
+|*1. Refractory Pre-T acute lymphoblastic leukemia/lymphoma 2.    |
+|Suspected intraabdominal infection, colitis/appendicitis? 3.     |
+|Previous hepatic fungal infection 4. Paranasal sinusitis,        |
+|resolved S: Abdominal pain, diarrhea, with intermittent fever for|
+|10+ days O: Tenderness(+) and rebounding pain(+) at mainly right |
+|side lab HB 8.9 ; WBC 1.26 K/μL ; PLT 64 K/μL 10/30 CT           |
+|Progression of the colon submucosal edema, compatible with       |
+|colitis, including typhlitis and pseudomembranous colitis.       |
+|Decreasing liver lesions. Decreasing sizes of lymphadenopathy.   |
+|11/3 Abd echo Bowel wall thickening at ICV, cecum and A-colon,   |
+|r/o colon tumor. Fatty liver, mild. GB stones. A: Suspecteed     |
+|intraabdominal infection, colitis/appendicitis?, r/o colon tumor.|
+|P: . Keep broad spectrum ABXs including fluconazole . Pursue     |
+|Blood culture results . On CVC tomorrow for TPN . f/u CBC, BCS,  |
+|electrolytes, Aspergillus Ag tomorrow . skull paranasal sinuses  |
+|Treatment Goal: . Afebrile ; GI symptoms releived                |
+|出院規劃(Discharge Planning)                                     |
+|管路留置狀況:無 日常生活功能分數：100 預期出院後居住場所：與家人 |
+|同住 預期出院後主要照顧者：自己 出院規劃收案篩檢：一般病患       |
+|主治醫師評論(VS Comments)                                        |
+|I agree with the assessment of the resident.                     |
+|醫師姓名                                                         |
+|陳尹愷 主治醫師                                                  |
+

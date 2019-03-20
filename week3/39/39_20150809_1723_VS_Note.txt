@@ -1,0 +1,33 @@
+
+Previous attempts at reducing MV setting was coincidently confronted with
+GU bleeding.
+Fever 8/6. Under antibiotic and antifungal treatment.
+2015/08/07 ID+DS Blood.#1:Yeast-like organism   *
+2015/08/08 ID+DS Blood.#1:Yeast-like organism   *
+2015/08/08 ID+DS Urine #1:Yeast-like organism 5000   /ml
+2015/08/08 ID+DS Sputum Culture #1:Stenotrophomonas maltophilia 3+   *
+2015/08/09 ALB:2.0   g/dL
+2015/08/09 BUN:55.0   mg/dL
+2015/08/09 CRE:2.1   mg/dL
+2015/08/09 Na:143   mmol/L
+2015/08/09 K:4.4   mmol/L
+2015/08/09 AST:51   U/L
+2015/08/09 ALT:13   U/L
+2015/08/09 T-BIL:1.45   mg/dL
+2015/08/09 WBC:6.96   K/μL
+2015/08/09 HB:8.8   g/dL
+2015/08/09 PLT:109   K/μL
+2015/08/09 PH:7.405   *
+2015/08/09 PCO2:26.8   mmHg
+2015/08/09 PO2:51.2   mmHg
+2015/08/09 HCO3:17.0   mmol/L
+2015/08/09 16:31 T:36.7 P:108 R:20
+2015/08/09 12:23 T:37.3 P:110 R:26
+2015/08/09 09:08 T:37.3 P:94 R:18
+2015/08/09 04:58 T:36.8 P:93 R:14
+2015/08/09 00:52 T:36.6 P:88 R:17
+2015/08/08 21:03 T:36.8 P:99 R:18
+2015/08/09 16:32 BP:121/51
+2015/08/09 12:23 BP:135/79
+2015/08/09 09:09 BP:133/67
+2015/08/09 04:58 BP:107/73

@@ -1,0 +1,24 @@
+
+S/P tracheostomy 9/1.
+Discuss with GI expert about the consideration of management.
+Active weaning appeared not feasible at present condition.
+Monitor renal function and try to remove excessive fluid in the body.
+2015/09/06 BUN:77.6   mg/dL
+2015/09/06 CRE:3.3   mg/dL
+2015/09/06 C-Reactive Protein:9.13   mg/dL
+2015/09/06 WBC:9.72   K/μL
+2015/09/06 HB:8.0   g/dL
+2015/09/06 PLT:141   K/μL
+2015/09/06 PH:7.374   *
+2015/09/06 PCO2:35.5   mmHg
+2015/09/06 PO2:38.6   mmHg
+2015/09/06 HCO3:20.9   mmol/L
+2015/09/07 05:03 BP:118/58
+2015/09/07 01:17 BP:102/45
+2015/09/06 20:44 BP:131/56
+2015/09/07 05:04 SpO2:97%(45%,L,VCR)
+2015/09/07 01:17 SpO2:99%(45%,L,VCR)
+2015/09/06 20:44 SpO2:98%(45%,L,VCR)
+2015/09/07 05:03 T:36.6 P:73 R:15
+2015/09/07 01:17 T:36.4 P:77 R:20
+2015/09/06 20:44 T:35.9 P:76 R:15

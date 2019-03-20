@@ -1,0 +1,25 @@
+
+Event: The patient's son had many questions of treatment policy [including
+seizure control, intra-abdominal abscess aspiration, right pleural effusion
+control]
+
+Impression:
+# Sigmoid diverticulitis with abscess
+# Ventilator associated pneumonia with right parapneumonic effusion s/p
+pleurocentesis on 3/30 (750ml)
+# Seizure (EEG on 4/2)
+# Hypoalbuminemia with general edema (alb 2.4) status albumin infusion
+# Af with RVR on 3/30 under amidarone, improved
+# Suspect GI tract bleeding, subsided (refused endoscopy)
+# Hyponatremia
+
+Family Meeting Summary:
+Time: 2015/04/03 15:10-16:10
+Concensus:
+1.蔡宏斌醫師在4/03下午在床邊做肺部超音波掃描發現右側仍有大量肋膜積水,預計在下
+周找胸腔內科專家放置豬尾巴導管慢慢引流, 因此出院時間會再延長。
+2.病人兒子要求自費施打白蛋白, 醫師會根據病人的需要給予。
+3.骨盆腔的膿瘍很黏稠,可能會像果凍一樣不好抽出來, 下周會請較放射科專家,
+必要時再召開家庭會議。
+4.病人預計在4/04中午轉到7D病房單人房繼續照顧, 交由蔡宏斌醫師繼續負責主治。
+5.4/04會抽血並加驗腫瘤指標,排除右側肋膜積水為癌性胸水的可能性。

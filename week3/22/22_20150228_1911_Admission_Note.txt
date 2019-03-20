@@ -1,0 +1,243 @@
+
+2015/02/28 19:11 | |
+|主訴(Chief Complaint)                                            |
+|Informant: nurse from 嘉仁康復之家 Sudden collapse after choking |
+|at around 10:05 am on 2015/2/28.                                 |
+|病史(Brief History)                                              |
+|【Present Illness】 This is a 61-year-old female with the medical|
+|history of 1. Schizophrenia 2. Bipolar disorder 3. Hypertension  |
+|4. Lumbar spondylosis The patient was diagnosed of having        |
+|Schizophrenia and bipolar disorder around age of 20. She is a    |
+|heavy smoker and had the history of suicide attempt. She was     |
+|divorced and lost of contact with her son and her sister. She    |
+|became a nursing home resident at 嘉仁康復之家 since 2010.       |
+|According to nurse in nursing home, the patient suffered from    |
+|sudden collapse at around 10:00 am while eating bread in the     |
+|nursing home on 2015/2/28. The patient fell down on the floor and|
+|her consciousness became drowsy with cyanotic lip. The nurse     |
+|performed Heimlich maneuver for the suspicion of choking but in  |
+|vain. Pulseless electrical activity was found. They started chest|
+|compression since 10:05 am. Endotracheal intubation was performed|
+|at 10:11am by EMS team and they kept cardiopulmonary             |
+|resuscitation. The patient was sent to 台北中興 Hospital at 10:26|
+|am. CPCR was kept and the patient returned her spontaneous       |
+|circulation at 10:50 am. ECG showed sinus rhythm with diffuse ST |
+|depression over lead I, II, AVL and V2-V6. Laboratory examination|
+|showed mixed metabolic and respiratory acidosis (VBG: PH: 7.094, |
+|PCO2: 49.1, PO2: 28.4, HCO3: 14.7, BE:-15.0) and high CK-MB:     |
+|43U/L. Vasopressor with norepinephrine was prescribed for        |
+|hypotension after right femoral CVC was inserted. For poor       |
+|consciousness, non-contrast brain CT showed no intracranial      |
+|hemorrhage. Under the impression of acute coronary syndrome with |
+|cardiogenic shock, Heparin infusion, Aspirin 300mg and Plavix    |
+|(75mg) 8 tabs were given. She was transferred to emergency       |
+|department of NTUH for cardiac catheterization. At triage, his   |
+|consciousness was E1M1Vt. Her body temperature was 34.8 degree.  |
+|The heart rate was 94/min and respiratory rate was 20/min. His   |
+|blood pressure was 127/65mmHg under Norepinephrine. Her bilateral|
+|pupil dilated without light reflex. Following ECG showed normal  |
+|sinus rhythm and ST segment returned to baseline. The chest x-ray|
+|showed cardiomegaly. The cardiac sonogram showed LVEF 79.5%,     |
+|normal systolic function over left ventricle and no regional wall|
+|motion abnormalities. Laboratory examination showed              |
+|CK/CK-MB/TropI: 221/76/0.03 and Pro-BNP was 70.3 pg/ml. The      |
+|cardiologist suggested acute coronary syndrome was less likely.  |
+|Tazocin was prescribed for the suspicion of aspiration pneumonia.|
+|Under the diagnosis of out of hospital cardiac arrest, pulseless |
+|electrical activity, suspect aspiration related. She was         |
+|transferred to MICU for further care on 2015/2/28. 【Past Medical|
+|History】 1. Medical history: 1. Schizophrenia 2. Bipolar        |
+|disorder 3. Hypertension 4. Lumbar spondylosis 2. Allergy:       |
+|Medication allegy: unclear 2015/2/28 Medication ADR: unknown     |
+|Allergy to Medical Device and Materials: unknown 3. Surgical     |
+|history: Unclear 4. TOCC: T:travel history：nil O:occupation     |
+|：nil C:contact ：nil C:cluster ：nursing home resident at       |
+|嘉仁康復之家 5. Medications: NTUH: nil Other: Queropin           |
+|(Quetiapine 200mg/tab) 2 tab HS Dalpam (Flurazepam 30mg/tab) 2   |
+|tab HS Lorazin (Lorazepam 1mg/tab) 1 tab HS Ligilin (Lithium     |
+|300mg/tab) 1 tab TID Winsumin (Chlorpromazine 25mg/tab) 2 tab HS |
+|Betaloc (metoprolol 100mg/tab) 1tab QD Exforge                   |
+|(amlodipin/valsartan 5/80mg/tab) 1tab QD Behyd                   |
+|(Benzylhydrochlorothiazide 4mg/tab) 1tab QD Vit B complex 2tab   |
+|BID Ediol (Estradiol 1mg/tab) 1tab QD Dulcolax 5mg/tab 1tab TID  |
+|Mopride 5mg/tab 1tab TID Stazyme 1tab TID Conspin (Tolperison    |
+|100mg/tab) 1tab HS Alinamin F (Thiamine 50mg/tab) 1 tab HS       |
+|Mobicam (Meloxicam 15mg/tab) 1 tab QD 中草藥: unclear 保健食品:  |
+|denied 6. Hospitalization: 2010 署立台北醫院. Schizophrenia,     |
+|bipolar disorder 【Personal and Family History】 1. Financial    |
+|status: poor. ho family support for years 2. Support system: poor|
+|(福保) 3. Life style: (1) Smoking: at least 1PPD (2) Alcohol     |
+|consumption: social drinker (3) Betel nut chewing: unclear 4.    |
+|Family history: unclear 5. Blood type: unclear 6. Marital status:|
+|divorced                                                         |
+|社會心理相關評估(Psychosocial Assessment)                        |
+|Social Economic and Personal History 教育程度:高中 職業:無       |
+|宗教信仰:無 婚姻狀態:離婚 使用語言:國語 台語 口述血型:O，RH:不清 |
+|楚，輸血反應:沒輸過血 抽煙:沒有 喝酒:沒有 檳榔:沒有 物質濫用:沒有|
+|Psychological History and Evaluation 意識狀態:半昏迷 認知功能:無 |
+|法評估 精神情緒狀態:無法評估 安全問題:有 其他 預防跌倒和管路安全 |
+|睡眠形態:異常 其他 半昏迷 Nutritional Screen 攝食情形: 排便狀態: |
+|異常 排便異常狀態:其他 其他排便異常狀態:暫未解便 BMI:38.79 Fall  |
+|Risk Assessment 總分:15 (>=3分進行不倒翁計畫，請開預防跌倒醫囑)  |
+|系統性回顧(Review of System)                                     |
+|系統性回顧(Review of System) (■:positive, □:negative) 1.Systemic:|
+|□fever, □chills, □easy-fatigability, ■consciousness disturbance  |
+|(2014/2/28 around 10:00 after choking) □weight change, □night    |
+|sweats, □heat/cold intolerance, □thirsty □diffuse                |
+|arthralgias/myalgias, □insomnia 2.Skin: □rash, □pruritis,        |
+|□dryness, □ulcers, □color changes, □moles, □plaque □hair loss,   |
+|□hirsutism, □telangiectasia □petechiae, □purpura 3.Head:         |
+|□headache, □dizziness, □vertigo, □alopecia, □head trauma 4.Eyes: |
+|□ocular pain, □diplopia, □vision loss, □blurred vision, □redness,|
+|□photophobia, □excess tearing □poor visual acuity, □cataracts,   |
+|□glaucoma 5.Ears/Nose: □otalgia, □otorrhea, □hearing impairment, |
+|□tinnitus, □sinus pain, □nasal congestion, □rhinorrhea,          |
+|□epistaxis, □anosmia 6.Mouth/Throat: □oral ulcer, □gum bleeding, |
+|□dental problems □sore throat, □dysphagia, □odynophagia,         |
+|□hoarseness 7.Cardio-Respiratory: □cough, □sputum, □dyspnea:at   |
+|rest/exertional, □pleuritic pain, □tachypnea, □hemoptysis, □chest|
+|tightness, □orthopnea, □paroxysmal nocturnal dyspnea, □syncope,  |
+|□palpitation, □intermittent claudication 8.Gastrointestinal:     |
+|□anorexia, □nausea, □vomiting:bilious/feculent, □hematemesis     |
+|□heartburn, □acid regurgitation, □belching, □hiccup □abdominal   |
+|pain:______, □hunger pain, □diarrhea, ■constipation, □melena,    |
+|□clay-colored stool □change of bowel habit, □tenesmus,           |
+|□flatulence 9.Genito-urinary: □urinary frequency, □urgency,      |
+|□dysuria, □hesitancy, □incontinence, □nocturia, □polyuria,       |
+|□oliguria □small stream of urine, □cloudy urine, □hematuria,     |
+|□flank pain, □impotence, □abnormal sexual exposure               |
+|10.Musculoskeletal: ■bone pain, □arthralgia, □myalgia, □back pain|
+|□joint stiffness, □cramps, □fractures 11.Neurological: □numbness,|
+|□paresis/plegia, □convulsion, □paresthesia, □ataxia, □resting    |
+|tremor, □gait disturbance, 12.Psychiatric: ■insomnia, □memory    |
+|loss, □anxiety, □panic, □confusion □hallucination, □delusion,    |
+|■suicidality (suicidal attemp, more than 4 years ago)            |
+|身體檢查(Physical Examination)                                   |
+|BH:153 cm BW:90.8 kg T:36.1 P:64 R:12 BP:128/82 mmHg Pain:0      |
+|Neurological Examination: . Consciousness: clear, E1M1V1 . Muscle|
+|power: RUL/LUL/RLL/LLL: 1/1/1/1 . Gait: could not measure due to |
+|high risk of fall Head-Eye-ENT endotracheal tube (+) Conjunctiva:|
+|pink; Sclera: anicteric; Pupil: isocoric(5mm/5mm); bilateral     |
+|dilatation. no light reflex Neck Jugular vein engorgement(-);    |
+|Lymphadenopathy (-); goiter(-) Meningismus: Kernig sign(-);      |
+|Brudzinski sign(-); Carotid bruit(-) Chest Thoracic cage contour:|
+|symmetric, no deformity nor distension no increased              |
+|anterior-posterior (AP) diameter Vocal fremitus and expansion:   |
+|symmetric Percussion: normo-resonant Auscultation: bilateral     |
+|coarse Heart Heart beat: regular. no heart murmur Abdomen        |
+|Distended. hypoactive bowel sound no rebound tenderness, no      |
+|muscle guarding Superficial vein engorgement(-) Protruded        |
+|umbilicus(-) Tenderness(-) Hepato-jugular reflux(-) Liver and    |
+|spleen: impalpable Operation scar at lower abdomen Extremities:  |
+|no pitting edema (-). Hematoma over left inguinal area. Right    |
+|femoral CVC Skin Abnormal pigmentation(-) Petechiae(-) Purpura(-)|
+|Ecchymoses(-) lymphadenopathy: neck(-), axilla(-),               |
+|epitrochlear(-), inguinal(-)                                     |
+|檢驗紀錄(Laboratory Report)                                      |
+|*********檢驗室:YM*********** 群組: Free Ca(急重症自 Hb(急重症自 |
+|行檢驗) Hct(急重症自行檢驗) K+(急重症自行檢驗) Na(急重症自行檢驗)|
+|行檢驗) time/item (mmol/L) (g/dL) (%) (mmol/L) (mmol/L) 1040228  |
+|[1442] 1.17 11.8 35 3.44 138.7 群組:Yes pH pCO2 pO2 HCO3         |
+|BaseExcess time/item () (mmHg) (mmHg) (mmol/L) (mmol/L) 1040228  |
+|[1442] 7.505 18.9 363.8 15.1 -8.3 SO2 time/item (%) 1040228      |
+|[1442] 100.0 *********檢驗室:RL*********** 群組:Biochemistry Cl  |
+|T-BIL AST time/item (mmol/L) (mg/dL) (U/L) 1040228 [1450] 107    |
+|0.47 256 群組:General BioChemistry ALP time/item (U/L) 1040228   |
+|[1450] 79 *********檢驗室:OP*********** 群組:SEDIMENT RBC (S) WBC|
+|(S) Epith (S) Cast (S) Crystal (S) time/item (/HPF) (/HPF) (/HPF)|
+|(/LPF) (*) 1040228 [1514] >100 >100 0-2 - - Bacteria Mucus(S)    |
+|Others (S) time/item (*) (*) (*) 1040228 [1514] + - -            |
+|群組:MULTISTIX Sp. Gr.(C) pH Protein(C) Glu.(C) Ketone body (U)  |
+|time/item (*) (*) (mg/dL) (mg/dL) (*) 1040228 [1514] 1.011 6.0 30|
+|( 1+ ) 200 ( 2+ ) +/- O.B.(C) Urobil.(C) Bil.(C) Nitrite(C) WBC  |
+|esterase (U) time/item (mg/dL) (mg/dL) (mg/dL) (*) (*) 1040228   |
+|[1514] 3+ ≦1.5 - - 3+ Color Turbidity time/item (*) (*) 1040228  |
+|[1514] Light Orange + *********檢驗室:YM*********** 群組: Free   |
+|Ca(急重症自 Hb(急重症自行檢驗) Hct(急重症自行檢驗) K+(急重症自行 |
+|檢驗) Na(急重症自行檢驗) 行檢驗) time/item (mmol/L) (g/dL) (%)   |
+|(mmol/L) (mmol/L) 1040228 [1202] 1.20 12.1 36 3.56 137.5         |
+|Suger(急重症自行檢 LacticAcid(急 驗) 重症自行檢驗) time/item     |
+|(mg/dL) (mmol/L) 1040228 [1202] 304 8.1 群組:Yes pH pCO2 pO2 HCO3|
+|BaseExcess time/item () (mmHg) (mmHg) (mmol/L) (mmol/L) 1040228  |
+|[1202] 7.245 33.6 71.5 14.7 -12.8 SO2 time/item (%) 1040228      |
+|[1202] 91.4 *********檢驗室:RL*********** 群組:Yes D-Dimer       |
+|pro-BNP time/item (μg/mL FEU) (pg/mL) 1040228 [1214] 70.3 1040228|
+|[1233] 22.47 群組:Biochemistry BUN CRE Na K Ammonia N time/item  |
+|(mg/dL) (mg/dL) (mmol/L) (mmol/L) (μmol/L) 1040228 [1214] 12.7   |
+|1.1 136 3.9 30 Ca Mg LacticAcid CK CK-MB time/item (mmol/L)      |
+|(mmol/L) (mmol/L) (U/L) (U/L) 1040228 [1214] 2.05 0.88 8.24 221  |
+|76 %CKMB Troponin I time/item (%) (ng/mL) 1040228 [1214] 34.4    |
+|0.030 群組:General BioChemistry ALB ALT time/item (g/dL) (U/L)   |
+|1040228 [1214] 3.4 213 群組:Coagulation PT PTT PT INR time/item  |
+|(sec) (sec) () 1040228 [1214] 11.9 86.7 1.10 群組:WBC            |
+|Classification Blast Promyl. Myelo. Meta Band time/item (%) (%)  |
+|(%) (%) (%) 1040228 [1214] 0.0 0.0 3.0 1.0 9.0 Seg Eos. Baso.    |
+|Mono. Lym. time/item (%) (%) (%) (%) (%) 1040228 [1214] 72.0 0.0 |
+|1.0 1.0 12.0 Aty.Lym. PlasmaCell Normobl. PS time/item (%) (%) ()|
+|() 1040228 [1214] 1.0 0.0 0.0 /100 WBC WBC 100 群組:CBC+PLT WBC  |
+|RBC HB HCT MCV time/item (K/μL) (M/μL) (g/dL) (%) (fL) 1040228   |
+|[1214] 26.03 3.78 12.0 35.9 95.0 MCH MCHC PLT RDW-CV PS time/item|
+|(pg) (g/dL) (K/μL) (%) () 1040228 [1214] 31.7 33.4 331 13.0 -    |
+|*********檢驗室:PO*********** 群組: Sugar(One to uch) time/item  |
+|(*) 1040228 [1216] 279 1040228 [1450] 271 1040228 [1624] 265     |
+|*********檢驗室:BK*********** 群組:Yes antibody scr een(New Lis) |
+|time/item (*) 1040228 [1214] Negative 群組:Blood Type ABO Typing |
+|RH Typing time/item (*) (*) 1040228 [1214] O Positive            |
+|檢查紀錄(Examination Report)                                     |
+|nil                                                              |
+|影像報告(Imaging Report)                                         |
+|2015/2/28 Chest : AP View (Supine) increased bilateral lung      |
+|markings, cardiomegaly is noted, status post endotracheal tube   |
+|insertion. spondylosis and degenerative changes with marginal    |
+|spurs are noted, of the T-spine. suggest correlated with clinical|
+|manifestation.                                                   |
+|病理報告(Pathology Report)                                       |
+|nil                                                              |
+|臆斷(Tentative Diagnosis)                                        |
+|1. Out of hospital cardiac arrest, pulseless electrical activity,|
+|status post cardiopulmonary resuscitation, with return of        |
+|spontaneous circulation in 45 minutes (2015/2/28), suspect       |
+|aspiration related 2. Suspect aspiration pneumonia on Tazocin    |
+|(2/28-) 3. Schizophrenia 4. Bipolar disorder 5. Hypertension 6.  |
+|Lumbar spondylosis                                               |
+|醫療需求與治療計畫(Medical Needs and Care Plan)                  |
+|1. Out of hospital cardiac arrest, pulseless electrical activity,|
+|status post cardiopulmonary resuscitation, with return of        |
+|spontaneous circulation in 45 minutes (2015/2/28), suspect       |
+|aspiration related 2. Suspect aspiration pneumonia on Tazocin    |
+|(2/28-) 3. Schizophrenia 4. Bipolar disorder 5. Hypertension 6.  |
+|Lumbar spondylosis S: sudden collapse at around 10:05 after      |
+|choking now in comatous status O: T/P/R: 36.1/64/12, BP: 128/82  |
+|Under levophed 10cc/hr Ventilator: PCV IP: 16, RR: 12, PEEP: 6,  |
+|FiO2:40% [Physical examination] GCS: E1M1VT HEENT: bilateral     |
+|pupil dilatation Heart: regular heart beats Chest: bilateral     |
+|coarse Abdomen: mild distension. Hypoactive bowel sound          |
+|Extremities: no pitting edema [Laboratory examination] 2/28      |
+|WBC/HB/PLT: 26.03K (Seg: 72%, band 9%)/12.0/331K CK/CK-MB/TropI: |
+|221/76/0.03, Pro-BNP: 70.3 ALT:213*(H), BUN/CRE:127/1.1,         |
+|Na/K/Ca/Mg: 136/3.9/2.05/0.88 NH3:30, lactate: 8.24*(H) ABG:     |
+|7.505/18.9/363.8/15.1/-8.3 (FiO2:60%) [ECG] 10:52 Sinus          |
+|tachycardia. Diffuse ST depression over lead I, II, AVL, V2-V6   |
+|12:08 Normal sinus rhythm. ST segment return to baseline 14:44   |
+|normal sinus rhythm, QTc prolongation. [Cardiac echo] LVEF:      |
+|79.5%, LVEDD/ESD: 54.8/11.2, Normal LV systolic function. No RWMA|
+|A: 1. Out of hospital cardiac arrest, pulseless electrical       |
+|activity, status post cardiopulmonary resuscitation, with return |
+|of spontaneous circulation in 45 minutes (2015/2/28), suspect    |
+|aspiration related 2. Suspect aspiration pneumonia on Tazocin    |
+|(2/28-) Plans 1. Keep Tazocin for aspiration pneumonia 2. Follow |
+|ECG and cardiac enzymes 3. Consult social worker for poor family |
+|support 4. Consider hypothermia therapy 5. Keep ventilator       |
+|support, titrate as possible 6. Closely monitor neurological     |
+|signs. May arrange EEG later. Treatment Goal: Consciousness level|
+|return to E4M6V5 Keep SBP>100mmHg and off vasopressor            |
+|出院規劃(Discharge Planning)                                     |
+|管路留置狀況:有 靜脈管路留置(含Hickman / Port-A)：有 右腹股溝 雙 |
+|腔導管留置：無 鼻胃管留置：有 16Fr. 氣管管路留置：有 氣管內管    |
+|7.5mm 胃造廔口：無 尿管留置：有 Two way Foley 16Fr. 膀胱造廔：無 |
+|傷口引流管：無 其他導管：無 日常生活功能分數：0 預期出院後居住場 |
+|所：其他，需註明 康復機構 預期出院後主要照顧者：自己             |
+|出院規劃收案篩檢：高危病患 帶有管路 功能量表未滿60分             |
+|醫師姓名                                                         |
+|楊景堯 主治醫師                                                  |
+

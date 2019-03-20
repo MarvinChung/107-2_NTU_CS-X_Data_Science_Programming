@@ -1,0 +1,273 @@
+
+2015/02/23 12:58 | |
+|主訴(Chief Complaint)                                            |
+|Informant:Previous medical records, ER staff and her family      |
+|Progressive respiratory distress for days                        |
+|病史(Brief History)                                              |
+|This 25 y/o girl with MDS, RA type, s/p allogeneic SCT on        |
+|2014/01/15, with GVHD presented with progressive respiratory     |
+|distress after dicahrged from NTUH on 2015/02/17. She was        |
+|BiPAP-dependent upon last discharge, and the latest CT result    |
+|showed possible GVHD-related lung changes. Lung function test was|
+|performed on 2015/02/13, which disclosed FEV1 18% and FVC 40%.   |
+|However, progressive respiratory distress was told at home with  |
+|no improvement even after level titrated to PIP 22/PEEP 4; O2    |
+|5L/min, and she was taken to NTUH ER for help. Upon the arrival, |
+|she presented with low-grade fever to 37.8C with shortness of    |
+|breath. Septic workup was done. Initial blood gas showed         |
+|respiratory acidosis with evident CO2 retention(pCO2 91.2). Lab  |
+|data showed leukocytosis(WBC:16.35K) with left shift, and the    |
+|lactic acid level was 0.6 initially. Urinalysis showed pyuria(WBC|
+|75~100) with bacteriuria +. CXR showed no evident patchy lesion, |
+|but increased hilar infiltration was seen(Pending for formal     |
+|report). However, the respiratory condition worsened rapidly, and|
+|intubation was done in ER(6.5Fr ETT, fixed at 22cm). Under the   |
+|impression of respiratory failure, infection-related, status post|
+|intubation, she was admitted to PICU for further care. As for the|
+|MDS part, she had the initial presentation of anemia and         |
+|leukopenia, intermittent arthralgia, and on and off fever. The   |
+|diagnosis was made by BM study on 2010/6/25, which showed:       |
+|1.slightly hypocellular marrow 2.megakaryocytes was adequate 3.  |
+|some micromegakaryocytes & dysplatic megakakarocytes could be    |
+|found 4.megablastic change of myelod & erythroid series were     |
+|noticed with prominent dysplasia. MDS was compatible. Folic acid |
+|was given since 2010/6/25., and she received regular follow-up in|
+|haematology and immunology OPD. Two episodes of septic shock was |
+|found on 2013/06/28 (Neutropenic fever with B/C negative; anti   |
+|Teicoplanin+ Voriconazole + bloody stool ) and 2013/11/03        |
+|(Neutropenic fever + pyuria with fungus; anti: Tazocin+diflucan),|
+|and refractory anemia was also told. Under the impression of     |
+|myelodysplastic syndrome with refractory anemia, she recieved    |
+|peripheral blood stem cell transplantation from her father       |
+|(HLA-matched) on 2014/1/16. The post-transplantation course was  |
+|complicated with episodes of 1.bilateral hydronephrosis status   |
+|post DBJ insertion, 2. obstructive airway, suspect               |
+|Graft-Versus-Host-Didease lung, under BIPAP support, 3. multiple |
+|liver nodules, suspect microabscess status post antifungal agent,|
+|4. GI bleeding with diffuse esophageal ulcer, and reflux         |
+|esophagitis LA classification C, 5. Toxicodermia, suspect drug   |
+|related (Tazocin and Gentamycin), 6.GVHD-related skin changes, 7.|
+|acute renal failure, improved, 8. hyperbilirubinemia, suspect    |
+|GIVH hepatitis, 9. Hemorrhagic cystitis, s/p cystoscopy biopsy   |
+|2014/06/24, 10. Sepsis, 11 Dry eye syndrome(OU),                 |
+|Graft-Versus-Host-Didease related, improved, 12.Corneal          |
+|melting(OU)s/p amniotic membrane transplantation, 13.Irregular   |
+|mentruation cycle s/p Diane 1# QD since 1/26, 14.hypomegnesium,  |
+|hypokalemia, suspect Fanconi syndrome. <Past history> .Family    |
+|History:Denied history of hematological disease .Medication      |
+|Allergy:TAZOCIN 【Skin Rash(皮膚疹)】 親屬描述 2014/07/03        |
+|Maxipime 【Skin Rash(皮膚疹)】 親屬描述 2014/07/03 UnClear       |
+|舊病歷資料 2014/09/21 UnClear 親屬描述 2010/01/27 藥名不清楚     |
+|【Skin Rash(皮膚疹)】 親屬描述 2013/11/03 藥名不清楚 【Skin      |
+|Rash(皮膚疹)】 親屬描述 2013/11/09 Cefepime HCl (Maxipime 500    |
+|mg/vial) 【Skin Rash(皮膚疹)】 病人自述 2013/05/17 No 病人自述   |
+|2013/05/12 Piperacillin 2000 mg, Tazobactam 250 mg (TAZOCIN      |
+|(based on piperacillin content) 2000 mg/vial) 【Skin             |
+|Rash(皮膚疹)】 病人自述 2014/04/28 藥名不清楚 病人自述 2014/04/19|
+|Penicillin group 【Skin Rash(皮膚疹)】 病人自述 2014/10/10 No 病 |
+|人自述 2013/12/19 .Medication ADR:unknown .Allergy to Medical    |
+|Device and Materials:No 親屬描述 2014/07/03 ( 其他:紙膠 ) 舊病歷 |
+|資料 2014/09/21 .Current Medication: NTUH:Atrovent Neb Soln 250  |
+|mcg/1 mL 2 mL/amp 1 amp STAT IH 1 days 警 Relaxin 500 mg/vial 不 |
+|計價常備藥 25 mg STAT IV 1 days (管4) 5 Dormicum 5 mg/1 mL /amp  |
+|10 mg ONCE IF 1 days Bricanyl Neb Soln 2.5 mg/1 mL 2 mL/amp 1 amp|
+|STAT IH 1 days Other: 中草藥:Denied 保健食品:Denied .Past Medical|
+|History: -Hospitalization:入院日期:2014_04_19 出院日期:2015_02_17|
+|診斷:Fever 入院日期:2014_04_01 出院日期:2014_04_09               |
+|診斷:Myelodysplastic syndrome 入院日期:2014_01_06                |
+|出院日期:2014_02_19 診斷:Bone marrow transplant                  |
+|入院日期:2013_12_19 出院日期:2013_12_24 診斷:Myelodysplastic     |
+|syndrome 入院日期:2013_11_03 出院日期:2013_11_15 診斷:Fever 入院 |
+|日期:2013_07_18 出院日期:2013_07_25 診斷:Fever                   |
+|入院日期:2013_05_12 出院日期:2013_06_28 診斷:Acute               |
+|gastroenteritis -Past Surgical History:2013_12_20 Port-A         |
+|insertion 2014_06_24 cystoscopy biopsy and blood clot removal    |
+|2014_08_14 cystoscopy and Left Fr.6-22 cm DBJ insertion          |
+|2014_09_13 Amniotic membrane transplantation (od) 2014_09_16     |
+|Temporary tarsorraphy(os) 2014_12_24 Left 6Fr 22cm DBJ           |
+|replacement + right 6Fr 22cm DBJ insertion + transurethral       |
+|incision of right ureter orifice .TOCC: -Travel History:無,無    |
+|-Occupational history:Denied -Contact and cluster:Denied         |
+|.Vaccination History:As scheduled .Growth and Development        |
+|History:No evident delay                                         |
+|社會心理相關評估(Psychosocial Assessment)                        |
+|Social Economic and Personal History 教育程度:大學 職業:學生     |
+|宗教信仰:無 婚姻狀態:未婚 使用語言:國語 口述血型:A，RH:RH+，輸血 |
+|反應:無 抽煙:沒有 喝酒:沒有 檳榔:沒有 物質濫用:沒有 Fall Risk    |
+|Assessment 總分:7 (>=3分進行不倒翁計畫，請開預防跌倒醫囑)        |
+|系統性回顧(Review of System)                                     |
+|1.Systemic: weight loss(-), easy-fatigability(-), night sweats(-)|
+|2.Skin: petechiae(-), purpurae(-), skin rash(-), itching(-),     |
+|post-GVHD skin change(+) 3.HEENT: headache(-),dizziness(-),      |
+|blurred vision(+), strabismus(-), ocular pain(-), otalgia(-),    |
+|otorrhea(-), hearing impairment(-), tinnitus(-), vertigo(-),     |
+|nasal stuffiness(+, for days), nasal discharge(-), epistaxis(-), |
+|gum bleeding(-), sore throat(+),oral ulcer(-) 4.Cardiovascular:  |
+|exertional chest tightness(-), nocturnal dyspnea(-), orthopnea(-)|
+|syncope(-), palpitation(-), intermittent claudication(-)         |
+|5.Respiratory: dyspnea(+, with progression), cough(+, with       |
+|increased sputum), chest pain(-), hemoptysis(-), pleuritic chest |
+|pain(-) 6.Gastrointestinal: anorexia(-), nausea(-), vomiting(-), |
+|dysphagia(-), heartburn(-), acid regurgitation(-), abdominal     |
+|fullness(-), hunger pain(-) midnight pain(-), constipation(-),   |
+|diarrhea(-), melena(-), change of bowel habit(-), small caliber  |
+|of stool(-), tenesmus(-), flatulence(-) 7.Urogenital: flank      |
+|pain(-), hematuria(-), urinary frequency(-), urgency(-), dysuria |
+|(-), hesitancy(-), small stream of urine(-), impotence(-),       |
+|nocturia(-), polyuria(-), oliguria (-) 8.Musculoskeletal: bone   |
+|pain(-), arthralgia(-), myalgia(-), weakness(-) back pain(-)     |
+|9.Metabolic: heat intolerance(-), cold intolerance(-), thirsty(-)|
+|10.Nervous: numbness (-), paresis/plegia (-)                     |
+|身體檢查(Physical Examination)                                   |
+|BH:162 cm BW:31.3 kg T:37.8 P:175 R:20 BP:120/78 mmHg Pain:0     |
+|Neurological Examination: . Consciousness:Sedated and intubated .|
+|Muscle power:Symmetric decreased due to sedation . Gait:Sedated  |
+|Head-Eye-ENT grossly normal, conjunctiva: pink, sclera: pale     |
+|Pupil: isocoric, 3mm/ 3mm Light reflex: L/R: +/+, EOM: full and  |
+|free Neck Jugular vein engorgement(-) Thyroid goiter(-)          |
+|Meningismus: Kernig sign(-); Brudzinski sign(-) Carotid bruit(-) |
+|Chest Thoracic cage contour: symmetric, Retraction(-) Breathing  |
+|sound: Coarse, with poor air entry, no one lung ventilation      |
+|Crackles(-) wheezes(+, minor), rhonchi(-) stridor(-) Heart Heart |
+|beat: regular tachycardia, Murmurs(-) LV lift(-) RV heave(-)     |
+|Increased cardiac size by percussion(-) Adventitious sounds (-)  |
+|Abdomen Flat & soft Superficial vein engorgement(-) Protruded    |
+|umbilicus(-) Bowel sound: Normoactive Tenderness(-)              |
+|Hepato-jugular reflux(-) Liver and spleen: impalpable Extremities|
+|Sedated, pulses symmetric and intact, pitting edema(-) Back      |
+|Knocking pain(-) Skin Abnormal pigmentation(+, likely            |
+|GVHD-related skin change) Petechiae(-) Purpura(-) Ecchymoses(-)  |
+|Telangiectasia(-) Rash(-) Plaque(-) Lymphadenopathy(-)           |
+|檢驗紀錄(Laboratory Report)                                      |
+|*********檢驗室:OP*********** 群組:SEDIMENT RBC(S) WBC(S)        |
+|EpithCell(S) Cast(S) Crystal(S) time/item (/HPF) (/HPF) (/HPF)   |
+|(/LPF) (*) 1040223 [1140] >100 75-100 0-2 - - Bacteria Mucus(S)  |
+|Others(S) time/item (*) (*) (*) 1040223 [1140] + - -             |
+|群組:MULTISTIX Sp. Gr.(C) pH(C) Protein(C) Glu.(C) Ketones(C)    |
+|time/item (*) (*) (mg/dL) (mg/dL) (mg/dL) 1040223 [1140] 1.027   |
+|6.5 300 ( 3+ ) - 1+ O.B.(C) Urobil.(C) Bil.(C) Nitrite(C) Color  |
+|time/item (mg/dL) (mg/dL) (mg/dL) (*) (*) 1040223 [1140] 3+ ≦1.5 |
+|1+ - Dark Yellow Turbidity time/item (*) 1040223 [1140] + 群組:  |
+|WBC (C) time/item () 1040223 [1140] 2+                           |
+|*********檢驗室:YM*********** 群組: Free Ca(急重症自 Hb(急重症自 |
+|行檢驗) Hct(急重症自行檢驗) K+(急重症自行檢驗) Na(急重症自行檢驗)|
+|行檢驗) time/item (mmol/L) (g/dL) (%) (mmol/L) (mmol/L) 1040223  |
+|[1020] 1.32 12.9 39 3.97 144.8 Suger(急重症自行檢 LacticAcid(急  |
+|驗) 重症自行檢驗) time/item (mg/dL) (mmol/L) 1040223 [1020] 128  |
+|1.4 群組:Yes pH pCO2 pO2 HCO3 BaseExcess time/item () (mmHg)     |
+|(mmHg) (mmol/L) (mmol/L) 1040223 [1020] 7.260 91.2 45.2 41.3 14.0|
+|SO2 time/item (%) 1040223 [1020] 70.4                            |
+|*********檢驗室:RL*********** 群組:Biochemistry BUN CRE Na K Cl  |
+|time/item (mg/dL) (mg/dL) (mmol/L) (mmol/L) (mmol/L) 1040223     |
+|[1025] 21.5 0.3 145 3.9 98 Ca Mg P AST CK-MB time/item (mmol/L)  |
+|(mmol/L) (mg/dL) (U/L) (U/L) 1040223 [1025] 2.42 0.70 3.2 56 12  |
+|%CKMB Troponin I time/item (%) (ng/mL) 1040223 [1025] uncounted  |
+|<0.012 群組:General BioChemistry ALT time/item (U/L) 1040223     |
+|[1025] 100 群組:WBC Classification Blast Promyl. Myelo. Meta Band|
+|time/item (%) (%) (%) (%) (%) 1040223 [1025] 0.0 0.0 0.0 0.0 0.0 |
+|Seg Eos. Baso. Mono. Lym. time/item (%) (%) (%) (%) (%) 1040223  |
+|[1025] 66.8 0.4 0.2 7.8 24.8 Aty.Lym. PlasmaCell Normobl. PS     |
+|time/item (%) (%) () () 1040223 [1025] 0.0 0.0 0 - 群組:CBC+PLT  |
+|WBC RBC HB HCT MCV time/item (K/μL) (M/μL) (g/dL) (%) (fL)       |
+|1040223 [1025] 16.35 3.78 11.7 36.6 96.8 MCH MCHC PLT RDW-CV PS  |
+|time/item (pg) (g/dL) (K/μL) (%) () 1040223 [1025] 31.0 32.0 71  |
+|16.7 -                                                           |
+|檢查紀錄(Examination Report)                                     |
+|nil                                                              |
+|影像報告(Imaging Report)                                         |
+|CT With/Without Contrast-Chest 醫令: CT With/Without             |
+|Contrast-Chest 報告醫師: 柯維鈞 影像時間: 2015/02/12 12:52       |
+|(33072B2M) 發報告時間: 2015/02/12 15:59 CT of the chest without  |
+|and with contrast enhancement is read and compared with prior    |
+|study dated 2014/11/12. This CT study shows: 1. multiple tiny    |
+|centrilobular nodules with faint ground glass opacities at both  |
+|upper lobes. Several small nodules and opacities at both lungs,  |
+|more at both lower lobes. Pulmonary infection is considered.     |
+|Suggest clinical correlation. 2. atelectasis at the RML. Mild    |
+|bronchiectasis at both lungs. 3. no enlarged bilateral           |
+|mediastinal and axillary lymph nodes. 4. no pleural effusion. 5. |
+|no definite abnormality of both adrenals. 6. splenomegaly. 7.    |
+|prominent both renal pelvis. Suggest clinical correlation. 8.    |
+|scoliosis of the T spine. Abdomen:KUB 醫令: Abdomen:KUB 報告醫師:|
+|陳邦斌 影像時間: 2015/02/06 15:25 (32006C0M) 發報告時間:         |
+|2015/02/06 15:47 clear bilateral psoas shadows. increased bowel  |
+|gas in the abdomen. some calcifed nodular lesion(s) in left      |
+|kidney, r/o left renal stone(s). s/p double J catherization in   |
+|the bil. collecting systems. essential intact of bil. sacroiliac |
+|joints. Chest : PA View (Standing) 醫令: Chest : PA View         |
+|(Standing) 報告醫師: 陳世杰 影像時間: 2015/01/28 13:30 (32001CXM)|
+|發報告時間: 2015/01/28 16:24 nodular lesions are noted at RUL,   |
+|status post upper chest wall Port-A implantation, normal heart   |
+|size, suggest correlated with clinical manifestation.            |
+|病理報告(Pathology Report)                                       |
+|082/07/28 S9309779 082/08/18 S9309780 087/08/11 S9814945         |
+|Liver,biopsy,bridging fibrosis suggestive of cirrhosis, 089/02/09|
+|S0002565 Stomach,antrum,biopsy,chronic gastritis with            |
+|Helicobacter infeciton, Stomach,body,biopsy,chronic gastritis    |
+|with Helicobacter infection,                                     |
+|Intestine,small,duodenum,biopsy,chronic inflammation without     |
+|Helicobacter infection, S1020736 Bone marrow,iliac crest, side   |
+|not stated,core biopsy,hypercellular marrow with myeloid         |
+|hyperplasia and increased immature ce, L1300436 S1312511         |
+|Skin,shih, left,biopsy,chronic dermatitis with vascular          |
+|proliferation (see description), F1400026 S1412317 Bone          |
+|marrow,iliac crest,core biopsy,hypocellular marrow with erythroid|
+|hyperplasia (see description) S1416407 Skin,thigh,               |
+|right,biopsy,interface dermatitis (see description), F1400062    |
+|S1422873 Intestine,small,duodenum,endoscopic biopsy,no specific  |
+|change Stomach,endoscopic biopsy,no specific change S1424573     |
+|Urinary bladder,transurethral resection,hematoma with mild       |
+|inflammation, S1420025 Intestine,large,colon,sigmoid,colonoscopic|
+|biopsy,chronic inflammation (see description) F1400195           |
+|臆斷(Tentative Diagnosis)                                        |
+|1. Respiratory failure, status post intubation, under ventilator |
+|support, with obstructive airway, suspect                        |
+|Graft-Versus-Host-Didease lung 2. Fever with leukocytosis,       |
+|infection foci to be determined 3. Myelodysplastic syndrome with |
+|refractory anemia, status post allo-PBSC transplant. <Inactive   |
+|problems> 1. Bilateral hydronephrosis status post left side DBJ  |
+|insertion on 2015/8/14, right ureteral stone with hydronephrosis;|
+|left renal stone, s/p bilateral DBJ insertion on 2015/12/24 2.   |
+|Irregular mentruation cycle s/p Diane 1# QD since 1/26 3.        |
+|Hyperactive bladder 4. multiple liver nodules, suspect           |
+|microabscess status post antifungal agent of cospofungen 5. GI   |
+|bleeding with diffuse esophageal ulcer, multiple gastric erosion |
+|in the antrum and upper body, and reflux esophagitis LA          |
+|classification C 6. Toxicodermia, suspect drug related (Tazocin  |
+|and Gentamycin) 7. hypomegnesium, hypokalemia, suspect Fanconi   |
+|syndrome 8. hyperbilirubinemia, suspect GIVH hepatitis 9.        |
+|Hemorrhagic cystitis, s/p cystoscopy biopsy 2014/06/24 10.Dry eye|
+|syndrome(OU), Graft-Versus-Host-Didease related, improved        |
+|11.Corneal melting(OU)s/p amniotic membrane transplantation      |
+|醫療需求與治療計畫(Medical Needs and Care Plan)                  |
+|S: 1.Shortness of breath, progressive since yesterday 2.Cough    |
+|with increased sputum 3.Decreased activity and appetite O:       |
+|1.Fever up to 37.8C, with tachypnea and tachycardia              |
+|2.Leukocytosis(WBC:16.35K) with left shift, lactic acid          |
+|level:0.6. VBG:CO2 retention, U/A:Pyuria+Bascteriuria 3.CXR: No  |
+|evident patchy lesion, but increased hilar infiltration          |
+|+/-(Pending for formal report) 4.Intubated(6.5Fr ETT, fixed at   |
+|22cm), SpO2 100% under ventilator use 5.Discussed antibiotic use |
+|with ID man, Mepem suggested as previous culture results A: 1.   |
+|Respiratory failure, status post intubation, under ventilator    |
+|support, with obstructive airway, suspect                        |
+|Graft-Versus-Host-Didease lung 2. Fever with leukocytosis,       |
+|infection foci to be determined 3. Myelodysplastic syndrome with |
+|refractory anemia, status post allo-PBSC transplant. P: 1.Monitor|
+|vital signs,clinical condition and fluid status, on PICU routine |
+|2.On ventilator, with settings as flow sheet 3.Antibiotics       |
+|use(Mepem) with adjustment according to clincal/culture, pursue  |
+|culture results 4.On NG, Foley, port-A Treatment Goal:           |
+|1.Afebrile(Fever <38C), 2.Control respiratory failure            |
+|出院規劃(Discharge Planning)                                     |
+|管路留置狀況:有 靜脈管路留置(含Hickman / Port-A)：無             |
+|雙腔導管留置：無 鼻胃管留置：有 14Fr. 氣管管路留置：有 6.0mm     |
+|胃造廔口：無 尿管留置：有 14Fr. 膀胱造廔：無 傷口引流管：無 其他 |
+|導管： 日常生活功能分數：45 預期出院後居住場所：與家人同住       |
+|預期出院後主要照顧者：自己 爸爸 媽媽 出院規劃收案篩檢：高危病患  |
+|帶有管路 單位自訂條件                                            |
+|主治醫師評論(VS Comments)                                        |
+|I agree with the record of admission's note.                     |
+|醫師姓名                                                         |
+|呂立 主治醫師                                                    |
+

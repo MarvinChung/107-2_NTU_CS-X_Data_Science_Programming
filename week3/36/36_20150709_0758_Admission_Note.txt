@@ -1,0 +1,210 @@
+
+2015/07/09 07:58 | |
+|主訴(Chief Complaint)                                            |
+|Informant:chart sudden onset of aphasia since 2 pm today         |
+|病史(Brief History)                                              |
+|This is a 66 years-old, G5P3SA2 woman had history of : 1.        |
+|hypertension, 2. DM, 3. hyperthyroidism, Graves disease right 4. |
+|Atrial fibrillation under apixaban 5.HLP 6.shoulder OA She was   |
+|ADL/IADL independent. This time, she developed acute impaired    |
+|verbal expression, comprehension and right side weakness at 14:00|
+|on 7/8 after visiting OPD. And then, she was sent to ER at 15:41.|
+|At ER,the coma score was E4V1M5 and the NIHSS score was 9. The CT|
+|was arranged and it showed "SAH and ICH /mild hydrocephalus /left|
+|MCA genu aneurysm." Under the impression of left MCA aneurysm    |
+|rupture with SAH and ICH, the patient was admitted for right     |
+|craniectomy for MCA aneurysm clipping and EVD insertion. Family  |
+|History: Medication Allergy:No 病人自述 2010/02/23 Medication    |
+|ADR:unknown Allergy to Medical Device and Materials:unknown      |
+|Current Medication: NTUH:Beriplex 500 IU/vial 3000 vial STAT IV 1|
+|days (管4) Anxicam 2 mg/1 mL /amp 2 mg STAT IV 1 days (管4)      |
+|Anxicam 2 mg/1 mL /amp 2 mg STAT IV 1 days Beriplex 500 IU/vial 6|
+|vial STAT IV 1 days Beriplex 500 IU/vial 3000 vial STAT IV 1 days|
+|Perdipine Inj 10 mg/10 mL /amp 20 mg QD cIF 2 days 針 Depakine   |
+|Inj 400 mg/vial 800 mg ONCE IF 1 days 警 Relaxin 500 mg/vial     |
+|不計價常備藥 50 mg STAT IV 1 days Cefa 1000 mg/vial 3000 mg STAT |
+|IV 1 days Quinax Oph Soln 0.15 mg/1 mL 15 mL/btl 1 gtt BID OU 28 |
+|days 5 Concor 5 mg/tab 1 tab QD PO 28 days 可 COZAAR 50 mg/tab 1 |
+|tab QD PO 28 days Norvasc 5 mg/tab 0.5 tab QD PO 28 days 脂      |
+|Crestor 10 mg/tab 0.5 tab QD PO 28 days Amaryl 2 mg/tab 0.5 tab  |
+|QD PO 28 days Trajenta F.C. 5 mg/tab 1 tab QD PO 28 days (DM)    |
+|Loditon 500 mg/tab 1 tab BID PO 28 days Newmazole 10 mg/tab 0.5  |
+|tab QD PO 28 days Rytmonorm 150 mg/tab 1 tab BID PO 28 days      |
+|Eliquis 5 mg/tab 1 tab BID PO 28 days Rytmonorm 150 mg/tab 1 tab |
+|BID PO 28 days Eliquis 5 mg/tab 1 tab BID PO 28 days 自費 Niflec |
+|Powder 137.155 g/pack 1 pack AS ORDER PO 1 days Other:nil        |
+|中草藥:nil 保健食品:nil Past Medical History: Hospitalization:   |
+|Past Surgical History:2015_07_08 Travel History:nil              |
+|社會心理相關評估(Psychosocial Assessment)                        |
+|Social Economic and Personal History 教育程度:高中 職業:家管     |
+|宗教信仰:無 婚姻狀態:喪偶 使用語言:國語 台語 客家語              |
+|口述血型:A，RH:，輸血反應:沒輸過血 抽煙:沒有 喝酒:沒有 檳榔:沒有 |
+|物質濫用:沒有 Psychological History and Evaluation 意識狀態:麻醉 |
+|未醒 認知功能:無法評估 精神情緒狀態:異常 焦慮 安全問題:有 其他   |
+|跌倒 睡眠形態:正常 Nutritional Screen 攝食情形: 排便狀態:正常    |
+|BMI: Fall Risk Assessment 總分:7                                 |
+|(>=3分進行不倒翁計畫，請開預防跌倒醫囑)                          |
+|系統性回顧(Review of System)                                     |
+|1.Systemic: □fever, □chills, □night sweats, □fatigue,            |
+|□somnolence, □insomnia □weight change, □decreased appetite,      |
+|□consciousness disturbance, □diffuse arthralgias/myalgias,       |
+|□heat/cold intolerance, □thirsty, □general edema 2.Head/Eyes:    |
+|□headache, □dizziness, □vertigo, □photophobia, □diplopia, □visual|
+|field defect, □blurred vision, □ocular pain, □eye redness, □dry  |
+|eye, □excess tearing □alopecia, □head trauma, □cataracts,        |
+|□glaucoma 4.Ears/Nose: □hearing impairment, □tinnitus, □otalgia, |
+|□otorrhea, □nasal congestion, □rhinorrhea, □epistaxis, □anosmia  |
+|5.Mouth/Throat: □oral ulcer, □gum bleeding, □dry mouth, □dental  |
+|problems □sore throat, ■dysphagia, □odynophagia, □hoarseness     |
+|6.Cardiovascular/ □cough, □sputum, □hemoptysis, □wheezes         |
+|Respiratory: □dyspnea:at rest/exertional, □chest tightness/pain: |
+|with diaphoresis, □orthopnea, □paroxysmal nocturnal dyspnea,     |
+|□syncope, □palpitation, □intermittent claudication               |
+|7.Gastrointestinal: □anorexia, □nausea,                          |
+|□vomiting:bilious/feculent, □hematemesis □heartburn/acid         |
+|regurgitation, □belching, □hiccup □abdominal pain:______,        |
+|□abdominal distention □diarrhea, □constipation, □tarry stool,    |
+|□clay-colored stool □change of bowel habit, □tenesmus,           |
+|□flatulence 8.Genito-urinary: □urinary frequency, □urgency,      |
+|□dysuria, □incontinence, □nocturia, □polyuria, □oliguria □small  |
+|stream of urine, □hesitancy, □cloudy urine, □hematuria, □flank   |
+|pain, □impotence, □abnormal sexual exposure 9.Gynecological:     |
+|□abnormal menstruation 10.Skin/ □rash, □pruritus, □dryness,      |
+|□jaundice, □color changes, Hemagological: □moles, □plaque,       |
+|□ulcers, □hair loss, □hirsutism, □telangiectasia, □petechiae,    |
+|□ecchymoses, □purpura 11.Musculoskeletal: □arthralgia, □myalgia, |
+|□back pain, □bone pain, □joint stiffness, □cramps, □fractures    |
+|12.Neurological: □numbness, ■paresis/plegia(right side),         |
+|□convulsion, □paresthesia,□allodynia □resting tremor, □gait      |
+|disturbance, 13.Psychiatric: □insomnia, □memory loss, □anxiety,  |
+|□panic □hallucination, □delusion, □depression, □suicidality      |
+|身體檢查(Physical Examination)                                   |
+|BH:NA cm BW:57 kg T: P: R: BP:/ mmHg Pain: 1. General appearance:|
+|fair 2. Consciousness: clear, 3. HEENT: gross anomaly(-);        |
+|Conjunctiva: not pale; Sclera: anicteric; Pupils: isocoric       |
+|3mm/3mm, Light reflex: +/+, prompt; Throat: injected(-);         |
+|ulcer(-); Neck: supple, LAP(-), goiter(-) 4. Chest: symmetric    |
+|expansion, no retraction breath sounds: wheezes(-), rhonchi(-),  |
+|rales(-) 5. Heart: RHB, no heave or thrill Normal S1, S2. No     |
+|murmurs 6. Abdomen: soft, normoactive bowel sound tenderness(-), |
+|rebound tenderness(-) liver/spleen: impalpable 7. Extremity:     |
+|freely movable, cyanosis(-), pitting edema(-) 8. Skin: rash(-),  |
+|jaundice(-), petechiae(-), ecchymosis(-) [Neurological           |
+|Examination] Mental Status Consciousness: alert, E4V1M5 Oriented |
+|to person, to place, and to time Language Comprehension: ok;     |
+|Fluency: ok; Repetition: ok; Reading: ok; Naming: ok; Writing: ok|
+|Swallowing No impairment Cranial Nerves I:Not performed II:Right |
+|eye: Visual fields full to confrontational testing. Visual acuity|
+|: not performed Left eye : Visual fields full to confrontational |
+|testing. Visual acuity : not performed III-IV-VI: Pupils equally |
+|round(4mm/3mm) and light reflex(+/+) Normal conjugate            |
+|Extra-ocular eye movements in all directions: no limitation No   |
+|nystagmus V: Normal facial sensation. Mastication power: good.   |
+|Corneal reflex: +/+ VII: Normal facial symmetry and movements.   |
+|Eyes closing: intact; Forehead wrinkles (+/+); Mouth: no         |
+|deviation; Nasolabial folds: symmetric; Taste: not performed;    |
+|Lacrimination: no decrease VIII: Normal hearing and vestibular   |
+|function. Webers test: symmetric; Rinnes test: air conduction >  |
+|bone conduction IX-X: Normal palatal movement. No uvula          |
+|deviation. Gag reflex: +/+ XI: Muscle power: Trapezius: 5/5; SCM:|
+|5/5. XII: Normal tongue strength and range of motion, no         |
+|deviation, atrophy nor fasciculation. Motor: Normal muscle bulk. |
+|No atrophy or fasciculations present on examination Normal muscle|
+|tone Muscle power :generally >=4 Sensory: Normal and symmetric   |
+|perception of pinprick, light touch, proprioception, and         |
+|vibration; Double stimulation test: intact, Romberg test(-) DTR：|
+|Right: biceps: ++, triceps: ++, brachioradialis: ++, knee: ++,   |
+|ankle: ++ Left: biceps: ++, triceps: ++, brachioradialis: ++,    |
+|knee: ++, ankle: ++ Upper motor neuron signs: Babinski sign:     |
+|(-)/(-) Clonus : (-)/(-) Hoffman sign:(-)/(-) Autonomic nervous  |
+|system:No sphinctor incontinence; no abnormal sweating Cerebellum|
+|: Normal rapid alternating movements Finger-Nose-Finger          |
+|test/Heel-Knee-Shin test: No dysmetria Extrapyramidal system:    |
+|Rigidity(-), Rest tremor(-), Bradykinesia(-) Language:mute,      |
+|global aphasia                                                   |
+|檢驗紀錄(Laboratory Report)                                      |
+|*********檢驗室:BK*********** 群組:Yes antibody scr een(New Lis) |
+|time/item (*) 1040708 [1554] Negative 群組:Blood Type ABO Typing |
+|RH Typing time/item (*) (*) 1040708 [1554] A Positive            |
+|*********檢驗室:RL*********** 群組:Coagulation PT PTT PT INR     |
+|time/item (sec) (sec) () 1040708 [1554] 10.6 21.6 1.00           |
+|群組:General BioChemistry ALT time/item (U/L) 1040708 [1554] 9   |
+|群組:Biochemistry CRE Na K time/item (mg/dL) (mmol/L) (mmol/L)   |
+|1040708 [1554] 1.1 138 4.1 群組:WBC Classification Blast Promyl. |
+|Myelo. Meta Band time/item (%) (%) (%) (%) (%) 1040708 [1554] 0.0|
+|0.0 0.0 0.0 0.0 Seg Eos. Baso. Mono. Lym. time/item (%) (%) (%)  |
+|(%) (%) 1040708 [1554] 78.1 0.5 0.2 3.3 17.9 Aty.Lym. PlasmaCell |
+|Normobl. PS time/item (%) (%) () () 1040708 [1554] 0.0 0.0 0 -   |
+|群組:CBC+PLT WBC RBC HB HCT MCV time/item (K/μL) (M/μL) (g/dL)   |
+|(%) (fL) 1040708 [1554] 15.34 3.60 11.4 33.5 93.1 MCH MCHC PLT   |
+|RDW-CV PS time/item (pg) (g/dL) (K/μL) (%) () 1040708 [1554] 31.7|
+|34.0 267 12.9 - *********檢驗室:PO*********** 群組: Sugar(One to |
+|uch) time/item (*) 1040708 [1553] 202                            |
+|檢查紀錄(Examination Report)                                     |
+|nil                                                              |
+|影像報告(Imaging Report)                                         |
+|Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師:|
+|彭信逢 影像時間: 2015/07/08 18:22 (32001CYM) 發報告時間:         |
+|2015/07/08 18:53 chest AP view shows: s/p insertion of gastric   |
+|tube and endotracheal tube with the tip near the right main      |
+|bronchus; widened right upper mediastinum, streaky densities     |
+|increased near the right upper and lower central lung fields     |
+|Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師:|
+|彭信逢 影像時間: 2015/07/08 18:47 (32001CYM) 發報告時間:         |
+|2015/07/08 18:54 chest AP view shows: s/p insertion of gastric   |
+|tube and endotracheal tube after pulling up; widened right upper |
+|mediastinum, streaky densities increased near the right upper and|
+|lower central lung fields; decreased left lung field, calcified  |
+|aortic knob Chest : AP View (Supine) 醫令: Chest : AP View       |
+|(Supine) 報告醫師: 葉建德 影像時間: 2015/07/08 16:17 (32001CYM)  |
+|發報告時間: 2015/07/08 17:53 normal heart size. mediastinal      |
+|widening. no definite focal lung opacity. CT Without             |
+|Contrast-Brain 醫令: CT Without Contrast-Brain 報告醫師: 廖漢文  |
+|影像時間: 2015/07/08 16:09 (33070B0M) 發報告時間: 2015/07/08     |
+|16:14 CT scan of head without enhancement showed intracerebral   |
+|hematoma at the left temporal stem region and diffuse SAH noted  |
+|in the suprasellar cistern and left sylvian cistern and          |
+|convexity. Mass effect and brain edema was also noted.The        |
+|ventricles were dilated withrelatively small sulci CSF spaces. CT|
+|With/Without Contrast-Brain 醫令: CT With/Without Contrast-Brain |
+|報告醫師: 廖漢文 影像時間: 2015/07/08 16:57 (33072B0M)           |
+|發報告時間: 2015/07/08 17:39 CT scan of head without enhancement |
+|showed intracerebral hematoma at the left temporal stem region   |
+|and diffuse SAH noted in the suprasellar cistern and left sylvian|
+|cistern and convexity. Mass effect and brain edema was also      |
+|noted.The ventricles were dilated withrelatively small sulci CSF |
+|spaces. CTA showed left MCA genu aneurysm poitned laterally      |
+|(6mm).                                                           |
+|病理報告(Pathology Report)                                       |
+|094/07/14 S0518300 Breast,left,core biopsy,fibrocystic change    |
+|with microcalcification, 095/03/06 S0605248 Breast,left,partial  |
+|mastectomy,fibrocystic disease microcalcification multifocal,    |
+|Breast,left,labeled as "6 oclock surgical                        |
+|margin",excision,fibrocystic disease 095/09/23 S0626327          |
+|Intestine,large,sigmoid colon,endoscopic biopsy,tubular adenoma  |
+|S1144225 Vagina,anterior wall,anterior repair,squamous           |
+|hyperplasia with parakeratosis Vagina,posterior wall,anterior    |
+|repair,squamous hyperplasia with parakeratosis S1045281          |
+|Uterus,corpus,vaginal hysterectomy,atypical glandular hyperplasia|
+|cellular leiomyoma intramural, one,adenomyosis focal,            |
+|Uterus,cervix,vaginal hysterectomy,ulcerative cervicitis         |
+|Vagina,anterior wall,partial resection,chronic inflammation      |
+|S1329660 Stomach,endoscopic biopsy,hyperplastic polyp with       |
+|Helicobacter infection,                                          |
+|臆斷(Tentative Diagnosis)                                        |
+|436 Cerebrovascular accident 211.1 Gastric polyp 211.3 Colon     |
+|polyp 242.00 Graves disease 250.00 DM 401.9 (HT)自發性高血壓，未 |
+|明示為惡性或良性 427.31 Atrial fibrillation 366.10 Senile        |
+|cataract, unspecified 362.01 Background diabetic retinopathy     |
+|醫療需求與治療計畫(Medical Needs and Care Plan)                  |
+|* P: sudden onset of aphasia since 2 pm today A: Consciousness:  |
+|alert, E4V1M5 NE: Right side weakness Language:mute, global      |
+|aphasia CT:SAH and ICH /mild hydrocephalus /left MCA genu        |
+|aneurysm" -->suspected left MCA aneurysm rupture P: right        |
+|craniectomy for MCA aneurysm clipping and EVD insertion was      |
+|arranged on 7/8 Treatment Goal: treat disease and post-op care   |
+|出院規劃(Discharge Planning)                                     |
+|nil                                                              |
+|醫師姓名                                                         |
+|王國川 主治醫師                                                  |
+

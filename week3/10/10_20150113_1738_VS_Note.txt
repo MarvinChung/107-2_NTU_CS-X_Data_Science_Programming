@@ -1,0 +1,17 @@
+
+# HCC s/p OP, PMCT,TACE, recurrent
+# HBV-related liver cirrhosis (e-) on cash ETV
+# CKD stage 3B
+# HTN
+
+pre-RFA TAE was done on 2015-01-12
+
+2015/01/13 13:26 T:35.8 P:78 R:17
+2015/01/13 13:26 BP:158/92
+2015/01/13 13:26 Pain score:0
+
+A: Anti-HTN drug has been adjusted for better control of his HTN
+
+plan:
+1. CT-guided RFA is scheduled for 1/14
+2. continue anti-HTN

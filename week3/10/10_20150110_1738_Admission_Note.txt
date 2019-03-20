@@ -1,0 +1,177 @@
+
+2015/01/10 17:38 | |
+|主訴(Chief Complaint)                                            |
+|Informant:The patient For CT-guided RFA due to recurrent HCCs.   |
+|病史(Brief History)                                              |
+|This 76-year-old man has underlying disease of: 1. Hepatocelluar |
+|carcinoma, BCLC stage A, status post left lobectomy of liver and |
+|cholecystectomy on 2000/02/16, with recurrence in 2002 and 2003, |
+|status post percutaneous microwave coagulation(II), with         |
+|recurrence in 2012, status post transarterial chemoembolization  |
+|(II)(2012/11/09, 2013/01/02) 2. Liver cirrhosis, child A 3.      |
+|Chronic hepatitis B under entecavir (cash) 3. Hypertension 4.    |
+|Chronic kidney disease 5. Peripheral arterial occlusive disease  |
+|He suffered from LLQ persistent dull pain in Sep. 1999. He went  |
+|to 新光 Hospital for help. The abdominal echo was performed and a|
+|liver mass was found occasionally. He received a series image    |
+|study including abdominal CT, MRI, probable hepatocellular       |
+|carcinoma or hemagioma was told. He went to our OPD in for second|
+|opinion. A 2.6 cm hypoechoic mass without Doppler signal in it   |
+|was found in abdominal echo study. Besides he denied body weight |
+|loss or poor appetite, general malaise. The serum                |
+|alfa-fetoprotein level was < 20 ng/ml. He was admitted on        |
+|2000/01/28, and abdominal CT and angiography on 2000/02/01 showed|
+|equivocal result. The abdominal MRI performed in 新光 hospital   |
+|did not showed definite finding, so he received Resovist MRI and |
+|the result showed one hepatic tumor about 2.8cm in diameter over |
+|medial segment of left liver. Hepatoma was the most likely       |
+|diagnosis. The left lobectoy, cholecystectomy was done on        |
+|2000/02/16. The following sonography in Sep. 2002 revealed       |
+|suspected recurrent tumors in liver. The CT in Oct. 2002 revealed|
+|recurrent tumor. He then received microwave ablation therapy (I) |
+|smoothly. However, the follow-up AFP was elevated in May 2003.   |
+|The CT in June 2003 showed a 1 cm nodules in S8. For suspicious  |
+|recurrent HCC, microwave ablation therapy (II) was done smoothly |
+|on 2003/06/13. The following sonography on 2012/10/11 showed a   |
+|around 3 cm heterogeneously ill-defined lesion at S5, suspect    |
+|tumor recurrence. Then MRI on 2012/10/23 revealed three recurrent|
+|HCCs at S1(14mm), S6(15mm) and S5-8(26 mm) of liver. TACE (I) was|
+|performed on 2012/11/09. The following MRI on 2012/12/11 showed: |
+|1. HCC S/P left hepatic lobectomy and cholecystectomy. 2. Two    |
+|nodules at S#5(2.3cm) and S#6(1.0cm) of liver, residual HCCa is  |
+|conidered first. TACE (II) was performed smoothly on 2013/01/02. |
+|After the regular OPD follow-up, the elevated AFP level (348.31) |
+|was noted on 2014/11/28. The MRI on 2014/11/28 showed three      |
+|nodules of low signal on T1WI and high signal on T2WI at S8 (9mm |
+|and 1.7cm) and S6 surface (1.6cm), suspected recurrent HCCs. No  |
+|weight loss, no right upper quadrant pain, no fatigue, and no    |
+|poor appetite were noted. He was admitted on 2015/01/10 for      |
+|further management. Family History: Mother had hypertension.     |
+|Medication Allergy: No 病人自述 2015/01/10 Medication ADR:unknown|
+|Allergy to Medical Device and Materials:No 病人自述 2015/01/10   |
+|Current Medication: NTUH: Zanidip FC 10 mg/tab 1 tab QD PO 28    |
+|days Pletaal 50 mg/tab 1 tab BIDAC30 PO 28 days 0.5 Baraclude,   |
+|Cash 0.5 mg/tab 1 tab QDAC2HR PO 28 days MgO 250 mg/tab 2 tab TID|
+|PO 28 days (管4) 10 Stilnox 10 mg/tab 1 tab HS PO 28 days Zanidip|
+|FC 10 mg/tab 1 tab QD PO 28 days Other: 吉胃福適錠 中草藥: denied|
+|保健食品: denied Past Medical History: 1. Hepatocelluar          |
+|carcinoma, BCLC stage A, status post left lobectomy of liver and |
+|cholecystectomy on 2000/02/16, with recurrence in 2002 and 2003, |
+|status post percutaneous microwave coagulation(II), with         |
+|recurrence in 2012, status post transarterial chemoembolization  |
+|(II)(2012/11/09, 2013/01/02) 2. Liver cirrhosis, child A 3.      |
+|Chronic hepatitis B under entecavir (cash) 3. Hypertension 4.    |
+|Chronic kidney disease 5. Peripheral arterial occlusive disease  |
+|Hospitalization: 轉入:2012/12/29 轉出:2013/01/06 Hepatocelluar   |
+|carcinoma 轉入:2012/11/08 轉出:2012/11/12 Hepatocelluar carcinoma|
+|轉入:2003/06/13 轉出:2003/06/16 Hepatocellular carcinoma         |
+|轉入:2002/12/15 轉出:2002/12/22 Hepatoma 轉入:2000/02/15         |
+|轉出:2000/02/26 Hepatocellular carcinoma 轉入:2000/01/28         |
+|轉出:2000/02/03 Hepatocellular carcinoma Past Surgical History:  |
+|1. Left lobectomy of liver and cholecystectomy on 2000/02/16     |
+|社會心理相關評估(Psychosocial Assessment)                        |
+|Social Economic and Personal History 教育程度:國中 職業:工       |
+|宗教信仰:佛教 婚姻狀態:已婚 使用語言:國語 台語 口述血型:O，RH:不 |
+|清楚，輸血反應:無 抽煙:沒有 喝酒:沒有 檳榔:沒有 物質濫用:沒有    |
+|Psychological History and Evaluation 意識狀態:警醒 認知功能:正常 |
+|精神情緒狀態:異常 焦慮 安全問題:無 睡眠形態:異常 入睡困難 淺、易 |
+|醒 使用藥物 Nutritional Screen 攝食情形:佳，攝食75% 排便狀態:正常|
+|BMI:21.45 Fall Risk Assessment 總分:2 (>=3分進行不倒翁計畫，請開 |
+|預防跌倒醫囑)                                                    |
+|系統性回顧(Review of System)                                     |
+|1.Systemic: weight loss(-), easy-fatigability(-), night sweats(-)|
+|2.Skin: petechiae(-), purpurae(-), skin rash(-), itching(-),     |
+|3.HEENT: headache(-),dizziness(-), blurred vision(-),            |
+|strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing  |
+|impairment(-), tinnitus(-), vertigo(-), nasal stuffiness(-),     |
+|nasal discharge(-), epistaxis(-), gum bleeding(-), sore          |
+|throat(-),oral ulcer(-) 4.Cardiovascular: exertional chest       |
+|tightness(-), nocturnal dyspnea(-), orthopnea(-) syncope(-),     |
+|palpitation(-), intermittent claudication(-) 5.Respiratory:      |
+|dyspnea(-), cough(-), chest pain(-), hemoptysis(-), productive   |
+|cough (-), pleuritic chest pain(-) 6.Gastrointestinal:           |
+|anorexia(-), nausea(-), vomiting(-), dysphagia(-), heartburn(-), |
+|acid regurgitation(-), abdominal fullness(-), hunger pain(-)     |
+|midnight pain(-), constipation(-), diarrhea(-), melena(-), change|
+|of bowel habit(-), small caliber of stool(-), tenesmus(-),       |
+|flatulence(-) 7.Urogenital: flank pain(-), hematuria(-), urinary |
+|frequency(-), urgency(-), dysuria (-), hesitancy(-), small stream|
+|of urine(-), impotence(-), nocturia(-), polyuria(-), oliguria (-)|
+|8.Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-),      |
+|weakness(-) back pain(-) 9.Metabolic: heat intolerance(-), cold  |
+|intolerance(-), thirsty(-) 10.Nervous: numbness (-),             |
+|paresis/plegia (-)                                               |
+|身體檢查(Physical Examination)                                   |
+|BH:163 cm BW:57 kg T:36.5 P:71 R:18 BP:169/93 mmHg Pain:0        |
+|Neurological Examination: . Consciousness: clear . Muscle power: |
+|full . Gait: steady Head-Eye-ENT grossly normal, conjunctiva: not|
+|pale, sclera: anicteric Pupil: isocoric, 3mm/ 3mm Light reflex:  |
+|L/R: +/+, EOM: full and free Neck Jugular vein engorgement(-)    |
+|Thyroid goiter(-) Meningismus: Kernig sign(-); Brudzinski sign(-)|
+|Carotid bruit(-) Chest Thoracic cage contour: symmetric Vocal    |
+|fremitus and expansion: symmetric Percussion: resonant Breathing |
+|sound: clear Crackles(-) wheezes(-)rhonchi(-) stridor(-) Heart   |
+|Heart beat: regular, Murmurs(-) LV lift(-) RV heave(-) Increased |
+|cardiac size by percussion(-) Adventitious sounds (-) Abdomen    |
+|Flat & soft Superficial vein engorgement(-) Protruded            |
+|umbilicus(-) Bowel sound: Normoactive Tenderness(-), rebound     |
+|tenderness(-) Liver and spleen: impalpable Murphy's sign(-)      |
+|Extremities Freely movable Pitting edema (-) ; Cyanosis (-)      |
+|Peripheral pulsation( Right side/ Left side ): Brachial artery   |
+|(++/++), Radial artery(++/++), Femoral artery(++/++), Dorsalis   |
+|pedis artery(++/++). Back Flank knocking tenderness(-) Skin      |
+|Abnormal pigmentation(-) Petechiae(-) Purpura(-) Ecchymoses(-)   |
+|Telangiectasia(-) Rash(-) Plaque(-) Wound(-) Ulceration(-)       |
+|Crust(-) Lymphadenopathy(-)                                      |
+|檢驗紀錄(Laboratory Report)                                      |
+|*********檢驗室:RL*********** 群組:CBC+PLT WBC RBC HB HCT MCV    |
+|time/item (K/μL) (M/μL) (g/dL) (%) (fL) 1040110 [1156] 5.46 4.05 |
+|11.7 34.9 86.2 MCH MCHC PLT RDW-CV PS time/item (pg) (g/dL)      |
+|(K/μL) (%) () 1040110 [1156] 28.9 33.5 209 14.2 - 群組:General   |
+|BioChemistry GGT ALB ALT ALP time/item (U/L) (g/dL) (U/L) (U/L)  |
+|1040110 [1156] 122 4.2 59 100 群組:Biochemistry BUN CRE Na K     |
+|T-BIL time/item (mg/dL) (mg/dL) (mmol/L) (mmol/L) (mg/dL) 1040110|
+|[1156] 28.1 1.9 135 4.1 0.64 AST time/item (U/L) 1040110 [1156]  |
+|69 群組:Coagulation PT PTT PT INR time/item (sec) (sec) ()       |
+|1040110 [1156] 10.6 25.2 0.99                                    |
+|檢查紀錄(Examination Report)                                     |
+|nil                                                              |
+|影像報告(Imaging Report)                                         |
+|nil                                                              |
+|病理報告(Pathology Report)                                       |
+|089/02/22 S0003320 Liver,left lobe,lobectomy,hepatocellular      |
+|carcinoma Gallbladder,cholecystectomy,no specific change         |
+|093/11/15 S0429607 Skin,occipital area,left,excision,epidermal   |
+|cyst S1001103 Skin,back,excision,epidermal cyst,ruptured         |
+|臆斷(Tentative Diagnosis)                                        |
+|1. Hepatocelluar carcinoma, BCLC stage A, status post left       |
+|lobectomy of liver and cholecystectomy on 2000/02/16, with       |
+|recurrence in 2002 and 2003, status post percutaneous microwave  |
+|coagulation(II), with recurrence in 2012, status post            |
+|transarterial chemoembolization (II)(2012/11/09, 2013/01/02),    |
+|with recurrence. 2. Liver cirrhosis, child A 3. Chronic hepatitis|
+|B under entecavir (cash) 3. Hypertension 4. Chronic kidney       |
+|disease 5. Peripheral arterial occlusive disease                 |
+|醫療需求與治療計畫(Medical Needs and Care Plan)                  |
+|*HCC, recurrence S: no specific discomfort O: T:36.5 P:71 R:18   |
+|BP:169/93 mmHg Pain:0 Conjunctiva: not pale, sclera: anicteric   |
+|Breath sound: clear Abdomen: soft and flat, normoactive bowel    |
+|sound, no tenderness. EXT: no pitting edema. (2014/11/28) MRI:   |
+|Three nodules of low signal on T1WI and high signal on T2WI at S8|
+|(9mm and 1.7cm) and S6 surface (1.6cm), suspected recurrent HCCs.|
+|A: 1. Hepatocelluar carcinoma, BCLC stage A, status post left    |
+|lobectomy of liver and cholecystectomy on 2000/02/16, with       |
+|recurrence in 2002 and 2003, status post percutaneous microwave  |
+|coagulation(II), with recurrence in 2012, status post            |
+|transarterial chemoembolization (II)(2012/11/09, 2013/01/02),    |
+|with recurrence P: 1. Arrange CT-guided RFA (健保). Treatment    |
+|Goal: Complete CT-guided RFA smoothly.                           |
+|出院規劃(Discharge Planning)                                     |
+|管路留置狀況:無 日常生活功能分數：100 預期出院後居住場所：與家人 |
+|同住 預期出院後主要照顧者：自己 配偶 女兒 出院規劃收案篩檢：高危 |
+|病患 單位自訂條件                                                |
+|主治醫師評論(VS Comments)                                        |
+|I agree with the record of admission's note.                     |
+|醫師姓名                                                         |
+|陳健弘 主治醫師                                                  |
+

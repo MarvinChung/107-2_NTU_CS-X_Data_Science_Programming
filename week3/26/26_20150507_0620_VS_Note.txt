@@ -1,0 +1,54 @@
+
+2015/05/07 04:26 Pain score:0
+2015/05/06 20:55 BP:131/62
+2015/05/06 20:55 T:36.4 P:72 R:18
+2015/05/06 20:49 Pain score:0
+2015/05/05
+T-BIL:2.25 mg/dL
+AST:87 U/L
+ALT:105 U/L
+UN:55.6 mg/dL
+CRE:2.9 mg/dL
+Na:130 mmol/L
+K:4.2 mmol/L
+CRP:8.14 mg/dL
+
+2015/05/05
+Blast:0.0 %
+Promyl.:0.0 %
+Myelo.:0.0 %
+Meta:0.0 %
+Band:0.0 %
+Seg:82.8 %
+Eos.:2.8 %
+Baso.:0.6 %
+Mono.:4.2 %
+Lym.:9.6 %
+Aty.Lym.:0.0 %
+PlasmaCell:0.0 %
+Normobl.:0
+PS:-
+
+2015/05/05
+WBC:14.13 k/μL
+RBC:3.57 M/μL
+HB:11.3 g/dL
+HCT:31.6 %
+MCV:88.5 fL
+MCH:31.7 pg
+MCHC:35.8 g/dL
+PLT:273 k/μL
+RDW-CV:24.0 %
+PS:-
+
+
+起日:03/24  自費 Biofermin-R Powder 6 mg/1 g /pack  1 pack  PO  TIDPC
+起日:03/27  Cutivate Cream 0.05% 5 g/tube  1 XX  D  BID
+起日:04/10  PARAMOL 500 mg/tab  1 tab  PO  QID
+起日:04/11  警 導管沖洗用 Heparin 25000 U/5 mL /vial (洗腎室專用不發藥)
+16000 U  LOCK  ASORDER
+起日:04/13  Herbesser 30 mg/tab  1 tab  PO  TID
+起日:04/28  Pecolin Susp 120 mL/btl  30 mL  PO  TID
+起日:05/03  Fucidin Cream 2% 5 g/tube  1 XX  D  QD
+起日:05/05  Unasyn (based on ampicillin content) 1000 mg/vial  3000 mg  IV
+Q12H

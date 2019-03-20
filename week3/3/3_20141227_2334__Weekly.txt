@@ -1,0 +1,102 @@
+
+Brief Summary of this week
+After admission, CVVH was started to correct metabolic acidosis causing
+profound shock. An episode of Torsade de points with QTc prolongation was
+found, resolved following correction of hypokalemia and hypomagnesemia.
+Consulted psychiatrist for suspected neuroleptic malignant syndrome
+(progressive elevation of CPK level and tremor of limb) suggested Lorazepam
+use, while NMS was less likely (no hyperthermia, no rigidity of limb), but
+atypical presentation has been reported with Clozapine use. Drug screening
+were negative.
+
+On 12/22 midnight, sudden rapid progressive desaturation developed, and she
+remained hypoxic despite high PEEP (16) and FiO2 (100%). Resuscitation was
+initiated when PEA ensued. Bedside echo showed no evidence of pneumothorax
+and small amount of pleural effusion. CXR showed butterfly distributation
+opacity, consistent with picture of pulmonary edema. There was plenty of
+pink fronthy sputum aspirated from ET tube. CVS was consulted where VA ECMO
+was successfully inserted following CPCR for more than 60 minutes.
+Inhalation NO was started for profound hypoxia. Post-resuscitation
+echocardiography showed LVEF 55.7？000 0000 mild MR, PR, TR and mild
+pulmonary hypertension (TRPH 32mmHg). Polyuria (Urine amount>5L) developed
+after then where urine osmolarity was low (93), suggestive of diabetes
+insipidus. Oligouria ensued, following 2mcg of DDAVP.
+
+She remained comatous with no spontaneous breathing after resuscitation. As
+hemodynamic stabilized, ECMO was removed on 12/25, with subsequent weaning
+of CVVH. O2 demand increased after weaning of ECMO and acute kidney injury
+developed. Empiric Cravit was replaced with Mepem, Targocid and Diflucan on
+12/27 because of concern of sepsis (hypothermia, poor oxygenation,
+fluctuated BP, elevated CRP). Bedside echo showed LLL consolidation and
+moderate amount of right pleural effusion.
+
+Assessment
+Mepem (12/27-) D1
+Targocid (12/27-) D1
+Diflucan (12/27-) D1
+
+<Ventilator setting>
+PCV IP 18 FiO2 0.7 PEEP 10 RR 22
+-> Tv 311 MV 7.0 RR 22 SpO2 96%
+
+Hypothermia, lowest BT 34.9C
+Low tidal volume, poor oxygenation
+ABP 109/62 without pressors
+Urine amount 895mL/16hr, CVC level 13-15cmH2O
+
+<Physical finding>
+GCS E1M1Vt, comatous, no spontaneous breathing
+HEENT: isocoric pupil 3.0-/3.0-, pink conjunctiva
+            Doll eye sign: negative
+Heart: regular heart beat, no audible murmur
+Chest: bilateral coarse, no stridor or wheezing
+Abdomen: soft, normoactive bowel sounds
+Extremities: puffy extremity, grade 1+ pitting edema at peripheral
+
+12/21 Off Pitressin in the morning
+          Normalized QTc 593-> 374ms
+          Progressive elevation of CPK level and tremor of limb
+          Consult psychiatrist for suspected NMS
+-> consult psychiatrist: suggest ativan 2# TID PO, titrate according to CK.
+    NMS less likely (no rigidity, no hyperthermia), but atypical
+presentation with Clozapine has been reported
+-> May discuss use of Bromocriptine and Dantrolene with neurologist
+12/22 Rapid, progressive desaturation despite high PEEP 16 FiO2 100%
+          PEA ensued following prolong hypoxia
+         ECMO inserted after CPCR for 60minutes
+         CXR: butterfly distribution opacity
+         Massive watery discharge from ET tube
+         Procalcitonin 20.44
+         Drug screen: negative
+         ACTH 340 Cortisol 39.9 fT4 1.71 hsTSH 5.55
+12/23 DLC replacement due to V-site clot
+      Off iNo. Taper off bosmine and dopamine
+      vaginal bleeding, suspected MC related
+      Uosm 93, U/O 4000ml => water diuresis
+12/24 UCG LVEDD 44 LVESD 31 LVEF 55.7% mild MR, PR, TR, mild pul HTN TRPG
+32mmHg
+       Oligouria after DDAVP 2mcg, start CVVH UF 100mL
+12/25  OFF ECMO around 4 pm,
+       BP stationary, FiO2 mildly elevated 40->50.
+       Family decided no reon ECMO even indicated.
+       Weaning CVVH at 7 PM.
+12/26 Desautration and elevated O2 demand to FiO2 55->80% at AM,
+          especially at right side. --> Taper to 55% at evening.
+          Neurologist: prefer contrast brain MRI if no contraindication
+          VS: check including brain stem
+          ID: if still fever, change cravit to Maxipime
+          No coffee-ground. Try D5Wr 50ml Q6H
+12/27 Acute kidney injury Cre 0.9-> 1.4
+          Hypothermia, worsened oxygenation
+          Bedside echo: LLL consolidation, moderate pleural effusion at Rt
+
+Plan
+1. Repeat septic work up, escalate antibiotic to broad spectrum Mepem,
+Diflucan and Targocid, pursue culture work up
+2. NG feeding (high proteit diet, Alb 2.2)
+3. Albumin supplement, judicious hydration, monitor renal function and
+urine amount
+4. Explain poor prognosis, high possibility of hypoxic encephalopathy and
+remained vegetative in the future. Patient's father signed DNR consent
+5. Arrange brain MRI (including brain stem) when hemodynamic stabilized
+6. Best supportive care (DNR except medication, including ECMO)

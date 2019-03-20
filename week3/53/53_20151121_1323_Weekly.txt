@@ -1,0 +1,76 @@
+Brief Summary of this week 
+We added Cubicin under the consider of CRBSI(IABP B/C:VSE)CAG was done on 2015/11/18 again. POBAS to LM-LCx was done. However, inotropic agent and ECMO flow increased due to worsened hemodynamic status. Fever took place on 2015/11/19 with AFRVR. We switched antibiotics to Cubicin+Mepem+Eraxis after discussion with VS莊祐中. B/C yielded VSE again and IABP infection was impressed. We began tapering IABP after discussion with VS紀乃新 from 2015/11/21.
+
+PAP1
+Assessment 
+dopamine 17.7mcg/kg/min
+epinephrine 10.6 mcg/min
+ECMO flow: 2.5L/min, FiO2: 100%
+IABP support:1:2
+
+AfRVR with aberrant conduction --> rate improved under amiodarone infusion, but still not reverted to sinus
+Hemodynamics improved
+
+[Current Mv setting]
+PCV IP 16, RR: 10, PEEP: 8, FiO2: 60%
+--> VT: 340, rate: 17, Mv: 3.9, SpO2: 97%
+
+[Antibiotics course]
+Cubicin:11/15-
+Mepem 11/19-
+Anidulafungin:11/19-
+
+Diflucan:11/19
+Cravit 11/19
+Ceftazidime:10/31-11/8, 11/15-11/19
+Vancomycin:10/31-11/14
+Mepem:11/8-11/15
+Ceftriaxone:10/29-10/31
+
+[Physical examination]
+Pupil 2/2mm, LR +/+
+MP at least 3+ symmetrically
+HEENT: conjunctiva: not pale
+Chest: no wheezing, diffuse crackles
+Heart: IRHB (HR~80-110)
+Abdomen: mild distened, normoactive bowel sound
+Extremities: skin turgor: dry
+
+Plan
+1. Keep heparinization for LV thrombus/IABP/ECMO, continue clopidogrel. Monitor for bleeding (hematuria + hematemesis). Add aspirin if bleeding improves 
+2. Amidarone for A-fib RVR with aberrant conduction
+3. Keep Cubicin, Mepem, anidulafungin for new spesis and CRBSI
+4. On CAVH, titrate UF for lung congestion if shock stablized. monitor BP+HR, CVC goal 10-12
+5. Remove IABP ASAP if BP tolerable
+6. Inform family about critical condition, the patient favor DNR if new sepsis with profound shock
+7. Consult CVS for MICS CABG if infection improve.
+
+PAP2
+Assessment 
+[Important study findings]
+10/26   T-CHO:330, TG: 351, LDL: 213, HDL:34, HbA1C: 7.7
+10/26   Serum alb: 1.6. Spot urine: proteinuria 3+, 
+        Urine TPCR: 14.01, 
+        urine electrophoresis: no Bence-jones protein
+        C3/C4: 140/28.9, RA<9.19, ANA: 1:40(-), ANCA: neg
+10/29   CT-brain: 
+        confluent hypodensity around bil periventricular
+        region, no ICH
+10/29   CT-chest: 
+        diffuse hypodense change at endocardium of LV wall
+        and papillary muscles. 
+        hypodense lesion at the apex (SE7 IM177), 
+        suggestive of a LV thrombus**  
+        bilateral pleural effusion, more on right side.  
+10/29   CT-A+P: No definite intra-abdominal lesion.
+10/29   14:54  Cardiac echo (during ECMO implant)
+        LVEDD/ESD:46/40, LVEF:25.1%, LA/RV: 36/18
+        RWMA over akinetic over anterior and lateral, apex
+        mild-mod AR, mod-severe MR, mild TR
+10/29   CAG/PCI
+        LM: patent
+        LAD: proximal total occlusion
+        LCX: proximal to distal multiple lesions, up to 90%
+             stenosis, with collaterals to LAD  
+        RCA: proximal to distal diffuse stenosis, up to 90%,
+             with collaterals to LAD

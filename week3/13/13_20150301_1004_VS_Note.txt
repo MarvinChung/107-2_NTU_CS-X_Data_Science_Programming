@@ -1,0 +1,6 @@
+
+inf STEMI s/p CPCR, PCI
+bil cerebellum ishcemic stroke, with obstructive hydrocephalus
+=>
+fu cons
+consider palliative extubation

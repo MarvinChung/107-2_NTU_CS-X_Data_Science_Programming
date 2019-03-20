@@ -1,0 +1,10 @@
+
+2015/08/01 09:45 BP:107/79
+2015/08/01 09:46 T:36.1 P:93 R:15
+low feeding volume
+2015/08/01 T/D-BIL:38.02/24.69 mg/dL
+2015/08/01 C-Reactive Protein:6.41 mg/dL
+2015/08/01 WBC:15.11 K/μL HB:10.6 g/dL HCT:30.7 % MCV:91.1 fL PLT:122 K/μL
+PH:7.391 PCO2:30.8 mmHg PO2:44.9 mmHg HCO3:18.8 mmol/L BE:-6.4 mmol/L
+Metabolic acidosis and leukocytosis persist
+Will have dialysis today

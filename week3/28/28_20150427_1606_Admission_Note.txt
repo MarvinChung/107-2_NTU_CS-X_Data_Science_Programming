@@ -1,0 +1,287 @@
+
+2015/04/27 16:06 | |
+|主訴(Chief Complaint)                                            |
+|Informant:the patient herself, family and medical record Fever up|
+|to 38.1'C and dyspnea on 4/20                                    |
+|病史(Brief History)                                              |
+|This is a 81-year-old lady with following conditions, 1.         |
+|Bilateral lower legs PAOD, s/p left foot PTA on 3/4 and 3/10,    |
+|with dry gangrene change, on wound dressing 2. CAD, 3-vessel     |
+|disease, status post POBAS (BMT) to LCX on 2011/11/1, with ISRS, |
+|status post POBAS (BMT) to LCX and POBA to LAD on 2012/03/13,    |
+|under aspirin 3. Pruritus, suspected autoimmune disease-related, |
+|ANA 1:320+ (centromere cytoplasmic), under hydroxychloroquine 4. |
+|Heart failure, NYHA function class III, on carvedilol 5.         |
+|Superficial gastritis with erosion, on pantoprazole (PES:        |
+|2015/02/26) 6. End-stage renal disease, CCr 11mL/min. Under H/D  |
+|QW 2,5 @ 北護, under H/D QW 1,5 now. 7. Type 2 diabetes mellitus,|
+|on NPH 16U + RI 8U 8. Cerebral infarction, left pons, with right |
+|hemiplegia, left dysmetria and dysphagia 9. Hypertension, no     |
+|medication used, blood pressure 140/72 mmHg 10.Dyslipidemia, no  |
+|medication used. 11.Hepatitis B virus infection? The patient had |
+|just been hospitalized from 2015/02/26 to 2015/04/05 due to      |
+|acute-on-chronic renal failure and peripheral arterial occlusive |
+|disease. She was kept followed up at NTUH Cardiology Clinic and  |
+|NTUH Bei-Hu Branch for dialysis. On 4/20, fever up to 38 degrees |
+|Celcius, dyspnea and mild chest tightness developed, and the     |
+|patient was brought to NTUH Emergency Department. The examination|
+|showed fever, tachypnea, tachycardia, hypertension (190/89mmHg), |
+|and desaturation (SpO2:88%). The chest radiograph showed         |
+|ill-defined opacities at both lungs, and bilateral pleural       |
+|effusion. The laboratory study revealed leukocytosis (WBC 16.47),|
+|elevated C-reactive protein level, and hyperkalemia. She started |
+|empirical antibiotics with Piperacillin-Tazobactam and received  |
+|correction of hyperkalemia. The fever subsided and the saturation|
+|recovered. On 4/22, acute onset of dyspnea developed. The chest  |
+|radiograph was stationary. The antibiotic regimen was shifted to |
+|Vancomycin and Meropenem. The patient received emergent          |
+|hemodialysis and the dyspnea improved. The blood cultures were   |
+|sterile. Throughout the clinical course, the patient remained    |
+|fair appetite and spirit. There were occasional dyspnea mild     |
+|chest tightness before hemodialysis, and were relieved after     |
+|hemodialysis. Under the impression of healthcare-associated      |
+|pneumonia, the patient was admitted to General Medicine Ward on  |
+|4/27 for further treatment. Family history: diabetes mellitus    |
+|Medication Allergy:顯影劑 Fluorescein 【Skin Rash(皮膚疹)】 親屬 |
+|描述 2015/04/27 Medication ADR:unknown Allergy to Medical Device |
+|and Materials:No 親屬描述 2015/04/27 Current Medication: NTUH: 警|
+|Humulin R 1000 U/10 mL /vial 10 U STAT SC 1 days 警 Humulin N    |
+|(NPH) 1000 U/10 mL /vial 16 U HS SC 2 days 栓 Bisacodyl Supp 10  |
+|mg/pill 1 pill STAT R 1 days PLAQUENIL 200 mg/tab 1 tab QD PO 28 |
+|days Burinex 1 mg/tab 1 tab BID PO 28 days Doxaben 1 mg/tab 1 tab|
+|BID PO 28 days Zanidip FC 10 mg/tab 1 tab QD PO 28 days Pletaal  |
+|50 mg/tab 1 tab BID PO 28 days Predonine 5 mg/tab 0.5 tab QD PO  |
+|28 days NovoNorm 1 mg/tab 2 tab BIDAC15 PO 28 days Lidopat patch |
+|5% 700 mg/pce 1 pce QD D 28 days Xalatan Oph Soln 0.005% 2.5     |
+|mL/btl 1 gtt HS OU 28 days 眼 Allergocrom Eye Drops 20 mg/1 mL 10|
+|mL/btl 1 gtt BID OU 28 days 栓 Bisacodyl Supp 10 mg/pill 1 pill  |
+|PRN R 28 days Rinderon-V Cream 0.06% 5 g/tube 1 XX AS ORDER D 14 |
+|days Sennapur 12.5 mg/tab 2 tab HS PO 28 days Other: denied 中草 |
+|藥: denied 保健食品: denied Past Medical History: see above      |
+|Hospitalization: 入院日期:2015_02_26 出院日期:2015_04_05         |
+|診斷:Gastrointestinal bleeding 入院日期:2014_02_18               |
+|出院日期:2014_02_27 診斷:Fever 入院日期:2013_10_07               |
+|出院日期:2013_11_20 診斷:Congestive heart failure                |
+|入院日期:2013_09_13 出院日期:2013_09_18 診斷:Anemia Past Surgical|
+|History: 2013_11_11 Permcath implantation via right internal     |
+|jugular vein                                                     |
+|社會心理相關評估(Psychosocial Assessment)                        |
+|Social Economic and Personal History 教育程度:小學 職業:無       |
+|宗教信仰:基督教 婚姻狀態:喪偶 使用語言:國語 台語 口述血型:O，RH: |
+|不清楚，輸血反應:不清楚 抽煙:沒有 喝酒:沒有 檳榔:沒有            |
+|物質濫用:沒有                                                    |
+|系統性回顧(Review of System)                                     |
+|1.Systemic: weight loss(-), easy-fatigability(-), night sweats(-)|
+|2.Skin: petechiae(-), purpurae(-), skin rash(-), itching(-),     |
+|3.HEENT: headache(-),dizziness(-), blurred vision(-),            |
+|strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing  |
+|impairment(-), tinnitus(-), vertigo(-), nasal stuffiness(-),     |
+|nasal discharge(-), epistaxis(-), gum bleeding(-), sore          |
+|throat(-),oral ulcer(-) 4.Cardiovascular: exertional chest       |
+|tightness(+), nocturnal dyspnea(-), orthopnea(+/-) syncope(-),   |
+|palpitation(-), intermittent claudication(-) 5.Respiratory:      |
+|dyspnea(+), cough(-), chest pain(+), hemoptysis(-), productive   |
+|cough (-), pleuritic chest pain(-) 6.Gastrointestinal:           |
+|anorexia(-), nausea(-), vomiting(-), dysphagia(-), heartburn(-), |
+|acid regurgitation(-), abdominal fullness(-), hunger pain(-)     |
+|midnight pain(-), constipation(-), diarrhea(-), melena(-), change|
+|of bowel habit(-), small caliber of stool(-), tenesmus(-),       |
+|flatulence(-) 7.Urogenital: flank pain(-), hematuria(-), urinary |
+|frequency(-), urgency(-), dysuria (-), hesitancy(-), small stream|
+|of urine(-), impotence(-), nocturia(-), polyuria(-), oliguria (+)|
+|8.Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-),      |
+|weakness(-) back pain(-) 9.Metabolic: heat intolerance(-), cold  |
+|intolerance(-), thirsty(-) 10.Nervous: numbness (-),             |
+|paresis/plegia (-)                                               |
+|身體檢查(Physical Examination)                                   |
+|BH:148 cm BW:40 kg T:36.4 P:105 R:18 BP:140/72 mmHg Pain: 0      |
+|Neurological Examination: . Consciousness: clear . Muscle power: |
+|4/5 . Gait: N/A Head-Eye-ENT grossly normal, conjunctiva: not    |
+|pale, sclera: anicteric Pupil: isocoric, 3mm/ 3mm Light reflex:  |
+|L/R: +/+, EOM: full and free Neck Jugular vein engorgement(-)    |
+|Thyroid goiter(-) Meningismus: Kernig sign(-); Brudzinski sign(-)|
+|Carotid bruit(-) Chest Placement of permcath catheter Thoracic   |
+|cage contour: symmetric Vocal fremitus and expansion: symmetric  |
+|Percussion: resonant Breathing sound: coarse Crackles(+,         |
+|bilateral basal) wheezes(-), rhonchi(+, bilateral hilar)         |
+|stridor(-) Heart Heart beat: regular, Murmurs(-) LV lift(-) RV   |
+|heave(-) Increased cardiac size by percussion(-) Adventitious    |
+|sounds (-) Abdomen Flat & soft Superficial vein engorgement(-)   |
+|Protruded umbilicus(-) Bowel sound: Normoactive Tenderness(-),   |
+|rebound tenderness(-) Liver and spleen: impalpable Murphy's      |
+|sign(-) Extremities Freely movable Pitting edema (-) ; Cyanosis  |
+|(-) Peripheral pulsation( Right side/ Left side ): Brachial      |
+|artery (++/++), Radial artery(++/++), Femoral artery(++/++),     |
+|Dorsalis pedis artery(+/+). Dry gangrene at left foot, and small |
+|gangrene at right second toe Back Flank knocking tenderness(-)   |
+|Skin Abnormal pigmentation(-) Petechiae(-) Purpura(-)            |
+|Ecchymoses(-) Telangiectasia(-) Rash(-) Plaque(-) Wound(-)       |
+|Ulceration(-) Crust(-) Lymphadenopathy(-)                        |
+|檢驗紀錄(Laboratory Report)                                      |
+|*********檢驗室:RL*********** 群組:STAIN Gram's(GS)#1            |
+|Gram's(GS)#2 Gram's(GS)#3 Gram's(GS)#4 Gram's(GS)#5 time/item (*)|
+|(*) (*) (*) (*) 1040420 [1432] Few PMNs(<10 Moderate epi         |
+|G(+)cocci 2+ G(+)Bacilli Yeast-like o /LPF) thelial cell 2+      |
+|rganism s(10-25/LPF) 群組:Biochemistry BUN CRE Na K Ca time/item |
+|(mg/dL) (mg/dL) (mmol/L) (mmol/L) (mmol/L) 1040420 [0750] 88.0   |
+|3.9 135 5.6 2.36 1040420 [0755] 1040420 [1440] 5.6 1040420 [1717]|
+|1040420 [1722] 6.4 1040421 [0433] 3.6 1040422 [0258] 47.7 2.6 138|
+|5.1 1040422 [0502] 1040424 [0457] 3.5 1040427 [0435] 139 3.8     |
+|1040427 [1144] Mg LacticAcid CK CK-MB %CKMB time/item (mmol/L)   |
+|(mmol/L) (U/L) (U/L) (%) 1040420 [0750] 0.78 30 14 46.7 1040420  |
+|[0755] 1.53 1040420 [1440] 26 1040420 [1717] 28 1040420 [1722]   |
+|1040421 [0433] 28 <10 <6 or >25 1040422 [0258] 63 24 38.1 1040422|
+|[0502] 2.45 1040424 [0457] 1040427 [0435] 1040427 [1144] 26      |
+|Troponin I time/item (ng/mL) 1040420 [0750] 0.223 1040420 [0755] |
+|1040420 [1440] 0.261 1040420 [1717] 0.225 1040420 [1722] 1040421 |
+|[0433] 0.217 1040422 [0258] 0.127 1040422 [0502] 1040424 [0457]  |
+|1040427 [0435] 1040427 [1144] 0.070 群組:Blood pH/Gas PH PCO2 PO2|
+|HCO3 BaseExcess time/item (*) (mmHg) (mmHg) (mmol/L) (mmol/L)    |
+|1040421 [0433] 7.393 40.8 49.9 25.1 -0.1 1040422 [0258] 7.398    |
+|31.6 118.2 19.6 -5.5 1040424 [0457] 7.398 31.7 221.3 19.7 -5.4   |
+|1040427 [0435] 7.418 30.2 156.6 19.7 -5.0 1040427 [1144] 7.436   |
+|29.0 109.9 19.7 -4.8 群組:WBC Classification Blast Promyl. Myelo.|
+|Meta Band time/item (%) (%) (%) (%) (%) 1040420 [0750] 0.0 0.0   |
+|0.0 0.0 0.0 1040422 [0258] 0.0 0.0 0.0 0.0 0.0 1040424 [0457] 0.0|
+|0.0 0.0 0.0 0.0 1040427 [0435] 0.0 0.0 0.0 0.0 0.0 Seg Eos. Baso.|
+|Mono. Lym. time/item (%) (%) (%) (%) (%) 1040420 [0750] 81.2 3.5 |
+|0.4 4.9 10.0 1040422 [0258] 74.9 6.1 0.7 6.9 11.4 1040424 [0457] |
+|83.6 1.1 0.7 8.2 6.4 1040427 [0435] 81.3 3.6 0.5 7.6 7.0 Aty.Lym.|
+|PlasmaCell Normobl. PS time/item (%) (%) () () 1040420 [0750] 0.0|
+|0.0 0 - 1040422 [0258] 0.0 0.0 0 - 1040424 [0457] 0.0 0.0 0 -    |
+|1040427 [0435] 0.0 0.0 0 - 群組:CBC+PLT WBC RBC HB HCT MCV       |
+|time/item (K/μL) (M/μL) (g/dL) (%) (fL) 1040420 [0750] 16.47 3.52|
+|10.5 32.4 92.0 1040422 [0258] 17.41 3.66 11.1 34.4 94.0 1040424  |
+|[0457] 14.74 3.68 10.7 34.1 92.7 1040427 [0435] 12.82 3.28 9.9   |
+|30.5 93.0 MCH MCHC PLT RDW-CV PS time/item (pg) (g/dL) (K/μL) (%)|
+|() 1040420 [0750] 29.8 32.4 170 17.8 - 1040422 [0258] 30.3 32.3  |
+|236 17.8 - 1040424 [0457] 29.1 31.4 216 17.6 - 1040427 [0435]    |
+|30.2 32.5 148 17.9 - 群組:Yes C-Reactive P Blood Ketone pro-BNP  |
+|rotein time/item (mg/dL) (mmol/L) (pg/mL) 1040420 [0750] >35000  |
+|1040422 [0502] 6.52 1.1 1040427 [0435] 3.35 群組:General         |
+|BioChemistry ALB ALT time/item (g/dL) (U/L) 1040420 [0750] 3.1 37|
+|群組:Coagulation PT PTT PT INR time/item (sec) (sec) () 1040420  |
+|[0750] 10.2 20.1 0.94 *********檢驗室:PO*********** 群組:        |
+|Sugar(One to uch) time/item (*) 1040420 [0748] 288 1040422 [0300]|
+|378 1040422 [0636] 322 1040422 [1023] 189 1040422 [1755] 165     |
+|1040422 [2208] 183 1040423 [0432] 298 1040423 [1012] 303 1040423 |
+|[1745] 420 1040423 [2039] 326 1040424 [0456] 466 1040424 [1028]  |
+|297 1040424 [1744] 259 1040424 [2054] 242 1040425 [0523] 364     |
+|1040425 [1014] 334 1040425 [1716] 220 1040425 [2054] 77 1040426  |
+|[0453] 422 1040426 [1034] 345 1040426 [1712] 180 1040426 [2042]  |
+|137 1040427 [0435] 397 1040427 [1033] 285                        |
+|*********檢驗室:YM*********** 群組: Free Ca(急重症自 Hb(急重症自 |
+|行檢驗) Hct(急重症自行檢驗) K+(急重症自行檢驗) Na(急重症自行檢驗)|
+|行檢驗) time/item (mmol/L) (g/dL) (%) (mmol/L) (mmol/L) 1040420  |
+|[0726] 1.25 11.7 35 5.95 132.2 1040420 [1704] 1.27 11.5 35 6.23  |
+|137.5 Suger(急重症自行檢 LacticAcid(急 驗) 重症自行檢驗)         |
+|time/item (mg/dL) (mmol/L) 1040420 [0726] 319 1.9 1040420 [1704] |
+|212 1.2 群組:Yes pH pCO2 pO2 HCO3 BaseExcess time/item () (mmHg) |
+|(mmHg) (mmol/L) (mmol/L) 1040420 [0726] 7.386 37.2 39.1 22.5 -2.8|
+|1040420 [1704] 7.467 28.8 175.8 21.0 -3.0 SO2 time/item (%)      |
+|1040420 [0726] 73.3 1040420 [1704] 99.7                          |
+|*********檢驗室:BK*********** 群組:Yes antibody scr een(New Lis) |
+|time/item (*) 1040420 [0751] Negative 群組:Blood Type ABO Typing |
+|RH Typing time/item (*) (*) 1040420 [0751] O Positive            |
+|*********檢驗室:B2*********** B2-1040420-0009502 BLOOD ID+DS     |
+|Blood.#1: No growth after 5 days B2-1040421-1031739 BLOOD ID+DS  |
+|Blood.#1: No growth after 5 days B2-1040422-2051425 BLOOD ID+DS  |
+|Blood.#1: No growth after 5 days B2-1040422-2051424 BLOOD ID+DS  |
+|Blood.#1: No growth after 5 days                                 |
+|檢查紀錄(Examination Report)                                     |
+|nil                                                              |
+|影像報告(Imaging Report)                                         |
+|Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師:|
+|劉高郎 影像時間: 2015/04/25 10:44 (32001CYM) 發報告時間:         |
+|2015/04/25 19:11 Emergency Supine CXR shows: 1.　a right jugular |
+|venous approached central venous pressure line is noted with tip |
+|in the superior vena cava. 2.　calcified aortic knob is noted;   |
+|3.　suspected small amount of right pleural effusions;           |
+|4.　tracheobronchial calcifications are noted. Chest : AP View   |
+|(Supine) 醫令: Chest : AP View (Supine) 報告醫師: 廖漢文         |
+|影像時間: 2015/04/22 02:29 (32001CYM) 發報告時間: 2015/04/22     |
+|10:42 Chest film showed 1.Tortuous, calcified aorta, enlarged    |
+|heart with prominent lung marking and pulmonary hypertension.    |
+|This indicated CHF. 2. Infiltrative lung lesion is shown in both |
+|lungs.pleural effusion noted. 3. thoracic cage is intact.Double  |
+|lumen catheter inserted. Chest : PA View (Standing) 醫令: Chest :|
+|PA View (Standing) 報告醫師: 王甄 影像時間: 2015/04/21 05:42     |
+|(32001CXM) 發報告時間: 2015/04/21 14:11 Chest PA view shows      |
+|cardiomegaly. tortuous aorta. wall calcification of the aorta.   |
+|CVP insertion. interstitial infiltrations and haziness at        |
+|bilateral lungs. Minimal bilateral pleural effusion. Chest : AP  |
+|View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 張晉誠 影 |
+|像時間: 2015/04/20 10:17 (32001CYM) 發報告時間: 2015/04/20 11:37 |
+|status post placement of perm-cath. enlarged heart shadow.       |
+|atherosclerosis with wall calcification at the aorta. ill-defined|
+|opacities at the both lung fields. blunted bilateral costophrenic|
+|angles. osteopenic change of visible bones. degenerative change  |
+|of spine. Chest : AP View (Supine) 醫令: Chest : AP View (Supine)|
+|報告醫師: 曾堯暉 影像時間: 2015/03/31 13:50 (32001CYM)           |
+|發報告時間: 2015/04/03 11:34 cardiomegaly. bilateral lungs       |
+|ill-defined opacities. placement of a central venous catheter.   |
+|病理報告(Pathology Report)                                       |
+|S1146768 Stomach,body,endoscopic biopsy,no specific change       |
+|臆斷(Tentative Diagnosis)                                        |
+|1. Healthcare-associated pneumonia, status post                  |
+|Piperacillin-Tazobactam, status post Vancomycin, under Meropenem |
+|2. Bilateral lower legs PAOD, s/p left foot PTA on 3/4 and 3/10, |
+|with dry gangrene change, on wound dressing 3. CAD, 3-vessel     |
+|disease, status post POBAS (BMT) to LCX on 2011/11/1, with ISRS, |
+|status post POBAS (BMT) to LCX and POBA to LAD on 2012/03/13,    |
+|under aspirin 4. Pruritus, suspected autoimmune disease-related, |
+|ANA 1:320+ (centromere cytoplasmic), under hydroxychloroquine 5. |
+|Heart failure, NYHA function class III, on carvedilol 6.         |
+|Superficial gastritis with erosion, on pantoprazole (PES:        |
+|2015/02/26) 7. End-stage renal disease, CCr 11mL/min. Under H/D  |
+|QW 2,5 @ 北護, under H/D QW 1,5 now. 8. Type 2 diabetes mellitus,|
+|on NPH 16U + RI 8U 9. Cerebral infarction, left pons, with right |
+|hemiplegia, left dysmetria and dysphagia 10.Hypertension, no     |
+|medication used, blood pressure 140/72 mmHg 11.Dyslipidemia, no  |
+|medication used. 12.Hepatitis B virus infection?                 |
+|醫療需求與治療計畫(Medical Needs and Care Plan)                  |
+|* Healthcare-associated pneumonia, status post                   |
+|Piperacillin-Tazobactam, status post Vancomycin, under Meropenem |
+|2. Bilateral lower legs PAOD, s/p left foot PTA on 3/4 and 3/10, |
+|with dry gangrene change, on wound dressing 3. CAD, 3-vessel     |
+|disease, status post POBAS (BMT) to LCX on 2011/11/1, with ISRS, |
+|status post POBAS (BMT) to LCX and POBA to LAD on 2012/03/13,    |
+|under aspirin 4. Pruritus, suspected autoimmune disease-related, |
+|ANA 1:320+ (centromere cytoplasmic), under hydroxychloroquine 5. |
+|Heart failure, NYHA function class III, on carvedilol 6.         |
+|Superficial gastritis with erosion, on pantoprazole (PES:        |
+|2015/02/26) 7. End-stage renal disease, CCr 11mL/min. Under H/D  |
+|QW 2,5 @ 北護, under H/D QW 1,5 now. 8. Type 2 diabetes mellitus,|
+|on NPH 16U + RI 8U 9. Cerebral infarction, left pons, with right |
+|hemiplegia, left dysmetria and dysphagia 10.Hypertension, no     |
+|medication used, blood pressure 140/72 mmHg 11.Dyslipidemia, no  |
+|medication used. 12.Hepatitis B virus infection? Assessment 4/20 |
+|Fever (38.1’C), dyspnea → NTUH ED: TPR 38.1/140/40 BP 190/89mmHg |
+|B/C: sterile. Sputum: moderate quality. GPC + GNB + Yeast 4/20   |
+|Chest radiograph: status post placement of perm-cath. enlarged   |
+|heart shadow. atherosclerosis with wall calcification at the     |
+|aorta. ill-defined opacities at the both lung fields. blunted    |
+|bilateral costophrenic angles. osteopenic change of visible      |
+|bones. degenerative change of spine. 4/21 night tachypnea,       |
+|suspected fluid overload-related, relieved after hemodialysis    |
+|4/23 Vancomycin 300mg TIW + Meropenem 500mg QN WBC: 16.47 > 17.41|
+|> 14.74 > 12.82 (4/27) CRP:6.52 > 3.35 (4/27) CXR: 4/27          |
+|improving. Intermittent left chest tightness relieved after      |
+|hemodialysis 4/27 ID 張凱音: Discontinue vancomycin. Shift       |
+|meropenem to ceftazidime. Plan: 1. Discontinue vancomycin, keep  |
+|meropenem for 2 days and shift to ceftazidime. The total course  |
+|of antibiotics is 10-14 days. 2. Hemodialysis qw1,5 3. Wound     |
+|dressing to left foot PAOD wound, and sacral pressure sore.      |
+|Change dressing qd 4. Follow up chest radiograph Treatment Goal: |
+|complete antiobiotic therapy                                     |
+|出院規劃(Discharge Planning)                                     |
+|管路留置狀況:有 靜脈管路留置(含Hickman / Port-A)：有 右鎖骨下 雙 |
+|腔導管留置：無 鼻胃管留置：無 氣管管路留置：無 胃造廔口：無 尿管 |
+|留置：無 膀胱造廔：無 傷口引流管：無 其他導管： 日常生活功能分數 |
+|：0 預期出院後居住場所：與家人同住 預期出院後主要照顧者：女兒 外 |
+|勞 出院規劃收案篩檢：高危病患 帶有管路 功能量表未滿60分          |
+|主治醫師評論(VS Comments)                                        |
+|I agree with the assessment of the intern.                       |
+|醫師姓名                                                         |
+|李宗錞 主治醫師                                                  |
+

@@ -1,0 +1,83 @@
+
+Brief Summary of this week
+After admission to SICU on 5/13 night, massive bloody stool was noted and
+emergent CTA showed ascending to transverse colon junction extravasation,
+so TAE was performed over SMA distal branch. However, another episode of
+massive bloody stool developed on 5/14 morning even though Pitressin used,
+so TAE was performed again. On 5/15 morning, another episode of bloody
+stool developed and TAE didn't find active bleeding area. After consulting
+with GI and GS specialist, we gave somatosan first and will arrange
+colonoscope next week.
+
+Assessment
+2015/05/17 14:00 T:37.8 P:111 R:11
+2015/05/17 14:00 BP:126/80
+2015/05/17 14:00 SpO2:92%(%,L,)
+2015/05/17 15:00 I/O:1582.6/2390(-807.4)(24hr)
+
+Bloody stool s/p TAE*(III), off pitressin
+-->TAE no obvious bleeding site(5/15)
+-->GI man: suggest somatosan use 3days and contact for colonoscope on 5/18.
+
+Dormicum+fentanyl+nimbex
+paO2 76.3, CO2 52.8, ventilator FiO2 70% ECMO FiO2 100% Flow:7L
+
+NPO with NG decompression: bile
+-->TPN+dipeptivan use
+PPI cIF, somatostatin cIF
+
+Foy for DIC correction
+
+ABx:Tienem+Targocid+Diflucan
+
+[Lab]
+
+2015/05/17
+Suger(急重症自行檢驗):mg/dL
+Hct(急重症自行檢驗):46 %
+Na(急重症自行檢驗):135.6 mmol/L
+Hb(急重症自行檢驗):15.4 g/dL
+K+(急重症自行檢驗):4.39 mmol/L
+Free Ca(急重症自行檢驗):1.14 mmol/L
+LacticAcid(急重症自行檢驗):2.1 mmol/L
+Hct(急重症自行檢驗):41 %
+Na(急重症自行檢驗):134.0 mmol/L
+K+(急重症自行檢驗):4.07 mmol/L
+Hb(急重症自行檢驗):13.7 g/dL
+Free Ca(急重症自行檢驗):1.10 mmol/L
+Suger(急重症自行檢驗):mg/dL
+LacticAcid(急重症自行檢驗):1.8 mmol/L
+
+2015/05/17
+WBC:15.75 K/μL
+RBC:5.32 M/μL
+HB:15.1 g/dL
+HCT:45.4 %
+MCV:85.3 fL
+MCH:28.4 pg
+MCHC:33.3 g/dL
+PLT:106 K/μL
+RDW-CV:18.1 %
+PS:-
+
+2015/05/17
+Ca:2.04 mmol/L
+Mg:0.72 mmol/L
+BUN:33.6 mg/dL
+CRE:1.4 mg/dL
+Na:138 mmol/L
+K:4.4 mmol/L
+AST:29 U/L
+CK:34 U/L
+LacticAcid:1.45 mmol/L
+
+
+Plan
+1. Contact for colonoscope tomorrow.
+2. VA-ECMO support, consider shift to VV-ECMO or removal after stabilized
+3. Monitor bloody stool, TAE if recurrent bleeding, component therapy
+4. Empirical Tienem+targocid+diflucan, pursue culture
+5. NPO with NG decompression, PPI+somatostatin cIF; TPN support
+6. F/u cardiac echo
+7. Repeat throat swab of influenza A+B tomorrow.
+

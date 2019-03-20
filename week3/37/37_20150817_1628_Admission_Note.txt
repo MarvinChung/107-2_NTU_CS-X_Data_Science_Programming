@@ -1,0 +1,267 @@
+
+2015/08/17 16:28 | |
+|主訴(Chief Complaint)                                            |
+|Informant:Patient and medical record Loss of conscious and       |
+|collpase at this noon.                                           |
+|病史(Brief History)                                              |
+|<Present Illness> The 86-year-old female has the past higtory of |
+|1. Transverse colon adenocarcinoma, pT3N4aM1, status post left   |
+|hemicolectomy on 2013/09/23, with lung and liver metastases,     |
+|status post adjuvant chemotherapy with UFUR                      |
+|(2013/11/14~2014/02/11), and then Xeloda (2014/02/11~) 2. Ileus, |
+|malignancy related, improved 3. Malignant pleural effusion 4.    |
+|Pericardial effusion 5. Thyroid poorly-defferentiated carcinoma, |
+|status post right thyroidectomy on 2013/04/29, under Eltroxin 100|
+|mcg QW1,2,4,5,7 6. HBV carrier under Baraclude 0.5 mg 1# QD      |
+|Before this admission, she received oral chemotherapy of Xeloda  |
+|at outpatient clinic and she just discharged from 9A due to      |
+|malignancy related ileus on 2015/07/09. According her families   |
+|statement, there was no discomfort and she lived as bafore this  |
+|morning. However, she loss of conscious and collapse about this  |
+|noon (no witness). Emergency medical technician was called and   |
+|the initial cardiac rhythm showed asystole. Basic life support   |
+|was performed and she was sent to our ER for felp. The total     |
+|chest compression time was 13+16=29 minutes. Return of           |
+|spontaneous circulation was noted after compression. The lab     |
+|revealed leukocytosis with left shift and lactate acidosis. Urine|
+|analysis showed pyuria and bacteriuria. Chest X-ray showed       |
+|bilateral increased infiltration and post resuscitation change.  |
+|Brain CT showed mild brain atrophy, diffusely decreased gray     |
+|whtie matter differentiation, possibly hypoxic ischemic change   |
+|related. Under uroseptic shock with cardiac arrest, she was      |
+|admitted to 1A1 for hypothermia therapy. Family History:no family|
+|history of hypertension, Diabetes mellitus Medication Allergy:No |
+|病人自述 2015/08/17 Medication ADR:unknown Allergy to Medical    |
+|Device and Materials:No 病人自述 2015/08/17 Current Medication:  |
+|NTUH: 警 Humulin R 1000 U/10 mL /vial 10 U STAT IV 1 days Rolikan|
+|16.6 mEq/20 mL /amp 49.8 mEq STAT IV 1 days Rolikan 16.6 mEq/20  |
+|mL /amp 16.6 mEq STAT IV 1 days (鈣) Vitacal 5.4 mEq/20 mL /amp  |
+|10.8 mEq STAT IV 1 days PCN Test (Penicillin G Skin Test) 1000   |
+|U/1 mL 2 mL/vial 0.1 mL ONCE ID 1 days TAZOCIN (based on         |
+|piperacillin content) 2000 mg/vial 3000 mg Q6H IF 2 days 警      |
+|Levophed 4 mg/4 mL /amp 8 mg QD cIF 2 days TAZOCIN (based on     |
+|piperacillin content) 2000 mg/vial 3000 mg STAT IF 1 days 警     |
+|Adrenaline 1 mg/1 mL /amp 5 mg STAT IV 1 days 警 Dopamine HCl,   |
+|Baxter 400 mg/250 mL /bag 400 mg QD cIF 2 days 警 Vitagen 50% 20 |
+|mL/amp 40 mL STAT IV 1 days Eltroxin 100 mcg/tab 1 tab AS ORDER  |
+|PO 28 days 0.5 Baraclude 0.5 mg/tab for CDC Approval 1 tab       |
+|QDAC2HR PO 28 days Xeloda 500 mg/tab 1 tab BID PO 7 days (管2) 12|
+|Durogesic D-TRANS 12 mcg/1 hr /pce (實際劑量12.5mcg/hr) 1 pce Q3D|
+|D 7 days Ferrum Hausmann Chewable 100 mg/tab 1 tab QD PO 21 days |
+|Methycobal 500 mcg/cap 1 cap QD PO 21 days Alinamin-F50 /tab 1   |
+|tab QDPC PO 21 days B.C. /cap 1 cap QD PO 21 days 自費 Proheparum|
+|/tab 1 tab QD PO 21 days Nexium 40 mg/tab 1 tab QDAC1HR PO 21    |
+|days Gascon 40 mg/tab 1 tab BID PO 21 days 摩 Mopride FC 5 mg/tab|
+|1 tab BID PO 21 days Other: denied 中草藥: denied 保健食品:      |
+|denied Past Medical History: Hospitalization:入院日期:2015_06_24 |
+|出院日期:2015_07_09 診斷:Ileus 入院日期:2013_09_19               |
+|出院日期:2013_10_18 診斷:Colon cancer Past Surgical              |
+|History:2013_09_23 Left hemicolectomy Lifestyle: Cigarette       |
+|smoking: denied Alcohol consumption: denied Betelnut chewing:    |
+|denied Travel: denied Cluster:denied Contact: denied Occupation: |
+|housewife                                                        |
+|社會心理相關評估(Psychosocial Assessment)                        |
+|Social Economic and Personal History 教育程度:國中 職業:無       |
+|宗教信仰:道教 婚姻狀態:喪偶 使用語言:國語 台語                   |
+|口述血型:A，RH:RH+，輸血反應:無 抽煙:沒有 喝酒:沒有 檳榔:沒有 物 |
+|質濫用:沒有 Psychological History and Evaluation 意識狀態:昏迷   |
+|認知功能:無法評估 精神情緒狀態:無法評估 安全問題:有 其他 fall    |
+|down 睡眠形態:異常 其他 GCS:E1M1VT Nutritional Screen            |
+|攝食情形:50-74%,普通 排便狀態:正常 BMI:24.11 Fall Risk Assessment|
+|總分:17 (>=3分進行不倒翁計畫，請開預防跌倒醫囑)                  |
+|系統性回顧(Review of System)                                     |
+|1. Systemic: weight loss(-), easy-fatigability(-), night         |
+|sweats(-) 2. Skin: petechiae(-), purpurae(-), skin rash(-),      |
+|itching(-), 3. HEENT: headache(-),dizziness(-), blurred          |
+|vision(-), strabismus(-), ocular pain(-), otalgia(-),            |
+|otorrhea(-), hearing impairment(-), tinnitus(-), vertigo(-),     |
+|nasal stuffiness(-), nasal discharge(-), epistaxis(-), gum       |
+|bleeding(-), sore throat(-),oral ulcer(-) 4. Cardiovascular:     |
+|exertional chest tightness(-), nocturnal dyspnea(-), orthopnea(-)|
+|syncope(-), palpitation(-), intermittent claudication(-) 5.      |
+|Respiratory: dyspnea(-), cough(-), chest pain(-), hemoptysis(-), |
+|productive cough (-), pleuritic chest pain(-) 6.                 |
+|Gastrointestinal: anorexia(-), nausea(-), vomiting(-),           |
+|dysphagia(-), heartburn(-), acid regurgitation(-), abdominal     |
+|fullness(-), hunger pain(-) midnight pain(-), constipation(-),   |
+|diarrhea(-), melena(-), change of bowel habit(-), small caliber  |
+|of stool(-), tenesmus(-), flatulence(-) 7. Urogenital: flank     |
+|pain(-), hematuria(-), urinary frequency(-), urgency(-), dysuria |
+|(-), hesitancy(-), small stream of urine(-), impotence(-),       |
+|nocturia(-), polyuria(-), oliguria (-) 8. Musculoskeletal: bone  |
+|pain(-), arthralgia(-), myalgia(-), weakness(-) back pain(-) 9.  |
+|Metabolic: heat intolerance(-), cold intolerance(-), thirsty(-)  |
+|10.Nervous: numbness (-), paresis/plegia (-)                     |
+|身體檢查(Physical Examination)                                   |
+|BH:153.9 cm BW:57.1 kg T:35.2 P:118 R:20 BP:105/64 mmHg Pain:0   |
+|Neurological Examination: Consciousness: comatose, E1M1Vt Muscle |
+|power: no muscle power Gait: not performed Head-Eye-ENT grossly  |
+|normal, conjunctiva: pink, sclera: anicteric Pupil: dilatation,  |
+|6mm/ 6mm Light reflex: L/R: -/- Neck Jugular vein engorgement(-) |
+|Thyroid goiter(-) Meningismus: Kernig sign(-); Brudzinski sign(-)|
+|Carotid bruit(-) Chest Thoracic cage contour: symmetric,         |
+|Retraction(-) Vocal fremitus and expansion: symmetric Percussion:|
+|resonant Breathing sound: Crackles(+, bilateral)                 |
+|wheezes(-)rhonchi(-) stridor(-) Heart Heart beat: regular        |
+|Murmurs(-) LV lift(-) RV heave(-) Increased cardiac size by      |
+|percussion(-) Adventitious sounds (-) Abdomen Flat & soft        |
+|Superficial vein engorgement(-) Protruded umbilicus(-) Bowel     |
+|sound: hypoactive Tenderness(-) Hepato-jugular reflux(-) Liver   |
+|and spleen: impalpable Extremities Freely movable, pulses        |
+|symmetric and intact, pitting edema(-) Back Knocking pain(-) Skin|
+|Abnormal pigmentation(-) Petechiae(-) Purpura(-) Ecchymoses(-)   |
+|Telangiectasia(-) Rash(-) Plaque(-) Lymphadenopathy(-)           |
+|檢驗紀錄(Laboratory Report)                                      |
+|*********檢驗室:OP*********** 群組:SEDIMENT RBC (S) WBC (S) Epith|
+|(S) Cast (S) Crystal (S) time/item (/HPF) (/HPF) (/HPF) (/LPF)   |
+|(*) 1040817 [1340] 5-10 75-100 0-2 - - Bacteria Mucus(S) Others  |
+|(S) time/item (*) (*) (*) 1040817 [1340] 3+ - - 群組:MULTISTIX   |
+|Sp. Gr.(C) pH Protein(C) Glu.(C) Ketone body (U) time/item (*)   |
+|(*) (mg/dL) (mg/dL) (*) 1040817 [1340] 1.005 6.0 70 ( 1+ ) 70 (  |
+|1+ ) - O.B.(C) Urobil.(C) Bil.(C) Nitrite(C) WBC esterase (U)    |
+|time/item (mg/dL) (mg/dL) (mg/dL) (*) (*) 1040817 [1340] 2+ ≦1.5 |
+|- - 3+ Color Turbidity time/item (*) (*) 1040817 [1340] Light    |
+|Yellow + *********檢驗室:RL*********** 群組:Blood pH/Gas PH PCO2 |
+|PO2 HCO3 BaseExcess time/item (*) (mmHg) (mmHg) (mmol/L) (mmol/L)|
+|1040817 [1320] 7.316 51.4 65.0 26.5 0.1 群組:Biochemistry BUN K  |
+|T-BIL AST time/item (mg/dL) (mmol/L) (mg/dL) (U/L) 1040817 [1320]|
+|16.5 2.9 1.87 762 群組:Yes C-Reactive P rotein time/item (mg/dL) |
+|1040817 [1320] 0.83 群組:General BioChemistry ALB time/item      |
+|(g/dL) 1040817 [1340] 3.3 *********檢驗室:RL***********          |
+|群組:Biochemistry CRE Na K Ammonia N Ca time/item (mg/dL)        |
+|(mmol/L) (mmol/L) (μmol/L) (mmol/L) 1040817 [1106] 1.3 125 6.4   |
+|1.97 1040817 [1121] 237 Mg LacticAcid CK CK-MB %CKMB time/item   |
+|(mmol/L) (mmol/L) (U/L) (U/L) (%) 1040817 [1106] 1.06 79 66 83.5 |
+|1040817 [1121] 15.69 Troponin I time/item (ng/mL) 1040817 [1106] |
+|0.058 1040817 [1121] 群組:Yes pro-BNP time/item (pg/mL) 1040817  |
+|[1106] 3130 群組:Coagulation PT PTT PT INR time/item (sec) (sec) |
+|() 1040817 [1106] 15.4 58.2 1.46 群組:General BioChemistry ALT   |
+|time/item (U/L) 1040817 [1106] 129 群組:WBC Classification Blast |
+|Promyl. Myelo. Meta Band time/item (%) (%) (%) (%) (%) 1040817   |
+|[1106] 0.0 0.0 1.9 1.9 2.9 Seg Eos. Baso. Mono. Lym. time/item   |
+|(%) (%) (%) (%) (%) 1040817 [1106] 43.3 0.0 0.0 7.7 42.3 Aty.Lym.|
+|PlasmaCell Normobl. PS time/item (%) (%) () () 1040817 [1106] 0.0|
+|0.0 1.9 /100 WBC WBC 100 群組:CBC+PLT WBC RBC HB HCT MCV         |
+|time/item (K/μL) (M/μL) (g/dL) (%) (fL) 1040817 [1106] 15.30 3.11|
+|10.7 34.0 109.3 MCH MCHC PLT RDW-CV PS time/item (pg) (g/dL)     |
+|(K/μL) (%) () 1040817 [1106] 34.4 31.5 141 18.5 -                |
+|*********檢驗室:YM*********** 群組: Free Ca(急重症自 Hb(急重症自 |
+|行檢驗) Hct(急重症自行檢驗) K+(急重症自行檢驗) Na(急重症自行檢驗)|
+|行檢驗) time/item (mmol/L) (g/dL) (%) (mmol/L) (mmol/L) 1040817  |
+|[1112] 1.57 11.4 34 4.13 133.9 LacticAcid(急 重症自行檢驗)       |
+|time/item (mmol/L) 1040817 [1112] 14.3 群組:Yes pH pCO2 pO2 HCO3 |
+|BaseExcess time/item () (mmHg) (mmHg) (mmol/L) (mmol/L) 1040817  |
+|[1112] 7.302 53.0 153.9 26.5 -0.2 SO2 time/item (%) 1040817      |
+|[1112] 99.1 *********檢驗室:PO*********** 群組: Sugar(One to uch)|
+|time/item (*) 1040817 [1320] 252 *********檢驗室:BK***********   |
+|群組:Yes antibody scr een(New Lis) time/item (*) 1040817 [1122]  |
+|Negative 群組:Blood Type ABO Typing RH Typing time/item (*) (*)  |
+|1040817 [1122] A Positive                                        |
+|檢查紀錄(Examination Report)                                     |
+|Nil                                                              |
+|影像報告(Imaging Report)                                         |
+|CT Without Contrast-Brain 醫令: CT Without Contrast-Brain 報告醫 |
+|師: 陳雅芳 影像時間: 2015/08/17 11:48 (33070B0M) 發報告時間:     |
+|2015/08/17 12:50 Brain CT without contrast enhancement shows: 1. |
+|No intracranial hemorrhage noted. 2. Diffusely decreased gray    |
+|whtie matter differentiation, possibly hypoxic ischemic change   |
+|related. 3. Mild brain atrophy with dilated sulci, fissures and  |
+|ventricles 4. No obvious abnormality at cranial vault and skull  |
+|base. CT With/Without Contrast-Abdomen 醫令: CT With/Without     |
+|Contrast-Abdomen 報告醫師: 陳育青 影像時間: 2015/07/29 15:26     |
+|(33072B3M) 發報告時間: 2015/07/29 16:55 History: Transverse colon|
+|cancer, adenocarcinoma, s/p left hemicolectomy(2013/9/23), pT3N2a|
+|(6/14)M0,stageIIIB, Adjuvant chemotherapy with UFUR 1 bid since  |
+|2013/11/14, Lung mets on 2014/1/22, turned to stage 4, change    |
+|UFUR to xeloda 1 bid since 2014/2/11, 病人暫不想加 avastin, hold |
+|xeloda on 2014/8/12, resume xeloda 1 bid since 2014/8/28~preesnt,|
+|poor appetite, tumor marker is elevating, educated to reduce or  |
+|hold xeloda 2015/5/12, keep 1 bid since 2015/5/12~present. 2.    |
+|Thyroid cancer, poorly differentiated carcinoma, post right      |
+|thyroidectomy(2013/4/30), pT2NxMx, under Eltroxin supplement, no |
+|evidence of recurrence now Abdomen and pelvis CT with/without    |
+|contrast enhancement shows 1. Liver metastasis 8.1cm at S7/8, and|
+|7.5cm at S2/3, larger than in CT on 2015/4/2. A newly found      |
+|hypoenhancing nodule in S3 1.3cm, suspect metastasis. 2.         |
+|Unremarkable pancreas. 3. Bilateral tiny renal cysts. 4. A 1.5cm |
+|nonenhancing nodule at spleen, suspect lymphangioma. 5. Post-op  |
+|change of cholecystectomy. 6. Post-op change of right            |
+|hemicolectomy. No definite local recurrence. 7. Uterine tumor    |
+|6.7cm, suspect myoma. 8. Mild thickening of bilateral adrenal    |
+|glands, stationary. 9. Diffuse thickening of the urinary bladder,|
+|suspect cystitis. 10. No ascites. 11. No definite abdominal nor  |
+|pelvic lymphadenopathy. 12. Compression fracture at T12 adn L1.  |
+|CT With/Without Contrast-Pelvis 醫令: CT With/Without            |
+|Contrast-Pelvis 報告醫師: 陳育青 影像時間: 2015/07/29 15:26      |
+|(33072B5M) 發報告時間: 2015/07/29 16:55 History: Transverse colon|
+|cancer, adenocarcinoma, s/p left hemicolectomy(2013/9/23), pT3N2a|
+|(6/14)M0,stageIIIB, Adjuvant chemotherapy with UFUR 1 bid since  |
+|2013/11/14, Lung mets on 2014/1/22, turned to stage 4, change    |
+|UFUR to xeloda 1 bid since 2014/2/11, 病人暫不想加 avastin, hold |
+|xeloda on 2014/8/12, resume xeloda 1 bid since 2014/8/28~preesnt,|
+|poor appetite, tumor marker is elevating, educated to reduce or  |
+|hold xeloda 2015/5/12, keep 1 bid since 2015/5/12~present. 2.    |
+|Thyroid cancer, poorly differentiated carcinoma, post right      |
+|thyroidectomy(2013/4/30), pT2NxMx, under Eltroxin supplement, no |
+|evidence of recurrence now Abdomen and pelvis CT with/without    |
+|contrast enhancement shows 1. Liver metastasis 8.1cm at S7/8, and|
+|7.5cm at S2/3, larger than in CT on 2015/4/2. A newly found      |
+|hypoenhancing nodule in S3 1.3cm, suspect metastasis. 2.         |
+|Unremarkable pancreas. 3. Bilateral tiny renal cysts. 4. A 1.5cm |
+|nonenhancing nodule at spleen, suspect lymphangioma. 5. Post-op  |
+|change of cholecystectomy. 6. Post-op change of right            |
+|hemicolectomy. No definite local recurrence. 7. Uterine tumor    |
+|6.7cm, suspect myoma. 8. Mild thickening of bilateral adrenal    |
+|glands, stationary. 9. Diffuse thickening of the urinary bladder,|
+|suspect cystitis. 10. No ascites. 11. No definite abdominal nor  |
+|pelvic lymphadenopathy. 12. Compression fracture at T12 adn L1.  |
+|病理報告(Pathology Report)                                       |
+|S1315344 Thyroid gland,right lobe,thyroidectomy,c/w poorly       |
+|differentiated carcinoma (see comment), S1336157                 |
+|Intestine,large,colon,transverse,left                            |
+|hemicolectomy,adenocarcinoma Lymph                               |
+|node,regional,lymphadenectomy,carcinoma,metastatic (6/14),       |
+|M1404021 Intestine,large,colon,transverse,K-ras/B-Raf Gene       |
+|Mutation Analysis,see description S1505113                       |
+|Intestine,large,colon,status post left hemicolectomy,mucosal tag |
+|Intestine,large,colon,sigmoid,biopsy,mucosal tag                 |
+|臆斷(Tentative Diagnosis)                                        |
+|1. Out of hospital cardiac arrest, suspect uroseptic shock       |
+|related, status post endotracheal tube insertion with mechanical |
+|ventilation (2015/08/17~), under hypothermia thewrapy            |
+|(2015/08/17~) 2. Uroseptic shock 3. Transverse colon             |
+|adenocarcinoma, pT3N4aM1, status post left hemicolectomy on      |
+|2013/09/23, with lung and liver metastases, status post adjuvant |
+|chemotherapy with UFUR (2013/11/14~2014/02/11), and then Xeloda  |
+|(2014/02/11~) 4. Ileus, malignancy related, improved 5. Malignant|
+|pleural effusion 6. Pericardial effusion 7. Thyroid              |
+|poorly-defferentiated carcinoma, status post right thyroidectomy |
+|on 2013/04/29, under Eltroxin 100 mcg QW1,2,4,5,7 8. HBV carrier |
+|under Baraclude 0.5 mg 1# QD                                     |
+|醫療需求與治療計畫(Medical Needs and Care Plan)                  |
+|*1. Out of hospital cardiac arrest, suspect uroseptic shock      |
+|related, status post endotracheal tube insertion with mechanical |
+|ventilation (2015/08/17~), under hypothermia thewrapy            |
+|(2015/08/17~) *2. Uroseptic shock S: Loss of conscious and       |
+|collpase at this noon O: BH:153.9 cm BW:57.1 kg T:35.2 P:118 R:20|
+|BP:105/64 mmHg Pain:0 A: 1. Out of hospital cardiac arrest,      |
+|suspect uroseptic shock related, status post endotracheal tube   |
+|insertion with mechanical ventilation (2015/08/17~), under       |
+|hypothermia thewrapy (2015/08/17~) 2. Uroseptic shock P: 1. Keep |
+|empirical Abx with Tazocin 2. Keep inotropic agents with         |
+|titration 3. Monitor body temperature and hemodynamic status     |
+|under hypothermia therapy 4. Pursue culture report 5. Check EEG  |
+|on scheduled Treatment Goal: tapper inotropic agents and stable  |
+|vital sign                                                       |
+|出院規劃(Discharge Planning)                                     |
+|管路留置狀況:有 靜脈管路留置(含Hickman / Port-A)：有             |
+|雙腔導管留置：有 右頸 鼻胃管留置：有 16Fr. 氣管管路留置：有 氣管 |
+|內管 7.5mm 胃造廔口：無 尿管留置：有 16Fr. 膀胱造廔：無 傷口引流 |
+|管：無 其他導管：無 日常生活功能分數：0 預期出院後居住場所：與家 |
+|人同住 預期出院後主要照顧者：媳婦 出院規劃收案篩檢：高危病患     |
+|功能量表未滿60分                                                 |
+|主治醫師評論(VS Comments)                                        |
+|I agree with the resident's assessment.                          |
+|醫師姓名                                                         |
+|袁昂 主治醫師                                                    |
+

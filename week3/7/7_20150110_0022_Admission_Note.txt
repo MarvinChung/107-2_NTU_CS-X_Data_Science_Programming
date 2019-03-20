@@ -1,0 +1,177 @@
+
+2015/01/10 00:22 | |
+|主訴(Chief Complaint)                                            |
+|Informant:patient's family out of hospital cardiac arrest for 3  |
+|hours                                                            |
+|病史(Brief History)                                              |
+|This 86-year-old woman has history of 1. diabetes mellitus, 2.   |
+|hypertension, 3. cardiac artery disease, 2-vessel-disease, status|
+|post stenting*2, 4. cataract, ou, and 5. severe dementia. She has|
+|been bedridden for 3 years, and she lived with her daughter at   |
+|Taipei, and she had not been admitted to hospitals in recent 6   |
+|months. Only 3 years ago, she was admitted to 國泰 hospital for  |
+|Influenzae A pneumonia at 國泰 hospital. After the last          |
+|hospitalization, productive cough was noted. Recently, her family|
+|noticed that the amount of sputum increased, and the             |
+|characteristic was yellowish. And there was a lot of sputum at   |
+|this dawn. She was noted cardiac arrest at about 19:00 on 1/9.   |
+|Her family did CPR for her, and at 19:09 the EMT team arrived at |
+|the scene, and did the CRP and AED for DC shock for several      |
+|times. And she was sent to our hospital immediately. At 19:32,   |
+|she was sent to our ED, and CPR kept on goining. At 19:39,       |
+|returning of spontaneous circulation was recorded. Dopamine was  |
+|given. Brain CT without contrast showed that suspected diffuse   |
+|ischemic change, brain atrophy, and ventriculomegaly. She was    |
+|sent to our ICU for further management. Family History: not      |
+|contributory Medication Allergy:UnClear 親屬描述 2015/01/09      |
+|UnClear 親屬描述 2015/01/09 UnClear 病人自述 2011/08/31 UnClear  |
+|親屬描述 2015/01/09 Medication ADR:unknown Allergy to Medical    |
+|Device and Materials:No 親屬描述 2015/01/09 UnClear 親屬描述     |
+|2015/01/09 UnClear 病人自述 2011/08/31 UnClear 親屬描述          |
+|2015/01/09 Current Medication: NTUH: Rocephin 500 mg/vial 1000 mg|
+|STAT IV 1 days Rocephin 500 mg/vial 1000 mg Q12H IV 2 days       |
+|Rolikan 16.6 mEq/20 mL /amp 232.4 mEq STAT IV 1 days 警 Dopamine |
+|HCl, Baxter 400 mg/250 mL /bag 400 mg QD cIF 1 days 警 Adrenaline|
+|1 mg/1 mL /amp 5 mg STAT IV 1 days Atropine 1 mg/1 mL /amp 0.5 mg|
+|STAT IV 1 days Other: 中草藥: nil 保健食品: nil Past Medical     |
+|History: 1. Diabetes mellitus 2. Hypertension 3. Cardiac artery  |
+|disease, 2-vessl-disease, status post stenting *2, 10 years ago  |
+|4. Presenile dementia, severe Hospitalization: 1. Cardiac artery |
+|disease, with 2-vessel disease, status post 2 stent, 10 years ago|
+|Past Surgical History: nil Travel History: Nil                   |
+|社會心理相關評估(Psychosocial Assessment)                        |
+|Social Economic and Personal History 教育程度:專科 職業:退休     |
+|宗教信仰:佛教 婚姻狀態:喪偶 使用語言:國語 台語                   |
+|口述血型:不清楚，RH:不清楚，輸血反應: 抽煙:沒有 喝酒:沒有        |
+|檳榔:沒有 物質濫用:沒有 Psychological History and Evaluation     |
+|意識狀態:昏迷 認知功能:無法評估 精神情緒狀態:無法評估 安全問題:有|
+|其他 跌倒及管路安全 睡眠形態:異常 其他 coma無法評估 Nutritional  |
+|Screen 攝食情形: 排便狀態:異常 排便異常狀態:滲便 BMI: Fall Risk  |
+|Assessment 總分:16 (>=3分進行不倒翁計畫，請開預防跌倒醫囑)       |
+|系統性回顧(Review of System)                                     |
+|1.Systemic: weight loss(-), easy-fatigability(-), night sweats(-)|
+|2.Skin: petechiae(-), purpurae(-), skin rash(-), itching(-),     |
+|3.HEENT: headache(-),dizziness(-), blurred vision(-),            |
+|strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing  |
+|impairment(-), tinnitus(-), vertigo(-), nasal stuffiness(-),     |
+|nasal discharge(-), epistaxis(-), gum bleeding(-), sore          |
+|throat(-),oral ulcer(-) 4.Cardiovascular: exertional chest       |
+|tightness(-), nocturnal dyspnea(-), orthopnea(-) syncope(-),     |
+|palpitation(-), intermittent claudication(-) 5.Respiratory:      |
+|dyspnea(-), cough(-), chest pain(-), hemoptysis(-), productive   |
+|cough (-), pleuritic chest pain(-) 6.Gastrointestinal:           |
+|anorexia(-), nausea(-), vomiting(-), dysphagia(-), heartburn(-), |
+|acid regurgitation(-), abdominal fullness(-), hunger pain(-)     |
+|midnight pain(-), constipation(-), diarrhea(-), melena(-), change|
+|of bowel habit(-), small caliber of stool(-), tenesmus(-),       |
+|flatulence(-) 7.Urogenital: flank pain(-), hematuria(-), urinary |
+|frequency(-), urgency(-), dysuria (-), hesitancy(-), small stream|
+|of urine(-), impotence(-), nocturia(-), polyuria(-), oliguria (-)|
+|8.Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-),      |
+|weakness(-) back pain(-) 9.Metabolic: heat intolerance(-), cold  |
+|intolerance(-), thirsty(-) 10.Nervous: numbness (-),             |
+|paresis/plegia (-)                                               |
+|身體檢查(Physical Examination)                                   |
+|BH:NA cm BW:NA kg T:35.6 P:71 R:12 BP:126/41 mmHg Pain:0         |
+|Neurological Examination: . Consciousness: E1VEM1 . Muscle power:|
+|NA . Gait: NA Head-Eye-ENT: intact, pulpil: 4+/4+, no light      |
+|reflex, ou Neck: Jugular vein engorgement(-) Goiter(-)           |
+|Meningismus: Kernig sign(-); Brudzinski sign(-) Carotid bruit(-) |
+|Chest Thoracic cage contour: Vocal fremitus and expansion:       |
+|symmetric Percussion: resonant Crackle(-) wheeze(-)rhonchi(-)    |
+|stridor(-) coarse over left lower lung(+) Heart Point of maximal |
+|impulse: LV lift(-) RV heave(-) Increased cardiac size by        |
+|percussion(-) Heart beat: regular Adventitious sound(-) Murmur(-)|
+|Abdomen Flat & soft Superficial vein engorgement(-) Protruded    |
+|umbilicus(-) Bowel sound: normoactive Tenderness(-)              |
+|Hepato-jugular reflux(-) Liver and spleen: impalpable Skin       |
+|Jaundice(+) Petechiae(-) Purpura(-) Ecchymoses(-)                |
+|Telangiectasia(-) Rash(-) Plaque(-) Wound(-) Ulceration(-)       |
+|Crust(-) Others Lymphadenopathy(-)                               |
+|檢驗紀錄(Laboratory Report)                                      |
+|*********檢驗室:YM*********** 群組: Free Ca(急重症自 Hb(急重症自 |
+|行檢驗) Hct(急重症自行檢驗) K+(急重症自行檢驗) Na(急重症自行檢驗)|
+|行檢驗) time/item (mmol/L) (g/dL) (%) (mmol/L) (mmol/L) 1040109  |
+|[1938] 1.18 11.2 34 4.63 128.9 1040109 [2014] 1.19 11.2 34 4.57  |
+|130.2 Suger(急重症自行檢 LacticAcid(急 驗) 重症自行檢驗)         |
+|time/item (mg/dL) (mmol/L) 1040109 [1938] 486 15.9 1040109 [2014]|
+|379 11.9 群組:Yes pH pCO2 pO2 HCO3 BaseExcess time/item () (mmHg)|
+|(mmHg) (mmol/L) (mmol/L) 1040109 [1938] 7.155 81.7 349.5 29.0 0.0|
+|1040109 [2014] 6.955 145.3 123.2 32.6 0.3 SO2 time/item (%)      |
+|1040109 [1938] 99.9 1040109 [2014] 94.6                          |
+|*********檢驗室:PO*********** 群組: Sugar(One to uch) time/item  |
+|(*) 1040109 [1947] 402 *********檢驗室:RL***********             |
+|群組:Biochemistry BUN CRE Na K Ammonia N time/item (mg/dL)       |
+|(mg/dL) (mmol/L) (mmol/L) (μmol/L) 1040109 [1939] 13.9 0.7 119   |
+|6.4 95 1040109 [2035] 4.7 LacticAcid CK CK-MB %CKMB Troponin I   |
+|time/item (mmol/L) (U/L) (U/L) (%) (ng/mL) 1040109 [1939] 9.66   |
+|997 61 6.1 0.014 1040109 [2035] 群組:Yes pro-BNP time/item       |
+|(pg/mL) 1040109 [1939] 641 群組:Coagulation PT PTT PT INR        |
+|time/item (sec) (sec) () 1040109 [1939] 11.5 49.0 1.07           |
+|群組:General BioChemistry Acid Fast ALT time/item (*) (U/L)      |
+|1040109 [1939] 227 1040109 [2028] Negative/300 OPF 群組:WBC      |
+|Classification Blast Promyl. Myelo. Meta Band time/item (%) (%)  |
+|(%) (%) (%) 1040109 [1939] 0.0 0.0 0.0 0.0 0.0 Seg Eos. Baso.    |
+|Mono. Lym. time/item (%) (%) (%) (%) (%) 1040109 [1939] 38.0 0.0 |
+|0.0 5.0 56.0 Aty.Lym. PlasmaCell Normobl. PS time/item (%) (%) ()|
+|() 1040109 [1939] 1.0 0.0 1.0 /100 WBC WBC 100 群組:CBC+PLT WBC  |
+|RBC HB HCT MCV time/item (K/μL) (M/μL) (g/dL) (%) (fL) 1040109   |
+|[1939] 12.19 4.10 11.3 35.2 85.9 MCH MCHC PLT RDW-CV PS time/item|
+|(pg) (g/dL) (K/μL) (%) () 1040109 [1939] 27.6 32.1 147 14.9 - 群 |
+|組:STAIN Gram's(GS)#1 Gram's(GS)#2 Gram's(GS)#3 Gram's(GS)#4     |
+|time/item (*) (*) (*) (*) 1040109 [2028] Few PMNs(<10 Few        |
+|epitheli G(+)Bacilli G(-)Bacilli /LPF) al cells(<10 2+ 1+ /LPF)  |
+|*********檢驗室:BK*********** 群組:Yes antibody scr een(New Lis) |
+|time/item (*) 1040109 [1948] Negative 群組:Blood Type ABO Typing |
+|RH Typing time/item (*) (*) 1040109 [1948] O Positive            |
+|檢查紀錄(Examination Report)                                     |
+|nil                                                              |
+|影像報告(Imaging Report)                                         |
+|CT Without Contrast-Brain 醫令: CT Without Contrast-Brain 報告醫 |
+|師: 張晉誠 影像時間: 2015/01/09 21:21 (33070B0M) 發報告時間:     |
+|2015/01/09 21:39 CT of head without contrast enhancement shows: >|
+|blurring of the gray-white matter differentiation of brain. >    |
+|brain atrophy. > ventriculomegaly. > no definite intracranial    |
+|hemorrhage. > atherosclerosis with wall calcification at the     |
+|bilateral distal ICAs. > intact cranial vault. > clear paranasal |
+|sinus and mastoid air cells. > status post nasogastric tube      |
+|insertion. Chest : AP View (Supine) 醫令: Chest : AP View        |
+|(Supine) 報告醫師: 張晉誠 影像時間: 2015/01/09 20:23 (32001CYM)  |
+|發報告時間: 2015/01/09 20:42 status post endotracheal intubation |
+|and nasogastric tube insertion. placement of right jugular       |
+|central venous line. enlarged heart shadow. atherosclerosis with |
+|wall calcification at the aorta. ill-defined opacities at the    |
+|both lung fields. degenerative change of spine. osteopenic change|
+|of visible bones.                                                |
+|病理報告(Pathology Report)                                       |
+|nil                                                              |
+|臆斷(Tentative Diagnosis)                                        |
+|1. Out of hospital cardiac arrest 2. diabetes mellitus 3.        |
+|hypertension                                                     |
+|醫療需求與治療計畫(Medical Needs and Care Plan)                  |
+|1. Out of hospital cardiac arrest S: -- family said a lot of     |
+|sputum today O: 2015/01/09 Acid Fast:Negative/300 OPF * ALT:227  |
+|U/L 2015/01/09 Gram's(GS)#1:Few PMNs(<10/LPF) * Gram's(GS)#2:Few |
+|epithelial cells(<10/LPF) * Gram's(GS)#3:G(+)Bacilli 2+ *        |
+|Gram's(GS)#4:G(-)Bacilli 1+ * Gram's(GS)#5:* 2015/01/09 K:4.7    |
+|mmol/L BUN:13.9 mg/dL CRE:0.7 mg/dL Na:119 mmol/L K:6.4 mmol/L   |
+|CK:997 U/L CK-MB:61 U/L %CKMB:6.1 % Troponin I:0.014 ng/mL       |
+|Ammonia N:95 μmol/L LacticAcid:9.66 mmol/L CXR: right lower and  |
+|right upper lung infiltrate CT: susp. diffuse ischemic change;   |
+|brain atrophy; ventriculomegaly. Family signed DNR (不電不壓) A: |
+|out-hospital cardiac arrest, suspected air-way obstruction,      |
+|sputum impaction related. P: 1. titrate inotrope agents 2. best  |
+|supportive care 3. give Aminofluid and 0.5kcal/ml milk (total    |
+|500kcal) 4. empirically Rocephin use                             |
+|出院規劃(Discharge Planning)                                     |
+|管路留置狀況:有 靜脈管路留置(含Hickman / Port-A)：有 右頸 左手   |
+|右手 雙腔導管留置：無 鼻胃管留置：有 16Fr. 氣管管路留置：有 氣管 |
+|內管 7.0mm 胃造廔口：無 尿管留置：有 Two way Foley 16Fr.         |
+|膀胱造廔：無 傷口引流管：無 其他導管： 日常生活功能分數：0       |
+|預期出院後居住場所：與家人同住 預期出院後主要照顧者：女兒 外勞   |
+|出院規劃收案篩檢：高危病患 帶有管路 功能量表未滿60分             |
+|主治醫師評論(VS Comments)                                        |
+|Therapeutic hypothermia might not necessary for prolonged hypoxia|
+|醫師姓名                                                         |
+|錢穎群 主治醫師                                                  |
+

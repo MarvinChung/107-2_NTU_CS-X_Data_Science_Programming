@@ -1,0 +1,238 @@
+
+2015/04/01 07:47 | |
+|主訴(Chief Complaint)                                            |
+|Informant:Patient's family and medical record Dry cough and fever|
+|for 3 days.                                                      |
+|病史(Brief History)                                              |
+|The 83 year-old male has the past history of 1. Pulmonary        |
+|fibrosis; 2. Chronic obstructive pulmonary disease; 3. Left      |
+|internal carotid stenosis, status post stenting on 2012/04/13; 4.|
+|Cerebral infarction; and 5. Diabetes mellitus regular at Dr.     |
+|錢穎群's and Dr. 邱銘章's OPD. He has exertional dyspnea and     |
+|occasional cough with some mucoid sputum for one month and       |
+|managed at out-patient clinic. This time, he suffered from dry   |
+|cough and fever for 3 days. He went to clinic for help but in    |
+|vain. Dyspnea was noted on 3/28 night and he was sent to our ER  |
+|for help. At ER, the vital signs were BP 110/49mmHg, HR 100/min, |
+|RR 20/min, BT 37.8℃, and SPO2 90%. He also complaint nocturnal   |
+|dyspnea, orthopnea, and chest tightness. The blood test showed   |
+|leukocytosis without elevated cardiac enzymes. The chest X-ray   |
+|showed diffuse ground-glass opacities in the bilateral lung      |
+|fields and chest CT revealed interstitial lung disease with      |
+|multiple areas of GGOs in both lungs. Endotracheal tube          |
+|intubation was done on 2015/03/31 due to hypoxemia, and he was   |
+|admitted to our ICU for further manamgent. Family History: no    |
+|family history of hypertension, Diabetes mellitus and malignant  |
+|Medication Allergy:No 親屬描述 2015/03/31 Medication ADR:unknown |
+|Allergy to Medical Device and Materials:UnClear 親屬描述         |
+|2015/03/31 Current Medication: NTUH: Zithromax 250 mg/tab 2 tab  |
+|QD PO 3 days 免費 Tamiflu-CDC 75 mg/cap (無法使用瑞樂沙者) 1 cap |
+|BID PO 5 days Bricanyl Neb Soln 2.5 mg/1 mL 2 mL/amp 1 amp Q6H IH|
+|4 days Atrovent Neb Soln 250 mcg/1 mL 2 mL/amp 1 amp Q6H IH 4    |
+|days Combivent UDV Inh Soln 2.5 mL/amp 1 amp STAT IH 1 days 針   |
+|Asparin (based on aspirin content) 0.5 g/vial 0.5 g STAT IF 1    |
+|days Bricanyl Neb Soln 2.5 mg/1 mL 2 mL/amp 1 amp STAT IH 1 days |
+|Atrovent Neb Soln 250 mcg/1 mL 2 mL/amp 1 amp STAT IH 1 days     |
+|TAZOCIN (based on piperacillin content) 2000 mg/vial 3000 mg Q6H |
+|IF 2 days TAZOCIN (based on piperacillin content) 2000 mg/vial   |
+|3000 mg STAT IF 1 days Siruta Inh Soln 200 mg/1 mL 3 mL/amp 1 amp|
+|Q6H IH 2 days (管4) Anxicam 2 mg/1 mL /amp 2 mg STAT IV 1 days 警|
+|Relaxin 500 mg/vial 不計價常備藥 50 mg STAT IV 1 days (管4)      |
+|Anxicam 2 mg/1 mL /amp 50 mg QD cIF 2 days Bokey EM cap 100      |
+|mg/cap 1 cap QOD PO 28 days MgO 250 mg/tab 1 tab QD PO 28 days   |
+|(DM) Loditon 500 mg/tab 1 tab BID PO 28 days 吸 Spiriva Respimat |
+|Soln for Inh 2.5 mcg/1 puff 60 puff/btl 2 puff QD IH 28 days     |
+|Other: denied 中草藥: denied 保健食品: denied Past Medical       |
+|History: DM, pulmonary fibrosis, COPD, Left ICA stenosis, status |
+|post stenting Hospitalization: denied Past Surgical History:     |
+|denied Travel history: denied Occupation history: retired teacher|
+|Cluster history: denied Contact history: no contact to bird or   |
+|other animals                                                    |
+|社會心理相關評估(Psychosocial Assessment)                        |
+|Psychological History and Evaluation 意識狀態:躁動不安 認知功能: |
+|無法評估 精神情緒狀態:異常 倦怠 躁動 安全問題:有 其他            |
+|自拔管/高危跌倒 睡眠形態:異常 使用藥物 Nutritional Screen 攝食情 |
+|形:普通，攝食50-74% 排便狀態:正常 BMI:22.5 Fall Risk Assessment  |
+|總分:14 (>=3分進行不倒翁計畫，請開預防跌倒醫囑)                  |
+|系統性回顧(Review of System)                                     |
+|1.Systemic: weight loss(-), easy-fatigability(+), night sweats(-)|
+|2.Skin: petechiae(-), purpurae(-), skin rash(-), itching(-),     |
+|3.HEENT: headache(-),dizziness(-), blurred vision(-),            |
+|strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing  |
+|impairment(-), tinnitus(-), vertigo(-), nasal stuffiness(-),     |
+|nasal discharge(-), epistaxis(-), gum bleeding(-), sore          |
+|throat(-),oral ulcer(-) 4.Cardiovascular: exertional chest       |
+|tightness(+), nocturnal dyspnea(+), orthopnea(+) syncope(-),     |
+|palpitation(-), intermittent claudication(-) 5.Respiratory:      |
+|dyspnea(+), cough(+), chest pain(+), hemoptysis(-), productive   |
+|cough (-), pleuritic chest pain(-) 6.Gastrointestinal:           |
+|anorexia(-), nausea(-), vomiting(-), dysphagia(-), heartburn(-), |
+|acid regurgitation(-), abdominal fullness(-), hunger pain(-)     |
+|midnight pain(-), constipation(-), diarrhea(-), melena(-), change|
+|of bowel habit(-), small caliber of stool(-), tenesmus(-),       |
+|flatulence(-) 7.Urogenital: flank pain(-), hematuria(-), urinary |
+|frequency(-), urgency(-), dysuria (-), hesitancy(-), small stream|
+|of urine(-), impotence(-), nocturia(-), polyuria(-), oliguria (-)|
+|8.Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-),      |
+|weakness(-) back pain(-) 9.Metabolic: heat intolerance(-), cold  |
+|intolerance(-), thirsty(-) 10.Nervous: numbness (-),             |
+|paresis/plegia (-)                                               |
+|身體檢查(Physical Examination)                                   |
+|BH:175 cm BW:68.9 kg T:38.1 P:129 R:30 BP:154/52 mmHg Pain:0     |
+|Neurological Examination: Consciousness: agitation Muscle power: |
+|full and free Gait: not performed Head-Eye-ENT grossly normal,   |
+|conjunctiva: pink, sclera: anicteric Pupil: isocoric, 3mm/ 3mm   |
+|Light reflex: L/R: +/+, EOM: full and free Neck Jugular vein     |
+|engorgement(-) Thyroid goiter(-) Meningismus: Kernig sign(-);    |
+|Brudzinski sign(-) Carotid bruit(-) Chest Thoracic cage contour: |
+|symmetric, Retraction(-) Vocal fremitus and expansion: symmetric |
+|Percussion: resonant Breathing sound: crackles(+, bilateral)     |
+|wheezes(-) rhonchi(-) stridor(-) Heart Heart beat: regular       |
+|Murmurs(-) LV lift(-) RV heave(-) Increased cardiac size by      |
+|percussion(-) Adventitious sounds (-) Abdomen Flat & soft        |
+|Superficial vein engorgement(-) Protruded umbilicus(-) Bowel     |
+|sound: Normoactive Tenderness(-) Hepato-jugular reflux(-) Liver  |
+|and spleen: impalpable Extremities Freely movable, pulses        |
+|symmetric and intact, pitting edema(-) Back Knocking pain(-) Skin|
+|Abnormal pigmentation(-) Petechiae(-) Purpura(-) Ecchymoses(-)   |
+|Telangiectasia(-) Rash(-) Plaque(-) Lymphadenopathy(-)           |
+|檢驗紀錄(Laboratory Report)                                      |
+|*********檢驗室:RL*********** 群組:Blood pH/Gas PH PCO2 PO2 HCO3 |
+|BaseExcess time/item (*) (mmHg) (mmHg) (mmol/L) (mmol/L) 1040331 |
+|[1649] 7.356 43.8 206.0 24.7 -1.0 群組:CBC+PLT WBC RBC HB HCT MCV|
+|time/item (K/μL) (M/μL) (g/dL) (%) (fL) 1040331 [1647] 12.01 3.44|
+|10.7 31.9 92.7 MCH MCHC PLT RDW-CV PS time/item (pg) (g/dL)      |
+|(K/μL) (%) () 1040331 [1647] 31.1 33.5 238 16.3 - 群組:WBC       |
+|Classification Blast Promyl. Myelo. Meta Band time/item (%) (%)  |
+|(%) (%) (%) 1040331 [1647] 0.0 0.0 0.0 0.0 0.0 Seg Eos. Baso.    |
+|Mono. Lym. time/item (%) (%) (%) (%) (%) 1040331 [1647] 86.0 0.2 |
+|0.1 3.0 10.7 Aty.Lym. PlasmaCell Normobl. PS time/item (%) (%) ()|
+|() 1040331 [1647] 0.0 0.0 0 - 群組:General BioChemistry ALB ALT  |
+|time/item (g/dL) (U/L) 1040331 [1647] 2.7 16 群組:Biochemistry   |
+|CRE Na K time/item (mg/dL) (mmol/L) (mmol/L) 1040331 [1647] 0.6  |
+|138 3.6 *********檢驗室:RL*********** 群組:Blood pH/Gas PH PCO2  |
+|PO2 HCO3 BaseExcess time/item (*) (mmHg) (mmHg) (mmol/L) (mmol/L)|
+|1040329 [0748] 7.451 28.0 62.1 19.7 -4.5 1040330 [0604] 7.451    |
+|33.2 35.1 23.3 -0.9 1040330 [1219] 7.441 31.5 43.7 21.6 -2.8     |
+|1040330 [1852] 7.418 39.2 25.4 25.6 0.8 群組: Mucus(S) time/item |
+|(*) 1040329 [0852] - 群組:SEDIMENT RBC(S) WBC(S) EpithCell(S)    |
+|Cast(S) Crystal(S) time/item (/HPF) (/HPF) (/HPF) (/LPF) (*)     |
+|1040329 [0852] 2-5 2-5 2-5 - - Others(S) Bacteria time/item (*)  |
+|(*) 1040329 [0852] - - 群組:MULTISTIX Sp. Gr.(C) pH(C) Protein(C)|
+|Glu.(C) Ketones(C) time/item (*) (*) (mg/dL) (mg/dL) (*) 1040329 |
+|[0852] 1.011 6.0 50 ( 1+ ) 30 ( +/- ) 1+ O.B.(C) Urobil.(C)      |
+|Bil.(C) Nitrite(C) WBC(C) time/item (mg/dL) (mg/dL) (mg/dL) (*)  |
+|(*) 1040329 [0852] +/- 2.0 - - - Color Turbidity time/item (*)   |
+|(*) 1040329 [0852] Yellow - 群組:Biochemistry CRE Na K LacticAcid|
+|CK time/item (mg/dL) (mmol/L) (mmol/L) (mmol/L) (U/L) 1040329    |
+|[0748] 0.6 130 3.3 70 1040330 [0604] 1040331 [0235] 2.44 CK-MB   |
+|%CKMB Troponin I time/item (U/L) (%) (ng/mL) 1040329 [0748] 11   |
+|15.7 0.411 1040330 [0604] 0.120 1040331 [0235] 群組:Yes pro-BNP  |
+|time/item (pg/mL) 1040329 [0748] 1360 群組:General BioChemistry  |
+|Acid Fast ALT time/item (*) (U/L) 1040329 [0748] 14 1040331      |
+|[0151] Negative/300 OPF 群組:WBC Classification Blast Promyl.    |
+|Myelo. Meta Band time/item (%) (%) (%) (%) (%) 1040329 [0748] 0.0|
+|0.0 0.0 0.0 1.0 1040330 [0604] 0.0 0.0 0.0 0.0 0.0 Seg Eos. Baso.|
+|Mono. Lym. time/item (%) (%) (%) (%) (%) 1040329 [0748] 71.0 0.0 |
+|1.0 7.0 20.0 1040330 [0604] 70.5 0.8 0.2 3.6 24.9 Aty.Lym.       |
+|PlasmaCell Normobl. PS time/item (%) (%) () () 1040329 [0748] 0.0|
+|0.0 0.0 /100 WBC WBC 100 1040330 [0604] 0.0 0.0 0 - 群組:CBC+PLT |
+|WBC RBC HB HCT MCV time/item (K/μL) (M/μL) (g/dL) (%) (fL)       |
+|1040329 [0748] 10.11 3.50 10.7 32.0 91.4 1040330 [0604] 9.45 3.42|
+|10.7 31.2 91.2 MCH MCHC PLT RDW-CV PS time/item (pg) (g/dL)      |
+|(K/μL) (%) () 1040329 [0748] 30.6 33.4 255 15.9 - 1040330 [0604] |
+|31.3 34.3 233 16.1 - *********檢驗室:PO*********** 群組:         |
+|Sugar(One to uch) time/item (*) 1040329 [0742] 186 1040331 [0435]|
+|241 1040331 [1650] 263 *********檢驗室:B3***********             |
+|B3-1040331-9048548 SPUTUM (EXPECTORATED) Gram's(GS)#1: Moderate  |
+|PMNs ( 10-25 /LPF ) Gram's(GS)#2: Many epithelial cells ( >25    |
+|/LPF ) Gram's(GS)#3: Yeast-like organism 3+ Gram's(GS)#4: Gram   |
+|(+) cocci in cluster 2+ Gram's(GS)#5: 痰檢體品質不良建議重新送檢 |
+|*********檢驗室:YM*********** 群組: Free Ca(急重症自 Hb(急重症自 |
+|行檢驗) Hct(急重症自行檢驗) K+(急重症自行檢驗) Na(急重症自行檢驗)|
+|行檢驗) time/item (mmol/L) (g/dL) (%) (mmol/L) (mmol/L) 1040330  |
+|[1946] 1.20 12.3 37 3.90 132.4 1040330 [2150] 1.12 10.8 32 3.25  |
+|127.6 1040331 [0226] 1.15 12.1 36 3.70 131.1 1040331 [1002] 1.12 |
+|10.5 31 3.51 131.0 Suger(急重症自行檢 LacticAcid(急 驗) 重症自行 |
+|檢驗) time/item (mg/dL) (mmol/L) 1040330 [1946] 250 5.4 1040330  |
+|[2150] 254 1.7 1040331 [0226] 231 2.5 1040331 [1002] 241 1.7     |
+|群組:Yes pH pCO2 pO2 HCO3 BaseExcess time/item () (mmHg) (mmHg)  |
+|(mmol/L) (mmol/L) 1040330 [1946] 7.488 25.8 41.2 19.8 -3.9       |
+|1040330 [2150] 7.493 29.0 80.6 22.5 -1.1 1040331 [0226] 7.371    |
+|41.6 47.3 24.3 -1.2 1040331 [1002] 7.473 30.5 117.7 22.6 -1.3 SO2|
+|time/item (%) 1040330 [1946] 81.7 1040330 [2150] 96.9 1040331    |
+|[0226] 81.6 1040331 [1002] 98.9                                  |
+|檢查紀錄(Examination Report)                                     |
+|Nil                                                              |
+|影像報告(Imaging Report)                                         |
+|Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師:|
+|林彥亨 影像時間: 2015/03/31 01:36 (32001CYM) 發報告時間:         |
+|2015/03/31 09:55 Chest AP film shows cardiomegaly and            |
+|calcification of aorta. almost diffuse consolidations over       |
+|bilateral lungs. placement of a NG tube. placement of an         |
+|endotracheal tube. mild degenerative change of the T and L       |
+|spines. Chest : AP View (Supine) 醫令: Chest : AP View (Supine)  |
+|報告醫師: 劉高郎 影像時間: 2015/03/30 20:31 (32001CYM)           |
+|發報告時間: 2015/03/30 22:35 Emergency Supine CXR shows:         |
+|1.　calcified aortic knob is noted; cardiomegaly is noted        |
+|2.　diffuse ground-glass opacities in the bilateral lung fields; |
+|suspected infectious process CT With/Without Contrast-Chest 醫令:|
+|CT With/Without Contrast-Chest 報告醫師: 陳雅芳 影像時間:        |
+|2015/03/29 15:44 (33072B2M) 發報告時間: 2015/03/29 16:49 Hx:     |
+|Pulmonary fibrosis, COPD, Cerebral infarction. Dry cough, fever  |
+|for 3 days CT of chest without and with contrast enhancement     |
+|shows: 1. Cardiomegaly with valvular calcification.              |
+|atherosclerotic calcification of aortic wall 2. small lymph nodes|
+|at mediastinum. 3. interlobular thickening and fibrotic change,  |
+|honeycombing appearance at bilateral lungs more severe at        |
+|bilateral lower lungs. As compared with last CT on 2015/02/06,   |
+|more areas of GGO are seen in both lungs 4. unremarkable visible |
+|upper abdomen Chest : PA View (Standing) 醫令: Chest : PA View   |
+|(Standing) 報告醫師: 陳雅芳 影像時間: 2015/03/29 07:56 (32001CXM)|
+|發報告時間: 2015/03/29 08:29 Cardiomegaly and calcification of   |
+|the aortic knob. Prominent interstitial opacities predominant at |
+|bilateral lower lung fields and subpleural regions, consistent   |
+|with interstitial pneumonia. Chest : PA View (Standing) 醫令:    |
+|Chest : PA View (Standing) 報告醫師: 張允中 影像時間: 2015/03/09 |
+|14:57 (32001CXM) 發報告時間: 2015/03/16 18:44 Chest AP shows     |
+|cardiomegaly and calcification of the aortic knob. Prominent     |
+|interstitial opacities predominant at bilateral lower lung fields|
+|and subpleural regions, consistent with interstitial pneumonia.  |
+|Decreased volume at bilateral lower lung fields. Suggest CT for  |
+|further evaluation. Degenerative change of the T-L spine.        |
+|(CNL/Dr.YCC)                                                     |
+|病理報告(Pathology Report)                                       |
+|Nil                                                              |
+|臆斷(Tentative Diagnosis)                                        |
+|1. Pneumonia with hypoxemia respiratory failure, status post     |
+|intubation (2015/03/31-) 2. Pulmonary fibrosis 3. Chronic        |
+|obstructive pulmonary disease 4. Left internal carotid stenosis, |
+|status post stenting on 2012/04/13 5. Cerebral infarction 6.     |
+|Diabetes mellitus                                                |
+|醫療需求與治療計畫(Medical Needs and Care Plan)                  |
+|* 1. Pneumonia with hypoxemia respiratory failure, status post   |
+|intubation (2015/03/31-) 2. Pulmonary fibrosis 3. Chronic        |
+|obstructive pulmonary disease 4. Left internal carotid stenosis, |
+|status post stenting on 2012/04/13 5. Cerebral infarction 6.     |
+|Diabetes mellitus S: Dry cough and fever for 3 days O: BH:175 cm |
+|BW:68.9 kg T:38.1 P:129 R:30 BP:154/52 mmHg Pain:0 A: 1.         |
+|Pneumonia with hypoxemia respiratory failure, status post        |
+|intubation (2015/03/31-) 2. Pulmonary fibrosis 3. Chronic        |
+|obstructive pulmonary disease 4. Left internal carotid stenosis, |
+|status post stenting on 2012/04/13 5. Cerebral infarction 6.     |
+|Diabetes mellitus P: 1. Keep empirical Tazocin, Zithromax, and   |
+|Tamiflu 2. Ventilator supple 3. IV PPI use 4. IH bronchodilator  |
+|5. Pursue the atypical pathogen data Treatment Goal: weaning     |
+|ventilator                                                       |
+|出院規劃(Discharge Planning)                                     |
+|管路留置狀況:有 靜脈管路留置(含Hickman / Port-A)： 左手 右手     |
+|雙腔導管留置：無 鼻胃管留置：有 16Fr. 氣管管路留置：有 氣管內管  |
+|7.5mm 胃造廔口：無 尿管留置：有 16Fr. 膀胱造廔：無 傷口引流管：無|
+|其他導管：無 日常生活功能分數：50 預期出院後居住場所：與家人同住 |
+|預期出院後主要照顧者：配偶 兒子 出院規劃收案篩檢：高危病患       |
+|帶有管路 功能量表未滿60分                                        |
+|主治醫師評論(VS Comments)                                        |
+|I agree with the resident's assessment.                          |
+|醫師姓名                                                         |
+|袁昂 主治醫師                                                    |
+

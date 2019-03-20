@@ -1,0 +1,23 @@
+
+Previous attempts at reducing MV setting was coincidently confronted with
+GU bleeding.
+Fungemia. Under antimicrobial treatment.
+Large minute ventilation that active weaning and extubation remained not
+feasible.
+2015/08/10 WBC:7.48   K/μL
+2015/08/10 HB:8.9   g/dL
+2015/08/10 PLT:102   K/μL
+2015/08/10 PH:7.381   *
+2015/08/10 PCO2:31.4   mmHg
+2015/08/10 PO2:30.5   mmHg
+2015/08/10 HCO3:18.8   mmol/L
+2015/08/10 04:50 BP:124/61
+2015/08/10 00:54 BP:103/88
+2015/08/09 20:25 BP:130/56
+2015/08/09 16:32 BP:121/51
+2015/08/10 04:49 T:36.3 P:89 R:23
+2015/08/10 00:54 T:36.9 P:106 R:26
+2015/08/09 20:25 T:36.5 P:92 R:16
+2015/08/09 16:31 T:36.7 P:108 R:20
+2015/08/10 04:50 SpO2:99%(40%,L,VCR)
+2015/08/10 00:54 SpO2:97%(40%,L,VCR)

@@ -1,0 +1,380 @@
+
+2015/06/11 15:46 | |
+|主訴(Chief Complaint)                                            |
+|Informant:patient general jaundice and diarrhea over 2 weeks.    |
+|Transfered from 和平 hospital                                    |
+|病史(Brief History)                                              |
+|This 54 year-old man with the history of 1. End stage renal      |
+|disease on Hemodialysis over 11 years at 和平 hospital; 2.       |
+|Hepatitis B virus and hepatitis C virus infection history; 3.    |
+|Thrombocytopenia; 4. Hypoalbuminemia; 5. Arrhythmia status post  |
+|pacermaker on 2015/06 at 和平 hospital; 6. Diabetes mellitus over|
+|30 years, he regular followed at 和平 hospital. This time, he    |
+|suffered from general jaundice and diarrhea over 2 weeks, he went|
+|to 和平 hospital first, the bilirubin7.4mg/dl was noted, so he   |
+|was trasfered to our emergency department on 6/03. At our ED, his|
+|vital signs were stable, the blood exam showed leukocytosis with |
+|left shift, empirical antibiotic of Cetazone was given, but      |
+|sepsis shock was noted on 6/04, they shift antibiotic to Rocephin|
+|and Anegyn and Levophad were given. The abdominal echo on 6/04   |
+|which showed 1.Cirrhosis of the liver; 2.Hepatic lesion,         |
+|bilateral lobe, suspect infiltrative HCC or cholangiocarcinoma;  |
+|3.Dilated left IHDs; 4.Abdominal LAP, portal hepatitis; 5.MPV    |
+|thrombosis; 6.Ascites, mild; 7.Atrophy of bilateral kidney. The  |
+|abdominal to pelvic CT was also done at the same day, which      |
+|showed infiltrative HCCs with extensive thrombosis of bilateral  |
+|and main PVs; dilatation of bilateral IHDs. So the CT guide PTCD |
+|was done on 6/05. His vital signs became stable, but fever was   |
+|still noted on 6/08, so they shift antibiotic of Rocephin to     |
+|Maxipime. The PTCD was revisioned twice on 6/08 and 6/11. Under  |
+|the impressions of 1. Obstruction jaundice; 2. Suspect           |
+|infiltrative Hepatocellular carcinoma or cholangiocarcinoma; 3.  |
+|Hepatitis B virus and hepatitis C virus infection history with   |
+|Cirrhosis of the liver; 4. Lung infiltration, he was admitted to |
+|our ward for further management. Family History: Father-Coronary |
+|Artery Disease and Diabetes mellitus, Mother-Cerebral vascular   |
+|accident Medication Allergy:No 病人自述 2015/06/11 Medication    |
+|ADR:unknown Allergy to Medical Device and Materials:No 病人自述  |
+|2015/06/11 Current Medication: NTUH: 針 Nexium for inj 40 mg/vial|
+|40 mg QD IV 5 days Maxipime 500 mg/vial 1000 mg STAT IV 1 days   |
+|Maxipime 500 mg/vial 1000 mg QD IV 3 days Diphenhydramine HCl 30 |
+|mg/1 mL /amp 30 mg STAT IF 1 days Other:Denied 中草藥:Denied     |
+|保健食品:Denied Past Medical History: 1. End stage renal disease |
+|on Hemodialysis over 11 years at 和平 hospital 2. Hepatitis B    |
+|virus and hepatitis C virus infection history 3. Thrombocytopenia|
+|4. Hypoalbuminemia 5. Arrhythmia status post pacermaker on       |
+|2015/06 at 和平 hospital 6. Diabetes mellitus over 30 years      |
+|Hospitalization:Denied Past Surgical History: 1. End stage renal |
+|disease status post AV shunt over 11 years ago at 台南新榮       |
+|hospital 2. Arrhythmia status post pacermaker on 2015/06 at 和平 |
+|hospital <TOCC> Travel history: denied Occupation history: denied|
+|Contact history : denied Cluster history : denied                |
+|社會心理相關評估(Psychosocial Assessment)                        |
+|Social Economic and Personal History 教育程度:大學 職業:退休     |
+|宗教信仰:無 婚姻狀態:喪偶 使用語言:國語                          |
+|口述血型:O，RH:不清楚，輸血反應:無 抽煙:沒有，已戒煙:2週 喝酒:沒 |
+|有 檳榔:沒有 物質濫用:有，濫用種類:14~15年前大麻及搖頭丸         |
+|系統性回顧(Review of System)                                     |
+|<General> Weight loss( + ), Weight gain( - ),Fatigue( + ),Fever  |
+|or chills( + ), Trouble sleeping( - ) Weakness( - ), <Skin>      |
+|Rashes( - ) Lumps( - ) Itching( - ) Dryness( - ) Color changes( +|
+|):jaundice Hair and nail changes( - ) Petechiae( - ) Purpura( - )|
+|<HEENT> Head- Headache( - ) Head injury( - ) Ears- Hearing       |
+|impairment( - ) Tinnitus( - ) Otalgia( - ) Otorrhea( - ) Eyes-   |
+|Blurred Vision( - ) Double vision( - ) Pain( - ) Redness( - )    |
+|Flashing lights( - ) Glaucoma( - ) Cataracts( - ) Nose-          |
+|Stuffiness( - ) Discharge( - ) Itching( - ) Epistaxis( - ) Sinus |
+|pain( - ) Oral Cavity and Throat- Teeth problem( - ) Gum         |
+|Bleeding( - ) Dentures( - ) Sore throat( - ) Hoarseness( - )     |
+|Thrush( - ) Ulcer( - ) Neck- Lumps( - ) Swollen glands( - ) Pain(|
+|- ) Stiffness( - ) <Breasts> Lumps( - ) Pain( - ) Discharge( - ) |
+|<Respiratory> Cough ( - ) Sputum ( - ) Painful breathing( - )    |
+|Hemoptysis( - ) Dyspnea ( - ) Wheezing( - ) <Cardiovascular>     |
+|Chest pain or discomfort( - ) Tightness( - ) Palpitations( - )   |
+|Dyspnea( - ) Orthopnea( - ) Edema( - ) Nocturnal dyspnea( - )    |
+|<Vascular> Claudication( - ) Leg cramping( - ) <Gastrointestinal>|
+|Dysphasia( - ),Heartburn( - ), Acid regurgitation( - ), Change in|
+|appetite( - ), Nausea( - ),Vomiting( - ), Change in bowel habits(|
+|- ), Constipation( - ), Diarrhea( + ), Yellow eyes or skin( +    |
+|):jaundice <Urinary> Frequency( - ), Urgency( - ),Burning or     |
+|pain( - ), Hematuria( - ),Incontinence( - ), Dysuria(-)          |
+|<Musculoskeletal> Myalgia( - ), Arthralgia( - ), Stiffness( - ), |
+|Back pain( - ), Redness of joints( - ), Swelling of joints( - ), |
+|Trauma( - ) <Neurologic> Dizziness( - ), Fainting( - ), Seizures(|
+|- ), Weakness( - ), Numbness( - ), Tingling( - ), Tremor( - )    |
+|<Hematologic> Easy bruising( - ), Easy bleeding( - ) <Endocrine> |
+|Head intolerance( - ), cold intolerance( - ), Sweating( - ),     |
+|Polyuria( - ), Polydypsia( - ), Polyphagia( - ) <Psychiatric>    |
+|Nervousness( - ), Depression( - ), Memory loss( - ), Stress( - ) |
+|身體檢查(Physical Examination)                                   |
+|BH:175 cm BW:64.5 kg T:34 P:78 R:19 BP:112/76 mmHg Pain:0        |
+|Neurological Examination: . Consciousness:clear . Muscle         |
+|power:Upper limbs-Right: 5 Left: 5 .Lower limbs-Right: 5 Left: 5 |
+|. Gait: independent Appearance: ill-looking Consciousness: E4V5M6|
+|Orientation: Person( + );Time( + );Place( + ) HEENT: Deformity:  |
+|nil, Rash ( - ), Panda eye ( - ) , Pupil ( 2.0 / 2.0 mm), Light  |
+|reflex : Right ( + ); Left: ( + ) Conjunctiva ( jaundice ),      |
+|Sclera ( icteric ) Ear: deformity ( - ), ear discharge ( - ),    |
+|hear impaired( - ) Throat: Thrush ( - ), mass ( - ), ulcer ( - ) |
+|NECK: Stiffness ( - ), Palpable LAP ( - ), Carotid Bruit (Right: |
+|-, Left: -), Jugular Vein Engorgement ( - ), Goiter ( - ) CHEST: |
+|Deformity: ( - ), Mass ( - ),Tenderness ( - ), Palpation crepitus|
+|( - ), Expansion : (Symmetrical ), Breath sounds: clear HEART:   |
+|sinus tachycardia heart beat, Audible murmur ( - ), ABDOMEN:     |
+|Superficial vein engorgement ( - ) Bowel Sounds: ( normal-active |
+|) Local Tenderness ( - ) , Rebounding Pain ( - ) Muscle Guarding(|
+|+ ) Murphy’s Sign ( - ) Palpable Mass ( - ), Shifting Dullness ( |
+|- ) Liver : not palpable Spleen : not palpable BACK : Deformity (|
+|- ), CV angle knocking tenderness (right : -, Left: - ).         |
+|EXTREMITY : Limitation of movement ( - ), Deformity ( - )        |
+|Peripheral Cyanosis ( - ) Clubbing Finger. ( - ) Pitting Edema( -|
+|) Pulsation:R/L: CA(++/++) BA(++/++) RA (++/++) FA (++/++) PA    |
+|(++/++) PTA (+/+) DPA (+/+) SKIN: rash( - ), Tumor ( - ),        |
+|Ecchymosis ( - ), Purpurae ( - ), depigmentation ( - ),          |
+|vesicle/bullae ( - )                                             |
+|檢驗紀錄(Laboratory Report)                                      |
+|*********檢驗室:B2*********** B2-1040604-4045132 BLOOD ID+DS     |
+|Blood.#1: No growth after 5 days *********檢驗室:RL***********   |
+|群組:General BioChemistry GGT ALB D-BIL ALT ALP time/item (U/L)  |
+|(g/dL) (mg/dL) (U/L) (U/L) 1040603 [1329] 3.3 6.19 107 1040605   |
+|[0422] 6.73 1040605 [1806] 385 371 1040607 [0450] 5.16 73 279    |
+|1040608 [1003] 5.34 44 群組:Biochemistry BUN CRE Na K Cl         |
+|time/item (mg/dL) (mg/dL) (mmol/L) (mmol/L) (mmol/L) 1040603     |
+|[1329] 10.0 133 4.7 1040605 [0422] 1040605 [1520] 1040607 [0450] |
+|131 3.2 99 1040608 [1003] 50.1 9.0 130 3.6 101 1040608 [2312]    |
+|1040609 [0520] 1040609 [1025] 1040609 [1756] 1040609 [2241]      |
+|1040610 [0459] Ammonia N T-BIL Lipase AST LacticAcid time/item   |
+|(μmol/L) (mg/dL) (U/L) (U/L) (mmol/L) 1040603 [1329] 71 9.71 66  |
+|210 1040605 [0422] 10.37 1040605 [1520] 49 1.51 1040607 [0450]   |
+|8.03 1.11 1040608 [1003] 8.03 1.55 1040608 [2312] 1040609 [0520] |
+|1040609 [1025] 1040609 [1756] 1040609 [2241] 1040610 [0459] CK   |
+|CK-MB %CKMB Troponin I time/item (U/L) (U/L) (%) (ng/mL) 1040603 |
+|[1329] 1040605 [0422] 1040605 [1520] 1040607 [0450] 1040608      |
+|[1003] 39 27 69.2 1.02 1040608 [2312] 105 57 54.3 2.71 1040609   |
+|[0520] 67 45 67.2 2.68 1040609 [1025] 66 34 51.5 2.56 1040609    |
+|[1756] 70 32 45.7 2.31 1040609 [2241] 84 50 59.5 1.97 1040610    |
+|[0459] 56 32 57.1 1.69 群組:CBC+PLT WBC RBC HB HCT MCV time/item |
+|(K/μL) (M/μL) (g/dL) (%) (fL) 1040603 [1329] 8.25 3.91 12.6 35.9 |
+|91.8 1040604 [2243] 7.92 3.41 10.8 31.0 90.9 1040605 [0422] 15.61|
+|3.43 10.9 31.7 92.4 1040605 [1520] 16.43 3.46 11.2 31.1 89.9     |
+|1040607 [0450] 13.72 3.51 11.1 32.4 92.3 1040608 [1003] 12.02    |
+|3.15 10.0 29.1 92.4 1040609 [1756] 10.35 3.27 10.4 29.6 90.5 MCH |
+|MCHC PLT RDW-CV PS time/item (pg) (g/dL) (K/μL) (%) () 1040603   |
+|[1329] 32.2 35.1 65 (Manual c 17.0 - hecked) 1040604 [2243] 31.7 |
+|34.8 67 16.8 - 1040605 [0422] 31.8 34.4 61 16.9 - 1040605 [1520] |
+|32.4 36.0 64 17.1 - 1040607 [0450] 31.6 34.3 56 17.7 - 1040608   |
+|[1003] 31.7 34.4 53 18.0 - 1040609 [1756] 31.8 35.1 59 18.1 - 群 |
+|組:WBC Classification Blast Promyl. Myelo. Meta Band time/item   |
+|(%) (%) (%) (%) (%) 1040603 [1329] 0.0 0.0 0.0 0.0 0.0 1040604   |
+|[2243] 0.0 0.0 0.0 0.0 0.0 1040607 [0450] 0.0 0.0 0.0 0.0 0.0    |
+|1040608 [1003] 0.0 0.0 0.0 0.0 0.0 1040609 [1756] 0.0 0.0 0.0 0.0|
+|0.0 Seg Eos. Baso. Mono. Lym. time/item (%) (%) (%) (%) (%)      |
+|1040603 [1329] 74.1 6.1 0.5 5.5 13.8 1040604 [2243] 93.0 2.4 0.3 |
+|1.3 3.0 1040607 [0450] 85.6 3.1 0.2 4.4 6.7 1040608 [1003] 82.5  |
+|1.9 0.2 6.6 8.8 1040609 [1756] 82.8 1.8 0.4 6.9 8.1 Aty.Lym.     |
+|PlasmaCell Normobl. PS time/item (%) (%) () () 1040603 [1329] 0.0|
+|0.0 0 - 1040604 [2243] 0.0 0.0 0 - 1040607 [0450] 0.0 0.0 0 -    |
+|1040608 [1003] 0.0 0.0 0 - 1040609 [1756] 0.0 0.0 0 - 群組:STOOL |
+|Occult Blood Stool WBC time/item (*) (/HPF) 1040605 [1535] 4+ Not|
+|found 1040608 [2334] Not found 群組:Blood pH/Gas PH PCO2 PO2 HCO3|
+|BaseExcess time/item (*) (mmHg) (mmHg) (mmol/L) (mmol/L) 1040603 |
+|[1329] 7.349 41.9 38.2 23.3 -2.6 1040607 [0450] 7.371 36.4 59.2  |
+|21.3 -4.2 1040608 [1003] 7.372 28.1 137.0 16.5 -9.0 1040609      |
+|[1756] 7.383 31.7 92.5 19.1 -6.3 群組:Coagulation PT PTT PT INR  |
+|time/item (sec) (sec) () 1040603 [1329] 12.0 30.8 1.13 1040608   |
+|[1003] 14.2 38.0 1.34 群組: Glucose(seru m for ED) time/item     |
+|(mg/dL) 1040603 [1329] 99 群組:Yes C-Reactive P Blood Ketone     |
+|D-Dimer rotein time/item (mg/dL) (mmol/L) (μg/mL FEU) 1040605    |
+|[1806] 3.96 1040608 [1003] 0.3 8.16 *********檢驗室:PO***********|
+|群組: Sugar(One to uch) time/item (*) 1040604 [2126] 94 1040605  |
+|[1453] 89 1040608 [0941] 86 *********檢驗室:BK***********        |
+|群組:Blood Type ABO Typing RH Typing time/item (*) (*) 1040604   |
+|[2243] O Positive 群組:Yes antibody scr een(New Lis) time/item   |
+|(*) 1040604 [2243] Negative *********檢驗室:YM*********** 群組:  |
+|Free Ca(急重症自 Hb(急重症自行檢驗) Hct(急重症自行檢驗)          |
+|K+(急重症自行檢驗) Na(急重症自行檢驗) 行檢驗) time/item (mmol/L) |
+|(g/dL) (%) (mmol/L) (mmol/L) 1040605 [1521] 1.11 11.9 36 3.16    |
+|122.9 Suger(急重症自行檢 LacticAcid(急 驗) 重症自行檢驗)         |
+|time/item (mg/dL) (mmol/L) 1040605 [1521] 100 1.9 群組:Yes pH    |
+|pCO2 pO2 HCO3 BaseExcess time/item () (mmHg) (mmHg) (mmol/L)     |
+|(mmol/L) 1040605 [1521] 7.470 25.5 133.7 18.7 -5.2 SO2 time/item |
+|(%) 1040605 [1521] 99.3 *********檢驗室:B3***********            |
+|B3-1040608-8094896 PTCD DRAIN TUBE ID+DS Common #2: Candida      |
+|albicans 2+ ID+DS Common #1: Aeromonas caviae 1+                 |
+|B3-1040605-5061334 PTCD DRAIN TUBE ID+DS Common #1: Aeromonas    |
+|caviae 1+                                                        |
+|檢查紀錄(Examination Report)                                     |
+|腹部超音波檢查報告 病患姓名 :王忠正 病歷號碼 :6164630 病床號碼   |
+|:S12 年齡 :55 性別 :M 檢查日期 :20150604 檢查項目 :19001CZR Chief|
+|Complaint : Obstructive Jaundice SONAR FINDINGS : Liver : Coarse |
+|echotexture with relatively uneven surface was noted. One huge(up|
+|to 93.2mm) ill-defined hetergenously hyperechoic lesion without  |
+|obvious Doppler signal was noted at bilateral lobe. Intra-hepatic|
+|duct : Dilatation of left IHDs was noted. Common bile duct :     |
+|negative Gall bladder : Distended GB without obvious stones was  |
+|noted. One hypoechoic nodule was noted at portal hepatitis.      |
+|Portal vein system : Much hypoechoic substance with few Doppler  |
+|signal was noted inside MPV. Pancreas : Tail was masked by gas.  |
+|Spleen : Index=6.46x4.25cm Kidney : Contraction of bilateral     |
+|kidney with several anechoic lesions(PAE(+)) was noted. Ascites :|
+|Mild ascites was noted. Diagnosis : Cirrhosis of the liver       |
+|Hepatic lesion, bilateral lobe, suspect infiltrative HCC or      |
+|cholangiocarcinoma Dilated left IHDs Abdominal LAP, portal       |
+|hepatitis MPV thrombosis Ascites, mild Atrophy of bilateral      |
+|kidney Comment : Note : Consult radiologist for PTCD(left IHDs)  |
+|first or ERCP if PTCD was not feasible. Contact GIF2曾 if any    |
+|problems. 檢查者: 曾邦豪住院醫師 /王秀伯主治醫師 國 立 臺 灣 大  |
+|學 醫 學 院 附 設 醫 院 National Taiwan University Hospital 心臟 |
+|超音波檢查報告 姓名: 王忠正, 檢查日期: 2015/06/08 10:44 上午     |
+|病歷號: 6164630 生日: 1960/09/29 (yyyy/M/d) 性別: Male 年齡: 54  |
+|yrs 檢查理由: Acute coronary syndrome Interpretation Summary     |
+|Asymmetric left ventricular hypertrophy with systolic anterior   |
+|motion of anterior mitral leaflet and moderate mitral            |
+|regurgitation.  The left atrium and right ventricle are dilated. |
+|The LV systolic function is normal.  There are regional wall     |
+|motion abnormalities as specified.  Tricuspid regurgitation,     |
+|moderate.  Pacing rhythm during measurement. MMode/2D            |
+|Measurements & Calculations RVDd: 2.7 cm IVSd: 2.2 cm LVIDd: 4.7 |
+|cm LVIDs: 2.6 cm LVPWd: 1.1 cm FS: 44.3 % EDV(Teich): 100.9 ml   |
+|ESV(Teich): 24.6 ml EF(Teich): 75.6 % Ao root diam: 2.9 cm ACS:  |
+|1.7 cm LA dimension: 4.9 cm LVAd ap4: 22.8 cm2 LVLd ap4: 7.0 cm  |
+|EDV(MOD-sp4): 59.8 ml EDV(sp4-el): 62.9 ml LVAs ap4: 10.5 cm2    |
+|LVLs ap4: 6.2 cm ESV(MOD-sp4): 14.8 ml ESV(sp4-el): 15.0 ml      |
+|EF(MOD-sp4): 75.3 % EF(sp4-el): 76.2 % SV(MOD-sp4): 45.1 ml      |
+|SV(sp4-el): 48.0 ml Doppler Measurements & Calculations MV E max |
+|vel: 136.8 cm/sec MV A max vel: 72.7 cm/sec MV E/A: 1.9 MV dec   |
+|time: 0.22 sec Ao V2 max: 274.8 cm/sec Ao max PG: 30.2 mmHg PA V2|
+|max: 110.4 cm/sec PA max PG: 4.9 mmHg PA acc slope: 1007 cm/sec2 |
+|PA acc time: 0.11 sec TR max vel: 270.9 cm/sec TR max PG: 29.3   |
+|mmHg E/E': 21.1 Intra-LV PG(apical): 1.1 mmHg Intra-LV PG(LVOT): |
+|65.0 mmHg Intra-LV PG(mid LV): 31.6 mmHg Pediatric Measurements &|
+|Calculations Lat Peak E' Vel: 8.4 cm/sec Med Peak E' Vel: 6.5    |
+|cm/sec Left Ventricle  Asymmetric left ventricular hypertrophy.  |
+|The LV systolic function is normal.  The increased velocity ratio|
+|of mitral flow to mitral annular in early filling indicates      |
+|elevated LV filling pressure.  There are regional wall motion    |
+|abnormalities as specified. Left Atrium  The left atrium is      |
+|dilated. Aortic Valve  Fibrocalcified degeneration,with          |
+|satisfactory opening. Mitral Valve  Myxomatous.  Systolic        |
+|anterior motion of the mitral valve.  Mitral regurgitation,      |
+|moderate. Right Heart  The right ventricle is dilated.  Normal   |
+|right atrial size.  Tricuspid regurgitation, moderate.  Pacemaker|
+|lead(s) in the right heart.                                      |
+|________________________________________ 林隆君 2015/06/08 07:29 |
+|下午 Ordering Physician: 林隆君 Performed By: 陳璟毓             |
+|影像報告(Imaging Report)                                         |
+|Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師:|
+|張晉誠 影像時間: 2015/06/08 11:54 (32001CYM) 發報告時間:         |
+|2015/06/08 14:04 status post placement of pacemaker. enlarged    |
+|heart shadow. patchy infiltration at the both lung fields.       |
+|P.T.C.D. 醫令: P.T.C.D. 報告醫師: 梁博欽 影像時間: 2015/06/08    |
+|12:21 (33026BZM) 發報告時間: 2015/06/08 18:38 PTCD was performed:|
+|1.Partial dislodgement of the 3rd PTCD from peripheral left IHD  |
+|to CBD. 2.PTCD was performed, via exchanging with a new 6Fr      |
+|pigtail catheter, from peripheral left IHD to distal CBD. 3.The  |
+|other two PTCD catheters were kept in position. 4.Please keep    |
+|external drainage of all the three PTCD pigtail catheters.       |
+|P.T.C.D. 醫令: P.T.C.D. 報告醫師: 梁博欽 影像時間: 2015/06/05    |
+|12:58 (33026BZM) 發報告時間: 2015/06/05 16:06 PTCD was performed:|
+|1.Hepatic hilar obstruction, with isolation and dilatation of    |
+|bil. IHDs. S/P PTCD x 2 from left and right IHD respectively to  |
+|CBD. 2.Limited drainage function of left PTCD, because the entry |
+|point is very close to hepatic hilum. 3.PTCD(3) was performed,   |
+|with a new 6Fr 35cm pigtail catheter, with entry point from      |
+|peripheral left IHD, with distal end in distal CBD. 4.Please keep|
+|external drainage of all the three pigtail catheters. 5.Revision |
+|of left PTCD is arranged on 2015/6/8. P.T.C.D. 醫令: P.T.C.D. 報 |
+|告醫師: 梁博欽 影像時間: 2015/06/04 17:22 (33026BZM) 發報告時間: |
+|2015/06/04 19:41 PTCD x 2 was performed: 1.Hepatic hilar         |
+|obstruction, with isolation and dilatation of bil. IHDs.         |
+|2.PTCD(1) with 6Fr pigtail catheter, from left IHD to CBD, mild  |
+|hemobilia was noted. 3.PTCD(2) with another 6Fr pigtail catheter,|
+|from right IHD to distal CBD. 4.Please keep external drainage of |
+|the both pigtail catheters. 5.Revision of left PTCD is arranged  |
+|on 2015/6/5. P.T.C.D. 醫令: P.T.C.D. 報告醫師: 梁博欽 影像時間:  |
+|2015/06/04 17:22 (33026BZM) 發報告時間: 2015/06/04 19:05 PTCD x 2|
+|was performed: 1.Hepatic hilar obstruction, with isolation and   |
+|dilatation of bil. IHDs. 2.PTCD(1) with 6Fr pigtail catheter,    |
+|from left IHD to CBD, mild hemobilia was noted. 3.PTCD(2) with   |
+|another 6Fr pigtail catheter, from right IHD to distal CBD.      |
+|4.Please keep external drainage of the both pigtail catheters.   |
+|5.Revision of left PTCD is arranged on 2015/6/5. CT With/Without |
+|Contrast-Pelvis 醫令: CT With/Without Contrast-Pelvis 報告醫師:  |
+|張晉誠 影像時間: 2015/06/04 14:00 (33072B5M) 發報告時間:         |
+|2015/06/04 16:34 CT of abdomen and pelvis without/with contrast  |
+|enhancement shows: > infiltrative lesions at the central liver,  |
+|with extensive thrombosis of bilateral and main PVs; dilatation  |
+|of bilateral IHDs; infiltrative HCC is considered. >             |
+|splenomegaly; engorged GV. > smaller size of both kidneys;       |
+|bilateral renal cysts. > left inguinal hernia with protrusion of |
+|the intraperitoneal fat into the sac. > unremarkable pancreas. > |
+|atherosclerosis with wall calcification at the aorta and major   |
+|arteries. > degenerative change of spine. CT With/Without        |
+|Contrast-Abdomen 醫令: CT With/Without Contrast-Abdomen 報告醫師:|
+|張晉誠 影像時間: 2015/06/04 14:00 (33072B3M) 發報告時間:         |
+|2015/06/04 16:34 CT of abdomen and pelvis without/with contrast  |
+|enhancement shows: > infiltrative lesions at the central liver,  |
+|with extensive thrombosis of bilateral and main PVs; dilatation  |
+|of bilateral IHDs; infiltrative HCC is considered. >             |
+|splenomegaly; engorged GV. > smaller size of both kidneys;       |
+|bilateral renal cysts. > left inguinal hernia with protrusion of |
+|the intraperitoneal fat into the sac. > unremarkable pancreas. > |
+|atherosclerosis with wall calcification at the aorta and major   |
+|arteries. > degenerative change of spine. Chest : PA View        |
+|(Standing) 醫令: Chest : PA View (Standing) 報告醫師: 葉建德     |
+|影像時間: 2015/06/03 13:37 (32001CXM) 發報告時間: 2015/06/03     |
+|14:03 normal heart size. no definite focal lung opacity.         |
+|placement of a cardiac pacemaker. Abdomen:KUB 醫令: Abdomen:KUB  |
+|報告醫師: 陳邦斌 影像時間: 2015/06/03 13:38 (32006C0M)           |
+|發報告時間: 2015/06/03 14:21 clear bilateral psoas shadows.      |
+|unremarkable small bowel gas pattern. no definite radiopaque     |
+|stones. atherosclerotic change of the abdominal aorta and its    |
+|bifurcation. dense vascular calcification(s). essential intact of|
+|bil. sacroiliac joints.                                          |
+|病理報告(Pathology Report)                                       |
+|Nil                                                              |
+|臆斷(Tentative Diagnosis)                                        |
+|1. Obstruction jaundice 2. Suspect infiltrative Hepatocellular   |
+|carcinoma or cholangiocarcinoma 3. Hepatitis B virus and         |
+|hepatitis C virus infection history with Cirrhosis of the liver  |
+|4. Lung infiltration                                             |
+|醫療需求與治療計畫(Medical Needs and Care Plan)                  |
+|S+O: GCS:E4V5M6, no fever Breath sound: Clear Breath patton:     |
+|smooth Abdominal: soft, mild pain and tendness 3 PTCD drainged   |
+|Bowel sound: hypoactive, try 低油飲食 Extremity: warm, no pitting|
+|edema <lab data> WBC Hb PLT Seg BUN Cr Na K 6/03 8.25 12.6 65    |
+|74.1 10.0 133 4.7 6/04 7.92 10.8 67 93.0 6/05 15.61 10.9 61 6/07 |
+|13.72 11.1 56 85.6 131 3.2 6/08 12.02 10.0 53 82.5 50.1 9.0 130  |
+|3.6 6/09 10.35 10.4 59 82.8 Lipase ALT AST D-Bil T-Bil GGT ALP   |
+|ALB 6/03 66 107 210 6.19 9.71 3.3 6/05 9.73 10.37 385 371 6/07 73|
+|5.16 8.03 279 6/08 44 5.34 8.03 pH PCO2 PO2 HCO3 BE PT PTT INR   |
+|6/03 7.349 41.9 38.2 23.3 -2.6 12.0 30.8 1.13 6/08 7.372 28.1    |
+|137.0 16.5 -9.0 14.2 38.0 1.34 6/09 7.383 31.7 92.5 19.1 -6.3    |
+|D-Dimer CRP LA NH3 Cl 6/03 71 6/05 3.96 1.51 49 6/08 8.16 1.55   |
+|101 6/04-B/C【－】 6/08-PTCD/C【Aeromonas caviae 1+】【Candida   |
+|albicans 2+】 <image> 6/03-KUB: clear bilateral psoas shadows.   |
+|unremarkable small bowel gas pattern. no definite radiopaque     |
+|stones. -CXR: Clear 6/04-Abd echo: 1.Cirrhosis of the liver      |
+|2.Hepatic lesion, bilateral lobe, suspect infiltrative HCC or    |
+|cholangiocarcinoma 3.Dilated left IHDs 4.Abdominal LAP, portal   |
+|hepatitis 5.MPV thrombosis 6.Ascites, mild 7.Atrophy of bilateral|
+|kidney -A~P CT: susp. infiltrative HCCs with extensive thrombosis|
+|of bilateral and main PVs; dilatation of bilateral IHDs. 6/05-CT |
+|guide PTCD: 1. Hepatic hilar obstruction, with isolation and     |
+|dilatation of bil. IHDs. S/P PTCD x 2 from left and right IHD    |
+|respectively to CBD. 2. Limited drainage function of left PTCD,  |
+|because the entry point is very close to hepatic hilum. 3.       |
+|PTCD(3) was performed, with a new 6Fr 35cm pigtail catheter, with|
+|entry point from peripheral left IHD, with distal end in distal  |
+|CBD. 4. Please keep external drainage of all the three pigtail   |
+|catheters. 6/08-PTCD revision: 1. Partial dislodgement of the 3rd|
+|PTCD from peripheral left IHD to CBD. 2. PTCD was performed, via |
+|exchanging with a new 6Fr pigtail catheter, from peripheral left |
+|IHD to distal CBD. 3. The other two PTCD catheters were kept in  |
+|position. 4. Please keep external drainage of all the three PTCD |
+|pigtail catheters. -CXR: patchy infiltration at the both lung    |
+|fields. 6/11-PTCD revision: 1.Kinking of right PTCD and decreased|
+|drainage amount of left PTCD. 2.PTCD(1) was performed, via       |
+|exchanging with a new 6FR 35cm pigtail catheter, from right IHD  |
+|to distal CBD. 3.PTCD(2) was performed, via exchanging with      |
+|another new 6FR 35cm pigtail catheter, from peripheral left IHD  |
+|to distal CBD. 4.The 3rd PTCD from central left IHD to distal CBD|
+|was kept in position. 5.Please keep external drainage of all the |
+|three PTCD pigtail catheters. A: 1. Obstruction jaundice 2.      |
+|Suspect infiltrative Hepatocellular carcinoma or                 |
+|cholangiocarcinoma 3. Hepatitis B virus and hepatitis C virus    |
+|infection history with Cirrhosis of the liver 4. Lung            |
+|infiltration P: 1. shift antibiotic to Mepem and Difflucan since |
+|6/11 2. Consult CV and GI Treatment Goal:well infection control  |
+|and body temperature below 38 ℃                                  |
+|出院規劃(Discharge Planning)                                     |
+|管路留置狀況:有 靜脈管路留置(含Hickman / Port-A)：無             |
+|雙腔導管留置：無 鼻胃管留置：無 氣管管路留置：無 胃造廔口：無 尿 |
+|管留置：無 膀胱造廔：無 傷口引流管：無 其他導管：left hand AV    |
+|shunt 日常生活功能分數：90 預期出院後居住場所：獨居 預期出院後主 |
+|要照顧者：自己 出院規劃收案篩檢：高危病患 獨居老人               |
+|主治醫師評論(VS Comments)                                        |
+|I agree with the assessment of the nurse practitioner.           |
+|醫師姓名                                                         |
+|林裕 主治醫師                                                   |
+

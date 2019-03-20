@@ -1,0 +1,133 @@
+
+[Active Problems]
+1. Influenza A pneumonia, complicated with acute respiratory distress
+syndrome s/p VA-ECMO insertion on 2015/5/13, shift to VV-ECMO on 2015/5/19,
+s/p tracheostomy on 5/20, s/p ECMO removal on 6/7
+2. Bacteremia, E. cloacae related
+3. UGI + LGI bleeding, complicated with hemorrhagic shock on 2015/5/13,
+stabilized
+
+[Inactive Problems]
+4. Congestive heart failure, NYHA II
+5. Valvular heart disease
+6. Right atrophic kidney with chronic pyelonephritis and hydronephrosis s/p
+right hand-assisted laparoscopic radical nephrectomy on 2013/1/30
+7. Gall stone with chronic cholecystitis s/p laparoscopic cholecystectomy
+on 2012/1/28
+8. L3-5 lumbar stenosis with ossification of ligmentum s/p laminectomy on
+2010/9/29.
+
+[SICU Treatment Course]
+After admission to SICU on 5/13 night, massive bloody stool was noted and
+emergent CTA showed ascending to transverse colon junction extravasation,
+so TAE was performed over SMA distal branch. However, another episode of
+massive bloody stool developed on 5/14 morning even though Pitressin used,
+so TAE was performed again. On 5/15 morning, another episode of bloody
+stool developed and TAE didn't find active bleeding area. After consulting
+with GI and GS specialist, we gave somatosan first.
+  Cardiac echo on 5/18 showed fair EF. We contacted GI man and they
+suggested colonoscope was not neccessary. Since there was no more bloody
+stool, we tried NG D5W with glutamine on 5/18 and milk on 5/19. We
+discontinued somatostatin. He had fair stool passage on 5/22 under
+prokinetics. We tried off ECMO gas flow on 5/18 but hypotention was noted.
+He had fever and we did septic workup. VA-ECMO was shifted to VV-ECMO and
+CVC was changed on 5/19. S/C yeild MDRAB and sphingomonas pauimobilis and
+we shifted abx to Cravit. Tracheostomy was done on 5/20. He had
+intermittent fever with chillness and we repeated culture. ECMO temporature
+was adjusted to 37.5C. We started heparin use on 5/22. He had fluctuated
+BP, so we adjusted sedation medication and gave volume support accordingly.
+  We added Solumedrol according to low procalcitonin level(0.2407) on 5/25.
+However, one episode of HR and BP drop with spontaneous recover. We added
+levophed and redo fever workup. We added Mepem for S/C MDRAB, pseudomonas
+and shift to Maxipime on 5/27 according to sensitivity. ECMO wound culture
+yielded pseudomonas and chillness with fever persisted, so we escalated to
+Collistin on 5/29 and added Gentamicin on 5/30. Now, still low grade fever
+noted. Tracheostomy wound oozing and coffee graound from NG developed on
+5/30 and transamine use + Bosmin inhalation accordingly.
+  We performed bedside electrocauterization for tracheostomy wound oozing.
+We tried to taper off VV-ECMO gas flow on 6/1, but his SpO2 level dropped
+down to below 90% when changing position. Thus we resumed VV-ECMO gas flow,
+and ECMO circuit was changed on 6/3 with heparin use due to much blood clot
+noted in the old circuit. We started to taper sedatives since 6/4, but
+patient agitated on 6/6 after Dormicum off. SBP up to 200mmHg was noted,
+and hematemesis and bloody stool were noted. As a result we discontinued
+heparin and added back Dormicum. We also added Petressin, Nexium,
+Somatosan, and Perdipine, and component therapy was administered. Oral
+medication was all discontinued.
+  VV-ECMO was removed on 6/7 after evaluating his lung function, and cryo
+with FFP were adminsitered. Bradycardia was noted, but recovered soon after
+discontinuing Somatostatin. Pitressin was discontinued after less GI
+bleeding, and enteral feeding was resumed step-by-step. Blood culture of
+6/8 sample reported GNB bacteremia on 6/10, so CVC was changed to left
+subclavian vein and ceftazidime was administered. Due to nephrotoxicity and
+increasing creatinine, gentamicin and colistin were changed to inhalation
+use. Sedation regimen were changed to lorazepam plus PRN haloperidol.
+Family meeting on 6/13 concluded that ECMO will not be used even if disease
+deteriorates in the future.
+
+[Abx Usage Record]
+Tamiflu 1# BID *5days
+Cravit 4/27-5/4 Tigecycline 5/4-5/12
+Isepamicin 5/4-5/7
+Diflucan 5/6-5/20 (S/C:Candida albicans) Fortum 5/7-5/12
+Sevatrim+Cefepime 5/12-5/14
+Tienem 5/14-5/19
+Targocid 5/14-6/8
+Rapamivir 5/16-5/24
+Cravit 5/19-5/27(5/14 S/C)
+Mepem 5/26-5/27(5/14,5/18 S/C MDRAB)
+Cefepime 5/27~5/29; 5/14,18 S/C and 5/25 S/C
+
+Diflucan 5/29~; 5/14 broncho cx
+Collistin 5/29~6/12; 6/1 S/C
+Colistin IH 6/12-;
+Gentamicin 5/30~6/10; 6/1 S/C
+Genta IH 6/11-;
+Ceftazidime 6/10~; 6/8 B/C
+
+[Culture data]
+5/14 Bronchoscopy culture: C.albicans, MIC to fluconazole: S
+5/14 S/C: MDRAB, Sphingomonas paucimobilis
+5/18 S/C: MDRAB
+5/21 S/C: No growth
+5/25 Influenza A+B PCR: Neg
+5/25 S/C: Pseudomonas
+5/26 ECMO w/c: Pseudomonas
+6/01 S/C: Pseudomonas
+6/04 S/C: Pseudomonas
+6/08 B/C: Enterobacter cloacae
+6/10 B/C: Enterobacter cloacae
+
+[Plan]
+1. Keep abx: Ceftazidime + IH gentamicin + IH colisitn + Fluconazole. Check
+sputum culture and blood culture regularly.
+2. Keep steroid: Predonine 1# BID (5mg/tab)
+3. Keep sedation: Lorazepam + Haloperidol PRN
+4. Keep ventilator support.
+
+[Current Medication]
+起日:05/13  袋 Saline (NK) inj 0.9% 500 mL/bag  72 mL  IA infusion  QD
+起日:05/20  (5g) 眼 Tetracycline Oph Oint 10 mg/1 g 1% 5 g/tube  1 XX  D
+Q8HPRN
+起日:05/20  Magnesium Sulfate inj 16 mEq/20 mL /amp  32 mEq  IF  PRN
+起日:05/24  小瓶 KCl in Water Inj 20 mEq/100 mL /btl (信東 1.49% KCl)  20
+mEq  IF(CVC)  PRN
+起日:05/26  袋 Saline (NK) inj 0.9% 500 mL/bag  72 mL  IA infusion  QD
+起日:06/04  Nincort Oral Gel 0.1% 6 g/tube  1 XX  OR  BID
+起日:06/09  25 Betaloc ZOK 25 mg/tab  1 tab  PO  BID
+起日:06/09  (管4) Ultracet tab /tab  1 tab  PO  Q6H
+起日:06/10  Norvasc 5 mg/tab  1 tab  PO  BID
+起日:06/10  針 Nexium for inj 40 mg/vial  40 mg  IV  Q12H
+起日:06/11  V-Genta inj 80 mg/2 mL /vial  80 mg  IH  Q8H
+起日:06/11  袋 Saline (NK) inj 0.9% 500 mL/bag  1000 mL  IF  PRN
+起日:06/12  (管4) Anxicam 2 mg/1 mL /amp  2 mg  cIF  QD
+起日:06/12  Primperan Inj 10 mg/2 mL /amp  10 mg  IV  Q12H
+起日:06/12  Tatumcef 500 mg/vial  2000 mg  IV  Q12H
+起日:06/12  Clinimix 1506 mL/bag (TPN)  1506 mL  cIF(CVC)  QD
+起日:06/12  Colimycin 66.8 mg/vial  66.8 mg  IH  Q8H
+起日:06/12  針 Haldol Inj 5 mg/1 mL /amp  5 mg  IV  Q4HPRN
+起日:06/13  針 Diflucan inj 100 mg/50 mL /vial  200 mg  IF  QD
+起日:06/14  MgO 250 mg/tab 限住院藥局用  1 tab  PO  QID
+起日:06/14  Sennapur 12.5 mg/tab  2 tab  PO  HS
+起日:06/14  Predonine 5 mg/tab  1 tab  PO  BID
+起日:06/14  Plasmanate 5% 250 mL/btl  250 mL  IF  Q8HPRN

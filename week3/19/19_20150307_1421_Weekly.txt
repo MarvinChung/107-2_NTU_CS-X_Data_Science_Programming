@@ -1,0 +1,105 @@
+
+Brief Summary of this week
+After admission (2/15), septic shock, ACKD and anuria mandated treatment
+with hydration, Levophed and CVVH. The blood pressure improved to 105/44 on
+2/16. ETT+MV and broad spectrum antibiotics (Cravit for PsA, ertapenem for
+ESBL, teicoplanin for sputum smear GPC in cluster 3+) were kept for
+suspected septic lung, pancreatitis and IAI. TPN was administered for
+pancreatitis and NPO. On 2/18, sputum yielded Stenotrophomonas maltophilia
+3+, no MRSA. On 2/19, teicoplanin was discontinued. CVVH was discontinued
+for improving hemodynamics. The urine output was still low (150mL per day)
+and SLED was kept. On 2/20, another episode of GTC developed. Phenytoin was
+loaded again. His respiratory condition improved gradually, so as the CXRs.
+On 2/24, follow-up CT showed still swelling of pancreas, marked ascites
+with suspected intraabdominal abscess formation. We kept medical treatment
+rather than drainage. He became agitated consistently as we tapered down
+sedatives. Consulted psychiatrist suggested to add flurazin first. On 2/25,
+HLA-B1502 reported positive. Thus phenytoin was switched to Keppra
+(Depakine may induce pancreatitis). He received NJ insertion for poor
+digestion. The ETT dislodged in the evening and was re-inserted. Due to
+poor consciousness and low tidal volume, the re-intubation risk was high.
+Nevertheless, after discussion with his son, we decided not to create
+tracheostomy this time. He tried SBT daily for preparation of extubation.
+On 2/27, he tolerated feeding 500mL per day via NJT. NSVT 10 seconds at the
+end of SLED occasionally. The K and Mg were borderline low. Supplement was
+given. BP drop was noted during SLED on 3/2, and it improved after 40ml 50%
+dextrose water injection. Since his condition was improving, and he did not
+revealed any shock sign depite of low blood pressure(SBP 80~100), we
+tapered his Levohped gradually and shifted to Midodrine use. He tolerated
+daily SBT well and we extubated on 3/5 smoothly. We consulted psychiatrist
+for his anti-schizophrenia agent and flurazin was tapered to 1# HS with
+adding Zaprexa 1# HS. His urine output increased much since 3/6.
+
+
+Assessment
+Ceftazidime(3/3-)
+
+Invanz (2/15-3/1) for IAI
+Cravit (2/15-2/21); Targocid (2/16-18)
+
+Conscious E4M6V5
+tolerated O2 mask 28% 5L -> SpO2 97-100%
+No nystagmus, right eye s/p cataract surgery, left side pupil 1.5mm
+Heart: RHB, Gr III/IV pansystolic murmurs over LUSB, LLSB and apex
+BS: bil. coarse, no wheezing
+Abdomen: distended, normoactive bowel sounds, soft, no tenderness
+                good digestion
+Extremities: Gr 1 edema
+
+2/16 (1) ABP 85/40 in AM s/p hydration and titration of Levophed, 105/44 in
+PM (Levophed 5mcg/min), (2) GTC 20 seconds s/p Anxicam, (3) Add teicoplanin
+for sputum smear GPC in clusters 3+
+2/17 Off Levophed, BP 110/50mmHg, still abdominal distension and tenderness
+2/18 S/C: Stenotrophomonas maltophilia 3+
+2/19 DC Targocid due to no evident MRSA infection and r/o Targocid related
+thrombocytopenia(PLT:92K(2/17)-->66K(2/18)-->47K(2/19))
+        Try Lasix for oliguria.  Try D5W feeding.
+        off CVVH
+2/20 GTC for 1min, poor conscious then; hypotension after phenytoin loading
+        Brain CT: no ICH, no mass lesion
+2/23 SLED 6hrs, UF 1.5kg
+        corrected phenytoin: 28.8mcg/mL -> taper dosage
+2/24 CT A+P: Pancreatitis with marked ascites formation or intraabdominal
+abscess formation
+2/25  Psychiatrist: add Flurazin (5) 1# bid, hold Zyprexa now due to
+anticholinergic effect may worsen delirium; CXR improved; HD UF 1.9
+         NJ insertion, fair tolerated to D5W feeding
+         irritable and ETT dislocation at 18:45, s/p re-intubation
+         HLA-B 1502(+), consult neuro: shift phenytoin to depakine
+2/26 Switched to Keppra (Depakine: pancreatitis), taper TPN (today
+500kCal), start NJ feeding;
+        S/C(2/24): Burkholderia cepacia complex 2+;
+        Oldest son: hope to try extubation; agreed with tracheostomy
+creation if extubation was failed.
+2/27 Tolerated feeding 500mL per day, transient hypotension during HD, HD
+UF 1.6kg, NSVT 10 seconds at the end of HD
+2/28 Tolerated feeding 普寧腎1275kcal/850ml
+3/1   no agitation after adding seroqeul and DC anxicam
+3/2   DC seroquel since less agitated
+3/3   taper levophed, add Midodrine 1# TID
+        titrate feeding to 1500Kcal/1000ml
+3/4   taper levophed, SBT smooth
+        consult psy: taper flurazin to 1# HS, add Zaprexa 1# HS
+        Family signed DNR 除藥不重插
+3/5   extubate with simple mask 10L 40%, tapering smoothly
+        No wheeze or stridor
+        off levophed and tapering solumedrol to 50mg-> ABP 85-100,
+tolerable
+3/6  tolerate simple mask with 28% 5L well, shift steroid to cortisol
+3/7  adequete urine output, prepare for transfer
+       remove his NJ by himeself; insert NG first, observe his digestion
+
+
+Plan
+1. Keep dialysis TIW for fluid overload and azotemia (set DW 52Kg)
+2. Keep NJ feeding to 普寧腎1500Kcal/1000ml
+3. Keep regular dose of midodrine
+    Reset SBP goal to 70~ 90 or MBP 50~60mmHg .
+4. Keep Ceftazidime for possible nosocomial infection. Pursue culture
+results. Consider re-on DLC if still low grade fever.
+5. The family (key person 大兒子) consented on 不電不壓, 要洗腎, 不重插
+6. Monitor his respiratory pattern.
+7. monitor his digestion status; if digestion is still poor, consider
+consult GI for another NJ insertion
+7. consider remove flurazin if stupor still
+8. if no electrolyte imbalance, consider transfer to general ward

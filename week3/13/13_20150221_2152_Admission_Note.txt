@@ -1,0 +1,228 @@
+
+2015/02/21 21:52 | |
+|主訴(Chief Complaint)                                            |
+|Informant:patient's wife and son Progressive exertional dyspnea  |
+|for 2 days                                                       |
+|病史(Brief History)                                              |
+|The patient is a 61-year-old man with hypertension and type 2    |
+|diabetes mellitus. He was in his usual state of health until 3   |
+|days ago, when he developed dyspnea on mild exertions (walking   |
+|short distances). Orthopnea and paroxysmal nocturnal dyspnea were|
+|also noted. No chest pain was found. No recent fever or cough was|
+|reported. Aggravation of dyspnea was noted since last night, thus|
+|he was taken to NTUH ER on 2015-02-21. At the ER, initial EKG    |
+|showed no specific ST-T changes. However, elevated cardiac       |
+|enzymes were noted (CK: 89U/L, CK-MB: 31U/L, TnI: 0.299ng/mL).   |
+|Mild elevation of enzymes were noted on follow-up. However, the  |
+|patient was found unarousable at ~14:00 this afternoon. Cardiac  |
+|arrest was noted on examination. Thus, cardiopulmonary           |
+|resuscitation was initiated. Return of spontaneous circulation   |
+|was achieved after 11 minutes. Post-ROSC EKG showed ST-segment   |
+|elevation in inferior leads, suspicious of ST-segment myocardial |
+|infarction. Thus, dual-antiplatet therapy was initiated and      |
+|Emergency coronary angiography on 2015-02-21 disclosed 3-vessel  |
+|disease, with total occlusion of proximal right coronary artery. |
+|Primary percutaneous coronary intervention with bare-metal stent |
+|to right coronary artery was performed smoothly. However,        |
+|consciousness did not improve after coronary intervention. He was|
+|admitted to 5CVI cardiology care unit for further care. Past     |
+|history: 1. Systemic diseases: - Hypertension, diagnosed for 30+ |
+|years, under good medical control - Type 2 diabetes mellitus,    |
+|diagnosed for 10+ years, under good medical control - Carotid    |
+|artery stenosis, diagnosed for 5 years, presented as tinnitus and|
+|dizziness, under oral aspirin for primary prophylaxis of stroke  |
+|2. Surgical history: - 2014-01-20 L4-L5 microdiskectomy - left   |
+|cataract surgery 5+ years ago 3. Allergies: none known 4. Current|
+|medication: - unknown antihypertensives - unknown antidiabetics -|
+|aspirin for primary prophylaxis of stroke 5. Habits: - Smoking: 1|
+|PPD for 20 years, quit 10 years ago - Alcohol: denied 6. Family  |
+|history: lives with wife in Zhonghe, hypertension (+), no family |
+|history of sudden cardiac death                                  |
+|社會心理相關評估(Psychosocial Assessment)                        |
+|Social Economic and Personal History 教育程度:小學 職業:退休     |
+|宗教信仰:佛教 婚姻狀態:已婚 使用語言:國語 台語 口述血型:O，RH:不 |
+|清楚，輸血反應:沒輸過血 抽煙:沒有，已戒煙:10年 喝酒:沒有 檳榔:沒 |
+|有 物質濫用:沒有 Psychological History and Evaluation            |
+|意識狀態:昏迷 認知功能:無法評估 精神情緒狀態:無法評估 安全問題:有|
+|傷害自己 睡眠形態:異常 其他 無法評估 Nutritional Screen 攝食情形:|
+|排便狀態:異常 排便異常狀態:無排氣 BMI:26.43 Fall Risk Assessment |
+|總分:18 (>=3分進行不倒翁計畫，請開預防跌倒醫囑)                  |
+|系統性回顧(Review of System)                                     |
+|General/Constitutional: Fever(-), weight change(-), general      |
+|weakness(-) Head/Neck: Headaches(-), dizziness(-), vertigo(-),   |
+|lightheadedness(-), injury(-) Vision(good), double vision(-),    |
+|strabismus(-), ocular pain(-) Otalgia(-), otorrhea(-), hearing   |
+|impairment(-), tinnitus(-) Epistaxis(-), congestion(-),          |
+|discharge(-) Caries(-), dentures(-), gum bleeding(-), sore       |
+|throat(-), oral ulcer(-) Neck stiffness(-), neck pain(-),        |
+|tenderness(-), masses(-) Cardiovascular: Chest tightness/pain(-),|
+|palpitations(-), syncope(-), dyspnea on exertion(+),             |
+|orthopnea(+), paroxysmal nocturnal dyspnea(+), edema(-),         |
+|cyanosis(-), claudication(-), varicosities(-) Respiratory: Chest |
+|pain(-), shortness of breath(+), cough(-), hemoptysis(-),        |
+|wheezing(-), night sweats(-) Gastrointestinal: Appetite(good),   |
+|dysphagia(-), abdominal pain(-), flatulence(-), heartburn(-),    |
+|nausea(-), vomiting(-), hematemesis(-), jaundice(-),             |
+|constipation(-), diarrhea(-), stools [normal], recent changes in |
+|bowel habits(-) Genitourinary: Flank pain(-), hematuria(-),      |
+|urgency(-), frequency(-), dysuria(-), nocturia(-), polyuria(-),  |
+|oliguria(-), retention(-), incontinence(-) Hematologic/Endocrine |
+|Bleeding tendency(-), previous transfusions and reactions(-),    |
+|lymph node enlargement or tenderness(-) Thirsty(-),              |
+|polydipsia(-), polyuria(-), hormone therapy(-), growth and       |
+|development(normal) Goiter(-), Intolerance to heat or cold(-)    |
+|Musculoskeletal/Nervous: Pain(-), swelling(-), redness or heat of|
+|muscles or joints(-), limitation of motion(-), muscular          |
+|weakness(-), atrophy(-), cramps(-) Numbness(-), paresis/plegia(-)|
+|Skin/Breast: Rash(-), itching(-), pigmentation(-), changes in    |
+|hair growth or loss(-), nail changes(-) Breast lumps(-),         |
+|tenderness(-), swelling(-), nipple discharge(-)                  |
+|身體檢查(Physical Examination)                                   |
+|BH:155 cm BW:63.5 kg T:35.6 P:102 R:27 BP:142/79 mmHg Pain:0     |
+|Neurological Examination: . Consciousness: . Muscle power: .     |
+|Gait: Consciousness: clear and oriented Muscle power: intact     |
+|Gait: normal Head-Eye-ENT Conjunctiva: not pale, sclera:         |
+|anicteric Neck Jugular vein engorgement(-), thyroid goiter(-),   |
+|meningismus: Kernig sign(-), Brudzinski sign(-), carotid         |
+|bruit(-); nasal bleeding (+) Chest Vocal fremitus and expansion: |
+|symmetric, percussion: resonant Crackles(-), wheezes(-),         |
+|rhonchi(-), stridor(-) Heart Point of maximal impulse: left      |
+|MCL/5th intercostal space, LV lift(-), RV heave(-) Increased     |
+|cardiac size by percussion(-), heart beat: regular, adventitious |
+|sounds(-), murmurs(-) Abdomen Flat & soft, Bowel sound:          |
+|normoactive, tenderness(-), rebound tenderness(-), psoas sign(-),|
+|obturator sign(-) Liver and spleen: impalpable, shifting         |
+|dullness(-), hepatojugular reflux(-) Skin Wound(-),              |
+|hyperpigmentation(-), petechiae(-), purpura(-), ecchymosis(-),   |
+|telangiectasia(-), rash(-) Lymphadenopathy(-)                    |
+|檢驗紀錄(Laboratory Report)                                      |
+|*********檢驗室:RL*********** 群組:Biochemistry Ammonia N P      |
+|LacticAcid CK CK-MB time/item (μmol/L) (mg/dL) (mmol/L) (U/L)    |
+|(U/L) 1040221 [1757] 42 5.7 20.22 344 131 %CKMB Troponin I       |
+|time/item (%) (ng/mL) 1040221 [1757] 38.1 58.7 群組:General      |
+|BioChemistry ALB time/item (g/dL) 1040221 [1757] 3.2 群組:Yes    |
+|Fibrinogen time/item (mg/dL) 1040221 [1800] 230.2                |
+|*********檢驗室:BC*********** 群組:General BioChemistry TP       |
+|time/item (g/dL) 1040221 [1757] 5.3 *********檢驗室:YM***********|
+|群組: Free Ca(急重症自 Hb(急重症自行檢驗) Hct(急重症自行檢驗)    |
+|K+(急重症自行檢驗) Na(急重症自行檢驗) 行檢驗) time/item (mmol/L) |
+|(g/dL) (%) (mmol/L) (mmol/L) 1040221 [1747] 1.14 14.2 43 3.64    |
+|145.2 Suger(急重症自行檢 LacticAcid(急 驗) 重症自行檢驗)         |
+|time/item (mg/dL) (mmol/L) 1040221 [1747] 323 16.4 群組:Yes pH   |
+|pCO2 pO2 HCO3 BaseExcess time/item () (mmHg) (mmHg) (mmol/L)     |
+|(mmol/L) 1040221 [1747] 7.357 27.5 60.1 15.5 -10.2 SO2 time/item |
+|(%) 1040221 [1747] 90.1 *********檢驗室:RL*********** 群組:Yes   |
+|D-Dimer pro-BNP time/item (μg/mL FEU) (pg/mL) 1040221 [0730] 2.83|
+|7740 群組:Blood pH/Gas PH PCO2 PO2 HCO3 BaseExcess time/item (*) |
+|(mmHg) (mmHg) (mmol/L) (mmol/L) 1040221 [0730] 7.374 28.7 41.9   |
+|16.9 -8.6 群組:Biochemistry BUN CRE Na K T-BIL time/item (mg/dL) |
+|(mg/dL) (mmol/L) (mmol/L) (mg/dL) 1040221 [0730] 1.9 135 6.2     |
+|1040221 [0919] 2.0 8.5 1040221 [1039] 5.0 1040221 [1040] 1040221 |
+|[1042] 1040221 [1112] 47.0 1040221 [1358] 1040221 [1532] 52.5 2.6|
+|152 3.7 1.52 Ca Mg AST LacticAcid CK time/item (mmol/L) (mmol/L) |
+|(U/L) (mmol/L) (U/L) 1040221 [0730] 89 1040221 [0919] 1040221    |
+|[1039] 1040221 [1040] 87 1040221 [1042] 11.82 1040221 [1112]     |
+|1040221 [1358] 16.05 114 1040221 [1532] 2.13 1.27 521 20.65 122  |
+|CK-MB %CKMB Troponin I time/item (U/L) (%) (ng/mL) 1040221 [0730]|
+|31 34.8 0.299 1040221 [0919] 1040221 [1039] 1040221 [1040] 29    |
+|33.3 0.335 1040221 [1042] 1040221 [1112] 1040221 [1358] 48 42.1  |
+|0.827 1040221 [1532] 55 45.1 4.60 群組:General BioChemistry TP   |
+|ALT LDH time/item (g/dL) (U/L) (U/L) 1040221 [0730] 30 1040221   |
+|[1037] <3.0 66 1040221 [1532] 342 群組:WBC Classification Blast  |
+|Promyl. Myelo. Meta Band time/item (%) (%) (%) (%) (%) 1040221   |
+|[0730] 0.0 0.0 0.0 0.0 0.0 1040221 [1532] 0.0 0.0 0.0 0.0 0.0 Seg|
+|Eos. Baso. Mono. Lym. time/item (%) (%) (%) (%) (%) 1040221      |
+|[0730] 76.4 0.3 0.2 5.2 17.9 1040221 [1532] 91.1 0.1 0.1 2.9 5.8 |
+|Aty.Lym. PlasmaCell Normobl. PS time/item (%) (%) () () 1040221  |
+|[0730] 0.0 0.0 0 - 1040221 [1532] 0.0 0.0 0 - 群組:CBC+PLT WBC   |
+|RBC HB HCT MCV time/item (K/μL) (M/μL) (g/dL) (%) (fL) 1040221   |
+|[0730] 11.14 5.09 15.6 45.9 90.2 1040221 [1532] 12.05 4.14 12.4  |
+|38.3 92.5 MCH MCHC PLT RDW-CV PS time/item (pg) (g/dL) (K/μL) (%)|
+|() 1040221 [0730] 30.6 34.0 285 13.5 - 1040221 [1532] 30.0 32.4  |
+|178 13.8 - 群組:Coagulation PT PTT PT INR time/item (sec) (sec)  |
+|() 1040221 [1532] 16.8 27.1 1.57 群組:Punctate Exam. Sp. gr.     |
+|Rivalta's Te Total nuclea RBC count Sediment st r cell count     |
+|(TNC) time/item (*) (*) (/μL) (/μL) (*) 1040221 [1037] 1.019 +   |
+|900 <20000 L:N:M&H=50:1 0:40 *********檢驗室:YM*********** 群組: |
+|Free Ca(急重症自 Hb(急重症自行檢驗) Hct(急重症自行檢驗)          |
+|K+(急重症自行檢驗) Na(急重症自行檢驗) 行檢驗) time/item (mmol/L) |
+|(g/dL) (%) (mmol/L) (mmol/L) 1040221 [0920] 1.12 16.4 49 7.25    |
+|135.8 1040221 [1032] 1.21 15.6 47 4.88 139.5 1040221 [1354] 1.25 |
+|16.5 50 5.17 145.3 1040221 [1426] 1.13 14.7 44 5.23 139.5 1040221|
+|[1439] 1.14 16.1 48 6.33 140.4 1040221 [1522] 1.13 12.5 37 4.14  |
+|144.4 Suger(急重症自行檢 LacticAcid(急 驗) 重症自行檢驗)         |
+|time/item (mg/dL) (mmol/L) 1040221 [0920] 348 7.3 1040221 [1032] |
+|329 12.4 1040221 [1354] 268 16.9 1040221 [1426] 276 15.7 1040221 |
+|[1439] 282 16.6 1040221 [1522] 331 群組:Yes pH pCO2 pO2 HCO3     |
+|BaseExcess time/item () (mmHg) (mmHg) (mmol/L) (mmol/L) 1040221  |
+|[0920] 7.296 33.9 43.3 16.7 -10.1 1040221 [1032] 7.322 38.0 47.1 |
+|19.9 -6.5 1040221 [1354] 7.212 42.9 52.3 17.4 -10.7 1040221      |
+|[1426] 7.292 38.1 76.3 18.6 -8.3 1040221 [1439] 7.181 55.4 33.4  |
+|20.9 -7.7 1040221 [1522] 7.263 55.1 65.1 25.1 -2.2 SO2 time/item |
+|(%) 1040221 [0920] 74.4 1040221 [1032] 79.6 1040221 [1354] 79.1  |
+|1040221 [1426] 93.5 1040221 [1439] 49.2 1040221 [1522] 88.7      |
+|*********檢驗室:PO*********** 群組: Sugar(One to uch) time/item  |
+|(*) 1040221 [0923] 315 1040221 [1040] 281 1040221 [1434] 244     |
+|1040221 [1617] 270 *********檢驗室:BK*********** 群組:Yes        |
+|antibody scr een(New Lis) time/item (*) 1040221 [1618] Negative  |
+|群組:Blood Type ABO Typing RH Typing time/item (*) (*) 1040221   |
+|[1618] O Positive *********檢驗室:BC*********** 群組:DM GLU AC   |
+|time/item (mg/dL) 1040221 [1037] 350                             |
+|檢查紀錄(Examination Report)                                     |
+|2015-02-21 coronary angiography left main: distal 40% LAD: ostium|
+|50%, mid 90%, distal 80%, collaterals with PDA LCx: OM1 diffuse  |
+|70%, OM2 80%, distal proper diffuse 90% RCA: proximal total      |
+|occlusion a bare-metal stent (Abbott Multi-Link 9LL 3.0 x 38mm)  |
+|was placed at right coronary artery                              |
+|影像報告(Imaging Report)                                         |
+|Chest : PA View (Standing) 醫令: Chest : PA View (Standing) 報告 |
+|醫師: 柯維鈞 影像時間: 2015/02/21 07:33 (32001CXM) 發報告時間:   |
+|2015/02/21 13:41 cardiomegaly. calcification of aorta.           |
+|consolidation at both lower lung fields. obscured bilateral      |
+|costophrenic angles. degenerative change of the T and L spine.   |
+|Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師:|
+|柯維鈞 影像時間: 2015/02/21 10:38 (32001CYM) 發報告時間:         |
+|2015/02/21 12:21 cardiomegaly. calcification of aorta. hazy      |
+|opacities at both lungs, more at both lower lung fields.         |
+|degenerative change of the T and L spine.                        |
+|病理報告(Pathology Report)                                       |
+|Nil                                                              |
+|臆斷(Tentative Diagnosis)                                        |
+|1. Coronary artery disease, 3-vessel disease, with ST-segment    |
+|elevation myocardial infartion, Killip class IV, with in-hospital|
+|cardiac arrest, status post cardiopulmonary resuscitation (11    |
+|minutes), with return of spontaneous circulation, status post    |
+|primary percutaneous coronary intervention with stent to right   |
+|coronary artery 2. Upper gastointestinal bleeding 3. Hypertension|
+|4. Type 2 diabetes mellitus 5. Internal carotid artery stenosis  |
+|(laterality unknown)                                             |
+|醫療需求與治療計畫(Medical Needs and Care Plan)                  |
+|1. Consciousness E1VtM4 after ROSC => Hypothermia is indicated   |
+|for impaired consciousness following cardiac arrest => However,  |
+|patient's condition is complicated by active GI bleeding Rx: 1.  |
+|Proceed with hypothermia 2. Monitor Hb, GI bleeding 2. Post-MI   |
+|care => status post primary PCI to RCA Rx: 1. Continue DAPT and  |
+|48-hour heparinization 2. Informed family of risk of recurrence  |
+|of cardiac arrest, may be complicated with fatal arrhythmias 3.  |
+|Dopamine for cardiac support, taper if BP stable 4. Check HbA1c  |
+|and lipid profile, prescribe statins if indicated 3. Lactic      |
+|acidosis => CVP: 16mmHg => Lactic acidosis most likely due to    |
+|hypoperfusion due to cardiogenic shock, but acidosis may         |
+|contribute to cardiac arrest Rx: 1. CVVH for acidosis and        |
+|unstable hemodynamics 2. Follow-up blood gas 4. GI bleeding =>   |
+|Bleeding from mouth, nose, and endotracheal tube were noted after|
+|ROSC => Mild INR prolongation: 1.57; elevated D-Dimer => Bleeding|
+|may be due to uremia, DIC Rx: 1. Correct correctable factors 2.  |
+|Blood component therapy if indicated Treatment Goal: recovery of |
+|consciousness                                                    |
+|出院規劃(Discharge Planning)                                     |
+|管路留置狀況:有 靜脈管路留置(含Hickman / Port-A)：無             |
+|雙腔導管留置：有 左腹股溝 鼻胃管留置：有 16Fr. 氣管管路留置：有  |
+|氣管內管 7.5mm 胃造廔口：無 尿管留置：無 膀胱造廔：無 傷口引流管 |
+|：無 其他導管： 日常生活功能分數：0 預期出院後居住場所：與家人同 |
+|住 預期出院後主要照顧者：配偶 出院規劃收案篩檢：高危病患         |
+|主治醫師評論(VS Comments)                                        |
+|I agree with the assessment of the resident.                     |
+|醫師姓名                                                         |
+|張博淵 主治醫師                                                  |
+

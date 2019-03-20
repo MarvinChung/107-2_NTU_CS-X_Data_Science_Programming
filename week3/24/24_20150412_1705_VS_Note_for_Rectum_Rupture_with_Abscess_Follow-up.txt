@@ -1,0 +1,55 @@
+
+Event: The patient was found rectum rupture with abscess s/p CT-guided
+drainage since 4/07. She was kept NPO and TPN support since then. The
+radiologist Dr.劉高郎 would like to change a bigger tube to drain the
+abscess (stool-like material) scheduled on 4/13(W1).
+O:
+2015/04/07 19:05 BP:130/72
+2015/04/07 21:01 Pain score:0
+Chest: Bilateral coarse BS. Already drainage of right pleural effusion
+about 500ml.
+Heart: IRIRHB.
+Abdomen: pigtail drainage of stool-like material.
+Ext: Cold extremities
+[Lab]
+2015/04/11
+ID+DS Common #1:Enterococcus faecium 2+ *
+ID+DS Common #3:Gram pos. bacillus 1+ *
+ID+DS Common #1:No aerobic pathogen *
+2015/04/10
+ID+DS Blood.#1:No growth after 5 days *
+ID+DS Blood.#1:No growth after 5 days *
+2015/04/09
+Alb:2.3 g/dL ALT:8 U/L T-BIL:0.70 mg/dL
+CRE:0.5 mg/dL Na:145 mmol/L K:3.0 mmol/L
+Ca:1.89 mmol/L P:2.2 mg/dL
+2015/04/07
+SCC:3.2 ng/mL CA-125:157.4 U/mL CA 15-3:10.6 U/mL
+VRE screening:Enterococcus faecium 3+
+2015/04/06
+RIA:CA 19-9:31.5 U/mL RIA:CEA (Serum):2.97 ng/ml
+
+Impression:
+1.Rectum diverticulitis with rupture and abscess s/p TPN and pigtail
+drainage
+2.High CA-125 and SCC level,suspect GI tract or gynecological cancer
+3.Suspect pneumonia with massive parapneumonic effusion, right s/p pigtail
+drainage since 4/07
+4.Chronic respiratory failure s/p tracheostomy + ventilator
+5.Hypertension
+6.Suspect Parkinsonism
+
+Plans:
+1.Keep on CVP care and TPN support.
+2.May contact with radiologist Dr.劉高郎 to change a bigger tube to drain
+the abscess scheduled on 4/13.
+3.Keep on NPO and give IV medications as needed.
+4.Keep on Transamin 1 amp ivp q8h.
+5.Keep on Abx with Mepem + Vancomycin as needed. May consult ID for Abx
+adjustement to cover MDRKP and VRE on 4/13.
+6.Seizure control with IV Anxecam + Keppra
+7.DNR同意書(除呼吸器與藥物外). Inform grave
+prognosis.病人兒子希望能夠再多做一點什麼,媽媽能活著對他很重要。病人的媳婦勸他
+的先生要站在媽媽的角度來想事情,不要讓媽媽受太多苦!
+8.7D整合醫療照護團隊會盡力照顧母親,讓她可以好好過這段時光,也會以緩和醫療的方
+式來協助母親舒適照護!

@@ -1,0 +1,26 @@
+
+# HCC s/p OP, PMCT,TACE, recurrent
+# HBV-related liver cirrhosis (e-) on cash ETV
+# CKD stage 3B
+# HTN
+# Af with RVR
+# Susp. colon microperforation
+
+pre-RFA TAE was done on 2015-01-12
+CT-guided RFA was done on 2015-01-14
+
+2015/01/20 14:17 Pain score:0
+2015/01/20 17:00 T:36.5 P:82 R:29
+2015/01/20 17:00 BP:155/78
+2015/01/20 17:03 SpO2:94%(？000 00003L,)
+
+2015/01/20
+ID+DS Urine #1:Gram pos. coccus 9000 /ml
+ID+DS Urine #2:Gram pos. coccus 5000 /ml
+ID+DS Urine #3:Gram pos. bacillus >100,000 /ml
+
+A: His condition improves slightly. But peritoneal sign is still noted.
+
+P:
+1. continue antibiotics and NPO
+2. keep close monitoring

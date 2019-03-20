@@ -1,0 +1,10 @@
+
+Event: EKG showed standstilled. No spontaneous respiration was noted at
+15:18 on 2015/04/26
+
+The patient eventually expired at 15:18 on 2015/04/26.
+
+Cause of death:
+1.甲.大腸憩室炎併腹內膿瘍及敗血性休克 兩週
+  乙.大腸憩室炎併腹內膿瘍             約三個月
+2.呼吸衰竭？呼吸器使用                約五年

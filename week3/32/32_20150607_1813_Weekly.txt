@@ -1,0 +1,86 @@
+
+Brief Summary of this week
+After the operation, the patient was transfered to 4A2 on 2015-05-28. His
+vital signs was stable, SpO2:100% (SIMV+PS, FiO2 30%), E3VTM5, pupil
+size:3.5/3.0 mm, light reflex:+/+ along the post-op follow-up course.
+Nystagmus(+), bilateral toward right was noted, stationary to preoperative
+status. Muscle power: Upper limbs:2, lower limbs:1, symmetric. We shifted
+the antibiotic from Unasyn to Tatumcef due to sputum culture positive of
+Serratia marcescens and sustained increased WBC count( WBC (06/01-06/07):
+11.88->12.58->17.9->22.45->18.59->15.01 K/μL). Brain CT on 06/01 showed
+multiple hemorrhagic metastases and hydrocephalus with mild
+hematoventricle. He underwent Ommaya reservoir insertion on 06/02. However,
+we failed to perform ommaya tapping on 06/03 and brain CT on 06/03 showed
+1. Op. chnage in the left cerebellum with encephalomalacia.
+2. Mutlipe, rim lesion with edema and high density in bilateral cerebrum.
+3. Evidence of drainage on right frontal
+We assumed that the Ommaya tube was out of place so we performed Ommaya
+revision on 06/03. CSF 10ml from Ommaya BID was ordered since 06/04. CSF
+study revealed high glucose level (212 mg/dL) and negative for malignant
+cells (2015/05/31). One touch glucose examinations were >200 in the serial
+follow-up since 06/05. U/A on 06/06 showed glucose 4+ and negative of WBC.
+Elevated ammonia was noted since 06/04 (Ammonia(06/04-06/07) : 45->58->44-
+>41 (μmol/L)) and lactulose was added for control. Due to sustained
+increased WBC count, we shifted Abx to cefepime for better coverage.
+Decreasing platelet count was noted since 06/01 (Plt: 81 -> 71 -> 59 -> 62
+-> 50 -> 40 K/μL), however cause was unknown.
+
+
+Assessment
+<Image>
+05/28 Brain CT
+ -Multiple brain metastases.
+ -Hemorrhage in fourth ventricle with hydrocephalus.
+6/1 Brain CT
+  -Post-operative change of posterior fossa
+  -Multiple hemorrhagic metastases
+  -Hydrocephalus with mild hematoventricle
+6/3 Brain CT
+  -Op. change multipel brain lesions
+  -evidence of drainage on right frontal
+  -Op. chnage in the left cerebellum with encephalomalacia
+
+<Lab>
+[Blood]
+PLT (06/01-06/07): 81 -> 71 -> 59 -> 62 -> 50 -> 40 K/μL
+Ammonia (06/04-06/07): 45 -> 58 -> 44 -> 41 μmol/L
+WBC (06/01-06/07): 11.88 -> 12.58 -> 17.90 -> 22.45 -> 18.59 -> 15.01 K/μL
+
+[U/A]:
+2015/06/06
+O.B.(C):3+ mg/dL
+Sp. Gr.(C):1.018
+pH:6.5
+Protein(C):70 ( 1+ ) mg/dL
+Glu.(C):>1000 ( 4+ ) mg/dL
+Ketone body (U):-
+Urobil.(C):≦1.5 mg/dL
+Bil.(C):- mg/dL
+Nitrite(C):-
+WBC esterase (U):-
+
+RBC (S):10-20 /HPF
+WBC (S):0-2 /HPF
+Epith (S):0-2 /HPF
+Cast (S):- /LPF
+Crystal (S):-
+Bacteria:-
+Mucus(S):-
+
+[CSF]:
+2015/05/31 Negative for malignant cells
+2015/05/31 Few PMNs ( <10 /LPF ) , No bacteria visible
+2015/06/04 No aerobic pathogen
+2015/06/04 TP(CSF) 64.8 mg/dL
+2015/06/04 GLU: 212 mg/dL
+2015/06/05 GLU: 245 mg/dL
+
+
+Plan
+1. Keep trying weaning program.
+2. Change abx to Cefepime (for better infection coverage)
+3. Follow up: elevated liver enzyme (QOD-Q3D).
+4. Keep SBP<160mmHg
+5. Keep Lactulose for elevated ammonia.
+6. CSF 10ml from Ommaya BID
+7. RI 6U TIDACE + NPH 6U HS for hyperglycemia. Titrate as necessary.
