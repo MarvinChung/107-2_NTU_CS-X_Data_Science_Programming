@@ -15,3 +15,4 @@ https://github.com/MiccWan/Political-News-Analysis
    - Pruning the dataset from doc to txt. 
    - Pruning all the big-5 format to utf-8.
    - Remove all space from the file name and rename them to normal format.
+2. push the utf8 format with txt file extension datas 
