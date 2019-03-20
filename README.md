@@ -8,3 +8,7 @@ by forking from
 https://github.com/MiccWan/Political-News-Analysis
 
 2. Adding new features by using jieba POS tagging for getting more precise people name.
+#week2
+1. Looking for dataset
+#week3 
+1. Pruning the dataset from doc to txt and rename them to normal format.
