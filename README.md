@@ -16,3 +16,6 @@ https://github.com/MiccWan/Political-News-Analysis
    - Pruning all the big-5 format to utf-8.
    - Remove all space from the file name and rename them to normal format.
 2. push the utf8 format with txt file extension datas 
+# week4
+1. Modify preprocessor.ipynb code
+2. Add a crawler to get medicines
