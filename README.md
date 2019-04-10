@@ -24,3 +24,4 @@ https://github.com/MiccWan/Political-News-Analysis
 2. Find the life span of each patients.
 3. Plot id and lifespan.
 4. Adding medicine relation figures.
+5. Create a dictionary mapping for medicine abbrev. to full name.
