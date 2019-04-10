@@ -19,3 +19,7 @@ https://github.com/MiccWan/Political-News-Analysis
 # week4
 1. Modify preprocessor.ipynb code.
 2. Add a crawler to get medicines.
+# week5
+1. Add a dictionary for medicines int week3.
+2. Find the life span of each patients.
+3. Plot id and lifespan.
