@@ -28,4 +28,4 @@ https://github.com/MiccWan/Political-News-Analysis
 
 # week8
 1. Learning Deep Learning
-2. Prepare new datas
+2. Preparing new datas
