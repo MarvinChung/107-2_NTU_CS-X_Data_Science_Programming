@@ -25,3 +25,7 @@ https://github.com/MiccWan/Political-News-Analysis
 3. Plot id and lifespan.
 4. Adding medicine relation figures.
 5. Create a dictionary mapping for medicine abbrev. to full name.
+
+# week9
+1. Learning Deep Learning
+2. Prepare new datas
