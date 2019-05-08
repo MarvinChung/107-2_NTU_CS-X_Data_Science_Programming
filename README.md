@@ -26,6 +26,12 @@ https://github.com/MiccWan/Political-News-Analysis
 4. Adding medicine relation figures.
 5. Create a dictionary mapping for medicine abbrev. to full name.
 
-# week8
+# week8_week9_week10_week11
 1. Learning Deep Learning
 2. Preparing new datas
+3. Learn work2vec
+4. Modify code in week4, week5_6_7
+5. Add Relation.ipynb
+   - Use word2vec to train all datas of patients in week4.
+   - Assume medicine should have strong relation to the disease of patients.
+   - The result shows that most people in Hospice have disease in White blood cell, Red blood cell and eye.
